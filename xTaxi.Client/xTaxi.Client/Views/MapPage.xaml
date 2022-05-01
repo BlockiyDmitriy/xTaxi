@@ -4,6 +4,7 @@
              xmlns:controls="clr-namespace:xTaxi.Client.Controls" 
              xmlns:viewModels="clr-namespace:xTaxi.Client.ViewModels"
              xmlns:local="clr-namespace:xTaxi.Client.Views"
+             xmlns:helpers="clr-namespace:xTaxi.Client.Helpers"
              x:Class="xTaxi.Client.Views.MapPage">
     <ContentPage.BindingContext>
         <viewModels:MapPageViewModel/>

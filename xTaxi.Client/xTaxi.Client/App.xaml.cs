@@ -1,6 +1,6 @@
-﻿using System;
-using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
+﻿using Xamarin.Forms;
+using xTaxi.Client.Services;
+using xTaxi.Client.Views;
 
 namespace xTaxi.Client
 {
@@ -9,8 +9,8 @@ namespace xTaxi.Client
         public App()
         {
             InitializeComponent();
-
-            MainPage = new MainPage();
+            GoogleMapsApiService.Initialize(Constants.Constants.GoogleMapsApiKey);
+            MainPage = new CustomMasterDetailPage();
         }
 
         protected override void OnStart()
