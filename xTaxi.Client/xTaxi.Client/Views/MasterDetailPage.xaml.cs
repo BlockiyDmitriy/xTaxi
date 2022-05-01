@@ -2,7 +2,8 @@
 
 namespace xTaxi.Client.Views
 {
-    public partial class CustomMasterDetailPage : Xamarin.Forms.MasterDetailPage
+    [System.Obsolete]
+    public partial class CustomMasterDetailPage : MasterDetailPage
     {
         public static CustomMasterDetailPage Current { get; set; }
 
