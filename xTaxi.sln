@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xTaxi.Client.Android", "xTa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xTaxi.Client.iOS", "xTaxi.Client\xTaxi.Client.iOS\xTaxi.Client.iOS.csproj", "{42A26804-1241-468A-8E7E-DEB2F8AF58C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xTaxi.Client", "xTaxi.Client\xTaxi.Client\xTaxi.Client.csproj", "{8D1E2615-70C8-4B45-B486-71077C8CBB5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xTaxi.Client", "xTaxi.Client\xTaxi.Client\xTaxi.Client.csproj", "{8D1E2615-70C8-4B45-B486-71077C8CBB5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
