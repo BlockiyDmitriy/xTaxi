@@ -231,7 +231,7 @@ namespace xTaxi.Client.ViewModels
                     GetLocationNameCommand.Execute(new Position(location.Latitude, location.Longitude));
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
                 await UserDialogs.Instance.AlertAsync("Error", "Unable to get actual location", "Ok");
             }
