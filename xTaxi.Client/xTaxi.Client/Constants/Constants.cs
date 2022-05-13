@@ -6,6 +6,6 @@ namespace xTaxi.Client.Constants
 {
     public static class Constants
     {
-        public const string GoogleMapsApiKey = "AIzaSyC4RHyOfC2__hVFr9BWlIN0Zy5pRj42P8A";
+        public const string GoogleMapsApiKey = "AIzaSyAHj3-k5ZJSX3ZWOwUgpACDEqBSXe9oInQ";
     }
 }

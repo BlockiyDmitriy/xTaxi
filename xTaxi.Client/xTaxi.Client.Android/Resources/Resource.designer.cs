@@ -2833,6 +2833,228 @@ namespace xTaxi.Client.Droid
 			global::PanCardView.Droid.Resource.Styleable.ViewStubCompat_android_id = global::xTaxi.Client.Droid.Resource.Styleable.ViewStubCompat_android_id;
 			global::PanCardView.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId = global::xTaxi.Client.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
 			global::PanCardView.Droid.Resource.Styleable.ViewStubCompat_android_layout = global::xTaxi.Client.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Plugin.Permissions.Resource.Attribute.alpha = global::xTaxi.Client.Droid.Resource.Attribute.alpha;
+			global::Plugin.Permissions.Resource.Attribute.coordinatorLayoutStyle = global::xTaxi.Client.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::Plugin.Permissions.Resource.Attribute.font = global::xTaxi.Client.Droid.Resource.Attribute.font;
+			global::Plugin.Permissions.Resource.Attribute.fontProviderAuthority = global::xTaxi.Client.Droid.Resource.Attribute.fontProviderAuthority;
+			global::Plugin.Permissions.Resource.Attribute.fontProviderCerts = global::xTaxi.Client.Droid.Resource.Attribute.fontProviderCerts;
+			global::Plugin.Permissions.Resource.Attribute.fontProviderFetchStrategy = global::xTaxi.Client.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::Plugin.Permissions.Resource.Attribute.fontProviderFetchTimeout = global::xTaxi.Client.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::Plugin.Permissions.Resource.Attribute.fontProviderPackage = global::xTaxi.Client.Droid.Resource.Attribute.fontProviderPackage;
+			global::Plugin.Permissions.Resource.Attribute.fontProviderQuery = global::xTaxi.Client.Droid.Resource.Attribute.fontProviderQuery;
+			global::Plugin.Permissions.Resource.Attribute.fontStyle = global::xTaxi.Client.Droid.Resource.Attribute.fontStyle;
+			global::Plugin.Permissions.Resource.Attribute.fontVariationSettings = global::xTaxi.Client.Droid.Resource.Attribute.fontVariationSettings;
+			global::Plugin.Permissions.Resource.Attribute.fontWeight = global::xTaxi.Client.Droid.Resource.Attribute.fontWeight;
+			global::Plugin.Permissions.Resource.Attribute.keylines = global::xTaxi.Client.Droid.Resource.Attribute.keylines;
+			global::Plugin.Permissions.Resource.Attribute.layout_anchor = global::xTaxi.Client.Droid.Resource.Attribute.layout_anchor;
+			global::Plugin.Permissions.Resource.Attribute.layout_anchorGravity = global::xTaxi.Client.Droid.Resource.Attribute.layout_anchorGravity;
+			global::Plugin.Permissions.Resource.Attribute.layout_behavior = global::xTaxi.Client.Droid.Resource.Attribute.layout_behavior;
+			global::Plugin.Permissions.Resource.Attribute.layout_dodgeInsetEdges = global::xTaxi.Client.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Plugin.Permissions.Resource.Attribute.layout_insetEdge = global::xTaxi.Client.Droid.Resource.Attribute.layout_insetEdge;
+			global::Plugin.Permissions.Resource.Attribute.layout_keyline = global::xTaxi.Client.Droid.Resource.Attribute.layout_keyline;
+			global::Plugin.Permissions.Resource.Attribute.statusBarBackground = global::xTaxi.Client.Droid.Resource.Attribute.statusBarBackground;
+			global::Plugin.Permissions.Resource.Attribute.ttcIndex = global::xTaxi.Client.Droid.Resource.Attribute.ttcIndex;
+			global::Plugin.Permissions.Resource.Color.browser_actions_bg_grey = global::xTaxi.Client.Droid.Resource.Color.browser_actions_bg_grey;
+			global::Plugin.Permissions.Resource.Color.browser_actions_divider_color = global::xTaxi.Client.Droid.Resource.Color.browser_actions_divider_color;
+			global::Plugin.Permissions.Resource.Color.browser_actions_text_color = global::xTaxi.Client.Droid.Resource.Color.browser_actions_text_color;
+			global::Plugin.Permissions.Resource.Color.browser_actions_title_color = global::xTaxi.Client.Droid.Resource.Color.browser_actions_title_color;
+			global::Plugin.Permissions.Resource.Color.notification_action_color_filter = global::xTaxi.Client.Droid.Resource.Color.notification_action_color_filter;
+			global::Plugin.Permissions.Resource.Color.notification_icon_bg_color = global::xTaxi.Client.Droid.Resource.Color.notification_icon_bg_color;
+			global::Plugin.Permissions.Resource.Color.ripple_material_light = global::xTaxi.Client.Droid.Resource.Color.ripple_material_light;
+			global::Plugin.Permissions.Resource.Color.secondary_text_default_material_light = global::xTaxi.Client.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Plugin.Permissions.Resource.Dimension.browser_actions_context_menu_max_width = global::xTaxi.Client.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::Plugin.Permissions.Resource.Dimension.browser_actions_context_menu_min_padding = global::xTaxi.Client.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::Plugin.Permissions.Resource.Dimension.compat_button_inset_horizontal_material = global::xTaxi.Client.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Plugin.Permissions.Resource.Dimension.compat_button_inset_vertical_material = global::xTaxi.Client.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Plugin.Permissions.Resource.Dimension.compat_button_padding_horizontal_material = global::xTaxi.Client.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Plugin.Permissions.Resource.Dimension.compat_button_padding_vertical_material = global::xTaxi.Client.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Plugin.Permissions.Resource.Dimension.compat_control_corner_material = global::xTaxi.Client.Droid.Resource.Dimension.compat_control_corner_material;
+			global::Plugin.Permissions.Resource.Dimension.compat_notification_large_icon_max_height = global::xTaxi.Client.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::Plugin.Permissions.Resource.Dimension.compat_notification_large_icon_max_width = global::xTaxi.Client.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::Plugin.Permissions.Resource.Dimension.notification_action_icon_size = global::xTaxi.Client.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Plugin.Permissions.Resource.Dimension.notification_action_text_size = global::xTaxi.Client.Droid.Resource.Dimension.notification_action_text_size;
+			global::Plugin.Permissions.Resource.Dimension.notification_big_circle_margin = global::xTaxi.Client.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Plugin.Permissions.Resource.Dimension.notification_content_margin_start = global::xTaxi.Client.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Plugin.Permissions.Resource.Dimension.notification_large_icon_height = global::xTaxi.Client.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Plugin.Permissions.Resource.Dimension.notification_large_icon_width = global::xTaxi.Client.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Plugin.Permissions.Resource.Dimension.notification_main_column_padding_top = global::xTaxi.Client.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Plugin.Permissions.Resource.Dimension.notification_media_narrow_margin = global::xTaxi.Client.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Plugin.Permissions.Resource.Dimension.notification_right_icon_size = global::xTaxi.Client.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Plugin.Permissions.Resource.Dimension.notification_right_side_padding_top = global::xTaxi.Client.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Plugin.Permissions.Resource.Dimension.notification_small_icon_background_padding = global::xTaxi.Client.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Plugin.Permissions.Resource.Dimension.notification_small_icon_size_as_large = global::xTaxi.Client.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Plugin.Permissions.Resource.Dimension.notification_subtext_size = global::xTaxi.Client.Droid.Resource.Dimension.notification_subtext_size;
+			global::Plugin.Permissions.Resource.Dimension.notification_top_pad = global::xTaxi.Client.Droid.Resource.Dimension.notification_top_pad;
+			global::Plugin.Permissions.Resource.Dimension.notification_top_pad_large_text = global::xTaxi.Client.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Plugin.Permissions.Resource.Drawable.notification_action_background = global::xTaxi.Client.Droid.Resource.Drawable.notification_action_background;
+			global::Plugin.Permissions.Resource.Drawable.notification_bg = global::xTaxi.Client.Droid.Resource.Drawable.notification_bg;
+			global::Plugin.Permissions.Resource.Drawable.notification_bg_low = global::xTaxi.Client.Droid.Resource.Drawable.notification_bg_low;
+			global::Plugin.Permissions.Resource.Drawable.notification_bg_low_normal = global::xTaxi.Client.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Plugin.Permissions.Resource.Drawable.notification_bg_low_pressed = global::xTaxi.Client.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Plugin.Permissions.Resource.Drawable.notification_bg_normal = global::xTaxi.Client.Droid.Resource.Drawable.notification_bg_normal;
+			global::Plugin.Permissions.Resource.Drawable.notification_bg_normal_pressed = global::xTaxi.Client.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Plugin.Permissions.Resource.Drawable.notification_icon_background = global::xTaxi.Client.Droid.Resource.Drawable.notification_icon_background;
+			global::Plugin.Permissions.Resource.Drawable.notification_template_icon_bg = global::xTaxi.Client.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Plugin.Permissions.Resource.Drawable.notification_template_icon_low_bg = global::xTaxi.Client.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Plugin.Permissions.Resource.Drawable.notification_tile_bg = global::xTaxi.Client.Droid.Resource.Drawable.notification_tile_bg;
+			global::Plugin.Permissions.Resource.Drawable.notify_panel_notification_icon_bg = global::xTaxi.Client.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Plugin.Permissions.Resource.Id.accessibility_action_clickable_span = global::xTaxi.Client.Droid.Resource.Id.accessibility_action_clickable_span;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_0 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_0;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_1 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_1;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_10 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_10;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_11 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_11;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_12 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_12;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_13 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_13;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_14 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_14;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_15 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_15;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_16 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_16;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_17 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_17;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_18 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_18;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_19 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_19;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_2 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_2;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_20 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_20;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_21 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_21;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_22 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_22;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_23 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_23;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_24 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_24;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_25 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_25;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_26 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_26;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_27 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_27;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_28 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_28;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_29 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_29;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_3 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_3;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_30 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_30;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_31 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_31;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_4 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_4;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_5 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_5;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_6 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_6;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_7 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_7;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_8 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_8;
+			global::Plugin.Permissions.Resource.Id.accessibility_custom_action_9 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_9;
+			global::Plugin.Permissions.Resource.Id.actions = global::xTaxi.Client.Droid.Resource.Id.actions;
+			global::Plugin.Permissions.Resource.Id.action_container = global::xTaxi.Client.Droid.Resource.Id.action_container;
+			global::Plugin.Permissions.Resource.Id.action_divider = global::xTaxi.Client.Droid.Resource.Id.action_divider;
+			global::Plugin.Permissions.Resource.Id.action_image = global::xTaxi.Client.Droid.Resource.Id.action_image;
+			global::Plugin.Permissions.Resource.Id.action_text = global::xTaxi.Client.Droid.Resource.Id.action_text;
+			global::Plugin.Permissions.Resource.Id.all = global::xTaxi.Client.Droid.Resource.Id.all;
+			global::Plugin.Permissions.Resource.Id.async = global::xTaxi.Client.Droid.Resource.Id.async;
+			global::Plugin.Permissions.Resource.Id.blocking = global::xTaxi.Client.Droid.Resource.Id.blocking;
+			global::Plugin.Permissions.Resource.Id.bottom = global::xTaxi.Client.Droid.Resource.Id.bottom;
+			global::Plugin.Permissions.Resource.Id.browser_actions_header_text = global::xTaxi.Client.Droid.Resource.Id.browser_actions_header_text;
+			global::Plugin.Permissions.Resource.Id.browser_actions_menu_items = global::xTaxi.Client.Droid.Resource.Id.browser_actions_menu_items;
+			global::Plugin.Permissions.Resource.Id.browser_actions_menu_item_icon = global::xTaxi.Client.Droid.Resource.Id.browser_actions_menu_item_icon;
+			global::Plugin.Permissions.Resource.Id.browser_actions_menu_item_text = global::xTaxi.Client.Droid.Resource.Id.browser_actions_menu_item_text;
+			global::Plugin.Permissions.Resource.Id.browser_actions_menu_view = global::xTaxi.Client.Droid.Resource.Id.browser_actions_menu_view;
+			global::Plugin.Permissions.Resource.Id.center = global::xTaxi.Client.Droid.Resource.Id.center;
+			global::Plugin.Permissions.Resource.Id.center_horizontal = global::xTaxi.Client.Droid.Resource.Id.center_horizontal;
+			global::Plugin.Permissions.Resource.Id.center_vertical = global::xTaxi.Client.Droid.Resource.Id.center_vertical;
+			global::Plugin.Permissions.Resource.Id.chronometer = global::xTaxi.Client.Droid.Resource.Id.chronometer;
+			global::Plugin.Permissions.Resource.Id.clip_horizontal = global::xTaxi.Client.Droid.Resource.Id.clip_horizontal;
+			global::Plugin.Permissions.Resource.Id.clip_vertical = global::xTaxi.Client.Droid.Resource.Id.clip_vertical;
+			global::Plugin.Permissions.Resource.Id.dialog_button = global::xTaxi.Client.Droid.Resource.Id.dialog_button;
+			global::Plugin.Permissions.Resource.Id.end = global::xTaxi.Client.Droid.Resource.Id.end;
+			global::Plugin.Permissions.Resource.Id.fill = global::xTaxi.Client.Droid.Resource.Id.fill;
+			global::Plugin.Permissions.Resource.Id.fill_horizontal = global::xTaxi.Client.Droid.Resource.Id.fill_horizontal;
+			global::Plugin.Permissions.Resource.Id.fill_vertical = global::xTaxi.Client.Droid.Resource.Id.fill_vertical;
+			global::Plugin.Permissions.Resource.Id.forever = global::xTaxi.Client.Droid.Resource.Id.forever;
+			global::Plugin.Permissions.Resource.Id.icon = global::xTaxi.Client.Droid.Resource.Id.icon;
+			global::Plugin.Permissions.Resource.Id.icon_group = global::xTaxi.Client.Droid.Resource.Id.icon_group;
+			global::Plugin.Permissions.Resource.Id.info = global::xTaxi.Client.Droid.Resource.Id.info;
+			global::Plugin.Permissions.Resource.Id.italic = global::xTaxi.Client.Droid.Resource.Id.italic;
+			global::Plugin.Permissions.Resource.Id.left = global::xTaxi.Client.Droid.Resource.Id.left;
+			global::Plugin.Permissions.Resource.Id.line1 = global::xTaxi.Client.Droid.Resource.Id.line1;
+			global::Plugin.Permissions.Resource.Id.line3 = global::xTaxi.Client.Droid.Resource.Id.line3;
+			global::Plugin.Permissions.Resource.Id.none = global::xTaxi.Client.Droid.Resource.Id.none;
+			global::Plugin.Permissions.Resource.Id.normal = global::xTaxi.Client.Droid.Resource.Id.normal;
+			global::Plugin.Permissions.Resource.Id.notification_background = global::xTaxi.Client.Droid.Resource.Id.notification_background;
+			global::Plugin.Permissions.Resource.Id.notification_main_column = global::xTaxi.Client.Droid.Resource.Id.notification_main_column;
+			global::Plugin.Permissions.Resource.Id.notification_main_column_container = global::xTaxi.Client.Droid.Resource.Id.notification_main_column_container;
+			global::Plugin.Permissions.Resource.Id.right = global::xTaxi.Client.Droid.Resource.Id.right;
+			global::Plugin.Permissions.Resource.Id.right_icon = global::xTaxi.Client.Droid.Resource.Id.right_icon;
+			global::Plugin.Permissions.Resource.Id.right_side = global::xTaxi.Client.Droid.Resource.Id.right_side;
+			global::Plugin.Permissions.Resource.Id.start = global::xTaxi.Client.Droid.Resource.Id.start;
+			global::Plugin.Permissions.Resource.Id.tag_accessibility_actions = global::xTaxi.Client.Droid.Resource.Id.tag_accessibility_actions;
+			global::Plugin.Permissions.Resource.Id.tag_accessibility_clickable_spans = global::xTaxi.Client.Droid.Resource.Id.tag_accessibility_clickable_spans;
+			global::Plugin.Permissions.Resource.Id.tag_accessibility_heading = global::xTaxi.Client.Droid.Resource.Id.tag_accessibility_heading;
+			global::Plugin.Permissions.Resource.Id.tag_accessibility_pane_title = global::xTaxi.Client.Droid.Resource.Id.tag_accessibility_pane_title;
+			global::Plugin.Permissions.Resource.Id.tag_screen_reader_focusable = global::xTaxi.Client.Droid.Resource.Id.tag_screen_reader_focusable;
+			global::Plugin.Permissions.Resource.Id.tag_transition_group = global::xTaxi.Client.Droid.Resource.Id.tag_transition_group;
+			global::Plugin.Permissions.Resource.Id.tag_unhandled_key_event_manager = global::xTaxi.Client.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::Plugin.Permissions.Resource.Id.tag_unhandled_key_listeners = global::xTaxi.Client.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::Plugin.Permissions.Resource.Id.text = global::xTaxi.Client.Droid.Resource.Id.text;
+			global::Plugin.Permissions.Resource.Id.text2 = global::xTaxi.Client.Droid.Resource.Id.text2;
+			global::Plugin.Permissions.Resource.Id.time = global::xTaxi.Client.Droid.Resource.Id.time;
+			global::Plugin.Permissions.Resource.Id.title = global::xTaxi.Client.Droid.Resource.Id.title;
+			global::Plugin.Permissions.Resource.Id.top = global::xTaxi.Client.Droid.Resource.Id.top;
+			global::Plugin.Permissions.Resource.Integer.status_bar_notification_info_maxnum = global::xTaxi.Client.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Plugin.Permissions.Resource.Layout.browser_actions_context_menu_page = global::xTaxi.Client.Droid.Resource.Layout.browser_actions_context_menu_page;
+			global::Plugin.Permissions.Resource.Layout.browser_actions_context_menu_row = global::xTaxi.Client.Droid.Resource.Layout.browser_actions_context_menu_row;
+			global::Plugin.Permissions.Resource.Layout.custom_dialog = global::xTaxi.Client.Droid.Resource.Layout.custom_dialog;
+			global::Plugin.Permissions.Resource.Layout.notification_action = global::xTaxi.Client.Droid.Resource.Layout.notification_action;
+			global::Plugin.Permissions.Resource.Layout.notification_action_tombstone = global::xTaxi.Client.Droid.Resource.Layout.notification_action_tombstone;
+			global::Plugin.Permissions.Resource.Layout.notification_template_custom_big = global::xTaxi.Client.Droid.Resource.Layout.notification_template_custom_big;
+			global::Plugin.Permissions.Resource.Layout.notification_template_icon_group = global::xTaxi.Client.Droid.Resource.Layout.notification_template_icon_group;
+			global::Plugin.Permissions.Resource.Layout.notification_template_part_chronometer = global::xTaxi.Client.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Plugin.Permissions.Resource.Layout.notification_template_part_time = global::xTaxi.Client.Droid.Resource.Layout.notification_template_part_time;
+			global::Plugin.Permissions.Resource.String.status_bar_notification_info_overflow = global::xTaxi.Client.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Plugin.Permissions.Resource.Style.TextAppearance_Compat_Notification = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::Plugin.Permissions.Resource.Style.TextAppearance_Compat_Notification_Info = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Plugin.Permissions.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Plugin.Permissions.Resource.Style.TextAppearance_Compat_Notification_Time = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Plugin.Permissions.Resource.Style.TextAppearance_Compat_Notification_Title = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Plugin.Permissions.Resource.Style.Widget_Compat_NotificationActionContainer = global::xTaxi.Client.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Plugin.Permissions.Resource.Style.Widget_Compat_NotificationActionText = global::xTaxi.Client.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Plugin.Permissions.Resource.Style.Widget_Support_CoordinatorLayout = global::xTaxi.Client.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Plugin.Permissions.Resource.Styleable.ColorStateListItem = global::xTaxi.Client.Droid.Resource.Styleable.ColorStateListItem;
+			global::Plugin.Permissions.Resource.Styleable.ColorStateListItem_alpha = global::xTaxi.Client.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Plugin.Permissions.Resource.Styleable.ColorStateListItem_android_alpha = global::xTaxi.Client.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Plugin.Permissions.Resource.Styleable.ColorStateListItem_android_color = global::xTaxi.Client.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Plugin.Permissions.Resource.Styleable.CoordinatorLayout = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout;
+			global::Plugin.Permissions.Resource.Styleable.CoordinatorLayout_keylines = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Plugin.Permissions.Resource.Styleable.CoordinatorLayout_Layout = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Plugin.Permissions.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Plugin.Permissions.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Plugin.Permissions.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Plugin.Permissions.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Plugin.Permissions.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Plugin.Permissions.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Plugin.Permissions.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Plugin.Permissions.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Plugin.Permissions.Resource.Styleable.FontFamily = global::xTaxi.Client.Droid.Resource.Styleable.FontFamily;
+			global::Plugin.Permissions.Resource.Styleable.FontFamilyFont = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont;
+			global::Plugin.Permissions.Resource.Styleable.FontFamilyFont_android_font = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::Plugin.Permissions.Resource.Styleable.FontFamilyFont_android_fontStyle = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Plugin.Permissions.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::Plugin.Permissions.Resource.Styleable.FontFamilyFont_android_fontWeight = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Plugin.Permissions.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::Plugin.Permissions.Resource.Styleable.FontFamilyFont_font = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Plugin.Permissions.Resource.Styleable.FontFamilyFont_fontStyle = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Plugin.Permissions.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::Plugin.Permissions.Resource.Styleable.FontFamilyFont_fontWeight = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Plugin.Permissions.Resource.Styleable.FontFamilyFont_ttcIndex = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::Plugin.Permissions.Resource.Styleable.FontFamily_fontProviderAuthority = global::xTaxi.Client.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Plugin.Permissions.Resource.Styleable.FontFamily_fontProviderCerts = global::xTaxi.Client.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Plugin.Permissions.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::xTaxi.Client.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Plugin.Permissions.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::xTaxi.Client.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Plugin.Permissions.Resource.Styleable.FontFamily_fontProviderPackage = global::xTaxi.Client.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Plugin.Permissions.Resource.Styleable.FontFamily_fontProviderQuery = global::xTaxi.Client.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Plugin.Permissions.Resource.Styleable.GradientColor = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor;
+			global::Plugin.Permissions.Resource.Styleable.GradientColorItem = global::xTaxi.Client.Droid.Resource.Styleable.GradientColorItem;
+			global::Plugin.Permissions.Resource.Styleable.GradientColorItem_android_color = global::xTaxi.Client.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::Plugin.Permissions.Resource.Styleable.GradientColorItem_android_offset = global::xTaxi.Client.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::Plugin.Permissions.Resource.Styleable.GradientColor_android_centerColor = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::Plugin.Permissions.Resource.Styleable.GradientColor_android_centerX = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::Plugin.Permissions.Resource.Styleable.GradientColor_android_centerY = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::Plugin.Permissions.Resource.Styleable.GradientColor_android_endColor = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::Plugin.Permissions.Resource.Styleable.GradientColor_android_endX = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::Plugin.Permissions.Resource.Styleable.GradientColor_android_endY = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::Plugin.Permissions.Resource.Styleable.GradientColor_android_gradientRadius = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::Plugin.Permissions.Resource.Styleable.GradientColor_android_startColor = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::Plugin.Permissions.Resource.Styleable.GradientColor_android_startX = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::Plugin.Permissions.Resource.Styleable.GradientColor_android_startY = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::Plugin.Permissions.Resource.Styleable.GradientColor_android_tileMode = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::Plugin.Permissions.Resource.Styleable.GradientColor_android_type = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_type;
+			global::Plugin.Permissions.Resource.Xml.xamarin_essentials_fileprovider_file_paths = global::xTaxi.Client.Droid.Resource.Xml.xamarin_essentials_fileprovider_file_paths;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::xTaxi.Client.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::xTaxi.Client.Droid.Resource.Attribute.font;
 			global::Xamarin.Essentials.Resource.Attribute.fontProviderAuthority = global::xTaxi.Client.Droid.Resource.Attribute.fontProviderAuthority;
@@ -2961,6 +3183,7 @@ namespace xTaxi.Client.Droid
 			global::Xamarin.Essentials.Resource.Id.text2 = global::xTaxi.Client.Droid.Resource.Id.text2;
 			global::Xamarin.Essentials.Resource.Id.time = global::xTaxi.Client.Droid.Resource.Id.time;
 			global::Xamarin.Essentials.Resource.Id.title = global::xTaxi.Client.Droid.Resource.Id.title;
+			global::Xamarin.Essentials.Resource.Id.view_tree_lifecycle_owner = global::xTaxi.Client.Droid.Resource.Id.view_tree_lifecycle_owner;
 			global::Xamarin.Essentials.Resource.Integer.status_bar_notification_info_maxnum = global::xTaxi.Client.Droid.Resource.Integer.status_bar_notification_info_maxnum;
 			global::Xamarin.Essentials.Resource.Layout.browser_actions_context_menu_page = global::xTaxi.Client.Droid.Resource.Layout.browser_actions_context_menu_page;
 			global::Xamarin.Essentials.Resource.Layout.browser_actions_context_menu_row = global::xTaxi.Client.Droid.Resource.Layout.browser_actions_context_menu_row;
@@ -3023,6 +3246,5416 @@ namespace xTaxi.Client.Droid
 			global::Xamarin.Essentials.Resource.Styleable.GradientColor_android_type = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_type;
 			global::Xamarin.Essentials.Resource.Xml.image_share_filepaths = global::xTaxi.Client.Droid.Resource.Xml.image_share_filepaths;
 			global::Xamarin.Essentials.Resource.Xml.xamarin_essentials_fileprovider_file_paths = global::xTaxi.Client.Droid.Resource.Xml.xamarin_essentials_fileprovider_file_paths;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.abc_fade_in = global::xTaxi.Client.Droid.Resource.Animation.abc_fade_in;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.abc_fade_out = global::xTaxi.Client.Droid.Resource.Animation.abc_fade_out;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::xTaxi.Client.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.abc_popup_enter = global::xTaxi.Client.Droid.Resource.Animation.abc_popup_enter;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.abc_popup_exit = global::xTaxi.Client.Droid.Resource.Animation.abc_popup_exit;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::xTaxi.Client.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.abc_slide_in_bottom = global::xTaxi.Client.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.abc_slide_in_top = global::xTaxi.Client.Droid.Resource.Animation.abc_slide_in_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.abc_slide_out_bottom = global::xTaxi.Client.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.abc_slide_out_top = global::xTaxi.Client.Droid.Resource.Animation.abc_slide_out_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.abc_tooltip_enter = global::xTaxi.Client.Droid.Resource.Animation.abc_tooltip_enter;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.abc_tooltip_exit = global::xTaxi.Client.Droid.Resource.Animation.abc_tooltip_exit;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation = global::xTaxi.Client.Droid.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation = global::xTaxi.Client.Droid.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.btn_checkbox_to_checked_icon_null_animation = global::xTaxi.Client.Droid.Resource.Animation.btn_checkbox_to_checked_icon_null_animation;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation = global::xTaxi.Client.Droid.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation = global::xTaxi.Client.Droid.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation = global::xTaxi.Client.Droid.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation = global::xTaxi.Client.Droid.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation = global::xTaxi.Client.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation = global::xTaxi.Client.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation = global::xTaxi.Client.Droid.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation = global::xTaxi.Client.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation = global::xTaxi.Client.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.design_bottom_sheet_slide_in = global::xTaxi.Client.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.design_bottom_sheet_slide_out = global::xTaxi.Client.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.design_snackbar_in = global::xTaxi.Client.Droid.Resource.Animation.design_snackbar_in;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.design_snackbar_out = global::xTaxi.Client.Droid.Resource.Animation.design_snackbar_out;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.EnterFromLeft = global::xTaxi.Client.Droid.Resource.Animation.EnterFromLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.EnterFromRight = global::xTaxi.Client.Droid.Resource.Animation.EnterFromRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.ExitToLeft = global::xTaxi.Client.Droid.Resource.Animation.ExitToLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.ExitToRight = global::xTaxi.Client.Droid.Resource.Animation.ExitToRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.fragment_fast_out_extra_slow_in = global::xTaxi.Client.Droid.Resource.Animation.fragment_fast_out_extra_slow_in;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.mtrl_bottom_sheet_slide_in = global::xTaxi.Client.Droid.Resource.Animation.mtrl_bottom_sheet_slide_in;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.mtrl_bottom_sheet_slide_out = global::xTaxi.Client.Droid.Resource.Animation.mtrl_bottom_sheet_slide_out;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.mtrl_card_lowers_interpolator = global::xTaxi.Client.Droid.Resource.Animation.mtrl_card_lowers_interpolator;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.nav_default_enter_anim = global::xTaxi.Client.Droid.Resource.Animation.nav_default_enter_anim;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.nav_default_exit_anim = global::xTaxi.Client.Droid.Resource.Animation.nav_default_exit_anim;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.nav_default_pop_enter_anim = global::xTaxi.Client.Droid.Resource.Animation.nav_default_pop_enter_anim;
+			global::Xamarin.Forms.Maps.Android.Resource.Animation.nav_default_pop_exit_anim = global::xTaxi.Client.Droid.Resource.Animation.nav_default_pop_exit_anim;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.design_appbar_state_list_animator = global::xTaxi.Client.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.design_fab_hide_motion_spec = global::xTaxi.Client.Droid.Resource.Animator.design_fab_hide_motion_spec;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.design_fab_show_motion_spec = global::xTaxi.Client.Droid.Resource.Animator.design_fab_show_motion_spec;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.fragment_close_enter = global::xTaxi.Client.Droid.Resource.Animator.fragment_close_enter;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.fragment_close_exit = global::xTaxi.Client.Droid.Resource.Animator.fragment_close_exit;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.fragment_fade_enter = global::xTaxi.Client.Droid.Resource.Animator.fragment_fade_enter;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.fragment_fade_exit = global::xTaxi.Client.Droid.Resource.Animator.fragment_fade_exit;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.fragment_open_enter = global::xTaxi.Client.Droid.Resource.Animator.fragment_open_enter;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.fragment_open_exit = global::xTaxi.Client.Droid.Resource.Animator.fragment_open_exit;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.linear_indeterminate_line1_head_interpolator = global::xTaxi.Client.Droid.Resource.Animator.linear_indeterminate_line1_head_interpolator;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.linear_indeterminate_line1_tail_interpolator = global::xTaxi.Client.Droid.Resource.Animator.linear_indeterminate_line1_tail_interpolator;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.linear_indeterminate_line2_head_interpolator = global::xTaxi.Client.Droid.Resource.Animator.linear_indeterminate_line2_head_interpolator;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.linear_indeterminate_line2_tail_interpolator = global::xTaxi.Client.Droid.Resource.Animator.linear_indeterminate_line2_tail_interpolator;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.mtrl_btn_state_list_anim = global::xTaxi.Client.Droid.Resource.Animator.mtrl_btn_state_list_anim;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::xTaxi.Client.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.mtrl_card_state_list_anim = global::xTaxi.Client.Droid.Resource.Animator.mtrl_card_state_list_anim;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.mtrl_chip_state_list_anim = global::xTaxi.Client.Droid.Resource.Animator.mtrl_chip_state_list_anim;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.mtrl_extended_fab_change_size_collapse_motion_spec = global::xTaxi.Client.Droid.Resource.Animator.mtrl_extended_fab_change_size_collapse_motion_spec;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.mtrl_extended_fab_change_size_expand_motion_spec = global::xTaxi.Client.Droid.Resource.Animator.mtrl_extended_fab_change_size_expand_motion_spec;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.mtrl_extended_fab_hide_motion_spec = global::xTaxi.Client.Droid.Resource.Animator.mtrl_extended_fab_hide_motion_spec;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.mtrl_extended_fab_show_motion_spec = global::xTaxi.Client.Droid.Resource.Animator.mtrl_extended_fab_show_motion_spec;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.mtrl_extended_fab_state_list_animator = global::xTaxi.Client.Droid.Resource.Animator.mtrl_extended_fab_state_list_animator;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.mtrl_fab_hide_motion_spec = global::xTaxi.Client.Droid.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.mtrl_fab_show_motion_spec = global::xTaxi.Client.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::xTaxi.Client.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::xTaxi.Client.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.nav_default_enter_anim = global::xTaxi.Client.Droid.Resource.Animator.nav_default_enter_anim;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.nav_default_exit_anim = global::xTaxi.Client.Droid.Resource.Animator.nav_default_exit_anim;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.nav_default_pop_enter_anim = global::xTaxi.Client.Droid.Resource.Animator.nav_default_pop_enter_anim;
+			global::Xamarin.Forms.Maps.Android.Resource.Animator.nav_default_pop_exit_anim = global::xTaxi.Client.Droid.Resource.Animator.nav_default_pop_exit_anim;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.action = global::xTaxi.Client.Droid.Resource.Attribute.action;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionBarDivider = global::xTaxi.Client.Droid.Resource.Attribute.actionBarDivider;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionBarItemBackground = global::xTaxi.Client.Droid.Resource.Attribute.actionBarItemBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionBarPopupTheme = global::xTaxi.Client.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionBarSize = global::xTaxi.Client.Droid.Resource.Attribute.actionBarSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionBarSplitStyle = global::xTaxi.Client.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionBarStyle = global::xTaxi.Client.Droid.Resource.Attribute.actionBarStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionBarTabBarStyle = global::xTaxi.Client.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionBarTabStyle = global::xTaxi.Client.Droid.Resource.Attribute.actionBarTabStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionBarTabTextStyle = global::xTaxi.Client.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionBarTheme = global::xTaxi.Client.Droid.Resource.Attribute.actionBarTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionBarWidgetTheme = global::xTaxi.Client.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionButtonStyle = global::xTaxi.Client.Droid.Resource.Attribute.actionButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionDropDownStyle = global::xTaxi.Client.Droid.Resource.Attribute.actionDropDownStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionLayout = global::xTaxi.Client.Droid.Resource.Attribute.actionLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionMenuTextAppearance = global::xTaxi.Client.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionMenuTextColor = global::xTaxi.Client.Droid.Resource.Attribute.actionMenuTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionModeBackground = global::xTaxi.Client.Droid.Resource.Attribute.actionModeBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionModeCloseButtonStyle = global::xTaxi.Client.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionModeCloseContentDescription = global::xTaxi.Client.Droid.Resource.Attribute.actionModeCloseContentDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionModeCloseDrawable = global::xTaxi.Client.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionModeCopyDrawable = global::xTaxi.Client.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionModeCutDrawable = global::xTaxi.Client.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionModeFindDrawable = global::xTaxi.Client.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionModePasteDrawable = global::xTaxi.Client.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionModePopupWindowStyle = global::xTaxi.Client.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionModeSelectAllDrawable = global::xTaxi.Client.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionModeShareDrawable = global::xTaxi.Client.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionModeSplitBackground = global::xTaxi.Client.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionModeStyle = global::xTaxi.Client.Droid.Resource.Attribute.actionModeStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionModeTheme = global::xTaxi.Client.Droid.Resource.Attribute.actionModeTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionModeWebSearchDrawable = global::xTaxi.Client.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionOverflowButtonStyle = global::xTaxi.Client.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionOverflowMenuStyle = global::xTaxi.Client.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionProviderClass = global::xTaxi.Client.Droid.Resource.Attribute.actionProviderClass;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionTextColorAlpha = global::xTaxi.Client.Droid.Resource.Attribute.actionTextColorAlpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.actionViewClass = global::xTaxi.Client.Droid.Resource.Attribute.actionViewClass;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.activityChooserViewStyle = global::xTaxi.Client.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::xTaxi.Client.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.alertDialogCenterButtons = global::xTaxi.Client.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.alertDialogStyle = global::xTaxi.Client.Droid.Resource.Attribute.alertDialogStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.alertDialogTheme = global::xTaxi.Client.Droid.Resource.Attribute.alertDialogTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.allowStacking = global::xTaxi.Client.Droid.Resource.Attribute.allowStacking;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.alpha = global::xTaxi.Client.Droid.Resource.Attribute.alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.alphabeticModifiers = global::xTaxi.Client.Droid.Resource.Attribute.alphabeticModifiers;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.altSrc = global::xTaxi.Client.Droid.Resource.Attribute.altSrc;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.ambientEnabled = global::xTaxi.Client.Droid.Resource.Attribute.ambientEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.animateCircleAngleTo = global::xTaxi.Client.Droid.Resource.Attribute.animateCircleAngleTo;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.animateRelativeTo = global::xTaxi.Client.Droid.Resource.Attribute.animateRelativeTo;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.animationMode = global::xTaxi.Client.Droid.Resource.Attribute.animationMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.appBarLayoutStyle = global::xTaxi.Client.Droid.Resource.Attribute.appBarLayoutStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.applyMotionScene = global::xTaxi.Client.Droid.Resource.Attribute.applyMotionScene;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.arcMode = global::xTaxi.Client.Droid.Resource.Attribute.arcMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.argType = global::xTaxi.Client.Droid.Resource.Attribute.argType;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.arrowHeadLength = global::xTaxi.Client.Droid.Resource.Attribute.arrowHeadLength;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.arrowShaftLength = global::xTaxi.Client.Droid.Resource.Attribute.arrowShaftLength;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.attributeName = global::xTaxi.Client.Droid.Resource.Attribute.attributeName;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.autoCompleteMode = global::xTaxi.Client.Droid.Resource.Attribute.autoCompleteMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.autoCompleteTextViewStyle = global::xTaxi.Client.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.autoSizeMaxTextSize = global::xTaxi.Client.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.autoSizeMinTextSize = global::xTaxi.Client.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.autoSizePresetSizes = global::xTaxi.Client.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.autoSizeStepGranularity = global::xTaxi.Client.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.autoSizeTextType = global::xTaxi.Client.Droid.Resource.Attribute.autoSizeTextType;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.autoTransition = global::xTaxi.Client.Droid.Resource.Attribute.autoTransition;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.background = global::xTaxi.Client.Droid.Resource.Attribute.background;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.backgroundColor = global::xTaxi.Client.Droid.Resource.Attribute.backgroundColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.backgroundInsetBottom = global::xTaxi.Client.Droid.Resource.Attribute.backgroundInsetBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.backgroundInsetEnd = global::xTaxi.Client.Droid.Resource.Attribute.backgroundInsetEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.backgroundInsetStart = global::xTaxi.Client.Droid.Resource.Attribute.backgroundInsetStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.backgroundInsetTop = global::xTaxi.Client.Droid.Resource.Attribute.backgroundInsetTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.backgroundOverlayColorAlpha = global::xTaxi.Client.Droid.Resource.Attribute.backgroundOverlayColorAlpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.backgroundSplit = global::xTaxi.Client.Droid.Resource.Attribute.backgroundSplit;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.backgroundStacked = global::xTaxi.Client.Droid.Resource.Attribute.backgroundStacked;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.backgroundTint = global::xTaxi.Client.Droid.Resource.Attribute.backgroundTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.backgroundTintMode = global::xTaxi.Client.Droid.Resource.Attribute.backgroundTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.badgeGravity = global::xTaxi.Client.Droid.Resource.Attribute.badgeGravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.badgeStyle = global::xTaxi.Client.Droid.Resource.Attribute.badgeStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.badgeTextColor = global::xTaxi.Client.Droid.Resource.Attribute.badgeTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.barLength = global::xTaxi.Client.Droid.Resource.Attribute.barLength;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.barrierAllowsGoneWidgets = global::xTaxi.Client.Droid.Resource.Attribute.barrierAllowsGoneWidgets;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.barrierDirection = global::xTaxi.Client.Droid.Resource.Attribute.barrierDirection;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.barrierMargin = global::xTaxi.Client.Droid.Resource.Attribute.barrierMargin;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.behavior_autoHide = global::xTaxi.Client.Droid.Resource.Attribute.behavior_autoHide;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.behavior_autoShrink = global::xTaxi.Client.Droid.Resource.Attribute.behavior_autoShrink;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.behavior_draggable = global::xTaxi.Client.Droid.Resource.Attribute.behavior_draggable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.behavior_expandedOffset = global::xTaxi.Client.Droid.Resource.Attribute.behavior_expandedOffset;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.behavior_fitToContents = global::xTaxi.Client.Droid.Resource.Attribute.behavior_fitToContents;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.behavior_halfExpandedRatio = global::xTaxi.Client.Droid.Resource.Attribute.behavior_halfExpandedRatio;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.behavior_hideable = global::xTaxi.Client.Droid.Resource.Attribute.behavior_hideable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.behavior_overlapTop = global::xTaxi.Client.Droid.Resource.Attribute.behavior_overlapTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.behavior_peekHeight = global::xTaxi.Client.Droid.Resource.Attribute.behavior_peekHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.behavior_saveFlags = global::xTaxi.Client.Droid.Resource.Attribute.behavior_saveFlags;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.behavior_skipCollapsed = global::xTaxi.Client.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.blendSrc = global::xTaxi.Client.Droid.Resource.Attribute.blendSrc;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.borderlessButtonStyle = global::xTaxi.Client.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.borderRound = global::xTaxi.Client.Droid.Resource.Attribute.borderRound;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.borderRoundPercent = global::xTaxi.Client.Droid.Resource.Attribute.borderRoundPercent;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.borderWidth = global::xTaxi.Client.Droid.Resource.Attribute.borderWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.bottomAppBarStyle = global::xTaxi.Client.Droid.Resource.Attribute.bottomAppBarStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.bottomNavigationStyle = global::xTaxi.Client.Droid.Resource.Attribute.bottomNavigationStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.bottomSheetDialogTheme = global::xTaxi.Client.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.bottomSheetStyle = global::xTaxi.Client.Droid.Resource.Attribute.bottomSheetStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.boxBackgroundColor = global::xTaxi.Client.Droid.Resource.Attribute.boxBackgroundColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.boxBackgroundMode = global::xTaxi.Client.Droid.Resource.Attribute.boxBackgroundMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.boxCollapsedPaddingTop = global::xTaxi.Client.Droid.Resource.Attribute.boxCollapsedPaddingTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.boxCornerRadiusBottomEnd = global::xTaxi.Client.Droid.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.boxCornerRadiusBottomStart = global::xTaxi.Client.Droid.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.boxCornerRadiusTopEnd = global::xTaxi.Client.Droid.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.boxCornerRadiusTopStart = global::xTaxi.Client.Droid.Resource.Attribute.boxCornerRadiusTopStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.boxStrokeColor = global::xTaxi.Client.Droid.Resource.Attribute.boxStrokeColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.boxStrokeErrorColor = global::xTaxi.Client.Droid.Resource.Attribute.boxStrokeErrorColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.boxStrokeWidth = global::xTaxi.Client.Droid.Resource.Attribute.boxStrokeWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.boxStrokeWidthFocused = global::xTaxi.Client.Droid.Resource.Attribute.boxStrokeWidthFocused;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.brightness = global::xTaxi.Client.Droid.Resource.Attribute.brightness;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.buttonBarButtonStyle = global::xTaxi.Client.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::xTaxi.Client.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::xTaxi.Client.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::xTaxi.Client.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.buttonBarStyle = global::xTaxi.Client.Droid.Resource.Attribute.buttonBarStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.buttonCompat = global::xTaxi.Client.Droid.Resource.Attribute.buttonCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.buttonGravity = global::xTaxi.Client.Droid.Resource.Attribute.buttonGravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.buttonIconDimen = global::xTaxi.Client.Droid.Resource.Attribute.buttonIconDimen;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.buttonPanelSideLayout = global::xTaxi.Client.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.buttonSize = global::xTaxi.Client.Droid.Resource.Attribute.buttonSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.buttonStyle = global::xTaxi.Client.Droid.Resource.Attribute.buttonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.buttonStyleSmall = global::xTaxi.Client.Droid.Resource.Attribute.buttonStyleSmall;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.buttonTint = global::xTaxi.Client.Droid.Resource.Attribute.buttonTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.buttonTintMode = global::xTaxi.Client.Droid.Resource.Attribute.buttonTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cameraBearing = global::xTaxi.Client.Droid.Resource.Attribute.cameraBearing;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cameraMaxZoomPreference = global::xTaxi.Client.Droid.Resource.Attribute.cameraMaxZoomPreference;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cameraMinZoomPreference = global::xTaxi.Client.Droid.Resource.Attribute.cameraMinZoomPreference;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cameraTargetLat = global::xTaxi.Client.Droid.Resource.Attribute.cameraTargetLat;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cameraTargetLng = global::xTaxi.Client.Droid.Resource.Attribute.cameraTargetLng;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cameraTilt = global::xTaxi.Client.Droid.Resource.Attribute.cameraTilt;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cameraZoom = global::xTaxi.Client.Droid.Resource.Attribute.cameraZoom;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cardBackgroundColor = global::xTaxi.Client.Droid.Resource.Attribute.cardBackgroundColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cardCornerRadius = global::xTaxi.Client.Droid.Resource.Attribute.cardCornerRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cardElevation = global::xTaxi.Client.Droid.Resource.Attribute.cardElevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cardForegroundColor = global::xTaxi.Client.Droid.Resource.Attribute.cardForegroundColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cardMaxElevation = global::xTaxi.Client.Droid.Resource.Attribute.cardMaxElevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cardPreventCornerOverlap = global::xTaxi.Client.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cardUseCompatPadding = global::xTaxi.Client.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cardViewStyle = global::xTaxi.Client.Droid.Resource.Attribute.cardViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.carousel_backwardTransition = global::xTaxi.Client.Droid.Resource.Attribute.carousel_backwardTransition;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.carousel_emptyViewsBehavior = global::xTaxi.Client.Droid.Resource.Attribute.carousel_emptyViewsBehavior;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.carousel_firstView = global::xTaxi.Client.Droid.Resource.Attribute.carousel_firstView;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.carousel_forwardTransition = global::xTaxi.Client.Droid.Resource.Attribute.carousel_forwardTransition;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.carousel_infinite = global::xTaxi.Client.Droid.Resource.Attribute.carousel_infinite;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.carousel_nextState = global::xTaxi.Client.Droid.Resource.Attribute.carousel_nextState;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.carousel_previousState = global::xTaxi.Client.Droid.Resource.Attribute.carousel_previousState;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.carousel_touchUpMode = global::xTaxi.Client.Droid.Resource.Attribute.carousel_touchUpMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.carousel_touchUp_dampeningFactor = global::xTaxi.Client.Droid.Resource.Attribute.carousel_touchUp_dampeningFactor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.carousel_touchUp_velocityThreshold = global::xTaxi.Client.Droid.Resource.Attribute.carousel_touchUp_velocityThreshold;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chainUseRtl = global::xTaxi.Client.Droid.Resource.Attribute.chainUseRtl;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.checkboxStyle = global::xTaxi.Client.Droid.Resource.Attribute.checkboxStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.checkedButton = global::xTaxi.Client.Droid.Resource.Attribute.checkedButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.checkedChip = global::xTaxi.Client.Droid.Resource.Attribute.checkedChip;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.checkedIcon = global::xTaxi.Client.Droid.Resource.Attribute.checkedIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.checkedIconEnabled = global::xTaxi.Client.Droid.Resource.Attribute.checkedIconEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.checkedIconMargin = global::xTaxi.Client.Droid.Resource.Attribute.checkedIconMargin;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.checkedIconSize = global::xTaxi.Client.Droid.Resource.Attribute.checkedIconSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.checkedIconTint = global::xTaxi.Client.Droid.Resource.Attribute.checkedIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.checkedIconVisible = global::xTaxi.Client.Droid.Resource.Attribute.checkedIconVisible;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.checkedTextViewStyle = global::xTaxi.Client.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipBackgroundColor = global::xTaxi.Client.Droid.Resource.Attribute.chipBackgroundColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipCornerRadius = global::xTaxi.Client.Droid.Resource.Attribute.chipCornerRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipEndPadding = global::xTaxi.Client.Droid.Resource.Attribute.chipEndPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipGroupStyle = global::xTaxi.Client.Droid.Resource.Attribute.chipGroupStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipIcon = global::xTaxi.Client.Droid.Resource.Attribute.chipIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipIconEnabled = global::xTaxi.Client.Droid.Resource.Attribute.chipIconEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipIconSize = global::xTaxi.Client.Droid.Resource.Attribute.chipIconSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipIconTint = global::xTaxi.Client.Droid.Resource.Attribute.chipIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipIconVisible = global::xTaxi.Client.Droid.Resource.Attribute.chipIconVisible;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipMinHeight = global::xTaxi.Client.Droid.Resource.Attribute.chipMinHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipMinTouchTargetSize = global::xTaxi.Client.Droid.Resource.Attribute.chipMinTouchTargetSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipSpacing = global::xTaxi.Client.Droid.Resource.Attribute.chipSpacing;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipSpacingHorizontal = global::xTaxi.Client.Droid.Resource.Attribute.chipSpacingHorizontal;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipSpacingVertical = global::xTaxi.Client.Droid.Resource.Attribute.chipSpacingVertical;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipStandaloneStyle = global::xTaxi.Client.Droid.Resource.Attribute.chipStandaloneStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipStartPadding = global::xTaxi.Client.Droid.Resource.Attribute.chipStartPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipStrokeColor = global::xTaxi.Client.Droid.Resource.Attribute.chipStrokeColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipStrokeWidth = global::xTaxi.Client.Droid.Resource.Attribute.chipStrokeWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipStyle = global::xTaxi.Client.Droid.Resource.Attribute.chipStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.chipSurfaceColor = global::xTaxi.Client.Droid.Resource.Attribute.chipSurfaceColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.circleCrop = global::xTaxi.Client.Droid.Resource.Attribute.circleCrop;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.circleRadius = global::xTaxi.Client.Droid.Resource.Attribute.circleRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.circularflow_angles = global::xTaxi.Client.Droid.Resource.Attribute.circularflow_angles;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.circularflow_defaultAngle = global::xTaxi.Client.Droid.Resource.Attribute.circularflow_defaultAngle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.circularflow_defaultRadius = global::xTaxi.Client.Droid.Resource.Attribute.circularflow_defaultRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.circularflow_radiusInDP = global::xTaxi.Client.Droid.Resource.Attribute.circularflow_radiusInDP;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.circularflow_viewCenter = global::xTaxi.Client.Droid.Resource.Attribute.circularflow_viewCenter;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.circularProgressIndicatorStyle = global::xTaxi.Client.Droid.Resource.Attribute.circularProgressIndicatorStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.clearsTag = global::xTaxi.Client.Droid.Resource.Attribute.clearsTag;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.clickAction = global::xTaxi.Client.Droid.Resource.Attribute.clickAction;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.clockFaceBackgroundColor = global::xTaxi.Client.Droid.Resource.Attribute.clockFaceBackgroundColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.clockHandColor = global::xTaxi.Client.Droid.Resource.Attribute.clockHandColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.clockIcon = global::xTaxi.Client.Droid.Resource.Attribute.clockIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.clockNumberTextColor = global::xTaxi.Client.Droid.Resource.Attribute.clockNumberTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.closeIcon = global::xTaxi.Client.Droid.Resource.Attribute.closeIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.closeIconEnabled = global::xTaxi.Client.Droid.Resource.Attribute.closeIconEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.closeIconEndPadding = global::xTaxi.Client.Droid.Resource.Attribute.closeIconEndPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.closeIconSize = global::xTaxi.Client.Droid.Resource.Attribute.closeIconSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.closeIconStartPadding = global::xTaxi.Client.Droid.Resource.Attribute.closeIconStartPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.closeIconTint = global::xTaxi.Client.Droid.Resource.Attribute.closeIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.closeIconVisible = global::xTaxi.Client.Droid.Resource.Attribute.closeIconVisible;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.closeItemLayout = global::xTaxi.Client.Droid.Resource.Attribute.closeItemLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.collapseContentDescription = global::xTaxi.Client.Droid.Resource.Attribute.collapseContentDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.collapsedSize = global::xTaxi.Client.Droid.Resource.Attribute.collapsedSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.collapsedTitleGravity = global::xTaxi.Client.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.collapsedTitleTextAppearance = global::xTaxi.Client.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.collapseIcon = global::xTaxi.Client.Droid.Resource.Attribute.collapseIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.collapsingToolbarLayoutStyle = global::xTaxi.Client.Droid.Resource.Attribute.collapsingToolbarLayoutStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.collectionViewStyle = global::xTaxi.Client.Droid.Resource.Attribute.collectionViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.color = global::xTaxi.Client.Droid.Resource.Attribute.color;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorAccent = global::xTaxi.Client.Droid.Resource.Attribute.colorAccent;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorBackgroundFloating = global::xTaxi.Client.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorButtonNormal = global::xTaxi.Client.Droid.Resource.Attribute.colorButtonNormal;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorControlActivated = global::xTaxi.Client.Droid.Resource.Attribute.colorControlActivated;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorControlHighlight = global::xTaxi.Client.Droid.Resource.Attribute.colorControlHighlight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorControlNormal = global::xTaxi.Client.Droid.Resource.Attribute.colorControlNormal;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorError = global::xTaxi.Client.Droid.Resource.Attribute.colorError;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorOnBackground = global::xTaxi.Client.Droid.Resource.Attribute.colorOnBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorOnError = global::xTaxi.Client.Droid.Resource.Attribute.colorOnError;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorOnPrimary = global::xTaxi.Client.Droid.Resource.Attribute.colorOnPrimary;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorOnPrimarySurface = global::xTaxi.Client.Droid.Resource.Attribute.colorOnPrimarySurface;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorOnSecondary = global::xTaxi.Client.Droid.Resource.Attribute.colorOnSecondary;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorOnSurface = global::xTaxi.Client.Droid.Resource.Attribute.colorOnSurface;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorPrimary = global::xTaxi.Client.Droid.Resource.Attribute.colorPrimary;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorPrimaryDark = global::xTaxi.Client.Droid.Resource.Attribute.colorPrimaryDark;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorPrimarySurface = global::xTaxi.Client.Droid.Resource.Attribute.colorPrimarySurface;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorPrimaryVariant = global::xTaxi.Client.Droid.Resource.Attribute.colorPrimaryVariant;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorScheme = global::xTaxi.Client.Droid.Resource.Attribute.colorScheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorSecondary = global::xTaxi.Client.Droid.Resource.Attribute.colorSecondary;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorSecondaryVariant = global::xTaxi.Client.Droid.Resource.Attribute.colorSecondaryVariant;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorSurface = global::xTaxi.Client.Droid.Resource.Attribute.colorSurface;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.colorSwitchThumbNormal = global::xTaxi.Client.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.commitIcon = global::xTaxi.Client.Droid.Resource.Attribute.commitIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.ConstraintRotate = global::xTaxi.Client.Droid.Resource.Attribute.ConstraintRotate;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.constraints = global::xTaxi.Client.Droid.Resource.Attribute.constraints;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.constraintSet = global::xTaxi.Client.Droid.Resource.Attribute.constraintSet;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.constraintSetEnd = global::xTaxi.Client.Droid.Resource.Attribute.constraintSetEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.constraintSetStart = global::xTaxi.Client.Droid.Resource.Attribute.constraintSetStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.constraint_referenced_ids = global::xTaxi.Client.Droid.Resource.Attribute.constraint_referenced_ids;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.constraint_referenced_tags = global::xTaxi.Client.Droid.Resource.Attribute.constraint_referenced_tags;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.content = global::xTaxi.Client.Droid.Resource.Attribute.content;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.contentDescription = global::xTaxi.Client.Droid.Resource.Attribute.contentDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.contentInsetEnd = global::xTaxi.Client.Droid.Resource.Attribute.contentInsetEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.contentInsetEndWithActions = global::xTaxi.Client.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.contentInsetLeft = global::xTaxi.Client.Droid.Resource.Attribute.contentInsetLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.contentInsetRight = global::xTaxi.Client.Droid.Resource.Attribute.contentInsetRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.contentInsetStart = global::xTaxi.Client.Droid.Resource.Attribute.contentInsetStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.contentInsetStartWithNavigation = global::xTaxi.Client.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.contentPadding = global::xTaxi.Client.Droid.Resource.Attribute.contentPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.contentPaddingBottom = global::xTaxi.Client.Droid.Resource.Attribute.contentPaddingBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.contentPaddingEnd = global::xTaxi.Client.Droid.Resource.Attribute.contentPaddingEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.contentPaddingLeft = global::xTaxi.Client.Droid.Resource.Attribute.contentPaddingLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.contentPaddingRight = global::xTaxi.Client.Droid.Resource.Attribute.contentPaddingRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.contentPaddingStart = global::xTaxi.Client.Droid.Resource.Attribute.contentPaddingStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.contentPaddingTop = global::xTaxi.Client.Droid.Resource.Attribute.contentPaddingTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.contentScrim = global::xTaxi.Client.Droid.Resource.Attribute.contentScrim;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.contrast = global::xTaxi.Client.Droid.Resource.Attribute.contrast;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.controlBackground = global::xTaxi.Client.Droid.Resource.Attribute.controlBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.coordinatorLayoutStyle = global::xTaxi.Client.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cornerFamily = global::xTaxi.Client.Droid.Resource.Attribute.cornerFamily;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cornerFamilyBottomLeft = global::xTaxi.Client.Droid.Resource.Attribute.cornerFamilyBottomLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cornerFamilyBottomRight = global::xTaxi.Client.Droid.Resource.Attribute.cornerFamilyBottomRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cornerFamilyTopLeft = global::xTaxi.Client.Droid.Resource.Attribute.cornerFamilyTopLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cornerFamilyTopRight = global::xTaxi.Client.Droid.Resource.Attribute.cornerFamilyTopRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cornerRadius = global::xTaxi.Client.Droid.Resource.Attribute.cornerRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cornerSize = global::xTaxi.Client.Droid.Resource.Attribute.cornerSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cornerSizeBottomLeft = global::xTaxi.Client.Droid.Resource.Attribute.cornerSizeBottomLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cornerSizeBottomRight = global::xTaxi.Client.Droid.Resource.Attribute.cornerSizeBottomRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cornerSizeTopLeft = global::xTaxi.Client.Droid.Resource.Attribute.cornerSizeTopLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.cornerSizeTopRight = global::xTaxi.Client.Droid.Resource.Attribute.cornerSizeTopRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.counterEnabled = global::xTaxi.Client.Droid.Resource.Attribute.counterEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.counterMaxLength = global::xTaxi.Client.Droid.Resource.Attribute.counterMaxLength;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.counterOverflowTextAppearance = global::xTaxi.Client.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.counterOverflowTextColor = global::xTaxi.Client.Droid.Resource.Attribute.counterOverflowTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.counterTextAppearance = global::xTaxi.Client.Droid.Resource.Attribute.counterTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.counterTextColor = global::xTaxi.Client.Droid.Resource.Attribute.counterTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.crossfade = global::xTaxi.Client.Droid.Resource.Attribute.crossfade;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.currentState = global::xTaxi.Client.Droid.Resource.Attribute.currentState;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.curveFit = global::xTaxi.Client.Droid.Resource.Attribute.curveFit;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.customBoolean = global::xTaxi.Client.Droid.Resource.Attribute.customBoolean;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.customColorDrawableValue = global::xTaxi.Client.Droid.Resource.Attribute.customColorDrawableValue;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.customColorValue = global::xTaxi.Client.Droid.Resource.Attribute.customColorValue;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.customDimension = global::xTaxi.Client.Droid.Resource.Attribute.customDimension;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.customFloatValue = global::xTaxi.Client.Droid.Resource.Attribute.customFloatValue;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.customIntegerValue = global::xTaxi.Client.Droid.Resource.Attribute.customIntegerValue;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.customNavigationLayout = global::xTaxi.Client.Droid.Resource.Attribute.customNavigationLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.customPixelDimension = global::xTaxi.Client.Droid.Resource.Attribute.customPixelDimension;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.customReference = global::xTaxi.Client.Droid.Resource.Attribute.customReference;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.customStringValue = global::xTaxi.Client.Droid.Resource.Attribute.customStringValue;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.data = global::xTaxi.Client.Droid.Resource.Attribute.data;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.dataPattern = global::xTaxi.Client.Droid.Resource.Attribute.dataPattern;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.dayInvalidStyle = global::xTaxi.Client.Droid.Resource.Attribute.dayInvalidStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.daySelectedStyle = global::xTaxi.Client.Droid.Resource.Attribute.daySelectedStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.dayStyle = global::xTaxi.Client.Droid.Resource.Attribute.dayStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.dayTodayStyle = global::xTaxi.Client.Droid.Resource.Attribute.dayTodayStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.defaultDuration = global::xTaxi.Client.Droid.Resource.Attribute.defaultDuration;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.defaultQueryHint = global::xTaxi.Client.Droid.Resource.Attribute.defaultQueryHint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.defaultState = global::xTaxi.Client.Droid.Resource.Attribute.defaultState;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.deltaPolarAngle = global::xTaxi.Client.Droid.Resource.Attribute.deltaPolarAngle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.deltaPolarRadius = global::xTaxi.Client.Droid.Resource.Attribute.deltaPolarRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.deriveConstraintsFrom = global::xTaxi.Client.Droid.Resource.Attribute.deriveConstraintsFrom;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.destination = global::xTaxi.Client.Droid.Resource.Attribute.destination;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.dialogCornerRadius = global::xTaxi.Client.Droid.Resource.Attribute.dialogCornerRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.dialogPreferredPadding = global::xTaxi.Client.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.dialogTheme = global::xTaxi.Client.Droid.Resource.Attribute.dialogTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.displayOptions = global::xTaxi.Client.Droid.Resource.Attribute.displayOptions;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.divider = global::xTaxi.Client.Droid.Resource.Attribute.divider;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.dividerHorizontal = global::xTaxi.Client.Droid.Resource.Attribute.dividerHorizontal;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.dividerPadding = global::xTaxi.Client.Droid.Resource.Attribute.dividerPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.dividerVertical = global::xTaxi.Client.Droid.Resource.Attribute.dividerVertical;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.dragDirection = global::xTaxi.Client.Droid.Resource.Attribute.dragDirection;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.dragScale = global::xTaxi.Client.Droid.Resource.Attribute.dragScale;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.dragThreshold = global::xTaxi.Client.Droid.Resource.Attribute.dragThreshold;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.drawableBottomCompat = global::xTaxi.Client.Droid.Resource.Attribute.drawableBottomCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.drawableEndCompat = global::xTaxi.Client.Droid.Resource.Attribute.drawableEndCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.drawableLeftCompat = global::xTaxi.Client.Droid.Resource.Attribute.drawableLeftCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.drawableRightCompat = global::xTaxi.Client.Droid.Resource.Attribute.drawableRightCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.drawableSize = global::xTaxi.Client.Droid.Resource.Attribute.drawableSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.drawableStartCompat = global::xTaxi.Client.Droid.Resource.Attribute.drawableStartCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.drawableTint = global::xTaxi.Client.Droid.Resource.Attribute.drawableTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.drawableTintMode = global::xTaxi.Client.Droid.Resource.Attribute.drawableTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.drawableTopCompat = global::xTaxi.Client.Droid.Resource.Attribute.drawableTopCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.drawerArrowStyle = global::xTaxi.Client.Droid.Resource.Attribute.drawerArrowStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.drawerLayoutStyle = global::xTaxi.Client.Droid.Resource.Attribute.drawerLayoutStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.drawPath = global::xTaxi.Client.Droid.Resource.Attribute.drawPath;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::xTaxi.Client.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.dropDownListViewStyle = global::xTaxi.Client.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.duration = global::xTaxi.Client.Droid.Resource.Attribute.duration;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.editTextBackground = global::xTaxi.Client.Droid.Resource.Attribute.editTextBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.editTextColor = global::xTaxi.Client.Droid.Resource.Attribute.editTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.editTextStyle = global::xTaxi.Client.Droid.Resource.Attribute.editTextStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.elevation = global::xTaxi.Client.Droid.Resource.Attribute.elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.elevationOverlayColor = global::xTaxi.Client.Droid.Resource.Attribute.elevationOverlayColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.elevationOverlayEnabled = global::xTaxi.Client.Droid.Resource.Attribute.elevationOverlayEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.enableEdgeToEdge = global::xTaxi.Client.Droid.Resource.Attribute.enableEdgeToEdge;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.endIconCheckable = global::xTaxi.Client.Droid.Resource.Attribute.endIconCheckable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.endIconContentDescription = global::xTaxi.Client.Droid.Resource.Attribute.endIconContentDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.endIconDrawable = global::xTaxi.Client.Droid.Resource.Attribute.endIconDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.endIconMode = global::xTaxi.Client.Droid.Resource.Attribute.endIconMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.endIconTint = global::xTaxi.Client.Droid.Resource.Attribute.endIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.endIconTintMode = global::xTaxi.Client.Droid.Resource.Attribute.endIconTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.enforceMaterialTheme = global::xTaxi.Client.Droid.Resource.Attribute.enforceMaterialTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.enforceTextAppearance = global::xTaxi.Client.Droid.Resource.Attribute.enforceTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.ensureMinTouchTargetSize = global::xTaxi.Client.Droid.Resource.Attribute.ensureMinTouchTargetSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.enterAnim = global::xTaxi.Client.Droid.Resource.Attribute.enterAnim;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.errorContentDescription = global::xTaxi.Client.Droid.Resource.Attribute.errorContentDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.errorEnabled = global::xTaxi.Client.Droid.Resource.Attribute.errorEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.errorIconDrawable = global::xTaxi.Client.Droid.Resource.Attribute.errorIconDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.errorIconTint = global::xTaxi.Client.Droid.Resource.Attribute.errorIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.errorIconTintMode = global::xTaxi.Client.Droid.Resource.Attribute.errorIconTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.errorTextAppearance = global::xTaxi.Client.Droid.Resource.Attribute.errorTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.errorTextColor = global::xTaxi.Client.Droid.Resource.Attribute.errorTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.exitAnim = global::xTaxi.Client.Droid.Resource.Attribute.exitAnim;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::xTaxi.Client.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.expanded = global::xTaxi.Client.Droid.Resource.Attribute.expanded;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.expandedHintEnabled = global::xTaxi.Client.Droid.Resource.Attribute.expandedHintEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.expandedTitleGravity = global::xTaxi.Client.Droid.Resource.Attribute.expandedTitleGravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.expandedTitleMargin = global::xTaxi.Client.Droid.Resource.Attribute.expandedTitleMargin;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.expandedTitleMarginBottom = global::xTaxi.Client.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.expandedTitleMarginEnd = global::xTaxi.Client.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.expandedTitleMarginStart = global::xTaxi.Client.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.expandedTitleMarginTop = global::xTaxi.Client.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.expandedTitleTextAppearance = global::xTaxi.Client.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.extendedFloatingActionButtonStyle = global::xTaxi.Client.Droid.Resource.Attribute.extendedFloatingActionButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.extendMotionSpec = global::xTaxi.Client.Droid.Resource.Attribute.extendMotionSpec;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.extraMultilineHeightEnabled = global::xTaxi.Client.Droid.Resource.Attribute.extraMultilineHeightEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fabAlignmentMode = global::xTaxi.Client.Droid.Resource.Attribute.fabAlignmentMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fabAnimationMode = global::xTaxi.Client.Droid.Resource.Attribute.fabAnimationMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fabCradleMargin = global::xTaxi.Client.Droid.Resource.Attribute.fabCradleMargin;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fabCradleRoundedCornerRadius = global::xTaxi.Client.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fabCradleVerticalOffset = global::xTaxi.Client.Droid.Resource.Attribute.fabCradleVerticalOffset;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fabCustomSize = global::xTaxi.Client.Droid.Resource.Attribute.fabCustomSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fabSize = global::xTaxi.Client.Droid.Resource.Attribute.fabSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fastScrollEnabled = global::xTaxi.Client.Droid.Resource.Attribute.fastScrollEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::xTaxi.Client.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::xTaxi.Client.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fastScrollVerticalThumbDrawable = global::xTaxi.Client.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fastScrollVerticalTrackDrawable = global::xTaxi.Client.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.firstBaselineToTopHeight = global::xTaxi.Client.Droid.Resource.Attribute.firstBaselineToTopHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.floatingActionButtonStyle = global::xTaxi.Client.Droid.Resource.Attribute.floatingActionButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.flow_firstHorizontalBias = global::xTaxi.Client.Droid.Resource.Attribute.flow_firstHorizontalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.flow_firstHorizontalStyle = global::xTaxi.Client.Droid.Resource.Attribute.flow_firstHorizontalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.flow_firstVerticalBias = global::xTaxi.Client.Droid.Resource.Attribute.flow_firstVerticalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.flow_firstVerticalStyle = global::xTaxi.Client.Droid.Resource.Attribute.flow_firstVerticalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.flow_horizontalAlign = global::xTaxi.Client.Droid.Resource.Attribute.flow_horizontalAlign;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.flow_horizontalBias = global::xTaxi.Client.Droid.Resource.Attribute.flow_horizontalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.flow_horizontalGap = global::xTaxi.Client.Droid.Resource.Attribute.flow_horizontalGap;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.flow_horizontalStyle = global::xTaxi.Client.Droid.Resource.Attribute.flow_horizontalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.flow_lastHorizontalBias = global::xTaxi.Client.Droid.Resource.Attribute.flow_lastHorizontalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.flow_lastHorizontalStyle = global::xTaxi.Client.Droid.Resource.Attribute.flow_lastHorizontalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.flow_lastVerticalBias = global::xTaxi.Client.Droid.Resource.Attribute.flow_lastVerticalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.flow_lastVerticalStyle = global::xTaxi.Client.Droid.Resource.Attribute.flow_lastVerticalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.flow_maxElementsWrap = global::xTaxi.Client.Droid.Resource.Attribute.flow_maxElementsWrap;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.flow_padding = global::xTaxi.Client.Droid.Resource.Attribute.flow_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.flow_verticalAlign = global::xTaxi.Client.Droid.Resource.Attribute.flow_verticalAlign;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.flow_verticalBias = global::xTaxi.Client.Droid.Resource.Attribute.flow_verticalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.flow_verticalGap = global::xTaxi.Client.Droid.Resource.Attribute.flow_verticalGap;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.flow_verticalStyle = global::xTaxi.Client.Droid.Resource.Attribute.flow_verticalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.flow_wrapMode = global::xTaxi.Client.Droid.Resource.Attribute.flow_wrapMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.font = global::xTaxi.Client.Droid.Resource.Attribute.font;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fontFamily = global::xTaxi.Client.Droid.Resource.Attribute.fontFamily;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fontProviderAuthority = global::xTaxi.Client.Droid.Resource.Attribute.fontProviderAuthority;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fontProviderCerts = global::xTaxi.Client.Droid.Resource.Attribute.fontProviderCerts;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fontProviderFetchStrategy = global::xTaxi.Client.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fontProviderFetchTimeout = global::xTaxi.Client.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fontProviderPackage = global::xTaxi.Client.Droid.Resource.Attribute.fontProviderPackage;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fontProviderQuery = global::xTaxi.Client.Droid.Resource.Attribute.fontProviderQuery;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fontProviderSystemFontFamily = global::xTaxi.Client.Droid.Resource.Attribute.fontProviderSystemFontFamily;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fontStyle = global::xTaxi.Client.Droid.Resource.Attribute.fontStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fontVariationSettings = global::xTaxi.Client.Droid.Resource.Attribute.fontVariationSettings;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.fontWeight = global::xTaxi.Client.Droid.Resource.Attribute.fontWeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.forceApplySystemWindowInsetTop = global::xTaxi.Client.Droid.Resource.Attribute.forceApplySystemWindowInsetTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.foregroundInsidePadding = global::xTaxi.Client.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.framePosition = global::xTaxi.Client.Droid.Resource.Attribute.framePosition;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.gapBetweenBars = global::xTaxi.Client.Droid.Resource.Attribute.gapBetweenBars;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.gestureInsetBottomIgnored = global::xTaxi.Client.Droid.Resource.Attribute.gestureInsetBottomIgnored;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.goIcon = global::xTaxi.Client.Droid.Resource.Attribute.goIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.graph = global::xTaxi.Client.Droid.Resource.Attribute.graph;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.haloColor = global::xTaxi.Client.Droid.Resource.Attribute.haloColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.haloRadius = global::xTaxi.Client.Droid.Resource.Attribute.haloRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.headerLayout = global::xTaxi.Client.Droid.Resource.Attribute.headerLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.height = global::xTaxi.Client.Droid.Resource.Attribute.height;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.helperText = global::xTaxi.Client.Droid.Resource.Attribute.helperText;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.helperTextEnabled = global::xTaxi.Client.Droid.Resource.Attribute.helperTextEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.helperTextTextAppearance = global::xTaxi.Client.Droid.Resource.Attribute.helperTextTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.helperTextTextColor = global::xTaxi.Client.Droid.Resource.Attribute.helperTextTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.hideAnimationBehavior = global::xTaxi.Client.Droid.Resource.Attribute.hideAnimationBehavior;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.hideMotionSpec = global::xTaxi.Client.Droid.Resource.Attribute.hideMotionSpec;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.hideOnContentScroll = global::xTaxi.Client.Droid.Resource.Attribute.hideOnContentScroll;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.hideOnScroll = global::xTaxi.Client.Droid.Resource.Attribute.hideOnScroll;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.hintAnimationEnabled = global::xTaxi.Client.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.hintEnabled = global::xTaxi.Client.Droid.Resource.Attribute.hintEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.hintTextAppearance = global::xTaxi.Client.Droid.Resource.Attribute.hintTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.hintTextColor = global::xTaxi.Client.Droid.Resource.Attribute.hintTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.homeAsUpIndicator = global::xTaxi.Client.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.homeLayout = global::xTaxi.Client.Droid.Resource.Attribute.homeLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.horizontalOffset = global::xTaxi.Client.Droid.Resource.Attribute.horizontalOffset;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.hoveredFocusedTranslationZ = global::xTaxi.Client.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.icon = global::xTaxi.Client.Droid.Resource.Attribute.icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.iconEndPadding = global::xTaxi.Client.Droid.Resource.Attribute.iconEndPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.iconGravity = global::xTaxi.Client.Droid.Resource.Attribute.iconGravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.iconifiedByDefault = global::xTaxi.Client.Droid.Resource.Attribute.iconifiedByDefault;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.iconPadding = global::xTaxi.Client.Droid.Resource.Attribute.iconPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.iconSize = global::xTaxi.Client.Droid.Resource.Attribute.iconSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.iconStartPadding = global::xTaxi.Client.Droid.Resource.Attribute.iconStartPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.iconTint = global::xTaxi.Client.Droid.Resource.Attribute.iconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.iconTintMode = global::xTaxi.Client.Droid.Resource.Attribute.iconTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.ifTagNotSet = global::xTaxi.Client.Droid.Resource.Attribute.ifTagNotSet;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.ifTagSet = global::xTaxi.Client.Droid.Resource.Attribute.ifTagSet;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.imageAspectRatio = global::xTaxi.Client.Droid.Resource.Attribute.imageAspectRatio;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.imageAspectRatioAdjust = global::xTaxi.Client.Droid.Resource.Attribute.imageAspectRatioAdjust;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.imageButtonStyle = global::xTaxi.Client.Droid.Resource.Attribute.imageButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.imagePanX = global::xTaxi.Client.Droid.Resource.Attribute.imagePanX;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.imagePanY = global::xTaxi.Client.Droid.Resource.Attribute.imagePanY;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.imageRotate = global::xTaxi.Client.Droid.Resource.Attribute.imageRotate;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.imageZoom = global::xTaxi.Client.Droid.Resource.Attribute.imageZoom;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.indeterminateAnimationType = global::xTaxi.Client.Droid.Resource.Attribute.indeterminateAnimationType;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.indeterminateProgressStyle = global::xTaxi.Client.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.indicatorColor = global::xTaxi.Client.Droid.Resource.Attribute.indicatorColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.indicatorDirectionCircular = global::xTaxi.Client.Droid.Resource.Attribute.indicatorDirectionCircular;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.indicatorDirectionLinear = global::xTaxi.Client.Droid.Resource.Attribute.indicatorDirectionLinear;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.indicatorInset = global::xTaxi.Client.Droid.Resource.Attribute.indicatorInset;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.indicatorSize = global::xTaxi.Client.Droid.Resource.Attribute.indicatorSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.initialActivityCount = global::xTaxi.Client.Droid.Resource.Attribute.initialActivityCount;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.insetForeground = global::xTaxi.Client.Droid.Resource.Attribute.insetForeground;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.isLightTheme = global::xTaxi.Client.Droid.Resource.Attribute.isLightTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.isMaterialTheme = global::xTaxi.Client.Droid.Resource.Attribute.isMaterialTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemBackground = global::xTaxi.Client.Droid.Resource.Attribute.itemBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemFillColor = global::xTaxi.Client.Droid.Resource.Attribute.itemFillColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemHorizontalPadding = global::xTaxi.Client.Droid.Resource.Attribute.itemHorizontalPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemHorizontalTranslationEnabled = global::xTaxi.Client.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemIconPadding = global::xTaxi.Client.Droid.Resource.Attribute.itemIconPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemIconSize = global::xTaxi.Client.Droid.Resource.Attribute.itemIconSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemIconTint = global::xTaxi.Client.Droid.Resource.Attribute.itemIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemMaxLines = global::xTaxi.Client.Droid.Resource.Attribute.itemMaxLines;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemPadding = global::xTaxi.Client.Droid.Resource.Attribute.itemPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemRippleColor = global::xTaxi.Client.Droid.Resource.Attribute.itemRippleColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemShapeAppearance = global::xTaxi.Client.Droid.Resource.Attribute.itemShapeAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemShapeAppearanceOverlay = global::xTaxi.Client.Droid.Resource.Attribute.itemShapeAppearanceOverlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemShapeFillColor = global::xTaxi.Client.Droid.Resource.Attribute.itemShapeFillColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemShapeInsetBottom = global::xTaxi.Client.Droid.Resource.Attribute.itemShapeInsetBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemShapeInsetEnd = global::xTaxi.Client.Droid.Resource.Attribute.itemShapeInsetEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemShapeInsetStart = global::xTaxi.Client.Droid.Resource.Attribute.itemShapeInsetStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemShapeInsetTop = global::xTaxi.Client.Droid.Resource.Attribute.itemShapeInsetTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemSpacing = global::xTaxi.Client.Droid.Resource.Attribute.itemSpacing;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemStrokeColor = global::xTaxi.Client.Droid.Resource.Attribute.itemStrokeColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemStrokeWidth = global::xTaxi.Client.Droid.Resource.Attribute.itemStrokeWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemTextAppearance = global::xTaxi.Client.Droid.Resource.Attribute.itemTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemTextAppearanceActive = global::xTaxi.Client.Droid.Resource.Attribute.itemTextAppearanceActive;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemTextAppearanceInactive = global::xTaxi.Client.Droid.Resource.Attribute.itemTextAppearanceInactive;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.itemTextColor = global::xTaxi.Client.Droid.Resource.Attribute.itemTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.keyboardIcon = global::xTaxi.Client.Droid.Resource.Attribute.keyboardIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.keylines = global::xTaxi.Client.Droid.Resource.Attribute.keylines;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.keyPositionType = global::xTaxi.Client.Droid.Resource.Attribute.keyPositionType;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.labelBehavior = global::xTaxi.Client.Droid.Resource.Attribute.labelBehavior;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.labelStyle = global::xTaxi.Client.Droid.Resource.Attribute.labelStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.labelVisibilityMode = global::xTaxi.Client.Droid.Resource.Attribute.labelVisibilityMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.lastBaselineToBottomHeight = global::xTaxi.Client.Droid.Resource.Attribute.lastBaselineToBottomHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.latLngBoundsNorthEastLatitude = global::xTaxi.Client.Droid.Resource.Attribute.latLngBoundsNorthEastLatitude;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.latLngBoundsNorthEastLongitude = global::xTaxi.Client.Droid.Resource.Attribute.latLngBoundsNorthEastLongitude;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.latLngBoundsSouthWestLatitude = global::xTaxi.Client.Droid.Resource.Attribute.latLngBoundsSouthWestLatitude;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.latLngBoundsSouthWestLongitude = global::xTaxi.Client.Droid.Resource.Attribute.latLngBoundsSouthWestLongitude;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.launchSingleTop = global::xTaxi.Client.Droid.Resource.Attribute.launchSingleTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout = global::xTaxi.Client.Droid.Resource.Attribute.layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layoutDescription = global::xTaxi.Client.Droid.Resource.Attribute.layoutDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layoutDuringTransition = global::xTaxi.Client.Droid.Resource.Attribute.layoutDuringTransition;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layoutManager = global::xTaxi.Client.Droid.Resource.Attribute.layoutManager;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_anchor = global::xTaxi.Client.Droid.Resource.Attribute.layout_anchor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_anchorGravity = global::xTaxi.Client.Droid.Resource.Attribute.layout_anchorGravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_behavior = global::xTaxi.Client.Droid.Resource.Attribute.layout_behavior;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_collapseMode = global::xTaxi.Client.Droid.Resource.Attribute.layout_collapseMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_collapseParallaxMultiplier = global::xTaxi.Client.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constrainedHeight = global::xTaxi.Client.Droid.Resource.Attribute.layout_constrainedHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constrainedWidth = global::xTaxi.Client.Droid.Resource.Attribute.layout_constrainedWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintBaseline_creator = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintBaseline_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintBaseline_toBaselineOf = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintBaseline_toBaselineOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintBaseline_toBottomOf = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintBaseline_toBottomOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintBaseline_toTopOf = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintBaseline_toTopOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintBottom_creator = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintBottom_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintBottom_toBottomOf = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintBottom_toBottomOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintBottom_toTopOf = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintBottom_toTopOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintCircle = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintCircle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintCircleAngle = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintCircleAngle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintCircleRadius = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintCircleRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintDimensionRatio = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintDimensionRatio;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintEnd_toEndOf = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintEnd_toEndOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintEnd_toStartOf = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintEnd_toStartOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintGuide_begin = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintGuide_begin;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintGuide_end = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintGuide_end;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintGuide_percent = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintGuide_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintHeight = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintHeight_default = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintHeight_default;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintHeight_max = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintHeight_max;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintHeight_min = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintHeight_min;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintHeight_percent = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintHeight_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintHorizontal_bias = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintHorizontal_bias;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintHorizontal_chainStyle = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintHorizontal_chainStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintHorizontal_weight = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintHorizontal_weight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintLeft_creator = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintLeft_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintLeft_toLeftOf = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintLeft_toLeftOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintLeft_toRightOf = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintLeft_toRightOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintRight_creator = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintRight_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintRight_toLeftOf = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintRight_toLeftOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintRight_toRightOf = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintRight_toRightOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintStart_toEndOf = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintStart_toEndOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintStart_toStartOf = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintStart_toStartOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintTag = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintTag;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintTop_creator = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintTop_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintTop_toBottomOf = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintTop_toBottomOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintTop_toTopOf = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintTop_toTopOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintVertical_bias = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintVertical_bias;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintVertical_chainStyle = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintVertical_chainStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintVertical_weight = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintVertical_weight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintWidth = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintWidth_default = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintWidth_default;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintWidth_max = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintWidth_max;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintWidth_min = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintWidth_min;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_constraintWidth_percent = global::xTaxi.Client.Droid.Resource.Attribute.layout_constraintWidth_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_dodgeInsetEdges = global::xTaxi.Client.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_editor_absoluteX = global::xTaxi.Client.Droid.Resource.Attribute.layout_editor_absoluteX;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_editor_absoluteY = global::xTaxi.Client.Droid.Resource.Attribute.layout_editor_absoluteY;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_goneMarginBaseline = global::xTaxi.Client.Droid.Resource.Attribute.layout_goneMarginBaseline;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_goneMarginBottom = global::xTaxi.Client.Droid.Resource.Attribute.layout_goneMarginBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_goneMarginEnd = global::xTaxi.Client.Droid.Resource.Attribute.layout_goneMarginEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_goneMarginLeft = global::xTaxi.Client.Droid.Resource.Attribute.layout_goneMarginLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_goneMarginRight = global::xTaxi.Client.Droid.Resource.Attribute.layout_goneMarginRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_goneMarginStart = global::xTaxi.Client.Droid.Resource.Attribute.layout_goneMarginStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_goneMarginTop = global::xTaxi.Client.Droid.Resource.Attribute.layout_goneMarginTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_insetEdge = global::xTaxi.Client.Droid.Resource.Attribute.layout_insetEdge;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_keyline = global::xTaxi.Client.Droid.Resource.Attribute.layout_keyline;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_marginBaseline = global::xTaxi.Client.Droid.Resource.Attribute.layout_marginBaseline;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_optimizationLevel = global::xTaxi.Client.Droid.Resource.Attribute.layout_optimizationLevel;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_scrollFlags = global::xTaxi.Client.Droid.Resource.Attribute.layout_scrollFlags;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_scrollInterpolator = global::xTaxi.Client.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.layout_wrapBehaviorInParent = global::xTaxi.Client.Droid.Resource.Attribute.layout_wrapBehaviorInParent;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.liftOnScroll = global::xTaxi.Client.Droid.Resource.Attribute.liftOnScroll;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.liftOnScrollTargetViewId = global::xTaxi.Client.Droid.Resource.Attribute.liftOnScrollTargetViewId;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.limitBoundsTo = global::xTaxi.Client.Droid.Resource.Attribute.limitBoundsTo;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.linearProgressIndicatorStyle = global::xTaxi.Client.Droid.Resource.Attribute.linearProgressIndicatorStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.lineHeight = global::xTaxi.Client.Droid.Resource.Attribute.lineHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.lineSpacing = global::xTaxi.Client.Droid.Resource.Attribute.lineSpacing;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::xTaxi.Client.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.listChoiceIndicatorMultipleAnimated = global::xTaxi.Client.Droid.Resource.Attribute.listChoiceIndicatorMultipleAnimated;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.listChoiceIndicatorSingleAnimated = global::xTaxi.Client.Droid.Resource.Attribute.listChoiceIndicatorSingleAnimated;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.listDividerAlertDialog = global::xTaxi.Client.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.listItemLayout = global::xTaxi.Client.Droid.Resource.Attribute.listItemLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.listLayout = global::xTaxi.Client.Droid.Resource.Attribute.listLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.listMenuViewStyle = global::xTaxi.Client.Droid.Resource.Attribute.listMenuViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.listPopupWindowStyle = global::xTaxi.Client.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.listPreferredItemHeight = global::xTaxi.Client.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.listPreferredItemHeightLarge = global::xTaxi.Client.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.listPreferredItemHeightSmall = global::xTaxi.Client.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.listPreferredItemPaddingEnd = global::xTaxi.Client.Droid.Resource.Attribute.listPreferredItemPaddingEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::xTaxi.Client.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.listPreferredItemPaddingRight = global::xTaxi.Client.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.listPreferredItemPaddingStart = global::xTaxi.Client.Droid.Resource.Attribute.listPreferredItemPaddingStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.liteMode = global::xTaxi.Client.Droid.Resource.Attribute.liteMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.logo = global::xTaxi.Client.Droid.Resource.Attribute.logo;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.logoDescription = global::xTaxi.Client.Droid.Resource.Attribute.logoDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.mapType = global::xTaxi.Client.Droid.Resource.Attribute.mapType;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialAlertDialogBodyTextStyle = global::xTaxi.Client.Droid.Resource.Attribute.materialAlertDialogBodyTextStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialAlertDialogTheme = global::xTaxi.Client.Droid.Resource.Attribute.materialAlertDialogTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialAlertDialogTitleIconStyle = global::xTaxi.Client.Droid.Resource.Attribute.materialAlertDialogTitleIconStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialAlertDialogTitlePanelStyle = global::xTaxi.Client.Droid.Resource.Attribute.materialAlertDialogTitlePanelStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialAlertDialogTitleTextStyle = global::xTaxi.Client.Droid.Resource.Attribute.materialAlertDialogTitleTextStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialButtonOutlinedStyle = global::xTaxi.Client.Droid.Resource.Attribute.materialButtonOutlinedStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialButtonStyle = global::xTaxi.Client.Droid.Resource.Attribute.materialButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialButtonToggleGroupStyle = global::xTaxi.Client.Droid.Resource.Attribute.materialButtonToggleGroupStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialCalendarDay = global::xTaxi.Client.Droid.Resource.Attribute.materialCalendarDay;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialCalendarFullscreenTheme = global::xTaxi.Client.Droid.Resource.Attribute.materialCalendarFullscreenTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialCalendarHeaderCancelButton = global::xTaxi.Client.Droid.Resource.Attribute.materialCalendarHeaderCancelButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialCalendarHeaderConfirmButton = global::xTaxi.Client.Droid.Resource.Attribute.materialCalendarHeaderConfirmButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialCalendarHeaderDivider = global::xTaxi.Client.Droid.Resource.Attribute.materialCalendarHeaderDivider;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialCalendarHeaderLayout = global::xTaxi.Client.Droid.Resource.Attribute.materialCalendarHeaderLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialCalendarHeaderSelection = global::xTaxi.Client.Droid.Resource.Attribute.materialCalendarHeaderSelection;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialCalendarHeaderTitle = global::xTaxi.Client.Droid.Resource.Attribute.materialCalendarHeaderTitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialCalendarHeaderToggleButton = global::xTaxi.Client.Droid.Resource.Attribute.materialCalendarHeaderToggleButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialCalendarMonth = global::xTaxi.Client.Droid.Resource.Attribute.materialCalendarMonth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialCalendarMonthNavigationButton = global::xTaxi.Client.Droid.Resource.Attribute.materialCalendarMonthNavigationButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialCalendarStyle = global::xTaxi.Client.Droid.Resource.Attribute.materialCalendarStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialCalendarTheme = global::xTaxi.Client.Droid.Resource.Attribute.materialCalendarTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialCalendarYearNavigationButton = global::xTaxi.Client.Droid.Resource.Attribute.materialCalendarYearNavigationButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialCardViewStyle = global::xTaxi.Client.Droid.Resource.Attribute.materialCardViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialCircleRadius = global::xTaxi.Client.Droid.Resource.Attribute.materialCircleRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialClockStyle = global::xTaxi.Client.Droid.Resource.Attribute.materialClockStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialThemeOverlay = global::xTaxi.Client.Droid.Resource.Attribute.materialThemeOverlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialTimePickerStyle = global::xTaxi.Client.Droid.Resource.Attribute.materialTimePickerStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.materialTimePickerTheme = global::xTaxi.Client.Droid.Resource.Attribute.materialTimePickerTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.maxAcceleration = global::xTaxi.Client.Droid.Resource.Attribute.maxAcceleration;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.maxActionInlineWidth = global::xTaxi.Client.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.maxButtonHeight = global::xTaxi.Client.Droid.Resource.Attribute.maxButtonHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.maxCharacterCount = global::xTaxi.Client.Droid.Resource.Attribute.maxCharacterCount;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.maxHeight = global::xTaxi.Client.Droid.Resource.Attribute.maxHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.maxImageSize = global::xTaxi.Client.Droid.Resource.Attribute.maxImageSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.maxLines = global::xTaxi.Client.Droid.Resource.Attribute.maxLines;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.maxVelocity = global::xTaxi.Client.Droid.Resource.Attribute.maxVelocity;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.maxWidth = global::xTaxi.Client.Droid.Resource.Attribute.maxWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.measureWithLargestChild = global::xTaxi.Client.Droid.Resource.Attribute.measureWithLargestChild;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.menu = global::xTaxi.Client.Droid.Resource.Attribute.menu;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.menuGravity = global::xTaxi.Client.Droid.Resource.Attribute.menuGravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.methodName = global::xTaxi.Client.Droid.Resource.Attribute.methodName;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.mimeType = global::xTaxi.Client.Droid.Resource.Attribute.mimeType;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.minHeight = global::xTaxi.Client.Droid.Resource.Attribute.minHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.minHideDelay = global::xTaxi.Client.Droid.Resource.Attribute.minHideDelay;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.minSeparation = global::xTaxi.Client.Droid.Resource.Attribute.minSeparation;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.minTouchTargetSize = global::xTaxi.Client.Droid.Resource.Attribute.minTouchTargetSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.minWidth = global::xTaxi.Client.Droid.Resource.Attribute.minWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.mock_diagonalsColor = global::xTaxi.Client.Droid.Resource.Attribute.mock_diagonalsColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.mock_label = global::xTaxi.Client.Droid.Resource.Attribute.mock_label;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.mock_labelBackgroundColor = global::xTaxi.Client.Droid.Resource.Attribute.mock_labelBackgroundColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.mock_labelColor = global::xTaxi.Client.Droid.Resource.Attribute.mock_labelColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.mock_showDiagonals = global::xTaxi.Client.Droid.Resource.Attribute.mock_showDiagonals;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.mock_showLabel = global::xTaxi.Client.Droid.Resource.Attribute.mock_showLabel;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionDebug = global::xTaxi.Client.Droid.Resource.Attribute.motionDebug;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionDurationLong1 = global::xTaxi.Client.Droid.Resource.Attribute.motionDurationLong1;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionDurationLong2 = global::xTaxi.Client.Droid.Resource.Attribute.motionDurationLong2;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionDurationMedium1 = global::xTaxi.Client.Droid.Resource.Attribute.motionDurationMedium1;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionDurationMedium2 = global::xTaxi.Client.Droid.Resource.Attribute.motionDurationMedium2;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionDurationShort1 = global::xTaxi.Client.Droid.Resource.Attribute.motionDurationShort1;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionDurationShort2 = global::xTaxi.Client.Droid.Resource.Attribute.motionDurationShort2;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionEasingAccelerated = global::xTaxi.Client.Droid.Resource.Attribute.motionEasingAccelerated;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionEasingDecelerated = global::xTaxi.Client.Droid.Resource.Attribute.motionEasingDecelerated;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionEasingEmphasized = global::xTaxi.Client.Droid.Resource.Attribute.motionEasingEmphasized;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionEasingLinear = global::xTaxi.Client.Droid.Resource.Attribute.motionEasingLinear;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionEasingStandard = global::xTaxi.Client.Droid.Resource.Attribute.motionEasingStandard;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionEffect_alpha = global::xTaxi.Client.Droid.Resource.Attribute.motionEffect_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionEffect_end = global::xTaxi.Client.Droid.Resource.Attribute.motionEffect_end;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionEffect_move = global::xTaxi.Client.Droid.Resource.Attribute.motionEffect_move;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionEffect_start = global::xTaxi.Client.Droid.Resource.Attribute.motionEffect_start;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionEffect_strict = global::xTaxi.Client.Droid.Resource.Attribute.motionEffect_strict;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionEffect_translationX = global::xTaxi.Client.Droid.Resource.Attribute.motionEffect_translationX;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionEffect_translationY = global::xTaxi.Client.Droid.Resource.Attribute.motionEffect_translationY;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionEffect_viewTransition = global::xTaxi.Client.Droid.Resource.Attribute.motionEffect_viewTransition;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionInterpolator = global::xTaxi.Client.Droid.Resource.Attribute.motionInterpolator;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionPath = global::xTaxi.Client.Droid.Resource.Attribute.motionPath;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionPathRotate = global::xTaxi.Client.Droid.Resource.Attribute.motionPathRotate;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionProgress = global::xTaxi.Client.Droid.Resource.Attribute.motionProgress;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionStagger = global::xTaxi.Client.Droid.Resource.Attribute.motionStagger;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motionTarget = global::xTaxi.Client.Droid.Resource.Attribute.motionTarget;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motion_postLayoutCollision = global::xTaxi.Client.Droid.Resource.Attribute.motion_postLayoutCollision;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.motion_triggerOnCollision = global::xTaxi.Client.Droid.Resource.Attribute.motion_triggerOnCollision;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.moveWhenScrollAtTop = global::xTaxi.Client.Droid.Resource.Attribute.moveWhenScrollAtTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.multiChoiceItemLayout = global::xTaxi.Client.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.navGraph = global::xTaxi.Client.Droid.Resource.Attribute.navGraph;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.navigationContentDescription = global::xTaxi.Client.Droid.Resource.Attribute.navigationContentDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.navigationIcon = global::xTaxi.Client.Droid.Resource.Attribute.navigationIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.navigationIconTint = global::xTaxi.Client.Droid.Resource.Attribute.navigationIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.navigationMode = global::xTaxi.Client.Droid.Resource.Attribute.navigationMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.navigationRailStyle = global::xTaxi.Client.Droid.Resource.Attribute.navigationRailStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.navigationViewStyle = global::xTaxi.Client.Droid.Resource.Attribute.navigationViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.nestedScrollable = global::xTaxi.Client.Droid.Resource.Attribute.nestedScrollable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.nestedScrollFlags = global::xTaxi.Client.Droid.Resource.Attribute.nestedScrollFlags;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.nestedScrollViewStyle = global::xTaxi.Client.Droid.Resource.Attribute.nestedScrollViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.nullable = global::xTaxi.Client.Droid.Resource.Attribute.nullable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.number = global::xTaxi.Client.Droid.Resource.Attribute.number;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.numericModifiers = global::xTaxi.Client.Droid.Resource.Attribute.numericModifiers;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.onCross = global::xTaxi.Client.Droid.Resource.Attribute.onCross;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.onHide = global::xTaxi.Client.Droid.Resource.Attribute.onHide;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.onNegativeCross = global::xTaxi.Client.Droid.Resource.Attribute.onNegativeCross;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.onPositiveCross = global::xTaxi.Client.Droid.Resource.Attribute.onPositiveCross;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.onShow = global::xTaxi.Client.Droid.Resource.Attribute.onShow;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.onStateTransition = global::xTaxi.Client.Droid.Resource.Attribute.onStateTransition;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.onTouchUp = global::xTaxi.Client.Droid.Resource.Attribute.onTouchUp;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.overlapAnchor = global::xTaxi.Client.Droid.Resource.Attribute.overlapAnchor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.overlay = global::xTaxi.Client.Droid.Resource.Attribute.overlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.paddingBottomNoButtons = global::xTaxi.Client.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.paddingBottomSystemWindowInsets = global::xTaxi.Client.Droid.Resource.Attribute.paddingBottomSystemWindowInsets;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.paddingEnd = global::xTaxi.Client.Droid.Resource.Attribute.paddingEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.paddingLeftSystemWindowInsets = global::xTaxi.Client.Droid.Resource.Attribute.paddingLeftSystemWindowInsets;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.paddingRightSystemWindowInsets = global::xTaxi.Client.Droid.Resource.Attribute.paddingRightSystemWindowInsets;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.paddingStart = global::xTaxi.Client.Droid.Resource.Attribute.paddingStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.paddingTopNoTitle = global::xTaxi.Client.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.paddingTopSystemWindowInsets = global::xTaxi.Client.Droid.Resource.Attribute.paddingTopSystemWindowInsets;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.panelBackground = global::xTaxi.Client.Droid.Resource.Attribute.panelBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.panelMenuListTheme = global::xTaxi.Client.Droid.Resource.Attribute.panelMenuListTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.panelMenuListWidth = global::xTaxi.Client.Droid.Resource.Attribute.panelMenuListWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.passwordToggleContentDescription = global::xTaxi.Client.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.passwordToggleDrawable = global::xTaxi.Client.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.passwordToggleEnabled = global::xTaxi.Client.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.passwordToggleTint = global::xTaxi.Client.Droid.Resource.Attribute.passwordToggleTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.passwordToggleTintMode = global::xTaxi.Client.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.pathMotionArc = global::xTaxi.Client.Droid.Resource.Attribute.pathMotionArc;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.path_percent = global::xTaxi.Client.Droid.Resource.Attribute.path_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.percentHeight = global::xTaxi.Client.Droid.Resource.Attribute.percentHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.percentWidth = global::xTaxi.Client.Droid.Resource.Attribute.percentWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.percentX = global::xTaxi.Client.Droid.Resource.Attribute.percentX;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.percentY = global::xTaxi.Client.Droid.Resource.Attribute.percentY;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.perpendicularPath_percent = global::xTaxi.Client.Droid.Resource.Attribute.perpendicularPath_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.pivotAnchor = global::xTaxi.Client.Droid.Resource.Attribute.pivotAnchor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.placeholderText = global::xTaxi.Client.Droid.Resource.Attribute.placeholderText;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.placeholderTextAppearance = global::xTaxi.Client.Droid.Resource.Attribute.placeholderTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.placeholderTextColor = global::xTaxi.Client.Droid.Resource.Attribute.placeholderTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.placeholder_emptyVisibility = global::xTaxi.Client.Droid.Resource.Attribute.placeholder_emptyVisibility;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.polarRelativeTo = global::xTaxi.Client.Droid.Resource.Attribute.polarRelativeTo;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.popEnterAnim = global::xTaxi.Client.Droid.Resource.Attribute.popEnterAnim;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.popExitAnim = global::xTaxi.Client.Droid.Resource.Attribute.popExitAnim;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.popupMenuBackground = global::xTaxi.Client.Droid.Resource.Attribute.popupMenuBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.popupMenuStyle = global::xTaxi.Client.Droid.Resource.Attribute.popupMenuStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.popupTheme = global::xTaxi.Client.Droid.Resource.Attribute.popupTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.popUpTo = global::xTaxi.Client.Droid.Resource.Attribute.popUpTo;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.popUpToInclusive = global::xTaxi.Client.Droid.Resource.Attribute.popUpToInclusive;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.popupWindowStyle = global::xTaxi.Client.Droid.Resource.Attribute.popupWindowStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.prefixText = global::xTaxi.Client.Droid.Resource.Attribute.prefixText;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.prefixTextAppearance = global::xTaxi.Client.Droid.Resource.Attribute.prefixTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.prefixTextColor = global::xTaxi.Client.Droid.Resource.Attribute.prefixTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.preserveIconSpacing = global::xTaxi.Client.Droid.Resource.Attribute.preserveIconSpacing;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.pressedTranslationZ = global::xTaxi.Client.Droid.Resource.Attribute.pressedTranslationZ;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.progressBarPadding = global::xTaxi.Client.Droid.Resource.Attribute.progressBarPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.progressBarStyle = global::xTaxi.Client.Droid.Resource.Attribute.progressBarStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.quantizeMotionInterpolator = global::xTaxi.Client.Droid.Resource.Attribute.quantizeMotionInterpolator;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.quantizeMotionPhase = global::xTaxi.Client.Droid.Resource.Attribute.quantizeMotionPhase;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.quantizeMotionSteps = global::xTaxi.Client.Droid.Resource.Attribute.quantizeMotionSteps;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.queryBackground = global::xTaxi.Client.Droid.Resource.Attribute.queryBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.queryHint = global::xTaxi.Client.Droid.Resource.Attribute.queryHint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.queryPatterns = global::xTaxi.Client.Droid.Resource.Attribute.queryPatterns;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.radioButtonStyle = global::xTaxi.Client.Droid.Resource.Attribute.radioButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.rangeFillColor = global::xTaxi.Client.Droid.Resource.Attribute.rangeFillColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.ratingBarStyle = global::xTaxi.Client.Droid.Resource.Attribute.ratingBarStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.ratingBarStyleIndicator = global::xTaxi.Client.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.ratingBarStyleSmall = global::xTaxi.Client.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.reactiveGuide_animateChange = global::xTaxi.Client.Droid.Resource.Attribute.reactiveGuide_animateChange;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.reactiveGuide_applyToAllConstraintSets = global::xTaxi.Client.Droid.Resource.Attribute.reactiveGuide_applyToAllConstraintSets;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.reactiveGuide_applyToConstraintSet = global::xTaxi.Client.Droid.Resource.Attribute.reactiveGuide_applyToConstraintSet;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.reactiveGuide_valueId = global::xTaxi.Client.Droid.Resource.Attribute.reactiveGuide_valueId;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.recyclerViewStyle = global::xTaxi.Client.Droid.Resource.Attribute.recyclerViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.region_heightLessThan = global::xTaxi.Client.Droid.Resource.Attribute.region_heightLessThan;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.region_heightMoreThan = global::xTaxi.Client.Droid.Resource.Attribute.region_heightMoreThan;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.region_widthLessThan = global::xTaxi.Client.Droid.Resource.Attribute.region_widthLessThan;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.region_widthMoreThan = global::xTaxi.Client.Droid.Resource.Attribute.region_widthMoreThan;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.reverseLayout = global::xTaxi.Client.Droid.Resource.Attribute.reverseLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.rippleColor = global::xTaxi.Client.Droid.Resource.Attribute.rippleColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.rotationCenterId = global::xTaxi.Client.Droid.Resource.Attribute.rotationCenterId;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.round = global::xTaxi.Client.Droid.Resource.Attribute.round;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.roundPercent = global::xTaxi.Client.Droid.Resource.Attribute.roundPercent;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.saturation = global::xTaxi.Client.Droid.Resource.Attribute.saturation;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.scaleFromTextSize = global::xTaxi.Client.Droid.Resource.Attribute.scaleFromTextSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.scopeUris = global::xTaxi.Client.Droid.Resource.Attribute.scopeUris;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.scrimAnimationDuration = global::xTaxi.Client.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.scrimBackground = global::xTaxi.Client.Droid.Resource.Attribute.scrimBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.scrimVisibleHeightTrigger = global::xTaxi.Client.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.scrollViewStyle = global::xTaxi.Client.Droid.Resource.Attribute.scrollViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.searchHintIcon = global::xTaxi.Client.Droid.Resource.Attribute.searchHintIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.searchIcon = global::xTaxi.Client.Droid.Resource.Attribute.searchIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.searchViewStyle = global::xTaxi.Client.Droid.Resource.Attribute.searchViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.seekBarStyle = global::xTaxi.Client.Droid.Resource.Attribute.seekBarStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.selectableItemBackground = global::xTaxi.Client.Droid.Resource.Attribute.selectableItemBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::xTaxi.Client.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.selectionRequired = global::xTaxi.Client.Droid.Resource.Attribute.selectionRequired;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.selectorSize = global::xTaxi.Client.Droid.Resource.Attribute.selectorSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.setsTag = global::xTaxi.Client.Droid.Resource.Attribute.setsTag;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.shapeAppearance = global::xTaxi.Client.Droid.Resource.Attribute.shapeAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.shapeAppearanceLargeComponent = global::xTaxi.Client.Droid.Resource.Attribute.shapeAppearanceLargeComponent;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.shapeAppearanceMediumComponent = global::xTaxi.Client.Droid.Resource.Attribute.shapeAppearanceMediumComponent;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.shapeAppearanceOverlay = global::xTaxi.Client.Droid.Resource.Attribute.shapeAppearanceOverlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.shapeAppearanceSmallComponent = global::xTaxi.Client.Droid.Resource.Attribute.shapeAppearanceSmallComponent;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.SharedValue = global::xTaxi.Client.Droid.Resource.Attribute.SharedValue;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.SharedValueId = global::xTaxi.Client.Droid.Resource.Attribute.SharedValueId;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.shortcutMatchRequired = global::xTaxi.Client.Droid.Resource.Attribute.shortcutMatchRequired;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.showAnimationBehavior = global::xTaxi.Client.Droid.Resource.Attribute.showAnimationBehavior;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.showAsAction = global::xTaxi.Client.Droid.Resource.Attribute.showAsAction;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.showDelay = global::xTaxi.Client.Droid.Resource.Attribute.showDelay;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.showDividers = global::xTaxi.Client.Droid.Resource.Attribute.showDividers;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.showMotionSpec = global::xTaxi.Client.Droid.Resource.Attribute.showMotionSpec;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.showPaths = global::xTaxi.Client.Droid.Resource.Attribute.showPaths;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.showText = global::xTaxi.Client.Droid.Resource.Attribute.showText;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.showTitle = global::xTaxi.Client.Droid.Resource.Attribute.showTitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.shrinkMotionSpec = global::xTaxi.Client.Droid.Resource.Attribute.shrinkMotionSpec;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.singleChoiceItemLayout = global::xTaxi.Client.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.singleLine = global::xTaxi.Client.Droid.Resource.Attribute.singleLine;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.singleSelection = global::xTaxi.Client.Droid.Resource.Attribute.singleSelection;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.sizePercent = global::xTaxi.Client.Droid.Resource.Attribute.sizePercent;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.sliderStyle = global::xTaxi.Client.Droid.Resource.Attribute.sliderStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.snackbarButtonStyle = global::xTaxi.Client.Droid.Resource.Attribute.snackbarButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.snackbarStyle = global::xTaxi.Client.Droid.Resource.Attribute.snackbarStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.snackbarTextViewStyle = global::xTaxi.Client.Droid.Resource.Attribute.snackbarTextViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.spanCount = global::xTaxi.Client.Droid.Resource.Attribute.spanCount;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.spinBars = global::xTaxi.Client.Droid.Resource.Attribute.spinBars;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.spinnerDropDownItemStyle = global::xTaxi.Client.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.spinnerStyle = global::xTaxi.Client.Droid.Resource.Attribute.spinnerStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.splitTrack = global::xTaxi.Client.Droid.Resource.Attribute.splitTrack;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.springBoundary = global::xTaxi.Client.Droid.Resource.Attribute.springBoundary;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.springDamping = global::xTaxi.Client.Droid.Resource.Attribute.springDamping;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.springMass = global::xTaxi.Client.Droid.Resource.Attribute.springMass;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.springStiffness = global::xTaxi.Client.Droid.Resource.Attribute.springStiffness;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.springStopThreshold = global::xTaxi.Client.Droid.Resource.Attribute.springStopThreshold;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.srcCompat = global::xTaxi.Client.Droid.Resource.Attribute.srcCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.stackFromEnd = global::xTaxi.Client.Droid.Resource.Attribute.stackFromEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.staggered = global::xTaxi.Client.Droid.Resource.Attribute.staggered;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.startDestination = global::xTaxi.Client.Droid.Resource.Attribute.startDestination;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.startIconCheckable = global::xTaxi.Client.Droid.Resource.Attribute.startIconCheckable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.startIconContentDescription = global::xTaxi.Client.Droid.Resource.Attribute.startIconContentDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.startIconDrawable = global::xTaxi.Client.Droid.Resource.Attribute.startIconDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.startIconTint = global::xTaxi.Client.Droid.Resource.Attribute.startIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.startIconTintMode = global::xTaxi.Client.Droid.Resource.Attribute.startIconTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.state_above_anchor = global::xTaxi.Client.Droid.Resource.Attribute.state_above_anchor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.state_collapsed = global::xTaxi.Client.Droid.Resource.Attribute.state_collapsed;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.state_collapsible = global::xTaxi.Client.Droid.Resource.Attribute.state_collapsible;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.state_dragged = global::xTaxi.Client.Droid.Resource.Attribute.state_dragged;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.state_liftable = global::xTaxi.Client.Droid.Resource.Attribute.state_liftable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.state_lifted = global::xTaxi.Client.Droid.Resource.Attribute.state_lifted;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.statusBarBackground = global::xTaxi.Client.Droid.Resource.Attribute.statusBarBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.statusBarForeground = global::xTaxi.Client.Droid.Resource.Attribute.statusBarForeground;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.statusBarScrim = global::xTaxi.Client.Droid.Resource.Attribute.statusBarScrim;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.strokeColor = global::xTaxi.Client.Droid.Resource.Attribute.strokeColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.strokeWidth = global::xTaxi.Client.Droid.Resource.Attribute.strokeWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.subMenuArrow = global::xTaxi.Client.Droid.Resource.Attribute.subMenuArrow;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.submitBackground = global::xTaxi.Client.Droid.Resource.Attribute.submitBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.subtitle = global::xTaxi.Client.Droid.Resource.Attribute.subtitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.subtitleCentered = global::xTaxi.Client.Droid.Resource.Attribute.subtitleCentered;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.subtitleTextAppearance = global::xTaxi.Client.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.subtitleTextColor = global::xTaxi.Client.Droid.Resource.Attribute.subtitleTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.subtitleTextStyle = global::xTaxi.Client.Droid.Resource.Attribute.subtitleTextStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.suffixText = global::xTaxi.Client.Droid.Resource.Attribute.suffixText;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.suffixTextAppearance = global::xTaxi.Client.Droid.Resource.Attribute.suffixTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.suffixTextColor = global::xTaxi.Client.Droid.Resource.Attribute.suffixTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.suggestionRowLayout = global::xTaxi.Client.Droid.Resource.Attribute.suggestionRowLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.swipeRefreshLayoutProgressSpinnerBackgroundColor = global::xTaxi.Client.Droid.Resource.Attribute.swipeRefreshLayoutProgressSpinnerBackgroundColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.switchMinWidth = global::xTaxi.Client.Droid.Resource.Attribute.switchMinWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.switchPadding = global::xTaxi.Client.Droid.Resource.Attribute.switchPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.switchStyle = global::xTaxi.Client.Droid.Resource.Attribute.switchStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.switchTextAppearance = global::xTaxi.Client.Droid.Resource.Attribute.switchTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabBackground = global::xTaxi.Client.Droid.Resource.Attribute.tabBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabContentStart = global::xTaxi.Client.Droid.Resource.Attribute.tabContentStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabGravity = global::xTaxi.Client.Droid.Resource.Attribute.tabGravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabIconTint = global::xTaxi.Client.Droid.Resource.Attribute.tabIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabIconTintMode = global::xTaxi.Client.Droid.Resource.Attribute.tabIconTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabIndicator = global::xTaxi.Client.Droid.Resource.Attribute.tabIndicator;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabIndicatorAnimationDuration = global::xTaxi.Client.Droid.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabIndicatorAnimationMode = global::xTaxi.Client.Droid.Resource.Attribute.tabIndicatorAnimationMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabIndicatorColor = global::xTaxi.Client.Droid.Resource.Attribute.tabIndicatorColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabIndicatorFullWidth = global::xTaxi.Client.Droid.Resource.Attribute.tabIndicatorFullWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabIndicatorGravity = global::xTaxi.Client.Droid.Resource.Attribute.tabIndicatorGravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabIndicatorHeight = global::xTaxi.Client.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabInlineLabel = global::xTaxi.Client.Droid.Resource.Attribute.tabInlineLabel;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabMaxWidth = global::xTaxi.Client.Droid.Resource.Attribute.tabMaxWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabMinWidth = global::xTaxi.Client.Droid.Resource.Attribute.tabMinWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabMode = global::xTaxi.Client.Droid.Resource.Attribute.tabMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabPadding = global::xTaxi.Client.Droid.Resource.Attribute.tabPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabPaddingBottom = global::xTaxi.Client.Droid.Resource.Attribute.tabPaddingBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabPaddingEnd = global::xTaxi.Client.Droid.Resource.Attribute.tabPaddingEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabPaddingStart = global::xTaxi.Client.Droid.Resource.Attribute.tabPaddingStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabPaddingTop = global::xTaxi.Client.Droid.Resource.Attribute.tabPaddingTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabRippleColor = global::xTaxi.Client.Droid.Resource.Attribute.tabRippleColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabSelectedTextColor = global::xTaxi.Client.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabStyle = global::xTaxi.Client.Droid.Resource.Attribute.tabStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabTextAppearance = global::xTaxi.Client.Droid.Resource.Attribute.tabTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabTextColor = global::xTaxi.Client.Droid.Resource.Attribute.tabTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tabUnboundedRipple = global::xTaxi.Client.Droid.Resource.Attribute.tabUnboundedRipple;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.targetId = global::xTaxi.Client.Droid.Resource.Attribute.targetId;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.targetPackage = global::xTaxi.Client.Droid.Resource.Attribute.targetPackage;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.telltales_tailColor = global::xTaxi.Client.Droid.Resource.Attribute.telltales_tailColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.telltales_tailScale = global::xTaxi.Client.Droid.Resource.Attribute.telltales_tailScale;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.telltales_velocityMode = global::xTaxi.Client.Droid.Resource.Attribute.telltales_velocityMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAllCaps = global::xTaxi.Client.Droid.Resource.Attribute.textAllCaps;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceBody1 = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceBody1;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceBody2 = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceBody2;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceButton = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceCaption = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceCaption;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceHeadline1 = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceHeadline1;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceHeadline2 = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceHeadline2;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceHeadline3 = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceHeadline3;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceHeadline4 = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceHeadline4;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceHeadline5 = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceHeadline5;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceHeadline6 = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceHeadline6;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceLineHeightEnabled = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceLineHeightEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceListItem = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceListItem;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceListItemSecondary = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceListItemSmall = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceOverline = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceOverline;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearancePopupMenuHeader = global::xTaxi.Client.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceSubtitle1 = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceSubtitle1;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textAppearanceSubtitle2 = global::xTaxi.Client.Droid.Resource.Attribute.textAppearanceSubtitle2;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textBackground = global::xTaxi.Client.Droid.Resource.Attribute.textBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textBackgroundPanX = global::xTaxi.Client.Droid.Resource.Attribute.textBackgroundPanX;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textBackgroundPanY = global::xTaxi.Client.Droid.Resource.Attribute.textBackgroundPanY;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textBackgroundRotate = global::xTaxi.Client.Droid.Resource.Attribute.textBackgroundRotate;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textBackgroundZoom = global::xTaxi.Client.Droid.Resource.Attribute.textBackgroundZoom;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textColorAlertDialogListItem = global::xTaxi.Client.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textColorSearchUrl = global::xTaxi.Client.Droid.Resource.Attribute.textColorSearchUrl;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textEndPadding = global::xTaxi.Client.Droid.Resource.Attribute.textEndPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textFillColor = global::xTaxi.Client.Droid.Resource.Attribute.textFillColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textInputLayoutFocusedRectEnabled = global::xTaxi.Client.Droid.Resource.Attribute.textInputLayoutFocusedRectEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textInputStyle = global::xTaxi.Client.Droid.Resource.Attribute.textInputStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textLocale = global::xTaxi.Client.Droid.Resource.Attribute.textLocale;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textOutlineColor = global::xTaxi.Client.Droid.Resource.Attribute.textOutlineColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textOutlineThickness = global::xTaxi.Client.Droid.Resource.Attribute.textOutlineThickness;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textPanX = global::xTaxi.Client.Droid.Resource.Attribute.textPanX;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textPanY = global::xTaxi.Client.Droid.Resource.Attribute.textPanY;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textStartPadding = global::xTaxi.Client.Droid.Resource.Attribute.textStartPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textureBlurFactor = global::xTaxi.Client.Droid.Resource.Attribute.textureBlurFactor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textureEffect = global::xTaxi.Client.Droid.Resource.Attribute.textureEffect;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textureHeight = global::xTaxi.Client.Droid.Resource.Attribute.textureHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.textureWidth = global::xTaxi.Client.Droid.Resource.Attribute.textureWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.theme = global::xTaxi.Client.Droid.Resource.Attribute.theme;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.themeLineHeight = global::xTaxi.Client.Droid.Resource.Attribute.themeLineHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.thickness = global::xTaxi.Client.Droid.Resource.Attribute.thickness;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.thumbColor = global::xTaxi.Client.Droid.Resource.Attribute.thumbColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.thumbElevation = global::xTaxi.Client.Droid.Resource.Attribute.thumbElevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.thumbRadius = global::xTaxi.Client.Droid.Resource.Attribute.thumbRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.thumbStrokeColor = global::xTaxi.Client.Droid.Resource.Attribute.thumbStrokeColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.thumbStrokeWidth = global::xTaxi.Client.Droid.Resource.Attribute.thumbStrokeWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.thumbTextPadding = global::xTaxi.Client.Droid.Resource.Attribute.thumbTextPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.thumbTint = global::xTaxi.Client.Droid.Resource.Attribute.thumbTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.thumbTintMode = global::xTaxi.Client.Droid.Resource.Attribute.thumbTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tickColor = global::xTaxi.Client.Droid.Resource.Attribute.tickColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tickColorActive = global::xTaxi.Client.Droid.Resource.Attribute.tickColorActive;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tickColorInactive = global::xTaxi.Client.Droid.Resource.Attribute.tickColorInactive;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tickMark = global::xTaxi.Client.Droid.Resource.Attribute.tickMark;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tickMarkTint = global::xTaxi.Client.Droid.Resource.Attribute.tickMarkTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tickMarkTintMode = global::xTaxi.Client.Droid.Resource.Attribute.tickMarkTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tickVisible = global::xTaxi.Client.Droid.Resource.Attribute.tickVisible;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tint = global::xTaxi.Client.Droid.Resource.Attribute.tint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tintMode = global::xTaxi.Client.Droid.Resource.Attribute.tintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.title = global::xTaxi.Client.Droid.Resource.Attribute.title;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.titleCentered = global::xTaxi.Client.Droid.Resource.Attribute.titleCentered;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.titleCollapseMode = global::xTaxi.Client.Droid.Resource.Attribute.titleCollapseMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.titleEnabled = global::xTaxi.Client.Droid.Resource.Attribute.titleEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.titleMargin = global::xTaxi.Client.Droid.Resource.Attribute.titleMargin;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.titleMarginBottom = global::xTaxi.Client.Droid.Resource.Attribute.titleMarginBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.titleMarginEnd = global::xTaxi.Client.Droid.Resource.Attribute.titleMarginEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.titleMargins = global::xTaxi.Client.Droid.Resource.Attribute.titleMargins;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.titleMarginStart = global::xTaxi.Client.Droid.Resource.Attribute.titleMarginStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.titleMarginTop = global::xTaxi.Client.Droid.Resource.Attribute.titleMarginTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.titleTextAppearance = global::xTaxi.Client.Droid.Resource.Attribute.titleTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.titleTextColor = global::xTaxi.Client.Droid.Resource.Attribute.titleTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.titleTextStyle = global::xTaxi.Client.Droid.Resource.Attribute.titleTextStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.toolbarId = global::xTaxi.Client.Droid.Resource.Attribute.toolbarId;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::xTaxi.Client.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.toolbarStyle = global::xTaxi.Client.Droid.Resource.Attribute.toolbarStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tooltipForegroundColor = global::xTaxi.Client.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tooltipFrameBackground = global::xTaxi.Client.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tooltipStyle = global::xTaxi.Client.Droid.Resource.Attribute.tooltipStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.tooltipText = global::xTaxi.Client.Droid.Resource.Attribute.tooltipText;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.touchAnchorId = global::xTaxi.Client.Droid.Resource.Attribute.touchAnchorId;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.touchAnchorSide = global::xTaxi.Client.Droid.Resource.Attribute.touchAnchorSide;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.touchRegionId = global::xTaxi.Client.Droid.Resource.Attribute.touchRegionId;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.track = global::xTaxi.Client.Droid.Resource.Attribute.track;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.trackColor = global::xTaxi.Client.Droid.Resource.Attribute.trackColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.trackColorActive = global::xTaxi.Client.Droid.Resource.Attribute.trackColorActive;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.trackColorInactive = global::xTaxi.Client.Droid.Resource.Attribute.trackColorInactive;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.trackCornerRadius = global::xTaxi.Client.Droid.Resource.Attribute.trackCornerRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.trackHeight = global::xTaxi.Client.Droid.Resource.Attribute.trackHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.trackThickness = global::xTaxi.Client.Droid.Resource.Attribute.trackThickness;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.trackTint = global::xTaxi.Client.Droid.Resource.Attribute.trackTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.trackTintMode = global::xTaxi.Client.Droid.Resource.Attribute.trackTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.transformPivotTarget = global::xTaxi.Client.Droid.Resource.Attribute.transformPivotTarget;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.transitionDisable = global::xTaxi.Client.Droid.Resource.Attribute.transitionDisable;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.transitionEasing = global::xTaxi.Client.Droid.Resource.Attribute.transitionEasing;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.transitionFlags = global::xTaxi.Client.Droid.Resource.Attribute.transitionFlags;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.transitionPathRotate = global::xTaxi.Client.Droid.Resource.Attribute.transitionPathRotate;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.transitionShapeAppearance = global::xTaxi.Client.Droid.Resource.Attribute.transitionShapeAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.triggerId = global::xTaxi.Client.Droid.Resource.Attribute.triggerId;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.triggerReceiver = global::xTaxi.Client.Droid.Resource.Attribute.triggerReceiver;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.triggerSlack = global::xTaxi.Client.Droid.Resource.Attribute.triggerSlack;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.ttcIndex = global::xTaxi.Client.Droid.Resource.Attribute.ttcIndex;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.uiCompass = global::xTaxi.Client.Droid.Resource.Attribute.uiCompass;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.uiMapToolbar = global::xTaxi.Client.Droid.Resource.Attribute.uiMapToolbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.uiRotateGestures = global::xTaxi.Client.Droid.Resource.Attribute.uiRotateGestures;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.uiScrollGestures = global::xTaxi.Client.Droid.Resource.Attribute.uiScrollGestures;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.uiScrollGesturesDuringRotateOrZoom = global::xTaxi.Client.Droid.Resource.Attribute.uiScrollGesturesDuringRotateOrZoom;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.uiTiltGestures = global::xTaxi.Client.Droid.Resource.Attribute.uiTiltGestures;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.uiZoomControls = global::xTaxi.Client.Droid.Resource.Attribute.uiZoomControls;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.uiZoomGestures = global::xTaxi.Client.Droid.Resource.Attribute.uiZoomGestures;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.upDuration = global::xTaxi.Client.Droid.Resource.Attribute.upDuration;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.uri = global::xTaxi.Client.Droid.Resource.Attribute.uri;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.useCompatPadding = global::xTaxi.Client.Droid.Resource.Attribute.useCompatPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.useMaterialThemeColors = global::xTaxi.Client.Droid.Resource.Attribute.useMaterialThemeColors;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.useViewLifecycle = global::xTaxi.Client.Droid.Resource.Attribute.useViewLifecycle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.values = global::xTaxi.Client.Droid.Resource.Attribute.values;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.verticalOffset = global::xTaxi.Client.Droid.Resource.Attribute.verticalOffset;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.viewInflaterClass = global::xTaxi.Client.Droid.Resource.Attribute.viewInflaterClass;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.viewTransitionMode = global::xTaxi.Client.Droid.Resource.Attribute.viewTransitionMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.viewTransitionOnCross = global::xTaxi.Client.Droid.Resource.Attribute.viewTransitionOnCross;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.viewTransitionOnNegativeCross = global::xTaxi.Client.Droid.Resource.Attribute.viewTransitionOnNegativeCross;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.viewTransitionOnPositiveCross = global::xTaxi.Client.Droid.Resource.Attribute.viewTransitionOnPositiveCross;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.visibilityMode = global::xTaxi.Client.Droid.Resource.Attribute.visibilityMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.voiceIcon = global::xTaxi.Client.Droid.Resource.Attribute.voiceIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.warmth = global::xTaxi.Client.Droid.Resource.Attribute.warmth;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.waveDecay = global::xTaxi.Client.Droid.Resource.Attribute.waveDecay;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.waveOffset = global::xTaxi.Client.Droid.Resource.Attribute.waveOffset;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.wavePeriod = global::xTaxi.Client.Droid.Resource.Attribute.wavePeriod;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.wavePhase = global::xTaxi.Client.Droid.Resource.Attribute.wavePhase;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.waveShape = global::xTaxi.Client.Droid.Resource.Attribute.waveShape;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.waveVariesBy = global::xTaxi.Client.Droid.Resource.Attribute.waveVariesBy;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.windowActionBar = global::xTaxi.Client.Droid.Resource.Attribute.windowActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.windowActionBarOverlay = global::xTaxi.Client.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.windowActionModeOverlay = global::xTaxi.Client.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.windowFixedHeightMajor = global::xTaxi.Client.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.windowFixedHeightMinor = global::xTaxi.Client.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.windowFixedWidthMajor = global::xTaxi.Client.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.windowFixedWidthMinor = global::xTaxi.Client.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.windowMinWidthMajor = global::xTaxi.Client.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.windowMinWidthMinor = global::xTaxi.Client.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.windowNoTitle = global::xTaxi.Client.Droid.Resource.Attribute.windowNoTitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.yearSelectedStyle = global::xTaxi.Client.Droid.Resource.Attribute.yearSelectedStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.yearStyle = global::xTaxi.Client.Droid.Resource.Attribute.yearStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.yearTodayStyle = global::xTaxi.Client.Droid.Resource.Attribute.yearTodayStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Attribute.zOrderOnTop = global::xTaxi.Client.Droid.Resource.Attribute.zOrderOnTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::xTaxi.Client.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Xamarin.Forms.Maps.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::xTaxi.Client.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Xamarin.Forms.Maps.Android.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::xTaxi.Client.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::xTaxi.Client.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::xTaxi.Client.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_btn_colored_borderless_text_material = global::xTaxi.Client.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_btn_colored_text_material = global::xTaxi.Client.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_color_highlight_material = global::xTaxi.Client.Droid.Resource.Color.abc_color_highlight_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_decor_view_status_guard = global::xTaxi.Client.Droid.Resource.Color.abc_decor_view_status_guard;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_decor_view_status_guard_light = global::xTaxi.Client.Droid.Resource.Color.abc_decor_view_status_guard_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_hint_foreground_material_dark = global::xTaxi.Client.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_hint_foreground_material_light = global::xTaxi.Client.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::xTaxi.Client.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::xTaxi.Client.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_primary_text_material_dark = global::xTaxi.Client.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_primary_text_material_light = global::xTaxi.Client.Droid.Resource.Color.abc_primary_text_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_search_url_text = global::xTaxi.Client.Droid.Resource.Color.abc_search_url_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_search_url_text_normal = global::xTaxi.Client.Droid.Resource.Color.abc_search_url_text_normal;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_search_url_text_pressed = global::xTaxi.Client.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_search_url_text_selected = global::xTaxi.Client.Droid.Resource.Color.abc_search_url_text_selected;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_secondary_text_material_dark = global::xTaxi.Client.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_secondary_text_material_light = global::xTaxi.Client.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_tint_btn_checkable = global::xTaxi.Client.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_tint_default = global::xTaxi.Client.Droid.Resource.Color.abc_tint_default;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_tint_edittext = global::xTaxi.Client.Droid.Resource.Color.abc_tint_edittext;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_tint_seek_thumb = global::xTaxi.Client.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_tint_spinner = global::xTaxi.Client.Droid.Resource.Color.abc_tint_spinner;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.abc_tint_switch_track = global::xTaxi.Client.Droid.Resource.Color.abc_tint_switch_track;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.accent_material_dark = global::xTaxi.Client.Droid.Resource.Color.accent_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.accent_material_light = global::xTaxi.Client.Droid.Resource.Color.accent_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.androidx_core_ripple_material_light = global::xTaxi.Client.Droid.Resource.Color.androidx_core_ripple_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.androidx_core_secondary_text_default_material_light = global::xTaxi.Client.Droid.Resource.Color.androidx_core_secondary_text_default_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.background_floating_material_dark = global::xTaxi.Client.Droid.Resource.Color.background_floating_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.background_floating_material_light = global::xTaxi.Client.Droid.Resource.Color.background_floating_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.background_material_dark = global::xTaxi.Client.Droid.Resource.Color.background_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.background_material_light = global::xTaxi.Client.Droid.Resource.Color.background_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.bright_foreground_disabled_material_dark = global::xTaxi.Client.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.bright_foreground_disabled_material_light = global::xTaxi.Client.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.bright_foreground_inverse_material_dark = global::xTaxi.Client.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.bright_foreground_inverse_material_light = global::xTaxi.Client.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.bright_foreground_material_dark = global::xTaxi.Client.Droid.Resource.Color.bright_foreground_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.bright_foreground_material_light = global::xTaxi.Client.Droid.Resource.Color.bright_foreground_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.button_material_dark = global::xTaxi.Client.Droid.Resource.Color.button_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.button_material_light = global::xTaxi.Client.Droid.Resource.Color.button_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.cardview_dark_background = global::xTaxi.Client.Droid.Resource.Color.cardview_dark_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.cardview_light_background = global::xTaxi.Client.Droid.Resource.Color.cardview_light_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.cardview_shadow_end_color = global::xTaxi.Client.Droid.Resource.Color.cardview_shadow_end_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.cardview_shadow_start_color = global::xTaxi.Client.Droid.Resource.Color.cardview_shadow_start_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.checkbox_themeable_attribute_color = global::xTaxi.Client.Droid.Resource.Color.checkbox_themeable_attribute_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.common_google_signin_btn_text_dark = global::xTaxi.Client.Droid.Resource.Color.common_google_signin_btn_text_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.common_google_signin_btn_text_dark_default = global::xTaxi.Client.Droid.Resource.Color.common_google_signin_btn_text_dark_default;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.common_google_signin_btn_text_dark_disabled = global::xTaxi.Client.Droid.Resource.Color.common_google_signin_btn_text_dark_disabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.common_google_signin_btn_text_dark_focused = global::xTaxi.Client.Droid.Resource.Color.common_google_signin_btn_text_dark_focused;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.common_google_signin_btn_text_dark_pressed = global::xTaxi.Client.Droid.Resource.Color.common_google_signin_btn_text_dark_pressed;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.common_google_signin_btn_text_light = global::xTaxi.Client.Droid.Resource.Color.common_google_signin_btn_text_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.common_google_signin_btn_text_light_default = global::xTaxi.Client.Droid.Resource.Color.common_google_signin_btn_text_light_default;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.common_google_signin_btn_text_light_disabled = global::xTaxi.Client.Droid.Resource.Color.common_google_signin_btn_text_light_disabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.common_google_signin_btn_text_light_focused = global::xTaxi.Client.Droid.Resource.Color.common_google_signin_btn_text_light_focused;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.common_google_signin_btn_text_light_pressed = global::xTaxi.Client.Droid.Resource.Color.common_google_signin_btn_text_light_pressed;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.common_google_signin_btn_tint = global::xTaxi.Client.Droid.Resource.Color.common_google_signin_btn_tint;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_bottom_navigation_shadow_color = global::xTaxi.Client.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_box_stroke_color = global::xTaxi.Client.Droid.Resource.Color.design_box_stroke_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_dark_default_color_background = global::xTaxi.Client.Droid.Resource.Color.design_dark_default_color_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_dark_default_color_error = global::xTaxi.Client.Droid.Resource.Color.design_dark_default_color_error;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_dark_default_color_on_background = global::xTaxi.Client.Droid.Resource.Color.design_dark_default_color_on_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_dark_default_color_on_error = global::xTaxi.Client.Droid.Resource.Color.design_dark_default_color_on_error;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_dark_default_color_on_primary = global::xTaxi.Client.Droid.Resource.Color.design_dark_default_color_on_primary;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_dark_default_color_on_secondary = global::xTaxi.Client.Droid.Resource.Color.design_dark_default_color_on_secondary;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_dark_default_color_on_surface = global::xTaxi.Client.Droid.Resource.Color.design_dark_default_color_on_surface;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_dark_default_color_primary = global::xTaxi.Client.Droid.Resource.Color.design_dark_default_color_primary;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_dark_default_color_primary_dark = global::xTaxi.Client.Droid.Resource.Color.design_dark_default_color_primary_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_dark_default_color_primary_variant = global::xTaxi.Client.Droid.Resource.Color.design_dark_default_color_primary_variant;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_dark_default_color_secondary = global::xTaxi.Client.Droid.Resource.Color.design_dark_default_color_secondary;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_dark_default_color_secondary_variant = global::xTaxi.Client.Droid.Resource.Color.design_dark_default_color_secondary_variant;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_dark_default_color_surface = global::xTaxi.Client.Droid.Resource.Color.design_dark_default_color_surface;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_default_color_background = global::xTaxi.Client.Droid.Resource.Color.design_default_color_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_default_color_error = global::xTaxi.Client.Droid.Resource.Color.design_default_color_error;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_default_color_on_background = global::xTaxi.Client.Droid.Resource.Color.design_default_color_on_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_default_color_on_error = global::xTaxi.Client.Droid.Resource.Color.design_default_color_on_error;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_default_color_on_primary = global::xTaxi.Client.Droid.Resource.Color.design_default_color_on_primary;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_default_color_on_secondary = global::xTaxi.Client.Droid.Resource.Color.design_default_color_on_secondary;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_default_color_on_surface = global::xTaxi.Client.Droid.Resource.Color.design_default_color_on_surface;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_default_color_primary = global::xTaxi.Client.Droid.Resource.Color.design_default_color_primary;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_default_color_primary_dark = global::xTaxi.Client.Droid.Resource.Color.design_default_color_primary_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_default_color_primary_variant = global::xTaxi.Client.Droid.Resource.Color.design_default_color_primary_variant;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_default_color_secondary = global::xTaxi.Client.Droid.Resource.Color.design_default_color_secondary;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_default_color_secondary_variant = global::xTaxi.Client.Droid.Resource.Color.design_default_color_secondary_variant;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_default_color_surface = global::xTaxi.Client.Droid.Resource.Color.design_default_color_surface;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_error = global::xTaxi.Client.Droid.Resource.Color.design_error;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_fab_shadow_end_color = global::xTaxi.Client.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_fab_shadow_mid_color = global::xTaxi.Client.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_fab_shadow_start_color = global::xTaxi.Client.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_fab_stroke_end_inner_color = global::xTaxi.Client.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_fab_stroke_end_outer_color = global::xTaxi.Client.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_fab_stroke_top_inner_color = global::xTaxi.Client.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_fab_stroke_top_outer_color = global::xTaxi.Client.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_icon_tint = global::xTaxi.Client.Droid.Resource.Color.design_icon_tint;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.design_snackbar_background_color = global::xTaxi.Client.Droid.Resource.Color.design_snackbar_background_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.dim_foreground_disabled_material_dark = global::xTaxi.Client.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.dim_foreground_disabled_material_light = global::xTaxi.Client.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.dim_foreground_material_dark = global::xTaxi.Client.Droid.Resource.Color.dim_foreground_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.dim_foreground_material_light = global::xTaxi.Client.Droid.Resource.Color.dim_foreground_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.error_color_material_dark = global::xTaxi.Client.Droid.Resource.Color.error_color_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.error_color_material_light = global::xTaxi.Client.Droid.Resource.Color.error_color_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.foreground_material_dark = global::xTaxi.Client.Droid.Resource.Color.foreground_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.foreground_material_light = global::xTaxi.Client.Droid.Resource.Color.foreground_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.highlighted_text_material_dark = global::xTaxi.Client.Droid.Resource.Color.highlighted_text_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.highlighted_text_material_light = global::xTaxi.Client.Droid.Resource.Color.highlighted_text_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_blue_grey_800 = global::xTaxi.Client.Droid.Resource.Color.material_blue_grey_800;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_blue_grey_900 = global::xTaxi.Client.Droid.Resource.Color.material_blue_grey_900;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_blue_grey_950 = global::xTaxi.Client.Droid.Resource.Color.material_blue_grey_950;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_cursor_color = global::xTaxi.Client.Droid.Resource.Color.material_cursor_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_deep_teal_200 = global::xTaxi.Client.Droid.Resource.Color.material_deep_teal_200;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_deep_teal_500 = global::xTaxi.Client.Droid.Resource.Color.material_deep_teal_500;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_grey_100 = global::xTaxi.Client.Droid.Resource.Color.material_grey_100;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_grey_300 = global::xTaxi.Client.Droid.Resource.Color.material_grey_300;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_grey_50 = global::xTaxi.Client.Droid.Resource.Color.material_grey_50;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_grey_600 = global::xTaxi.Client.Droid.Resource.Color.material_grey_600;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_grey_800 = global::xTaxi.Client.Droid.Resource.Color.material_grey_800;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_grey_850 = global::xTaxi.Client.Droid.Resource.Color.material_grey_850;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_grey_900 = global::xTaxi.Client.Droid.Resource.Color.material_grey_900;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_on_background_disabled = global::xTaxi.Client.Droid.Resource.Color.material_on_background_disabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_on_background_emphasis_high_type = global::xTaxi.Client.Droid.Resource.Color.material_on_background_emphasis_high_type;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_on_background_emphasis_medium = global::xTaxi.Client.Droid.Resource.Color.material_on_background_emphasis_medium;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_on_primary_disabled = global::xTaxi.Client.Droid.Resource.Color.material_on_primary_disabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_on_primary_emphasis_high_type = global::xTaxi.Client.Droid.Resource.Color.material_on_primary_emphasis_high_type;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_on_primary_emphasis_medium = global::xTaxi.Client.Droid.Resource.Color.material_on_primary_emphasis_medium;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_on_surface_disabled = global::xTaxi.Client.Droid.Resource.Color.material_on_surface_disabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_on_surface_emphasis_high_type = global::xTaxi.Client.Droid.Resource.Color.material_on_surface_emphasis_high_type;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_on_surface_emphasis_medium = global::xTaxi.Client.Droid.Resource.Color.material_on_surface_emphasis_medium;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_on_surface_stroke = global::xTaxi.Client.Droid.Resource.Color.material_on_surface_stroke;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_slider_active_tick_marks_color = global::xTaxi.Client.Droid.Resource.Color.material_slider_active_tick_marks_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_slider_active_track_color = global::xTaxi.Client.Droid.Resource.Color.material_slider_active_track_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_slider_halo_color = global::xTaxi.Client.Droid.Resource.Color.material_slider_halo_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_slider_inactive_tick_marks_color = global::xTaxi.Client.Droid.Resource.Color.material_slider_inactive_tick_marks_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_slider_inactive_track_color = global::xTaxi.Client.Droid.Resource.Color.material_slider_inactive_track_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_slider_thumb_color = global::xTaxi.Client.Droid.Resource.Color.material_slider_thumb_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_timepicker_button_background = global::xTaxi.Client.Droid.Resource.Color.material_timepicker_button_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_timepicker_button_stroke = global::xTaxi.Client.Droid.Resource.Color.material_timepicker_button_stroke;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_timepicker_clockface = global::xTaxi.Client.Droid.Resource.Color.material_timepicker_clockface;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_timepicker_clock_text_color = global::xTaxi.Client.Droid.Resource.Color.material_timepicker_clock_text_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.material_timepicker_modebutton_tint = global::xTaxi.Client.Droid.Resource.Color.material_timepicker_modebutton_tint;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_btn_bg_color_selector = global::xTaxi.Client.Droid.Resource.Color.mtrl_btn_bg_color_selector;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_btn_ripple_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_btn_ripple_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_btn_stroke_color_selector = global::xTaxi.Client.Droid.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_btn_text_btn_bg_color_selector = global::xTaxi.Client.Droid.Resource.Color.mtrl_btn_text_btn_bg_color_selector;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_btn_text_btn_ripple_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_btn_text_color_disabled = global::xTaxi.Client.Droid.Resource.Color.mtrl_btn_text_color_disabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_btn_text_color_selector = global::xTaxi.Client.Droid.Resource.Color.mtrl_btn_text_color_selector;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_btn_transparent_bg_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_calendar_item_stroke_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_calendar_item_stroke_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_calendar_selected_range = global::xTaxi.Client.Droid.Resource.Color.mtrl_calendar_selected_range;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_card_view_foreground = global::xTaxi.Client.Droid.Resource.Color.mtrl_card_view_foreground;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_card_view_ripple = global::xTaxi.Client.Droid.Resource.Color.mtrl_card_view_ripple;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_chip_background_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_chip_background_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_chip_close_icon_tint = global::xTaxi.Client.Droid.Resource.Color.mtrl_chip_close_icon_tint;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_chip_surface_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_chip_surface_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_chip_text_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_chip_text_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_choice_chip_background_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_choice_chip_background_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_choice_chip_ripple_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_choice_chip_ripple_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_choice_chip_text_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_choice_chip_text_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_error = global::xTaxi.Client.Droid.Resource.Color.mtrl_error;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_fab_bg_color_selector = global::xTaxi.Client.Droid.Resource.Color.mtrl_fab_bg_color_selector;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_fab_icon_text_color_selector = global::xTaxi.Client.Droid.Resource.Color.mtrl_fab_icon_text_color_selector;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_fab_ripple_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_fab_ripple_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_filled_background_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_filled_background_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_filled_icon_tint = global::xTaxi.Client.Droid.Resource.Color.mtrl_filled_icon_tint;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_filled_stroke_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_filled_stroke_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_indicator_text_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_indicator_text_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_navigation_bar_colored_item_tint = global::xTaxi.Client.Droid.Resource.Color.mtrl_navigation_bar_colored_item_tint;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_navigation_bar_colored_ripple_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_navigation_bar_colored_ripple_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_navigation_bar_item_tint = global::xTaxi.Client.Droid.Resource.Color.mtrl_navigation_bar_item_tint;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_navigation_bar_ripple_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_navigation_bar_ripple_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_navigation_item_background_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_navigation_item_background_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_navigation_item_icon_tint = global::xTaxi.Client.Droid.Resource.Color.mtrl_navigation_item_icon_tint;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_navigation_item_text_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_navigation_item_text_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_on_primary_text_btn_text_color_selector = global::xTaxi.Client.Droid.Resource.Color.mtrl_on_primary_text_btn_text_color_selector;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_on_surface_ripple_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_on_surface_ripple_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_outlined_icon_tint = global::xTaxi.Client.Droid.Resource.Color.mtrl_outlined_icon_tint;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_outlined_stroke_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_outlined_stroke_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_popupmenu_overlay_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_popupmenu_overlay_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_scrim_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_scrim_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_tabs_colored_ripple_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_tabs_icon_color_selector = global::xTaxi.Client.Droid.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::xTaxi.Client.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::xTaxi.Client.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_tabs_ripple_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_tabs_ripple_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_textinput_default_box_stroke_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_textinput_disabled_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_textinput_disabled_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_textinput_focused_box_stroke_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_textinput_focused_box_stroke_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::xTaxi.Client.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.mtrl_text_btn_text_color_selector = global::xTaxi.Client.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.notification_action_color_filter = global::xTaxi.Client.Droid.Resource.Color.notification_action_color_filter;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.notification_icon_bg_color = global::xTaxi.Client.Droid.Resource.Color.notification_icon_bg_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.notification_material_background_media_default_color = global::xTaxi.Client.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.primary_dark_material_dark = global::xTaxi.Client.Droid.Resource.Color.primary_dark_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.primary_dark_material_light = global::xTaxi.Client.Droid.Resource.Color.primary_dark_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.primary_material_dark = global::xTaxi.Client.Droid.Resource.Color.primary_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.primary_material_light = global::xTaxi.Client.Droid.Resource.Color.primary_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.primary_text_default_material_dark = global::xTaxi.Client.Droid.Resource.Color.primary_text_default_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.primary_text_default_material_light = global::xTaxi.Client.Droid.Resource.Color.primary_text_default_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.primary_text_disabled_material_dark = global::xTaxi.Client.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.primary_text_disabled_material_light = global::xTaxi.Client.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.radiobutton_themeable_attribute_color = global::xTaxi.Client.Droid.Resource.Color.radiobutton_themeable_attribute_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.ripple_material_dark = global::xTaxi.Client.Droid.Resource.Color.ripple_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.ripple_material_light = global::xTaxi.Client.Droid.Resource.Color.ripple_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.secondary_text_default_material_dark = global::xTaxi.Client.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.secondary_text_default_material_light = global::xTaxi.Client.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.secondary_text_disabled_material_dark = global::xTaxi.Client.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.secondary_text_disabled_material_light = global::xTaxi.Client.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.switch_thumb_disabled_material_dark = global::xTaxi.Client.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.switch_thumb_disabled_material_light = global::xTaxi.Client.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.switch_thumb_material_dark = global::xTaxi.Client.Droid.Resource.Color.switch_thumb_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.switch_thumb_material_light = global::xTaxi.Client.Droid.Resource.Color.switch_thumb_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.switch_thumb_normal_material_dark = global::xTaxi.Client.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.switch_thumb_normal_material_light = global::xTaxi.Client.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.test_mtrl_calendar_day = global::xTaxi.Client.Droid.Resource.Color.test_mtrl_calendar_day;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.test_mtrl_calendar_day_selected = global::xTaxi.Client.Droid.Resource.Color.test_mtrl_calendar_day_selected;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.tooltip_background_dark = global::xTaxi.Client.Droid.Resource.Color.tooltip_background_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Color.tooltip_background_light = global::xTaxi.Client.Droid.Resource.Color.tooltip_background_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::xTaxi.Client.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_action_bar_default_height_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_action_bar_elevation_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::xTaxi.Client.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::xTaxi.Client.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_action_button_min_height_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_action_button_min_width_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::xTaxi.Client.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_alert_dialog_button_dimen = global::xTaxi.Client.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_button_inset_vertical_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_button_padding_vertical_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::xTaxi.Client.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_config_prefDialogWidth = global::xTaxi.Client.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_control_corner_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_control_corner_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_control_inset_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_control_inset_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_control_padding_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_control_padding_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_dialog_corner_radius_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::xTaxi.Client.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::xTaxi.Client.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::xTaxi.Client.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::xTaxi.Client.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::xTaxi.Client.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::xTaxi.Client.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_dialog_min_width_major = global::xTaxi.Client.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_dialog_min_width_minor = global::xTaxi.Client.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_dialog_padding_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_dialog_padding_top_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_dialog_title_divider_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::xTaxi.Client.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::xTaxi.Client.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::xTaxi.Client.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::xTaxi.Client.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::xTaxi.Client.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_floating_window_z = global::xTaxi.Client.Droid.Resource.Dimension.abc_floating_window_z;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_list_item_height_large_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_list_item_height_large_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_list_item_height_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_list_item_height_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_list_item_height_small_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_list_item_height_small_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_panel_menu_list_width = global::xTaxi.Client.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_progress_bar_height_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_search_view_preferred_height = global::xTaxi.Client.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_search_view_preferred_width = global::xTaxi.Client.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_star_big = global::xTaxi.Client.Droid.Resource.Dimension.abc_star_big;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_star_medium = global::xTaxi.Client.Droid.Resource.Dimension.abc_star_medium;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_star_small = global::xTaxi.Client.Droid.Resource.Dimension.abc_star_small;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_switch_padding = global::xTaxi.Client.Droid.Resource.Dimension.abc_switch_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_text_size_body_1_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_text_size_body_2_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_text_size_button_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_text_size_caption_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_text_size_display_1_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_text_size_display_2_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_text_size_display_3_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_text_size_display_4_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_text_size_headline_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_text_size_large_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_text_size_medium_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_text_size_menu_header_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_text_size_menu_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_text_size_small_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_text_size_subhead_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::xTaxi.Client.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_text_size_title_material = global::xTaxi.Client.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::xTaxi.Client.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.action_bar_size = global::xTaxi.Client.Droid.Resource.Dimension.action_bar_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.appcompat_dialog_background_inset = global::xTaxi.Client.Droid.Resource.Dimension.appcompat_dialog_background_inset;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.cardview_compat_inset_shadow = global::xTaxi.Client.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.cardview_default_elevation = global::xTaxi.Client.Droid.Resource.Dimension.cardview_default_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.cardview_default_radius = global::xTaxi.Client.Droid.Resource.Dimension.cardview_default_radius;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.clock_face_margin_start = global::xTaxi.Client.Droid.Resource.Dimension.clock_face_margin_start;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.compat_button_inset_horizontal_material = global::xTaxi.Client.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.compat_button_inset_vertical_material = global::xTaxi.Client.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.compat_button_padding_horizontal_material = global::xTaxi.Client.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.compat_button_padding_vertical_material = global::xTaxi.Client.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.compat_control_corner_material = global::xTaxi.Client.Droid.Resource.Dimension.compat_control_corner_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.compat_notification_large_icon_max_height = global::xTaxi.Client.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.compat_notification_large_icon_max_width = global::xTaxi.Client.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.default_dimension = global::xTaxi.Client.Droid.Resource.Dimension.default_dimension;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.def_drawer_elevation = global::xTaxi.Client.Droid.Resource.Dimension.def_drawer_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_appbar_elevation = global::xTaxi.Client.Droid.Resource.Dimension.design_appbar_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::xTaxi.Client.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::xTaxi.Client.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_bottom_navigation_active_text_size = global::xTaxi.Client.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_bottom_navigation_elevation = global::xTaxi.Client.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_bottom_navigation_height = global::xTaxi.Client.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_bottom_navigation_icon_size = global::xTaxi.Client.Droid.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_bottom_navigation_item_max_width = global::xTaxi.Client.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_bottom_navigation_item_min_width = global::xTaxi.Client.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_bottom_navigation_label_padding = global::xTaxi.Client.Droid.Resource.Dimension.design_bottom_navigation_label_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_bottom_navigation_margin = global::xTaxi.Client.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_bottom_navigation_shadow_height = global::xTaxi.Client.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_bottom_navigation_text_size = global::xTaxi.Client.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_bottom_sheet_elevation = global::xTaxi.Client.Droid.Resource.Dimension.design_bottom_sheet_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_bottom_sheet_modal_elevation = global::xTaxi.Client.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_bottom_sheet_peek_height_min = global::xTaxi.Client.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_fab_border_width = global::xTaxi.Client.Droid.Resource.Dimension.design_fab_border_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_fab_elevation = global::xTaxi.Client.Droid.Resource.Dimension.design_fab_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_fab_image_size = global::xTaxi.Client.Droid.Resource.Dimension.design_fab_image_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_fab_size_mini = global::xTaxi.Client.Droid.Resource.Dimension.design_fab_size_mini;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_fab_size_normal = global::xTaxi.Client.Droid.Resource.Dimension.design_fab_size_normal;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_fab_translation_z_hovered_focused = global::xTaxi.Client.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_fab_translation_z_pressed = global::xTaxi.Client.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_navigation_elevation = global::xTaxi.Client.Droid.Resource.Dimension.design_navigation_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_navigation_icon_padding = global::xTaxi.Client.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_navigation_icon_size = global::xTaxi.Client.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_navigation_item_horizontal_padding = global::xTaxi.Client.Droid.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_navigation_item_icon_padding = global::xTaxi.Client.Droid.Resource.Dimension.design_navigation_item_icon_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_navigation_max_width = global::xTaxi.Client.Droid.Resource.Dimension.design_navigation_max_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_navigation_padding_bottom = global::xTaxi.Client.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::xTaxi.Client.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_snackbar_action_inline_max_width = global::xTaxi.Client.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_snackbar_action_text_color_alpha = global::xTaxi.Client.Droid.Resource.Dimension.design_snackbar_action_text_color_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_snackbar_background_corner_radius = global::xTaxi.Client.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_snackbar_elevation = global::xTaxi.Client.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::xTaxi.Client.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_snackbar_max_width = global::xTaxi.Client.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_snackbar_min_width = global::xTaxi.Client.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_snackbar_padding_horizontal = global::xTaxi.Client.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_snackbar_padding_vertical = global::xTaxi.Client.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::xTaxi.Client.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_snackbar_text_size = global::xTaxi.Client.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_tab_max_width = global::xTaxi.Client.Droid.Resource.Dimension.design_tab_max_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_tab_scrollable_min_width = global::xTaxi.Client.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_tab_text_size = global::xTaxi.Client.Droid.Resource.Dimension.design_tab_text_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_tab_text_size_2line = global::xTaxi.Client.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.design_textinput_caption_translate_y = global::xTaxi.Client.Droid.Resource.Dimension.design_textinput_caption_translate_y;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.disabled_alpha_material_dark = global::xTaxi.Client.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.disabled_alpha_material_light = global::xTaxi.Client.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.fastscroll_default_thickness = global::xTaxi.Client.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.fastscroll_margin = global::xTaxi.Client.Droid.Resource.Dimension.fastscroll_margin;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.fastscroll_minimum_range = global::xTaxi.Client.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.highlight_alpha_material_colored = global::xTaxi.Client.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.highlight_alpha_material_dark = global::xTaxi.Client.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.highlight_alpha_material_light = global::xTaxi.Client.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.hint_alpha_material_dark = global::xTaxi.Client.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.hint_alpha_material_light = global::xTaxi.Client.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.hint_pressed_alpha_material_dark = global::xTaxi.Client.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.hint_pressed_alpha_material_light = global::xTaxi.Client.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::xTaxi.Client.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::xTaxi.Client.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::xTaxi.Client.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_bottom_sheet_max_width = global::xTaxi.Client.Droid.Resource.Dimension.material_bottom_sheet_max_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_clock_display_padding = global::xTaxi.Client.Droid.Resource.Dimension.material_clock_display_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_clock_face_margin_top = global::xTaxi.Client.Droid.Resource.Dimension.material_clock_face_margin_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_clock_hand_center_dot_radius = global::xTaxi.Client.Droid.Resource.Dimension.material_clock_hand_center_dot_radius;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_clock_hand_padding = global::xTaxi.Client.Droid.Resource.Dimension.material_clock_hand_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_clock_hand_stroke_width = global::xTaxi.Client.Droid.Resource.Dimension.material_clock_hand_stroke_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_clock_number_text_size = global::xTaxi.Client.Droid.Resource.Dimension.material_clock_number_text_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_clock_period_toggle_height = global::xTaxi.Client.Droid.Resource.Dimension.material_clock_period_toggle_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_clock_period_toggle_margin_left = global::xTaxi.Client.Droid.Resource.Dimension.material_clock_period_toggle_margin_left;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_clock_period_toggle_width = global::xTaxi.Client.Droid.Resource.Dimension.material_clock_period_toggle_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_clock_size = global::xTaxi.Client.Droid.Resource.Dimension.material_clock_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_cursor_inset_bottom = global::xTaxi.Client.Droid.Resource.Dimension.material_cursor_inset_bottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_cursor_inset_top = global::xTaxi.Client.Droid.Resource.Dimension.material_cursor_inset_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_cursor_width = global::xTaxi.Client.Droid.Resource.Dimension.material_cursor_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_emphasis_disabled = global::xTaxi.Client.Droid.Resource.Dimension.material_emphasis_disabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_emphasis_high_type = global::xTaxi.Client.Droid.Resource.Dimension.material_emphasis_high_type;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_emphasis_medium = global::xTaxi.Client.Droid.Resource.Dimension.material_emphasis_medium;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_filled_edittext_font_1_3_padding_bottom = global::xTaxi.Client.Droid.Resource.Dimension.material_filled_edittext_font_1_3_padding_bottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_filled_edittext_font_1_3_padding_top = global::xTaxi.Client.Droid.Resource.Dimension.material_filled_edittext_font_1_3_padding_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_filled_edittext_font_2_0_padding_bottom = global::xTaxi.Client.Droid.Resource.Dimension.material_filled_edittext_font_2_0_padding_bottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_filled_edittext_font_2_0_padding_top = global::xTaxi.Client.Droid.Resource.Dimension.material_filled_edittext_font_2_0_padding_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_font_1_3_box_collapsed_padding_top = global::xTaxi.Client.Droid.Resource.Dimension.material_font_1_3_box_collapsed_padding_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_font_2_0_box_collapsed_padding_top = global::xTaxi.Client.Droid.Resource.Dimension.material_font_2_0_box_collapsed_padding_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_helper_text_default_padding_top = global::xTaxi.Client.Droid.Resource.Dimension.material_helper_text_default_padding_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_helper_text_font_1_3_padding_horizontal = global::xTaxi.Client.Droid.Resource.Dimension.material_helper_text_font_1_3_padding_horizontal;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_helper_text_font_1_3_padding_top = global::xTaxi.Client.Droid.Resource.Dimension.material_helper_text_font_1_3_padding_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_input_text_to_prefix_suffix_padding = global::xTaxi.Client.Droid.Resource.Dimension.material_input_text_to_prefix_suffix_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_textinput_default_width = global::xTaxi.Client.Droid.Resource.Dimension.material_textinput_default_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_textinput_max_width = global::xTaxi.Client.Droid.Resource.Dimension.material_textinput_max_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_textinput_min_width = global::xTaxi.Client.Droid.Resource.Dimension.material_textinput_min_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_text_view_test_line_height = global::xTaxi.Client.Droid.Resource.Dimension.material_text_view_test_line_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_text_view_test_line_height_override = global::xTaxi.Client.Droid.Resource.Dimension.material_text_view_test_line_height_override;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_timepicker_dialog_buttons_margin_top = global::xTaxi.Client.Droid.Resource.Dimension.material_timepicker_dialog_buttons_margin_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_time_picker_minimum_screen_height = global::xTaxi.Client.Droid.Resource.Dimension.material_time_picker_minimum_screen_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.material_time_picker_minimum_screen_width = global::xTaxi.Client.Droid.Resource.Dimension.material_time_picker_minimum_screen_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_alert_dialog_background_inset_bottom = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_bottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_alert_dialog_background_inset_end = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_end;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_alert_dialog_background_inset_start = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_start;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_alert_dialog_background_inset_top = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_alert_dialog_picker_background_inset = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_alert_dialog_picker_background_inset;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_badge_horizontal_edge_offset = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_badge_horizontal_edge_offset;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_badge_long_text_horizontal_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_badge_long_text_horizontal_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_badge_radius = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_badge_radius;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_badge_text_horizontal_edge_offset = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_badge_text_horizontal_edge_offset;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_badge_text_size = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_badge_text_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_badge_toolbar_action_menu_item_horizontal_offset = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_badge_toolbar_action_menu_item_horizontal_offset;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_badge_toolbar_action_menu_item_vertical_offset = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_badge_toolbar_action_menu_item_vertical_offset;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_badge_with_text_radius = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_badge_with_text_radius;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_bottomappbar_fab_bottom_margin = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_bottomappbar_fab_bottom_margin;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_bottomappbar_height = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_bottomappbar_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_corner_radius = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_corner_radius;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_disabled_elevation = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_disabled_z = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_disabled_z;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_elevation = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_focused_z = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_focused_z;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_hovered_z = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_hovered_z;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_icon_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_icon_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_inset = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_inset;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_letter_spacing = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_max_width = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_max_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_padding_bottom = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_padding_left = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_padding_left;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_padding_right = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_padding_right;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_padding_top = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_padding_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_pressed_z = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_pressed_z;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_snackbar_margin_horizontal = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_snackbar_margin_horizontal;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_stroke_size = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_stroke_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_text_size = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_text_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_btn_z = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_btn_z;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_action_confirm_button_min_width = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_action_confirm_button_min_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_action_height = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_action_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_action_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_action_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_bottom_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_bottom_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_content_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_content_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_days_of_week_height = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_days_of_week_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_day_corner = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_day_corner;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_day_height = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_day_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_day_horizontal_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_day_horizontal_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_day_today_stroke = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_day_today_stroke;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_day_vertical_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_day_vertical_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_day_width = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_day_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_dialog_background_inset = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_dialog_background_inset;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_header_content_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_header_content_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_header_content_padding_fullscreen = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_header_content_padding_fullscreen;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_header_divider_thickness = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_header_divider_thickness;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_header_height = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_header_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_header_height_fullscreen = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_header_height_fullscreen;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_header_selection_line_height = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_header_selection_line_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_header_text_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_header_text_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_header_toggle_margin_bottom = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_header_toggle_margin_bottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_header_toggle_margin_top = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_header_toggle_margin_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_landscape_header_width = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_landscape_header_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_maximum_default_fullscreen_minor_axis = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_maximum_default_fullscreen_minor_axis;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_month_horizontal_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_month_horizontal_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_month_vertical_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_month_vertical_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_navigation_bottom_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_navigation_bottom_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_navigation_height = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_navigation_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_navigation_top_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_navigation_top_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_pre_l_text_clip_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_pre_l_text_clip_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_selection_baseline_to_top_fullscreen = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_selection_baseline_to_top_fullscreen;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom_fullscreen = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom_fullscreen;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_top = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_text_input_padding_top = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_text_input_padding_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_title_baseline_to_top = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_title_baseline_to_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_title_baseline_to_top_fullscreen = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_title_baseline_to_top_fullscreen;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_year_corner = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_year_corner;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_year_height = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_year_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_year_horizontal_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_year_horizontal_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_year_vertical_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_year_vertical_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_calendar_year_width = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_calendar_year_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_card_checked_icon_margin = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_card_checked_icon_margin;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_card_checked_icon_size = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_card_checked_icon_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_card_corner_radius = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_card_corner_radius;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_card_dragged_z = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_card_dragged_z;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_card_elevation = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_card_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_card_spacing = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_card_spacing;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_chip_pressed_translation_z = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_chip_text_size = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_chip_text_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_edittext_rectangle_top_offset = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_edittext_rectangle_top_offset;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_extended_fab_bottom_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_extended_fab_bottom_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_extended_fab_corner_radius = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_extended_fab_corner_radius;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_extended_fab_disabled_elevation = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_extended_fab_disabled_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_extended_fab_disabled_translation_z = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_extended_fab_disabled_translation_z;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_extended_fab_elevation = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_extended_fab_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_extended_fab_end_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_extended_fab_end_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_extended_fab_end_padding_icon = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_extended_fab_end_padding_icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_extended_fab_icon_size = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_extended_fab_icon_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_extended_fab_icon_text_spacing = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_extended_fab_icon_text_spacing;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_extended_fab_min_height = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_extended_fab_min_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_extended_fab_min_width = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_extended_fab_min_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_extended_fab_start_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_extended_fab_start_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_extended_fab_start_padding_icon = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_extended_fab_start_padding_icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_extended_fab_top_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_extended_fab_top_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_extended_fab_translation_z_base = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_base;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_extended_fab_translation_z_hovered_focused = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_hovered_focused;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_extended_fab_translation_z_pressed = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_pressed;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_fab_elevation = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_fab_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_fab_min_touch_target = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_fab_min_touch_target;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_fab_translation_z_pressed = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_high_ripple_default_alpha = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_high_ripple_default_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_high_ripple_focused_alpha = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_high_ripple_focused_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_high_ripple_hovered_alpha = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_high_ripple_hovered_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_high_ripple_pressed_alpha = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_high_ripple_pressed_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_large_touch_target = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_large_touch_target;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_low_ripple_default_alpha = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_low_ripple_default_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_low_ripple_focused_alpha = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_low_ripple_focused_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_low_ripple_hovered_alpha = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_low_ripple_hovered_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_low_ripple_pressed_alpha = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_low_ripple_pressed_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_min_touch_target_size = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_min_touch_target_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_navigation_bar_item_default_icon_size = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_navigation_bar_item_default_icon_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_navigation_bar_item_default_margin = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_navigation_bar_item_default_margin;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_navigation_elevation = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_navigation_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_navigation_item_icon_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_navigation_item_icon_size = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_navigation_item_icon_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_navigation_item_shape_horizontal_margin = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_navigation_item_shape_horizontal_margin;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_navigation_item_shape_vertical_margin = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_navigation_item_shape_vertical_margin;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_navigation_rail_active_text_size = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_navigation_rail_active_text_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_navigation_rail_compact_width = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_navigation_rail_compact_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_navigation_rail_default_width = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_navigation_rail_default_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_navigation_rail_elevation = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_navigation_rail_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_navigation_rail_icon_margin = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_navigation_rail_icon_margin;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_navigation_rail_icon_size = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_navigation_rail_icon_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_navigation_rail_margin = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_navigation_rail_margin;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_navigation_rail_text_bottom_margin = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_navigation_rail_text_bottom_margin;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_navigation_rail_text_size = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_navigation_rail_text_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_progress_circular_inset = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_progress_circular_inset;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_progress_circular_inset_extra_small = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_progress_circular_inset_extra_small;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_progress_circular_inset_medium = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_progress_circular_inset_medium;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_progress_circular_inset_small = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_progress_circular_inset_small;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_progress_circular_radius = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_progress_circular_radius;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_progress_circular_size = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_progress_circular_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_progress_circular_size_extra_small = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_progress_circular_size_extra_small;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_progress_circular_size_medium = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_progress_circular_size_medium;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_progress_circular_size_small = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_progress_circular_size_small;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_progress_circular_track_thickness_extra_small = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_progress_circular_track_thickness_extra_small;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_progress_circular_track_thickness_medium = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_progress_circular_track_thickness_medium;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_progress_circular_track_thickness_small = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_progress_circular_track_thickness_small;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_progress_indicator_full_rounded_corner_radius = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_progress_indicator_full_rounded_corner_radius;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_progress_track_thickness = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_progress_track_thickness;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_shape_corner_size_large_component = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_shape_corner_size_large_component;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_shape_corner_size_medium_component = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_shape_corner_size_medium_component;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_shape_corner_size_small_component = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_shape_corner_size_small_component;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_slider_halo_radius = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_slider_halo_radius;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_slider_label_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_slider_label_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_slider_label_radius = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_slider_label_radius;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_slider_label_square_side = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_slider_label_square_side;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_slider_thumb_elevation = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_slider_thumb_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_slider_thumb_radius = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_slider_thumb_radius;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_slider_track_height = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_slider_track_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_slider_track_side_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_slider_track_side_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_slider_track_top = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_slider_track_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_slider_widget_height = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_slider_widget_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_snackbar_action_text_color_alpha = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_snackbar_action_text_color_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_snackbar_background_overlay_color_alpha = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_snackbar_background_overlay_color_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_snackbar_margin = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_snackbar_margin;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_snackbar_message_margin_horizontal = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_snackbar_message_margin_horizontal;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_snackbar_padding_horizontal = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_snackbar_padding_horizontal;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_switch_thumb_elevation = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_switch_thumb_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_textinput_counter_margin_start = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_textinput_counter_margin_start;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_textinput_end_icon_margin_start = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_textinput_end_icon_margin_start;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_textinput_start_icon_margin_end = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_textinput_start_icon_margin_end;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_toolbar_default_height = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_toolbar_default_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_tooltip_arrowSize = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_tooltip_arrowSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_tooltip_cornerSize = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_tooltip_cornerSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_tooltip_minHeight = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_tooltip_minHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_tooltip_minWidth = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_tooltip_minWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_tooltip_padding = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_tooltip_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.mtrl_transition_shared_axis_slide_distance = global::xTaxi.Client.Droid.Resource.Dimension.mtrl_transition_shared_axis_slide_distance;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.notification_action_icon_size = global::xTaxi.Client.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.notification_action_text_size = global::xTaxi.Client.Droid.Resource.Dimension.notification_action_text_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.notification_big_circle_margin = global::xTaxi.Client.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.notification_content_margin_start = global::xTaxi.Client.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.notification_large_icon_height = global::xTaxi.Client.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.notification_large_icon_width = global::xTaxi.Client.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.notification_main_column_padding_top = global::xTaxi.Client.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.notification_media_narrow_margin = global::xTaxi.Client.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.notification_right_icon_size = global::xTaxi.Client.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.notification_right_side_padding_top = global::xTaxi.Client.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.notification_small_icon_background_padding = global::xTaxi.Client.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.notification_small_icon_size_as_large = global::xTaxi.Client.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.notification_subtext_size = global::xTaxi.Client.Droid.Resource.Dimension.notification_subtext_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.notification_top_pad = global::xTaxi.Client.Droid.Resource.Dimension.notification_top_pad;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.notification_top_pad_large_text = global::xTaxi.Client.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.test_mtrl_calendar_day_cornerSize = global::xTaxi.Client.Droid.Resource.Dimension.test_mtrl_calendar_day_cornerSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.test_navigation_bar_active_item_max_width = global::xTaxi.Client.Droid.Resource.Dimension.test_navigation_bar_active_item_max_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.test_navigation_bar_active_item_min_width = global::xTaxi.Client.Droid.Resource.Dimension.test_navigation_bar_active_item_min_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.test_navigation_bar_active_text_size = global::xTaxi.Client.Droid.Resource.Dimension.test_navigation_bar_active_text_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.test_navigation_bar_elevation = global::xTaxi.Client.Droid.Resource.Dimension.test_navigation_bar_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.test_navigation_bar_height = global::xTaxi.Client.Droid.Resource.Dimension.test_navigation_bar_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.test_navigation_bar_icon_size = global::xTaxi.Client.Droid.Resource.Dimension.test_navigation_bar_icon_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.test_navigation_bar_item_max_width = global::xTaxi.Client.Droid.Resource.Dimension.test_navigation_bar_item_max_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.test_navigation_bar_item_min_width = global::xTaxi.Client.Droid.Resource.Dimension.test_navigation_bar_item_min_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.test_navigation_bar_label_padding = global::xTaxi.Client.Droid.Resource.Dimension.test_navigation_bar_label_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.test_navigation_bar_shadow_height = global::xTaxi.Client.Droid.Resource.Dimension.test_navigation_bar_shadow_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.test_navigation_bar_text_size = global::xTaxi.Client.Droid.Resource.Dimension.test_navigation_bar_text_size;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.tooltip_corner_radius = global::xTaxi.Client.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.tooltip_horizontal_padding = global::xTaxi.Client.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.tooltip_margin = global::xTaxi.Client.Droid.Resource.Dimension.tooltip_margin;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::xTaxi.Client.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.tooltip_precise_anchor_threshold = global::xTaxi.Client.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.tooltip_vertical_padding = global::xTaxi.Client.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.tooltip_y_offset_non_touch = global::xTaxi.Client.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Xamarin.Forms.Maps.Android.Resource.Dimension.tooltip_y_offset_touch = global::xTaxi.Client.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::xTaxi.Client.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_action_bar_item_background_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_btn_borderless_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_btn_check_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_btn_check_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_btn_check_material_anim = global::xTaxi.Client.Droid.Resource.Drawable.abc_btn_check_material_anim;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::xTaxi.Client.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::xTaxi.Client.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_btn_colored_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::xTaxi.Client.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_btn_radio_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_btn_radio_material_anim = global::xTaxi.Client.Droid.Resource.Drawable.abc_btn_radio_material_anim;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::xTaxi.Client.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::xTaxi.Client.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::xTaxi.Client.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::xTaxi.Client.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_cab_background_internal_bg = global::xTaxi.Client.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_cab_background_top_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::xTaxi.Client.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_control_background_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_control_background_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_dialog_material_background = global::xTaxi.Client.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_edit_text_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_edit_text_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_ic_ab_back_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::xTaxi.Client.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_ic_clear_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::xTaxi.Client.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_ic_go_search_api_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::xTaxi.Client.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::xTaxi.Client.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_ic_menu_overflow_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::xTaxi.Client.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::xTaxi.Client.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::xTaxi.Client.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_ic_search_api_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_ic_voice_search_api_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_item_background_holo_dark = global::xTaxi.Client.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_item_background_holo_light = global::xTaxi.Client.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_list_divider_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_list_divider_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::xTaxi.Client.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_list_focused_holo = global::xTaxi.Client.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_list_longpressed_holo = global::xTaxi.Client.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::xTaxi.Client.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_list_pressed_holo_light = global::xTaxi.Client.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::xTaxi.Client.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::xTaxi.Client.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::xTaxi.Client.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::xTaxi.Client.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_list_selector_holo_dark = global::xTaxi.Client.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_list_selector_holo_light = global::xTaxi.Client.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::xTaxi.Client.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::xTaxi.Client.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_ratingbar_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_ratingbar_small_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::xTaxi.Client.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::xTaxi.Client.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::xTaxi.Client.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::xTaxi.Client.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::xTaxi.Client.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_seekbar_thumb_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_seekbar_tick_mark_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_seekbar_track_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::xTaxi.Client.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_star_black_48dp = global::xTaxi.Client.Droid.Resource.Drawable.abc_star_black_48dp;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_star_half_black_48dp = global::xTaxi.Client.Droid.Resource.Drawable.abc_star_half_black_48dp;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_switch_thumb_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::xTaxi.Client.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_tab_indicator_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::xTaxi.Client.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::xTaxi.Client.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::xTaxi.Client.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::xTaxi.Client.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::xTaxi.Client.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_textfield_search_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_text_cursor_material = global::xTaxi.Client.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_text_select_handle_left_mtrl = global::xTaxi.Client.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl = global::xTaxi.Client.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_text_select_handle_right_mtrl = global::xTaxi.Client.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.abc_vector_test = global::xTaxi.Client.Droid.Resource.Drawable.abc_vector_test;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.avd_hide_password = global::xTaxi.Client.Droid.Resource.Drawable.avd_hide_password;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.avd_show_password = global::xTaxi.Client.Droid.Resource.Drawable.avd_show_password;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.btn_checkbox_checked_mtrl = global::xTaxi.Client.Droid.Resource.Drawable.btn_checkbox_checked_mtrl;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation = global::xTaxi.Client.Droid.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.btn_checkbox_unchecked_mtrl = global::xTaxi.Client.Droid.Resource.Drawable.btn_checkbox_unchecked_mtrl;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation = global::xTaxi.Client.Droid.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.btn_radio_off_mtrl = global::xTaxi.Client.Droid.Resource.Drawable.btn_radio_off_mtrl;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.btn_radio_off_to_on_mtrl_animation = global::xTaxi.Client.Droid.Resource.Drawable.btn_radio_off_to_on_mtrl_animation;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.btn_radio_on_mtrl = global::xTaxi.Client.Droid.Resource.Drawable.btn_radio_on_mtrl;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.btn_radio_on_to_off_mtrl_animation = global::xTaxi.Client.Droid.Resource.Drawable.btn_radio_on_to_off_mtrl_animation;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.common_full_open_on_phone = global::xTaxi.Client.Droid.Resource.Drawable.common_full_open_on_phone;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.common_google_signin_btn_icon_dark = global::xTaxi.Client.Droid.Resource.Drawable.common_google_signin_btn_icon_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.common_google_signin_btn_icon_dark_focused = global::xTaxi.Client.Droid.Resource.Drawable.common_google_signin_btn_icon_dark_focused;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.common_google_signin_btn_icon_dark_normal = global::xTaxi.Client.Droid.Resource.Drawable.common_google_signin_btn_icon_dark_normal;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.common_google_signin_btn_icon_dark_normal_background = global::xTaxi.Client.Droid.Resource.Drawable.common_google_signin_btn_icon_dark_normal_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.common_google_signin_btn_icon_disabled = global::xTaxi.Client.Droid.Resource.Drawable.common_google_signin_btn_icon_disabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.common_google_signin_btn_icon_light = global::xTaxi.Client.Droid.Resource.Drawable.common_google_signin_btn_icon_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.common_google_signin_btn_icon_light_focused = global::xTaxi.Client.Droid.Resource.Drawable.common_google_signin_btn_icon_light_focused;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.common_google_signin_btn_icon_light_normal = global::xTaxi.Client.Droid.Resource.Drawable.common_google_signin_btn_icon_light_normal;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.common_google_signin_btn_icon_light_normal_background = global::xTaxi.Client.Droid.Resource.Drawable.common_google_signin_btn_icon_light_normal_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.common_google_signin_btn_text_dark = global::xTaxi.Client.Droid.Resource.Drawable.common_google_signin_btn_text_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.common_google_signin_btn_text_dark_focused = global::xTaxi.Client.Droid.Resource.Drawable.common_google_signin_btn_text_dark_focused;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.common_google_signin_btn_text_dark_normal = global::xTaxi.Client.Droid.Resource.Drawable.common_google_signin_btn_text_dark_normal;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.common_google_signin_btn_text_dark_normal_background = global::xTaxi.Client.Droid.Resource.Drawable.common_google_signin_btn_text_dark_normal_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.common_google_signin_btn_text_disabled = global::xTaxi.Client.Droid.Resource.Drawable.common_google_signin_btn_text_disabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.common_google_signin_btn_text_light = global::xTaxi.Client.Droid.Resource.Drawable.common_google_signin_btn_text_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.common_google_signin_btn_text_light_focused = global::xTaxi.Client.Droid.Resource.Drawable.common_google_signin_btn_text_light_focused;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.common_google_signin_btn_text_light_normal = global::xTaxi.Client.Droid.Resource.Drawable.common_google_signin_btn_text_light_normal;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.common_google_signin_btn_text_light_normal_background = global::xTaxi.Client.Droid.Resource.Drawable.common_google_signin_btn_text_light_normal_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.design_fab_background = global::xTaxi.Client.Droid.Resource.Drawable.design_fab_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.design_ic_visibility = global::xTaxi.Client.Droid.Resource.Drawable.design_ic_visibility;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.design_ic_visibility_off = global::xTaxi.Client.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.design_password_eye = global::xTaxi.Client.Droid.Resource.Drawable.design_password_eye;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.design_snackbar_background = global::xTaxi.Client.Droid.Resource.Drawable.design_snackbar_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.googleg_disabled_color_18 = global::xTaxi.Client.Droid.Resource.Drawable.googleg_disabled_color_18;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.googleg_standard_color_18 = global::xTaxi.Client.Droid.Resource.Drawable.googleg_standard_color_18;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.ic_clock_black_24dp = global::xTaxi.Client.Droid.Resource.Drawable.ic_clock_black_24dp;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.ic_keyboard_black_24dp = global::xTaxi.Client.Droid.Resource.Drawable.ic_keyboard_black_24dp;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.ic_mtrl_checked_circle = global::xTaxi.Client.Droid.Resource.Drawable.ic_mtrl_checked_circle;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.ic_mtrl_chip_checked_black = global::xTaxi.Client.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.ic_mtrl_chip_checked_circle = global::xTaxi.Client.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.ic_mtrl_chip_close_circle = global::xTaxi.Client.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.material_cursor_drawable = global::xTaxi.Client.Droid.Resource.Drawable.material_cursor_drawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.material_ic_calendar_black_24dp = global::xTaxi.Client.Droid.Resource.Drawable.material_ic_calendar_black_24dp;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.material_ic_clear_black_24dp = global::xTaxi.Client.Droid.Resource.Drawable.material_ic_clear_black_24dp;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.material_ic_edit_black_24dp = global::xTaxi.Client.Droid.Resource.Drawable.material_ic_edit_black_24dp;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.material_ic_keyboard_arrow_left_black_24dp = global::xTaxi.Client.Droid.Resource.Drawable.material_ic_keyboard_arrow_left_black_24dp;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.material_ic_keyboard_arrow_next_black_24dp = global::xTaxi.Client.Droid.Resource.Drawable.material_ic_keyboard_arrow_next_black_24dp;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.material_ic_keyboard_arrow_previous_black_24dp = global::xTaxi.Client.Droid.Resource.Drawable.material_ic_keyboard_arrow_previous_black_24dp;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.material_ic_keyboard_arrow_right_black_24dp = global::xTaxi.Client.Droid.Resource.Drawable.material_ic_keyboard_arrow_right_black_24dp;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.material_ic_menu_arrow_down_black_24dp = global::xTaxi.Client.Droid.Resource.Drawable.material_ic_menu_arrow_down_black_24dp;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.material_ic_menu_arrow_up_black_24dp = global::xTaxi.Client.Droid.Resource.Drawable.material_ic_menu_arrow_up_black_24dp;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.mtrl_dialog_background = global::xTaxi.Client.Droid.Resource.Drawable.mtrl_dialog_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.mtrl_dropdown_arrow = global::xTaxi.Client.Droid.Resource.Drawable.mtrl_dropdown_arrow;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.mtrl_ic_arrow_drop_down = global::xTaxi.Client.Droid.Resource.Drawable.mtrl_ic_arrow_drop_down;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.mtrl_ic_arrow_drop_up = global::xTaxi.Client.Droid.Resource.Drawable.mtrl_ic_arrow_drop_up;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.mtrl_ic_cancel = global::xTaxi.Client.Droid.Resource.Drawable.mtrl_ic_cancel;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.mtrl_ic_error = global::xTaxi.Client.Droid.Resource.Drawable.mtrl_ic_error;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.mtrl_navigation_bar_item_background = global::xTaxi.Client.Droid.Resource.Drawable.mtrl_navigation_bar_item_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.mtrl_popupmenu_background = global::xTaxi.Client.Droid.Resource.Drawable.mtrl_popupmenu_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.mtrl_popupmenu_background_dark = global::xTaxi.Client.Droid.Resource.Drawable.mtrl_popupmenu_background_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.mtrl_tabs_default_indicator = global::xTaxi.Client.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.navigation_empty_icon = global::xTaxi.Client.Droid.Resource.Drawable.navigation_empty_icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.notification_action_background = global::xTaxi.Client.Droid.Resource.Drawable.notification_action_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.notification_bg = global::xTaxi.Client.Droid.Resource.Drawable.notification_bg;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.notification_bg_low = global::xTaxi.Client.Droid.Resource.Drawable.notification_bg_low;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.notification_bg_low_normal = global::xTaxi.Client.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.notification_bg_low_pressed = global::xTaxi.Client.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.notification_bg_normal = global::xTaxi.Client.Droid.Resource.Drawable.notification_bg_normal;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.notification_bg_normal_pressed = global::xTaxi.Client.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.notification_icon_background = global::xTaxi.Client.Droid.Resource.Drawable.notification_icon_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.notification_template_icon_bg = global::xTaxi.Client.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.notification_template_icon_low_bg = global::xTaxi.Client.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.notification_tile_bg = global::xTaxi.Client.Droid.Resource.Drawable.notification_tile_bg;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.notify_panel_notification_icon_bg = global::xTaxi.Client.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.test_custom_background = global::xTaxi.Client.Droid.Resource.Drawable.test_custom_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.tooltip_frame_dark = global::xTaxi.Client.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Drawable.tooltip_frame_light = global::xTaxi.Client.Droid.Resource.Drawable.tooltip_frame_light;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accelerate = global::xTaxi.Client.Droid.Resource.Id.accelerate;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_action_clickable_span = global::xTaxi.Client.Droid.Resource.Id.accessibility_action_clickable_span;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_0 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_0;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_1 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_1;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_10 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_10;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_11 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_11;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_12 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_12;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_13 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_13;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_14 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_14;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_15 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_15;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_16 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_16;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_17 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_17;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_18 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_18;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_19 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_19;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_2 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_2;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_20 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_20;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_21 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_21;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_22 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_22;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_23 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_23;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_24 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_24;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_25 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_25;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_26 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_26;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_27 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_27;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_28 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_28;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_29 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_29;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_3 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_3;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_30 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_30;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_31 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_31;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_4 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_4;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_5 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_5;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_6 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_6;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_7 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_7;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_8 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_8;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.accessibility_custom_action_9 = global::xTaxi.Client.Droid.Resource.Id.accessibility_custom_action_9;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.action0 = global::xTaxi.Client.Droid.Resource.Id.action0;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.actionDown = global::xTaxi.Client.Droid.Resource.Id.actionDown;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.actionDownUp = global::xTaxi.Client.Droid.Resource.Id.actionDownUp;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.actions = global::xTaxi.Client.Droid.Resource.Id.actions;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.actionUp = global::xTaxi.Client.Droid.Resource.Id.actionUp;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.action_bar = global::xTaxi.Client.Droid.Resource.Id.action_bar;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.action_bar_activity_content = global::xTaxi.Client.Droid.Resource.Id.action_bar_activity_content;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.action_bar_container = global::xTaxi.Client.Droid.Resource.Id.action_bar_container;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.action_bar_root = global::xTaxi.Client.Droid.Resource.Id.action_bar_root;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.action_bar_spinner = global::xTaxi.Client.Droid.Resource.Id.action_bar_spinner;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.action_bar_subtitle = global::xTaxi.Client.Droid.Resource.Id.action_bar_subtitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.action_bar_title = global::xTaxi.Client.Droid.Resource.Id.action_bar_title;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.action_container = global::xTaxi.Client.Droid.Resource.Id.action_container;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.action_context_bar = global::xTaxi.Client.Droid.Resource.Id.action_context_bar;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.action_divider = global::xTaxi.Client.Droid.Resource.Id.action_divider;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.action_image = global::xTaxi.Client.Droid.Resource.Id.action_image;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.action_menu_divider = global::xTaxi.Client.Droid.Resource.Id.action_menu_divider;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.action_menu_presenter = global::xTaxi.Client.Droid.Resource.Id.action_menu_presenter;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.action_mode_bar = global::xTaxi.Client.Droid.Resource.Id.action_mode_bar;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.action_mode_bar_stub = global::xTaxi.Client.Droid.Resource.Id.action_mode_bar_stub;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.action_mode_close_button = global::xTaxi.Client.Droid.Resource.Id.action_mode_close_button;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.action_text = global::xTaxi.Client.Droid.Resource.Id.action_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.activity_chooser_view_content = global::xTaxi.Client.Droid.Resource.Id.activity_chooser_view_content;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.add = global::xTaxi.Client.Droid.Resource.Id.add;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.adjust_height = global::xTaxi.Client.Droid.Resource.Id.adjust_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.adjust_width = global::xTaxi.Client.Droid.Resource.Id.adjust_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.alertTitle = global::xTaxi.Client.Droid.Resource.Id.alertTitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.aligned = global::xTaxi.Client.Droid.Resource.Id.aligned;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.all = global::xTaxi.Client.Droid.Resource.Id.all;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.allStates = global::xTaxi.Client.Droid.Resource.Id.allStates;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.ALT = global::xTaxi.Client.Droid.Resource.Id.ALT;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.always = global::xTaxi.Client.Droid.Resource.Id.always;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.animateToEnd = global::xTaxi.Client.Droid.Resource.Id.animateToEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.animateToStart = global::xTaxi.Client.Droid.Resource.Id.animateToStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.anticipate = global::xTaxi.Client.Droid.Resource.Id.anticipate;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.antiClockwise = global::xTaxi.Client.Droid.Resource.Id.antiClockwise;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.arc = global::xTaxi.Client.Droid.Resource.Id.arc;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.asConfigured = global::xTaxi.Client.Droid.Resource.Id.asConfigured;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.async = global::xTaxi.Client.Droid.Resource.Id.async;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.auto = global::xTaxi.Client.Droid.Resource.Id.auto;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.autoComplete = global::xTaxi.Client.Droid.Resource.Id.autoComplete;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.autoCompleteToEnd = global::xTaxi.Client.Droid.Resource.Id.autoCompleteToEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.autoCompleteToStart = global::xTaxi.Client.Droid.Resource.Id.autoCompleteToStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.barrier = global::xTaxi.Client.Droid.Resource.Id.barrier;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.baseline = global::xTaxi.Client.Droid.Resource.Id.baseline;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.beginning = global::xTaxi.Client.Droid.Resource.Id.beginning;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.beginOnFirstDraw = global::xTaxi.Client.Droid.Resource.Id.beginOnFirstDraw;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.bestChoice = global::xTaxi.Client.Droid.Resource.Id.bestChoice;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.blocking = global::xTaxi.Client.Droid.Resource.Id.blocking;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.bottom = global::xTaxi.Client.Droid.Resource.Id.bottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.bottomtab_navarea = global::xTaxi.Client.Droid.Resource.Id.bottomtab_navarea;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.bottomtab_tabbar = global::xTaxi.Client.Droid.Resource.Id.bottomtab_tabbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.BOTTOM_END = global::xTaxi.Client.Droid.Resource.Id.BOTTOM_END;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.BOTTOM_START = global::xTaxi.Client.Droid.Resource.Id.BOTTOM_START;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.bounce = global::xTaxi.Client.Droid.Resource.Id.bounce;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.bounceBoth = global::xTaxi.Client.Droid.Resource.Id.bounceBoth;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.bounceEnd = global::xTaxi.Client.Droid.Resource.Id.bounceEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.bounceStart = global::xTaxi.Client.Droid.Resource.Id.bounceStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.buttonPanel = global::xTaxi.Client.Droid.Resource.Id.buttonPanel;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.cache_measures = global::xTaxi.Client.Droid.Resource.Id.cache_measures;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.cancel_action = global::xTaxi.Client.Droid.Resource.Id.cancel_action;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.cancel_button = global::xTaxi.Client.Droid.Resource.Id.cancel_button;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.carryVelocity = global::xTaxi.Client.Droid.Resource.Id.carryVelocity;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.center = global::xTaxi.Client.Droid.Resource.Id.center;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.center_horizontal = global::xTaxi.Client.Droid.Resource.Id.center_horizontal;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.center_vertical = global::xTaxi.Client.Droid.Resource.Id.center_vertical;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.chain = global::xTaxi.Client.Droid.Resource.Id.chain;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.chains = global::xTaxi.Client.Droid.Resource.Id.chains;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.checkbox = global::xTaxi.Client.Droid.Resource.Id.checkbox;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.@checked = global::xTaxi.Client.Droid.Resource.Id.@checked;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.chip = global::xTaxi.Client.Droid.Resource.Id.chip;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.chip1 = global::xTaxi.Client.Droid.Resource.Id.chip1;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.chip2 = global::xTaxi.Client.Droid.Resource.Id.chip2;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.chip3 = global::xTaxi.Client.Droid.Resource.Id.chip3;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.chip_group = global::xTaxi.Client.Droid.Resource.Id.chip_group;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.chronometer = global::xTaxi.Client.Droid.Resource.Id.chronometer;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.circle_center = global::xTaxi.Client.Droid.Resource.Id.circle_center;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.clear_text = global::xTaxi.Client.Droid.Resource.Id.clear_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.clip_horizontal = global::xTaxi.Client.Droid.Resource.Id.clip_horizontal;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.clip_vertical = global::xTaxi.Client.Droid.Resource.Id.clip_vertical;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.clockwise = global::xTaxi.Client.Droid.Resource.Id.clockwise;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.closest = global::xTaxi.Client.Droid.Resource.Id.closest;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.collapseActionView = global::xTaxi.Client.Droid.Resource.Id.collapseActionView;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.confirm_button = global::xTaxi.Client.Droid.Resource.Id.confirm_button;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.constraint = global::xTaxi.Client.Droid.Resource.Id.constraint;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.container = global::xTaxi.Client.Droid.Resource.Id.container;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.content = global::xTaxi.Client.Droid.Resource.Id.content;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.contentPanel = global::xTaxi.Client.Droid.Resource.Id.contentPanel;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.contiguous = global::xTaxi.Client.Droid.Resource.Id.contiguous;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.continuousVelocity = global::xTaxi.Client.Droid.Resource.Id.continuousVelocity;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.coordinator = global::xTaxi.Client.Droid.Resource.Id.coordinator;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.cos = global::xTaxi.Client.Droid.Resource.Id.cos;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.counterclockwise = global::xTaxi.Client.Droid.Resource.Id.counterclockwise;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.CTRL = global::xTaxi.Client.Droid.Resource.Id.CTRL;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.currentState = global::xTaxi.Client.Droid.Resource.Id.currentState;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.custom = global::xTaxi.Client.Droid.Resource.Id.custom;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.customPanel = global::xTaxi.Client.Droid.Resource.Id.customPanel;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.cut = global::xTaxi.Client.Droid.Resource.Id.cut;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.dark = global::xTaxi.Client.Droid.Resource.Id.dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.date_picker_actions = global::xTaxi.Client.Droid.Resource.Id.date_picker_actions;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.decelerate = global::xTaxi.Client.Droid.Resource.Id.decelerate;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.decelerateAndComplete = global::xTaxi.Client.Droid.Resource.Id.decelerateAndComplete;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.decor_content_parent = global::xTaxi.Client.Droid.Resource.Id.decor_content_parent;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.default_activity_button = global::xTaxi.Client.Droid.Resource.Id.default_activity_button;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.deltaRelative = global::xTaxi.Client.Droid.Resource.Id.deltaRelative;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.dependency_ordering = global::xTaxi.Client.Droid.Resource.Id.dependency_ordering;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.design_bottom_sheet = global::xTaxi.Client.Droid.Resource.Id.design_bottom_sheet;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.design_menu_item_action_area = global::xTaxi.Client.Droid.Resource.Id.design_menu_item_action_area;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.design_menu_item_action_area_stub = global::xTaxi.Client.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.design_menu_item_text = global::xTaxi.Client.Droid.Resource.Id.design_menu_item_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.design_navigation_view = global::xTaxi.Client.Droid.Resource.Id.design_navigation_view;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.dialog_button = global::xTaxi.Client.Droid.Resource.Id.dialog_button;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.dimensions = global::xTaxi.Client.Droid.Resource.Id.dimensions;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.direct = global::xTaxi.Client.Droid.Resource.Id.direct;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.disableHome = global::xTaxi.Client.Droid.Resource.Id.disableHome;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.disableIntraAutoTransition = global::xTaxi.Client.Droid.Resource.Id.disableIntraAutoTransition;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.disablePostScroll = global::xTaxi.Client.Droid.Resource.Id.disablePostScroll;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.disableScroll = global::xTaxi.Client.Droid.Resource.Id.disableScroll;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.disjoint = global::xTaxi.Client.Droid.Resource.Id.disjoint;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.dragAnticlockwise = global::xTaxi.Client.Droid.Resource.Id.dragAnticlockwise;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.dragClockwise = global::xTaxi.Client.Droid.Resource.Id.dragClockwise;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.dragDown = global::xTaxi.Client.Droid.Resource.Id.dragDown;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.dragEnd = global::xTaxi.Client.Droid.Resource.Id.dragEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.dragLeft = global::xTaxi.Client.Droid.Resource.Id.dragLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.dragRight = global::xTaxi.Client.Droid.Resource.Id.dragRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.dragStart = global::xTaxi.Client.Droid.Resource.Id.dragStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.dragUp = global::xTaxi.Client.Droid.Resource.Id.dragUp;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.dropdown_menu = global::xTaxi.Client.Droid.Resource.Id.dropdown_menu;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.easeIn = global::xTaxi.Client.Droid.Resource.Id.easeIn;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.easeInOut = global::xTaxi.Client.Droid.Resource.Id.easeInOut;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.easeOut = global::xTaxi.Client.Droid.Resource.Id.easeOut;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.east = global::xTaxi.Client.Droid.Resource.Id.east;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.edit_query = global::xTaxi.Client.Droid.Resource.Id.edit_query;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.elastic = global::xTaxi.Client.Droid.Resource.Id.elastic;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.end = global::xTaxi.Client.Droid.Resource.Id.end;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.endToStart = global::xTaxi.Client.Droid.Resource.Id.endToStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.end_padder = global::xTaxi.Client.Droid.Resource.Id.end_padder;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.enterAlways = global::xTaxi.Client.Droid.Resource.Id.enterAlways;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.enterAlwaysCollapsed = global::xTaxi.Client.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.exitUntilCollapsed = global::xTaxi.Client.Droid.Resource.Id.exitUntilCollapsed;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.expanded_menu = global::xTaxi.Client.Droid.Resource.Id.expanded_menu;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.expand_activities_button = global::xTaxi.Client.Droid.Resource.Id.expand_activities_button;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.fade = global::xTaxi.Client.Droid.Resource.Id.fade;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.fill = global::xTaxi.Client.Droid.Resource.Id.fill;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.filled = global::xTaxi.Client.Droid.Resource.Id.filled;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.fill_horizontal = global::xTaxi.Client.Droid.Resource.Id.fill_horizontal;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.fill_vertical = global::xTaxi.Client.Droid.Resource.Id.fill_vertical;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.fitToContents = global::xTaxi.Client.Droid.Resource.Id.fitToContents;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.@fixed = global::xTaxi.Client.Droid.Resource.Id.@fixed;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.flip = global::xTaxi.Client.Droid.Resource.Id.flip;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.floating = global::xTaxi.Client.Droid.Resource.Id.floating;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.flyoutcontent_appbar = global::xTaxi.Client.Droid.Resource.Id.flyoutcontent_appbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.forever = global::xTaxi.Client.Droid.Resource.Id.forever;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.fragment_container_view_tag = global::xTaxi.Client.Droid.Resource.Id.fragment_container_view_tag;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.frost = global::xTaxi.Client.Droid.Resource.Id.frost;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.FUNCTION = global::xTaxi.Client.Droid.Resource.Id.FUNCTION;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.ghost_view = global::xTaxi.Client.Droid.Resource.Id.ghost_view;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.ghost_view_holder = global::xTaxi.Client.Droid.Resource.Id.ghost_view_holder;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.gone = global::xTaxi.Client.Droid.Resource.Id.gone;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.graph = global::xTaxi.Client.Droid.Resource.Id.graph;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.graph_wrap = global::xTaxi.Client.Droid.Resource.Id.graph_wrap;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.grouping = global::xTaxi.Client.Droid.Resource.Id.grouping;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.groups = global::xTaxi.Client.Droid.Resource.Id.groups;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.group_divider = global::xTaxi.Client.Droid.Resource.Id.group_divider;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.guideline = global::xTaxi.Client.Droid.Resource.Id.guideline;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.header_title = global::xTaxi.Client.Droid.Resource.Id.header_title;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.hideable = global::xTaxi.Client.Droid.Resource.Id.hideable;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.home = global::xTaxi.Client.Droid.Resource.Id.home;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.homeAsUp = global::xTaxi.Client.Droid.Resource.Id.homeAsUp;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.honorRequest = global::xTaxi.Client.Droid.Resource.Id.honorRequest;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.horizontal_only = global::xTaxi.Client.Droid.Resource.Id.horizontal_only;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.hybrid = global::xTaxi.Client.Droid.Resource.Id.hybrid;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.icon = global::xTaxi.Client.Droid.Resource.Id.icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.icon_group = global::xTaxi.Client.Droid.Resource.Id.icon_group;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.icon_only = global::xTaxi.Client.Droid.Resource.Id.icon_only;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.ifRoom = global::xTaxi.Client.Droid.Resource.Id.ifRoom;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.ignore = global::xTaxi.Client.Droid.Resource.Id.ignore;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.ignoreRequest = global::xTaxi.Client.Droid.Resource.Id.ignoreRequest;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.image = global::xTaxi.Client.Droid.Resource.Id.image;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.immediateStop = global::xTaxi.Client.Droid.Resource.Id.immediateStop;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.included = global::xTaxi.Client.Droid.Resource.Id.included;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.info = global::xTaxi.Client.Droid.Resource.Id.info;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.invisible = global::xTaxi.Client.Droid.Resource.Id.invisible;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.inward = global::xTaxi.Client.Droid.Resource.Id.inward;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.italic = global::xTaxi.Client.Droid.Resource.Id.italic;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.item_touch_helper_previous_elevation = global::xTaxi.Client.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.jumpToEnd = global::xTaxi.Client.Droid.Resource.Id.jumpToEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.jumpToStart = global::xTaxi.Client.Droid.Resource.Id.jumpToStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.labeled = global::xTaxi.Client.Droid.Resource.Id.labeled;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.layout = global::xTaxi.Client.Droid.Resource.Id.layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.left = global::xTaxi.Client.Droid.Resource.Id.left;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.leftToRight = global::xTaxi.Client.Droid.Resource.Id.leftToRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.legacy = global::xTaxi.Client.Droid.Resource.Id.legacy;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.light = global::xTaxi.Client.Droid.Resource.Id.light;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.line1 = global::xTaxi.Client.Droid.Resource.Id.line1;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.line3 = global::xTaxi.Client.Droid.Resource.Id.line3;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.linear = global::xTaxi.Client.Droid.Resource.Id.linear;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.listMode = global::xTaxi.Client.Droid.Resource.Id.listMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.list_item = global::xTaxi.Client.Droid.Resource.Id.list_item;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.main_appbar = global::xTaxi.Client.Droid.Resource.Id.main_appbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.main_tablayout = global::xTaxi.Client.Droid.Resource.Id.main_tablayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.main_toolbar = global::xTaxi.Client.Droid.Resource.Id.main_toolbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.main_viewpager = global::xTaxi.Client.Droid.Resource.Id.main_viewpager;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.masked = global::xTaxi.Client.Droid.Resource.Id.masked;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.match_constraint = global::xTaxi.Client.Droid.Resource.Id.match_constraint;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.match_parent = global::xTaxi.Client.Droid.Resource.Id.match_parent;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.material_clock_display = global::xTaxi.Client.Droid.Resource.Id.material_clock_display;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.material_clock_face = global::xTaxi.Client.Droid.Resource.Id.material_clock_face;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.material_clock_hand = global::xTaxi.Client.Droid.Resource.Id.material_clock_hand;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.material_clock_period_am_button = global::xTaxi.Client.Droid.Resource.Id.material_clock_period_am_button;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.material_clock_period_pm_button = global::xTaxi.Client.Droid.Resource.Id.material_clock_period_pm_button;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.material_clock_period_toggle = global::xTaxi.Client.Droid.Resource.Id.material_clock_period_toggle;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.material_hour_text_input = global::xTaxi.Client.Droid.Resource.Id.material_hour_text_input;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.material_hour_tv = global::xTaxi.Client.Droid.Resource.Id.material_hour_tv;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.material_label = global::xTaxi.Client.Droid.Resource.Id.material_label;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.material_minute_text_input = global::xTaxi.Client.Droid.Resource.Id.material_minute_text_input;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.material_minute_tv = global::xTaxi.Client.Droid.Resource.Id.material_minute_tv;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.material_textinput_timepicker = global::xTaxi.Client.Droid.Resource.Id.material_textinput_timepicker;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.material_timepicker_cancel_button = global::xTaxi.Client.Droid.Resource.Id.material_timepicker_cancel_button;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.material_timepicker_container = global::xTaxi.Client.Droid.Resource.Id.material_timepicker_container;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.material_timepicker_edit_text = global::xTaxi.Client.Droid.Resource.Id.material_timepicker_edit_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.material_timepicker_mode_button = global::xTaxi.Client.Droid.Resource.Id.material_timepicker_mode_button;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.material_timepicker_ok_button = global::xTaxi.Client.Droid.Resource.Id.material_timepicker_ok_button;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.material_timepicker_view = global::xTaxi.Client.Droid.Resource.Id.material_timepicker_view;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.material_value_index = global::xTaxi.Client.Droid.Resource.Id.material_value_index;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.media_actions = global::xTaxi.Client.Droid.Resource.Id.media_actions;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.media_controller_compat_view_tag = global::xTaxi.Client.Droid.Resource.Id.media_controller_compat_view_tag;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.message = global::xTaxi.Client.Droid.Resource.Id.message;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.META = global::xTaxi.Client.Droid.Resource.Id.META;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.middle = global::xTaxi.Client.Droid.Resource.Id.middle;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mini = global::xTaxi.Client.Droid.Resource.Id.mini;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.month_grid = global::xTaxi.Client.Droid.Resource.Id.month_grid;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.month_navigation_bar = global::xTaxi.Client.Droid.Resource.Id.month_navigation_bar;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.month_navigation_fragment_toggle = global::xTaxi.Client.Droid.Resource.Id.month_navigation_fragment_toggle;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.month_navigation_next = global::xTaxi.Client.Droid.Resource.Id.month_navigation_next;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.month_navigation_previous = global::xTaxi.Client.Droid.Resource.Id.month_navigation_previous;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.month_title = global::xTaxi.Client.Droid.Resource.Id.month_title;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.motion_base = global::xTaxi.Client.Droid.Resource.Id.motion_base;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_anchor_parent = global::xTaxi.Client.Droid.Resource.Id.mtrl_anchor_parent;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_calendar_days_of_week = global::xTaxi.Client.Droid.Resource.Id.mtrl_calendar_days_of_week;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_calendar_day_selector_frame = global::xTaxi.Client.Droid.Resource.Id.mtrl_calendar_day_selector_frame;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_calendar_frame = global::xTaxi.Client.Droid.Resource.Id.mtrl_calendar_frame;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_calendar_main_pane = global::xTaxi.Client.Droid.Resource.Id.mtrl_calendar_main_pane;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_calendar_months = global::xTaxi.Client.Droid.Resource.Id.mtrl_calendar_months;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_calendar_selection_frame = global::xTaxi.Client.Droid.Resource.Id.mtrl_calendar_selection_frame;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_calendar_text_input_frame = global::xTaxi.Client.Droid.Resource.Id.mtrl_calendar_text_input_frame;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_calendar_year_selector_frame = global::xTaxi.Client.Droid.Resource.Id.mtrl_calendar_year_selector_frame;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_card_checked_layer_id = global::xTaxi.Client.Droid.Resource.Id.mtrl_card_checked_layer_id;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_child_content_container = global::xTaxi.Client.Droid.Resource.Id.mtrl_child_content_container;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_internal_children_alpha_tag = global::xTaxi.Client.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_motion_snapshot_view = global::xTaxi.Client.Droid.Resource.Id.mtrl_motion_snapshot_view;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_picker_fullscreen = global::xTaxi.Client.Droid.Resource.Id.mtrl_picker_fullscreen;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_picker_header = global::xTaxi.Client.Droid.Resource.Id.mtrl_picker_header;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_picker_header_selection_text = global::xTaxi.Client.Droid.Resource.Id.mtrl_picker_header_selection_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_picker_header_title_and_selection = global::xTaxi.Client.Droid.Resource.Id.mtrl_picker_header_title_and_selection;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_picker_header_toggle = global::xTaxi.Client.Droid.Resource.Id.mtrl_picker_header_toggle;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_picker_text_input_date = global::xTaxi.Client.Droid.Resource.Id.mtrl_picker_text_input_date;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_picker_text_input_range_end = global::xTaxi.Client.Droid.Resource.Id.mtrl_picker_text_input_range_end;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_picker_text_input_range_start = global::xTaxi.Client.Droid.Resource.Id.mtrl_picker_text_input_range_start;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_picker_title_text = global::xTaxi.Client.Droid.Resource.Id.mtrl_picker_title_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.mtrl_view_tag_bottom_padding = global::xTaxi.Client.Droid.Resource.Id.mtrl_view_tag_bottom_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.multiply = global::xTaxi.Client.Droid.Resource.Id.multiply;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.navigation_bar_item_icon_view = global::xTaxi.Client.Droid.Resource.Id.navigation_bar_item_icon_view;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.navigation_bar_item_labels_group = global::xTaxi.Client.Droid.Resource.Id.navigation_bar_item_labels_group;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.navigation_bar_item_large_label_view = global::xTaxi.Client.Droid.Resource.Id.navigation_bar_item_large_label_view;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.navigation_bar_item_small_label_view = global::xTaxi.Client.Droid.Resource.Id.navigation_bar_item_small_label_view;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.navigation_header_container = global::xTaxi.Client.Droid.Resource.Id.navigation_header_container;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.nav_controller_view_tag = global::xTaxi.Client.Droid.Resource.Id.nav_controller_view_tag;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.never = global::xTaxi.Client.Droid.Resource.Id.never;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.neverCompleteToEnd = global::xTaxi.Client.Droid.Resource.Id.neverCompleteToEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.neverCompleteToStart = global::xTaxi.Client.Droid.Resource.Id.neverCompleteToStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.none = global::xTaxi.Client.Droid.Resource.Id.none;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.normal = global::xTaxi.Client.Droid.Resource.Id.normal;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.north = global::xTaxi.Client.Droid.Resource.Id.north;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.noScroll = global::xTaxi.Client.Droid.Resource.Id.noScroll;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.noState = global::xTaxi.Client.Droid.Resource.Id.noState;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.notification_background = global::xTaxi.Client.Droid.Resource.Id.notification_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.notification_main_column = global::xTaxi.Client.Droid.Resource.Id.notification_main_column;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.notification_main_column_container = global::xTaxi.Client.Droid.Resource.Id.notification_main_column_container;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.NO_DEBUG = global::xTaxi.Client.Droid.Resource.Id.NO_DEBUG;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.off = global::xTaxi.Client.Droid.Resource.Id.off;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.on = global::xTaxi.Client.Droid.Resource.Id.on;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.outline = global::xTaxi.Client.Droid.Resource.Id.outline;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.outward = global::xTaxi.Client.Droid.Resource.Id.outward;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.overshoot = global::xTaxi.Client.Droid.Resource.Id.overshoot;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.packed = global::xTaxi.Client.Droid.Resource.Id.packed;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.parallax = global::xTaxi.Client.Droid.Resource.Id.parallax;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.parent = global::xTaxi.Client.Droid.Resource.Id.parent;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.parentPanel = global::xTaxi.Client.Droid.Resource.Id.parentPanel;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.parentRelative = global::xTaxi.Client.Droid.Resource.Id.parentRelative;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.parent_matrix = global::xTaxi.Client.Droid.Resource.Id.parent_matrix;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.password_toggle = global::xTaxi.Client.Droid.Resource.Id.password_toggle;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.path = global::xTaxi.Client.Droid.Resource.Id.path;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.pathRelative = global::xTaxi.Client.Droid.Resource.Id.pathRelative;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.peekHeight = global::xTaxi.Client.Droid.Resource.Id.peekHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.percent = global::xTaxi.Client.Droid.Resource.Id.percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.pin = global::xTaxi.Client.Droid.Resource.Id.pin;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.position = global::xTaxi.Client.Droid.Resource.Id.position;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.postLayout = global::xTaxi.Client.Droid.Resource.Id.postLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.progress_circular = global::xTaxi.Client.Droid.Resource.Id.progress_circular;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.progress_horizontal = global::xTaxi.Client.Droid.Resource.Id.progress_horizontal;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.radio = global::xTaxi.Client.Droid.Resource.Id.radio;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.ratio = global::xTaxi.Client.Droid.Resource.Id.ratio;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.rectangles = global::xTaxi.Client.Droid.Resource.Id.rectangles;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.reverseSawtooth = global::xTaxi.Client.Droid.Resource.Id.reverseSawtooth;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.right = global::xTaxi.Client.Droid.Resource.Id.right;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.rightToLeft = global::xTaxi.Client.Droid.Resource.Id.rightToLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.right_icon = global::xTaxi.Client.Droid.Resource.Id.right_icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.right_side = global::xTaxi.Client.Droid.Resource.Id.right_side;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.rounded = global::xTaxi.Client.Droid.Resource.Id.rounded;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.row_index_key = global::xTaxi.Client.Droid.Resource.Id.row_index_key;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.satellite = global::xTaxi.Client.Droid.Resource.Id.satellite;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.save_non_transition_alpha = global::xTaxi.Client.Droid.Resource.Id.save_non_transition_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.save_overlay_view = global::xTaxi.Client.Droid.Resource.Id.save_overlay_view;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.sawtooth = global::xTaxi.Client.Droid.Resource.Id.sawtooth;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.scale = global::xTaxi.Client.Droid.Resource.Id.scale;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.screen = global::xTaxi.Client.Droid.Resource.Id.screen;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.scroll = global::xTaxi.Client.Droid.Resource.Id.scroll;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.scrollable = global::xTaxi.Client.Droid.Resource.Id.scrollable;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.scrollIndicatorDown = global::xTaxi.Client.Droid.Resource.Id.scrollIndicatorDown;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.scrollIndicatorUp = global::xTaxi.Client.Droid.Resource.Id.scrollIndicatorUp;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.scrollView = global::xTaxi.Client.Droid.Resource.Id.scrollView;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.search_badge = global::xTaxi.Client.Droid.Resource.Id.search_badge;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.search_bar = global::xTaxi.Client.Droid.Resource.Id.search_bar;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.search_button = global::xTaxi.Client.Droid.Resource.Id.search_button;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.search_close_btn = global::xTaxi.Client.Droid.Resource.Id.search_close_btn;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.search_edit_frame = global::xTaxi.Client.Droid.Resource.Id.search_edit_frame;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.search_go_btn = global::xTaxi.Client.Droid.Resource.Id.search_go_btn;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.search_mag_icon = global::xTaxi.Client.Droid.Resource.Id.search_mag_icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.search_plate = global::xTaxi.Client.Droid.Resource.Id.search_plate;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.search_src_text = global::xTaxi.Client.Droid.Resource.Id.search_src_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.search_voice_btn = global::xTaxi.Client.Droid.Resource.Id.search_voice_btn;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.selected = global::xTaxi.Client.Droid.Resource.Id.selected;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.selection_type = global::xTaxi.Client.Droid.Resource.Id.selection_type;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.select_dialog_listview = global::xTaxi.Client.Droid.Resource.Id.select_dialog_listview;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.sharedValueSet = global::xTaxi.Client.Droid.Resource.Id.sharedValueSet;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.sharedValueUnset = global::xTaxi.Client.Droid.Resource.Id.sharedValueUnset;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.shellcontent_appbar = global::xTaxi.Client.Droid.Resource.Id.shellcontent_appbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.shellcontent_toolbar = global::xTaxi.Client.Droid.Resource.Id.shellcontent_toolbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.SHIFT = global::xTaxi.Client.Droid.Resource.Id.SHIFT;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.shortcut = global::xTaxi.Client.Droid.Resource.Id.shortcut;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.showCustom = global::xTaxi.Client.Droid.Resource.Id.showCustom;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.showHome = global::xTaxi.Client.Droid.Resource.Id.showHome;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.showTitle = global::xTaxi.Client.Droid.Resource.Id.showTitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.SHOW_ALL = global::xTaxi.Client.Droid.Resource.Id.SHOW_ALL;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.SHOW_PATH = global::xTaxi.Client.Droid.Resource.Id.SHOW_PATH;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.SHOW_PROGRESS = global::xTaxi.Client.Droid.Resource.Id.SHOW_PROGRESS;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.sin = global::xTaxi.Client.Droid.Resource.Id.sin;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.skipCollapsed = global::xTaxi.Client.Droid.Resource.Id.skipCollapsed;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.skipped = global::xTaxi.Client.Droid.Resource.Id.skipped;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.slide = global::xTaxi.Client.Droid.Resource.Id.slide;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.sliding_tabs = global::xTaxi.Client.Droid.Resource.Id.sliding_tabs;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.snackbar_action = global::xTaxi.Client.Droid.Resource.Id.snackbar_action;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.snackbar_text = global::xTaxi.Client.Droid.Resource.Id.snackbar_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.snap = global::xTaxi.Client.Droid.Resource.Id.snap;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.snapMargins = global::xTaxi.Client.Droid.Resource.Id.snapMargins;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.south = global::xTaxi.Client.Droid.Resource.Id.south;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.spacer = global::xTaxi.Client.Droid.Resource.Id.spacer;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.special_effects_controller_view_tag = global::xTaxi.Client.Droid.Resource.Id.special_effects_controller_view_tag;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.spline = global::xTaxi.Client.Droid.Resource.Id.spline;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.split_action_bar = global::xTaxi.Client.Droid.Resource.Id.split_action_bar;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.spread = global::xTaxi.Client.Droid.Resource.Id.spread;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.spread_inside = global::xTaxi.Client.Droid.Resource.Id.spread_inside;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.spring = global::xTaxi.Client.Droid.Resource.Id.spring;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.square = global::xTaxi.Client.Droid.Resource.Id.square;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.src_atop = global::xTaxi.Client.Droid.Resource.Id.src_atop;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.src_in = global::xTaxi.Client.Droid.Resource.Id.src_in;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.src_over = global::xTaxi.Client.Droid.Resource.Id.src_over;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.standard = global::xTaxi.Client.Droid.Resource.Id.standard;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.start = global::xTaxi.Client.Droid.Resource.Id.start;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.startHorizontal = global::xTaxi.Client.Droid.Resource.Id.startHorizontal;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.startToEnd = global::xTaxi.Client.Droid.Resource.Id.startToEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.startVertical = global::xTaxi.Client.Droid.Resource.Id.startVertical;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.staticLayout = global::xTaxi.Client.Droid.Resource.Id.staticLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.staticPostLayout = global::xTaxi.Client.Droid.Resource.Id.staticPostLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.status_bar_latest_event_content = global::xTaxi.Client.Droid.Resource.Id.status_bar_latest_event_content;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.stop = global::xTaxi.Client.Droid.Resource.Id.stop;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.stretch = global::xTaxi.Client.Droid.Resource.Id.stretch;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.submenuarrow = global::xTaxi.Client.Droid.Resource.Id.submenuarrow;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.submit_area = global::xTaxi.Client.Droid.Resource.Id.submit_area;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.supportScrollUp = global::xTaxi.Client.Droid.Resource.Id.supportScrollUp;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.SYM = global::xTaxi.Client.Droid.Resource.Id.SYM;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.tabMode = global::xTaxi.Client.Droid.Resource.Id.tabMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.tag_accessibility_actions = global::xTaxi.Client.Droid.Resource.Id.tag_accessibility_actions;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.tag_accessibility_clickable_spans = global::xTaxi.Client.Droid.Resource.Id.tag_accessibility_clickable_spans;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.tag_accessibility_heading = global::xTaxi.Client.Droid.Resource.Id.tag_accessibility_heading;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.tag_accessibility_pane_title = global::xTaxi.Client.Droid.Resource.Id.tag_accessibility_pane_title;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.tag_on_apply_window_listener = global::xTaxi.Client.Droid.Resource.Id.tag_on_apply_window_listener;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.tag_on_receive_content_listener = global::xTaxi.Client.Droid.Resource.Id.tag_on_receive_content_listener;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.tag_on_receive_content_mime_types = global::xTaxi.Client.Droid.Resource.Id.tag_on_receive_content_mime_types;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.tag_screen_reader_focusable = global::xTaxi.Client.Droid.Resource.Id.tag_screen_reader_focusable;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.tag_state_description = global::xTaxi.Client.Droid.Resource.Id.tag_state_description;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.tag_transition_group = global::xTaxi.Client.Droid.Resource.Id.tag_transition_group;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.tag_unhandled_key_event_manager = global::xTaxi.Client.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.tag_unhandled_key_listeners = global::xTaxi.Client.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.tag_window_insets_animation_callback = global::xTaxi.Client.Droid.Resource.Id.tag_window_insets_animation_callback;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.terrain = global::xTaxi.Client.Droid.Resource.Id.terrain;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.test_checkbox_android_button_tint = global::xTaxi.Client.Droid.Resource.Id.test_checkbox_android_button_tint;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.test_checkbox_app_button_tint = global::xTaxi.Client.Droid.Resource.Id.test_checkbox_app_button_tint;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.test_radiobutton_android_button_tint = global::xTaxi.Client.Droid.Resource.Id.test_radiobutton_android_button_tint;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.test_radiobutton_app_button_tint = global::xTaxi.Client.Droid.Resource.Id.test_radiobutton_app_button_tint;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.text = global::xTaxi.Client.Droid.Resource.Id.text;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.text2 = global::xTaxi.Client.Droid.Resource.Id.text2;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.textEnd = global::xTaxi.Client.Droid.Resource.Id.textEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.textinput_counter = global::xTaxi.Client.Droid.Resource.Id.textinput_counter;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.textinput_error = global::xTaxi.Client.Droid.Resource.Id.textinput_error;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.textinput_helper_text = global::xTaxi.Client.Droid.Resource.Id.textinput_helper_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.textinput_placeholder = global::xTaxi.Client.Droid.Resource.Id.textinput_placeholder;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.textinput_prefix_text = global::xTaxi.Client.Droid.Resource.Id.textinput_prefix_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.textinput_suffix_text = global::xTaxi.Client.Droid.Resource.Id.textinput_suffix_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.textSpacerNoButtons = global::xTaxi.Client.Droid.Resource.Id.textSpacerNoButtons;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.textSpacerNoTitle = global::xTaxi.Client.Droid.Resource.Id.textSpacerNoTitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.textStart = global::xTaxi.Client.Droid.Resource.Id.textStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.textTop = global::xTaxi.Client.Droid.Resource.Id.textTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.text_input_end_icon = global::xTaxi.Client.Droid.Resource.Id.text_input_end_icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.text_input_error_icon = global::xTaxi.Client.Droid.Resource.Id.text_input_error_icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.text_input_start_icon = global::xTaxi.Client.Droid.Resource.Id.text_input_start_icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.time = global::xTaxi.Client.Droid.Resource.Id.time;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.title = global::xTaxi.Client.Droid.Resource.Id.title;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.titleDividerNoCustom = global::xTaxi.Client.Droid.Resource.Id.titleDividerNoCustom;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.title_template = global::xTaxi.Client.Droid.Resource.Id.title_template;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.toggle = global::xTaxi.Client.Droid.Resource.Id.toggle;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.toolbar = global::xTaxi.Client.Droid.Resource.Id.toolbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.top = global::xTaxi.Client.Droid.Resource.Id.top;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.topPanel = global::xTaxi.Client.Droid.Resource.Id.topPanel;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.TOP_END = global::xTaxi.Client.Droid.Resource.Id.TOP_END;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.TOP_START = global::xTaxi.Client.Droid.Resource.Id.TOP_START;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.touch_outside = global::xTaxi.Client.Droid.Resource.Id.touch_outside;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.transitionToEnd = global::xTaxi.Client.Droid.Resource.Id.transitionToEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.transitionToStart = global::xTaxi.Client.Droid.Resource.Id.transitionToStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.transition_current_scene = global::xTaxi.Client.Droid.Resource.Id.transition_current_scene;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.transition_layout_save = global::xTaxi.Client.Droid.Resource.Id.transition_layout_save;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.transition_position = global::xTaxi.Client.Droid.Resource.Id.transition_position;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.transition_scene_layoutid_cache = global::xTaxi.Client.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.transition_transform = global::xTaxi.Client.Droid.Resource.Id.transition_transform;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.triangle = global::xTaxi.Client.Droid.Resource.Id.triangle;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.@unchecked = global::xTaxi.Client.Droid.Resource.Id.@unchecked;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.uniform = global::xTaxi.Client.Droid.Resource.Id.uniform;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.unlabeled = global::xTaxi.Client.Droid.Resource.Id.unlabeled;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.up = global::xTaxi.Client.Droid.Resource.Id.up;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.useLogo = global::xTaxi.Client.Droid.Resource.Id.useLogo;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.vertical_only = global::xTaxi.Client.Droid.Resource.Id.vertical_only;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.view_offset_helper = global::xTaxi.Client.Droid.Resource.Id.view_offset_helper;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.view_transition = global::xTaxi.Client.Droid.Resource.Id.view_transition;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.view_tree_lifecycle_owner = global::xTaxi.Client.Droid.Resource.Id.view_tree_lifecycle_owner;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.view_tree_saved_state_registry_owner = global::xTaxi.Client.Droid.Resource.Id.view_tree_saved_state_registry_owner;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.view_tree_view_model_store_owner = global::xTaxi.Client.Droid.Resource.Id.view_tree_view_model_store_owner;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.visible = global::xTaxi.Client.Droid.Resource.Id.visible;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.visible_removing_fragment_view_tag = global::xTaxi.Client.Droid.Resource.Id.visible_removing_fragment_view_tag;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.west = global::xTaxi.Client.Droid.Resource.Id.west;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.wide = global::xTaxi.Client.Droid.Resource.Id.wide;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.withinBounds = global::xTaxi.Client.Droid.Resource.Id.withinBounds;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.withText = global::xTaxi.Client.Droid.Resource.Id.withText;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.wrap = global::xTaxi.Client.Droid.Resource.Id.wrap;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.wrap_content = global::xTaxi.Client.Droid.Resource.Id.wrap_content;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.wrap_content_constrained = global::xTaxi.Client.Droid.Resource.Id.wrap_content_constrained;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.x_left = global::xTaxi.Client.Droid.Resource.Id.x_left;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.x_right = global::xTaxi.Client.Droid.Resource.Id.x_right;
+			global::Xamarin.Forms.Maps.Android.Resource.Id.zero_corner_chip = global::xTaxi.Client.Droid.Resource.Id.zero_corner_chip;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.abc_config_activityDefaultDur = global::xTaxi.Client.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.abc_config_activityShortDur = global::xTaxi.Client.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.app_bar_elevation_anim_duration = global::xTaxi.Client.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.bottom_sheet_slide_duration = global::xTaxi.Client.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.cancel_button_image_alpha = global::xTaxi.Client.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.config_navAnimTime = global::xTaxi.Client.Droid.Resource.Integer.config_navAnimTime;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.config_tooltipAnimTime = global::xTaxi.Client.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.design_snackbar_text_max_lines = global::xTaxi.Client.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.design_tab_indicator_anim_duration_ms = global::xTaxi.Client.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.google_play_services_version = global::xTaxi.Client.Droid.Resource.Integer.google_play_services_version;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.hide_password_duration = global::xTaxi.Client.Droid.Resource.Integer.hide_password_duration;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.material_motion_duration_long_1 = global::xTaxi.Client.Droid.Resource.Integer.material_motion_duration_long_1;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.material_motion_duration_long_2 = global::xTaxi.Client.Droid.Resource.Integer.material_motion_duration_long_2;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.material_motion_duration_medium_1 = global::xTaxi.Client.Droid.Resource.Integer.material_motion_duration_medium_1;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.material_motion_duration_medium_2 = global::xTaxi.Client.Droid.Resource.Integer.material_motion_duration_medium_2;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.material_motion_duration_short_1 = global::xTaxi.Client.Droid.Resource.Integer.material_motion_duration_short_1;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.material_motion_duration_short_2 = global::xTaxi.Client.Droid.Resource.Integer.material_motion_duration_short_2;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.material_motion_path = global::xTaxi.Client.Droid.Resource.Integer.material_motion_path;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.mtrl_badge_max_character_count = global::xTaxi.Client.Droid.Resource.Integer.mtrl_badge_max_character_count;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.mtrl_btn_anim_delay_ms = global::xTaxi.Client.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.mtrl_btn_anim_duration_ms = global::xTaxi.Client.Droid.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.mtrl_calendar_header_orientation = global::xTaxi.Client.Droid.Resource.Integer.mtrl_calendar_header_orientation;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.mtrl_calendar_selection_text_lines = global::xTaxi.Client.Droid.Resource.Integer.mtrl_calendar_selection_text_lines;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.mtrl_calendar_year_selector_span = global::xTaxi.Client.Droid.Resource.Integer.mtrl_calendar_year_selector_span;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.mtrl_card_anim_delay_ms = global::xTaxi.Client.Droid.Resource.Integer.mtrl_card_anim_delay_ms;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.mtrl_card_anim_duration_ms = global::xTaxi.Client.Droid.Resource.Integer.mtrl_card_anim_duration_ms;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.mtrl_chip_anim_duration = global::xTaxi.Client.Droid.Resource.Integer.mtrl_chip_anim_duration;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::xTaxi.Client.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.show_password_duration = global::xTaxi.Client.Droid.Resource.Integer.show_password_duration;
+			global::Xamarin.Forms.Maps.Android.Resource.Integer.status_bar_notification_info_maxnum = global::xTaxi.Client.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Xamarin.Forms.Maps.Android.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0 = global::xTaxi.Client.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0;
+			global::Xamarin.Forms.Maps.Android.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1 = global::xTaxi.Client.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1;
+			global::Xamarin.Forms.Maps.Android.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0 = global::xTaxi.Client.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0;
+			global::Xamarin.Forms.Maps.Android.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1 = global::xTaxi.Client.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1;
+			global::Xamarin.Forms.Maps.Android.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0 = global::xTaxi.Client.Droid.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0;
+			global::Xamarin.Forms.Maps.Android.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0 = global::xTaxi.Client.Droid.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0;
+			global::Xamarin.Forms.Maps.Android.Resource.Interpolator.fast_out_slow_in = global::xTaxi.Client.Droid.Resource.Interpolator.fast_out_slow_in;
+			global::Xamarin.Forms.Maps.Android.Resource.Interpolator.mtrl_fast_out_linear_in = global::xTaxi.Client.Droid.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::Xamarin.Forms.Maps.Android.Resource.Interpolator.mtrl_fast_out_slow_in = global::xTaxi.Client.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::Xamarin.Forms.Maps.Android.Resource.Interpolator.mtrl_linear = global::xTaxi.Client.Droid.Resource.Interpolator.mtrl_linear;
+			global::Xamarin.Forms.Maps.Android.Resource.Interpolator.mtrl_linear_out_slow_in = global::xTaxi.Client.Droid.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_action_bar_title_item = global::xTaxi.Client.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_action_bar_up_container = global::xTaxi.Client.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_action_menu_item_layout = global::xTaxi.Client.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_action_menu_layout = global::xTaxi.Client.Droid.Resource.Layout.abc_action_menu_layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_action_mode_bar = global::xTaxi.Client.Droid.Resource.Layout.abc_action_mode_bar;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_action_mode_close_item_material = global::xTaxi.Client.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_activity_chooser_view = global::xTaxi.Client.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::xTaxi.Client.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::xTaxi.Client.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_alert_dialog_material = global::xTaxi.Client.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_alert_dialog_title_material = global::xTaxi.Client.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_cascading_menu_item_layout = global::xTaxi.Client.Droid.Resource.Layout.abc_cascading_menu_item_layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_dialog_title_material = global::xTaxi.Client.Droid.Resource.Layout.abc_dialog_title_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_expanded_menu_layout = global::xTaxi.Client.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_list_menu_item_checkbox = global::xTaxi.Client.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_list_menu_item_icon = global::xTaxi.Client.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_list_menu_item_layout = global::xTaxi.Client.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_list_menu_item_radio = global::xTaxi.Client.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_popup_menu_header_item_layout = global::xTaxi.Client.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_popup_menu_item_layout = global::xTaxi.Client.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_screen_content_include = global::xTaxi.Client.Droid.Resource.Layout.abc_screen_content_include;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_screen_simple = global::xTaxi.Client.Droid.Resource.Layout.abc_screen_simple;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::xTaxi.Client.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_screen_toolbar = global::xTaxi.Client.Droid.Resource.Layout.abc_screen_toolbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::xTaxi.Client.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_search_view = global::xTaxi.Client.Droid.Resource.Layout.abc_search_view;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_select_dialog_material = global::xTaxi.Client.Droid.Resource.Layout.abc_select_dialog_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.abc_tooltip = global::xTaxi.Client.Droid.Resource.Layout.abc_tooltip;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.BottomTabLayout = global::xTaxi.Client.Droid.Resource.Layout.BottomTabLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.custom_dialog = global::xTaxi.Client.Droid.Resource.Layout.custom_dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.design_bottom_navigation_item = global::xTaxi.Client.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.design_bottom_sheet_dialog = global::xTaxi.Client.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.design_layout_snackbar = global::xTaxi.Client.Droid.Resource.Layout.design_layout_snackbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.design_layout_snackbar_include = global::xTaxi.Client.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.design_layout_tab_icon = global::xTaxi.Client.Droid.Resource.Layout.design_layout_tab_icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.design_layout_tab_text = global::xTaxi.Client.Droid.Resource.Layout.design_layout_tab_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.design_menu_item_action_area = global::xTaxi.Client.Droid.Resource.Layout.design_menu_item_action_area;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.design_navigation_item = global::xTaxi.Client.Droid.Resource.Layout.design_navigation_item;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.design_navigation_item_header = global::xTaxi.Client.Droid.Resource.Layout.design_navigation_item_header;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.design_navigation_item_separator = global::xTaxi.Client.Droid.Resource.Layout.design_navigation_item_separator;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.design_navigation_item_subheader = global::xTaxi.Client.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.design_navigation_menu = global::xTaxi.Client.Droid.Resource.Layout.design_navigation_menu;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.design_navigation_menu_item = global::xTaxi.Client.Droid.Resource.Layout.design_navigation_menu_item;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.design_text_input_end_icon = global::xTaxi.Client.Droid.Resource.Layout.design_text_input_end_icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.design_text_input_start_icon = global::xTaxi.Client.Droid.Resource.Layout.design_text_input_start_icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.FallbackTabbarDoNotUse = global::xTaxi.Client.Droid.Resource.Layout.FallbackTabbarDoNotUse;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.FallbackToolbarDoNotUse = global::xTaxi.Client.Droid.Resource.Layout.FallbackToolbarDoNotUse;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.FlyoutContent = global::xTaxi.Client.Droid.Resource.Layout.FlyoutContent;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.material_chip_input_combo = global::xTaxi.Client.Droid.Resource.Layout.material_chip_input_combo;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.material_clockface_textview = global::xTaxi.Client.Droid.Resource.Layout.material_clockface_textview;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.material_clockface_view = global::xTaxi.Client.Droid.Resource.Layout.material_clockface_view;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.material_clock_display = global::xTaxi.Client.Droid.Resource.Layout.material_clock_display;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.material_clock_display_divider = global::xTaxi.Client.Droid.Resource.Layout.material_clock_display_divider;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.material_clock_period_toggle = global::xTaxi.Client.Droid.Resource.Layout.material_clock_period_toggle;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.material_clock_period_toggle_land = global::xTaxi.Client.Droid.Resource.Layout.material_clock_period_toggle_land;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.material_radial_view_group = global::xTaxi.Client.Droid.Resource.Layout.material_radial_view_group;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.material_textinput_timepicker = global::xTaxi.Client.Droid.Resource.Layout.material_textinput_timepicker;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.material_timepicker = global::xTaxi.Client.Droid.Resource.Layout.material_timepicker;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.material_timepicker_dialog = global::xTaxi.Client.Droid.Resource.Layout.material_timepicker_dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.material_timepicker_textinput_display = global::xTaxi.Client.Droid.Resource.Layout.material_timepicker_textinput_display;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.material_time_chip = global::xTaxi.Client.Droid.Resource.Layout.material_time_chip;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.material_time_input = global::xTaxi.Client.Droid.Resource.Layout.material_time_input;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_alert_dialog = global::xTaxi.Client.Droid.Resource.Layout.mtrl_alert_dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_alert_dialog_actions = global::xTaxi.Client.Droid.Resource.Layout.mtrl_alert_dialog_actions;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_alert_dialog_title = global::xTaxi.Client.Droid.Resource.Layout.mtrl_alert_dialog_title;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_alert_select_dialog_item = global::xTaxi.Client.Droid.Resource.Layout.mtrl_alert_select_dialog_item;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_alert_select_dialog_multichoice = global::xTaxi.Client.Droid.Resource.Layout.mtrl_alert_select_dialog_multichoice;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_alert_select_dialog_singlechoice = global::xTaxi.Client.Droid.Resource.Layout.mtrl_alert_select_dialog_singlechoice;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_calendar_day = global::xTaxi.Client.Droid.Resource.Layout.mtrl_calendar_day;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_calendar_days_of_week = global::xTaxi.Client.Droid.Resource.Layout.mtrl_calendar_days_of_week;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_calendar_day_of_week = global::xTaxi.Client.Droid.Resource.Layout.mtrl_calendar_day_of_week;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_calendar_horizontal = global::xTaxi.Client.Droid.Resource.Layout.mtrl_calendar_horizontal;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_calendar_month = global::xTaxi.Client.Droid.Resource.Layout.mtrl_calendar_month;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_calendar_months = global::xTaxi.Client.Droid.Resource.Layout.mtrl_calendar_months;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_calendar_month_labeled = global::xTaxi.Client.Droid.Resource.Layout.mtrl_calendar_month_labeled;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_calendar_month_navigation = global::xTaxi.Client.Droid.Resource.Layout.mtrl_calendar_month_navigation;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_calendar_vertical = global::xTaxi.Client.Droid.Resource.Layout.mtrl_calendar_vertical;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_calendar_year = global::xTaxi.Client.Droid.Resource.Layout.mtrl_calendar_year;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_layout_snackbar = global::xTaxi.Client.Droid.Resource.Layout.mtrl_layout_snackbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_layout_snackbar_include = global::xTaxi.Client.Droid.Resource.Layout.mtrl_layout_snackbar_include;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_navigation_rail_item = global::xTaxi.Client.Droid.Resource.Layout.mtrl_navigation_rail_item;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_picker_actions = global::xTaxi.Client.Droid.Resource.Layout.mtrl_picker_actions;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_picker_dialog = global::xTaxi.Client.Droid.Resource.Layout.mtrl_picker_dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_picker_fullscreen = global::xTaxi.Client.Droid.Resource.Layout.mtrl_picker_fullscreen;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_picker_header_dialog = global::xTaxi.Client.Droid.Resource.Layout.mtrl_picker_header_dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_picker_header_fullscreen = global::xTaxi.Client.Droid.Resource.Layout.mtrl_picker_header_fullscreen;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_picker_header_selection_text = global::xTaxi.Client.Droid.Resource.Layout.mtrl_picker_header_selection_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_picker_header_title_text = global::xTaxi.Client.Droid.Resource.Layout.mtrl_picker_header_title_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_picker_header_toggle = global::xTaxi.Client.Droid.Resource.Layout.mtrl_picker_header_toggle;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_picker_text_input_date = global::xTaxi.Client.Droid.Resource.Layout.mtrl_picker_text_input_date;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.mtrl_picker_text_input_date_range = global::xTaxi.Client.Droid.Resource.Layout.mtrl_picker_text_input_date_range;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.notification_action = global::xTaxi.Client.Droid.Resource.Layout.notification_action;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.notification_action_tombstone = global::xTaxi.Client.Droid.Resource.Layout.notification_action_tombstone;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.notification_media_action = global::xTaxi.Client.Droid.Resource.Layout.notification_media_action;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.notification_media_cancel_action = global::xTaxi.Client.Droid.Resource.Layout.notification_media_cancel_action;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.notification_template_big_media = global::xTaxi.Client.Droid.Resource.Layout.notification_template_big_media;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.notification_template_big_media_custom = global::xTaxi.Client.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.notification_template_big_media_narrow = global::xTaxi.Client.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.notification_template_big_media_narrow_custom = global::xTaxi.Client.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.notification_template_custom_big = global::xTaxi.Client.Droid.Resource.Layout.notification_template_custom_big;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.notification_template_icon_group = global::xTaxi.Client.Droid.Resource.Layout.notification_template_icon_group;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.notification_template_lines_media = global::xTaxi.Client.Droid.Resource.Layout.notification_template_lines_media;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.notification_template_media = global::xTaxi.Client.Droid.Resource.Layout.notification_template_media;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.notification_template_media_custom = global::xTaxi.Client.Droid.Resource.Layout.notification_template_media_custom;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.notification_template_part_chronometer = global::xTaxi.Client.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.notification_template_part_time = global::xTaxi.Client.Droid.Resource.Layout.notification_template_part_time;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.RootLayout = global::xTaxi.Client.Droid.Resource.Layout.RootLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.select_dialog_item_material = global::xTaxi.Client.Droid.Resource.Layout.select_dialog_item_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.select_dialog_multichoice_material = global::xTaxi.Client.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.select_dialog_singlechoice_material = global::xTaxi.Client.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.ShellContent = global::xTaxi.Client.Droid.Resource.Layout.ShellContent;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::xTaxi.Client.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.Tabbar = global::xTaxi.Client.Droid.Resource.Layout.Tabbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.test_action_chip = global::xTaxi.Client.Droid.Resource.Layout.test_action_chip;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.test_chip_zero_corner_radius = global::xTaxi.Client.Droid.Resource.Layout.test_chip_zero_corner_radius;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.test_design_checkbox = global::xTaxi.Client.Droid.Resource.Layout.test_design_checkbox;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.test_design_radiobutton = global::xTaxi.Client.Droid.Resource.Layout.test_design_radiobutton;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.test_navigation_bar_item_layout = global::xTaxi.Client.Droid.Resource.Layout.test_navigation_bar_item_layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.test_reflow_chipgroup = global::xTaxi.Client.Droid.Resource.Layout.test_reflow_chipgroup;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.test_toolbar = global::xTaxi.Client.Droid.Resource.Layout.test_toolbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.test_toolbar_custom_background = global::xTaxi.Client.Droid.Resource.Layout.test_toolbar_custom_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.test_toolbar_elevation = global::xTaxi.Client.Droid.Resource.Layout.test_toolbar_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.test_toolbar_surface = global::xTaxi.Client.Droid.Resource.Layout.test_toolbar_surface;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.text_view_without_line_height = global::xTaxi.Client.Droid.Resource.Layout.text_view_without_line_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.text_view_with_line_height_from_appearance = global::xTaxi.Client.Droid.Resource.Layout.text_view_with_line_height_from_appearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.text_view_with_line_height_from_layout = global::xTaxi.Client.Droid.Resource.Layout.text_view_with_line_height_from_layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.text_view_with_line_height_from_style = global::xTaxi.Client.Droid.Resource.Layout.text_view_with_line_height_from_style;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.text_view_with_theme_line_height = global::xTaxi.Client.Droid.Resource.Layout.text_view_with_theme_line_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Layout.Toolbar = global::xTaxi.Client.Droid.Resource.Layout.Toolbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Plurals.mtrl_badge_content_description = global::xTaxi.Client.Droid.Resource.Plurals.mtrl_badge_content_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_action_bar_home_description = global::xTaxi.Client.Droid.Resource.String.abc_action_bar_home_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_action_bar_up_description = global::xTaxi.Client.Droid.Resource.String.abc_action_bar_up_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_action_menu_overflow_description = global::xTaxi.Client.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_action_mode_done = global::xTaxi.Client.Droid.Resource.String.abc_action_mode_done;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_activitychooserview_choose_application = global::xTaxi.Client.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_activity_chooser_view_see_all = global::xTaxi.Client.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_capital_off = global::xTaxi.Client.Droid.Resource.String.abc_capital_off;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_capital_on = global::xTaxi.Client.Droid.Resource.String.abc_capital_on;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_menu_alt_shortcut_label = global::xTaxi.Client.Droid.Resource.String.abc_menu_alt_shortcut_label;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_menu_ctrl_shortcut_label = global::xTaxi.Client.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_menu_delete_shortcut_label = global::xTaxi.Client.Droid.Resource.String.abc_menu_delete_shortcut_label;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_menu_enter_shortcut_label = global::xTaxi.Client.Droid.Resource.String.abc_menu_enter_shortcut_label;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_menu_function_shortcut_label = global::xTaxi.Client.Droid.Resource.String.abc_menu_function_shortcut_label;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_menu_meta_shortcut_label = global::xTaxi.Client.Droid.Resource.String.abc_menu_meta_shortcut_label;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_menu_shift_shortcut_label = global::xTaxi.Client.Droid.Resource.String.abc_menu_shift_shortcut_label;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_menu_space_shortcut_label = global::xTaxi.Client.Droid.Resource.String.abc_menu_space_shortcut_label;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_menu_sym_shortcut_label = global::xTaxi.Client.Droid.Resource.String.abc_menu_sym_shortcut_label;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_prepend_shortcut_label = global::xTaxi.Client.Droid.Resource.String.abc_prepend_shortcut_label;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_searchview_description_clear = global::xTaxi.Client.Droid.Resource.String.abc_searchview_description_clear;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_searchview_description_query = global::xTaxi.Client.Droid.Resource.String.abc_searchview_description_query;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_searchview_description_search = global::xTaxi.Client.Droid.Resource.String.abc_searchview_description_search;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_searchview_description_submit = global::xTaxi.Client.Droid.Resource.String.abc_searchview_description_submit;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_searchview_description_voice = global::xTaxi.Client.Droid.Resource.String.abc_searchview_description_voice;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_search_hint = global::xTaxi.Client.Droid.Resource.String.abc_search_hint;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_shareactionprovider_share_with = global::xTaxi.Client.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_shareactionprovider_share_with_application = global::xTaxi.Client.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Xamarin.Forms.Maps.Android.Resource.String.abc_toolbar_collapse_description = global::xTaxi.Client.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.appbar_scrolling_view_behavior = global::xTaxi.Client.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::Xamarin.Forms.Maps.Android.Resource.String.bottomsheet_action_expand_halfway = global::xTaxi.Client.Droid.Resource.String.bottomsheet_action_expand_halfway;
+			global::Xamarin.Forms.Maps.Android.Resource.String.bottom_sheet_behavior = global::xTaxi.Client.Droid.Resource.String.bottom_sheet_behavior;
+			global::Xamarin.Forms.Maps.Android.Resource.String.character_counter_content_description = global::xTaxi.Client.Droid.Resource.String.character_counter_content_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.character_counter_overflowed_content_description = global::xTaxi.Client.Droid.Resource.String.character_counter_overflowed_content_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.character_counter_pattern = global::xTaxi.Client.Droid.Resource.String.character_counter_pattern;
+			global::Xamarin.Forms.Maps.Android.Resource.String.chip_text = global::xTaxi.Client.Droid.Resource.String.chip_text;
+			global::Xamarin.Forms.Maps.Android.Resource.String.clear_text_end_icon_content_description = global::xTaxi.Client.Droid.Resource.String.clear_text_end_icon_content_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.common_google_play_services_enable_button = global::xTaxi.Client.Droid.Resource.String.common_google_play_services_enable_button;
+			global::Xamarin.Forms.Maps.Android.Resource.String.common_google_play_services_enable_text = global::xTaxi.Client.Droid.Resource.String.common_google_play_services_enable_text;
+			global::Xamarin.Forms.Maps.Android.Resource.String.common_google_play_services_enable_title = global::xTaxi.Client.Droid.Resource.String.common_google_play_services_enable_title;
+			global::Xamarin.Forms.Maps.Android.Resource.String.common_google_play_services_install_button = global::xTaxi.Client.Droid.Resource.String.common_google_play_services_install_button;
+			global::Xamarin.Forms.Maps.Android.Resource.String.common_google_play_services_install_text = global::xTaxi.Client.Droid.Resource.String.common_google_play_services_install_text;
+			global::Xamarin.Forms.Maps.Android.Resource.String.common_google_play_services_install_title = global::xTaxi.Client.Droid.Resource.String.common_google_play_services_install_title;
+			global::Xamarin.Forms.Maps.Android.Resource.String.common_google_play_services_notification_channel_name = global::xTaxi.Client.Droid.Resource.String.common_google_play_services_notification_channel_name;
+			global::Xamarin.Forms.Maps.Android.Resource.String.common_google_play_services_notification_ticker = global::xTaxi.Client.Droid.Resource.String.common_google_play_services_notification_ticker;
+			global::Xamarin.Forms.Maps.Android.Resource.String.common_google_play_services_unknown_issue = global::xTaxi.Client.Droid.Resource.String.common_google_play_services_unknown_issue;
+			global::Xamarin.Forms.Maps.Android.Resource.String.common_google_play_services_unsupported_text = global::xTaxi.Client.Droid.Resource.String.common_google_play_services_unsupported_text;
+			global::Xamarin.Forms.Maps.Android.Resource.String.common_google_play_services_update_button = global::xTaxi.Client.Droid.Resource.String.common_google_play_services_update_button;
+			global::Xamarin.Forms.Maps.Android.Resource.String.common_google_play_services_update_text = global::xTaxi.Client.Droid.Resource.String.common_google_play_services_update_text;
+			global::Xamarin.Forms.Maps.Android.Resource.String.common_google_play_services_update_title = global::xTaxi.Client.Droid.Resource.String.common_google_play_services_update_title;
+			global::Xamarin.Forms.Maps.Android.Resource.String.common_google_play_services_updating_text = global::xTaxi.Client.Droid.Resource.String.common_google_play_services_updating_text;
+			global::Xamarin.Forms.Maps.Android.Resource.String.common_google_play_services_wear_update_text = global::xTaxi.Client.Droid.Resource.String.common_google_play_services_wear_update_text;
+			global::Xamarin.Forms.Maps.Android.Resource.String.common_open_on_phone = global::xTaxi.Client.Droid.Resource.String.common_open_on_phone;
+			global::Xamarin.Forms.Maps.Android.Resource.String.common_signin_button_text = global::xTaxi.Client.Droid.Resource.String.common_signin_button_text;
+			global::Xamarin.Forms.Maps.Android.Resource.String.common_signin_button_text_long = global::xTaxi.Client.Droid.Resource.String.common_signin_button_text_long;
+			global::Xamarin.Forms.Maps.Android.Resource.String.error_icon_content_description = global::xTaxi.Client.Droid.Resource.String.error_icon_content_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.exposed_dropdown_menu_content_description = global::xTaxi.Client.Droid.Resource.String.exposed_dropdown_menu_content_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.fab_transformation_scrim_behavior = global::xTaxi.Client.Droid.Resource.String.fab_transformation_scrim_behavior;
+			global::Xamarin.Forms.Maps.Android.Resource.String.fab_transformation_sheet_behavior = global::xTaxi.Client.Droid.Resource.String.fab_transformation_sheet_behavior;
+			global::Xamarin.Forms.Maps.Android.Resource.String.hide_bottom_view_on_scroll_behavior = global::xTaxi.Client.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::Xamarin.Forms.Maps.Android.Resource.String.icon_content_description = global::xTaxi.Client.Droid.Resource.String.icon_content_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.item_view_role_description = global::xTaxi.Client.Droid.Resource.String.item_view_role_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_clock_display_divider = global::xTaxi.Client.Droid.Resource.String.material_clock_display_divider;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_clock_toggle_content_description = global::xTaxi.Client.Droid.Resource.String.material_clock_toggle_content_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_hour_selection = global::xTaxi.Client.Droid.Resource.String.material_hour_selection;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_hour_suffix = global::xTaxi.Client.Droid.Resource.String.material_hour_suffix;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_minute_selection = global::xTaxi.Client.Droid.Resource.String.material_minute_selection;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_minute_suffix = global::xTaxi.Client.Droid.Resource.String.material_minute_suffix;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_motion_easing_accelerated = global::xTaxi.Client.Droid.Resource.String.material_motion_easing_accelerated;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_motion_easing_decelerated = global::xTaxi.Client.Droid.Resource.String.material_motion_easing_decelerated;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_motion_easing_emphasized = global::xTaxi.Client.Droid.Resource.String.material_motion_easing_emphasized;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_motion_easing_linear = global::xTaxi.Client.Droid.Resource.String.material_motion_easing_linear;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_motion_easing_standard = global::xTaxi.Client.Droid.Resource.String.material_motion_easing_standard;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_slider_range_end = global::xTaxi.Client.Droid.Resource.String.material_slider_range_end;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_slider_range_start = global::xTaxi.Client.Droid.Resource.String.material_slider_range_start;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_timepicker_am = global::xTaxi.Client.Droid.Resource.String.material_timepicker_am;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_timepicker_clock_mode_description = global::xTaxi.Client.Droid.Resource.String.material_timepicker_clock_mode_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_timepicker_hour = global::xTaxi.Client.Droid.Resource.String.material_timepicker_hour;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_timepicker_minute = global::xTaxi.Client.Droid.Resource.String.material_timepicker_minute;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_timepicker_pm = global::xTaxi.Client.Droid.Resource.String.material_timepicker_pm;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_timepicker_select_time = global::xTaxi.Client.Droid.Resource.String.material_timepicker_select_time;
+			global::Xamarin.Forms.Maps.Android.Resource.String.material_timepicker_text_input_mode_description = global::xTaxi.Client.Droid.Resource.String.material_timepicker_text_input_mode_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_badge_numberless_content_description = global::xTaxi.Client.Droid.Resource.String.mtrl_badge_numberless_content_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_chip_close_icon_content_description = global::xTaxi.Client.Droid.Resource.String.mtrl_chip_close_icon_content_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_exceed_max_badge_number_content_description = global::xTaxi.Client.Droid.Resource.String.mtrl_exceed_max_badge_number_content_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_exceed_max_badge_number_suffix = global::xTaxi.Client.Droid.Resource.String.mtrl_exceed_max_badge_number_suffix;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_a11y_next_month = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_a11y_next_month;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_a11y_prev_month = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_a11y_prev_month;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_announce_current_selection = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_announce_current_selection;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_cancel = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_cancel;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_confirm = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_confirm;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_date_header_selected = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_date_header_selected;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_date_header_title = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_date_header_title;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_date_header_unselected = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_date_header_unselected;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_day_of_week_column_header = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_day_of_week_column_header;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_invalid_format = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_invalid_format;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_invalid_format_example = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_invalid_format_example;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_invalid_format_use = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_invalid_format_use;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_invalid_range = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_invalid_range;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_navigate_to_year_description = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_navigate_to_year_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_out_of_range = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_out_of_range;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_range_header_only_end_selected = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_range_header_only_end_selected;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_range_header_only_start_selected = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_range_header_only_start_selected;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_range_header_selected = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_range_header_selected;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_range_header_title = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_range_header_title;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_range_header_unselected = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_range_header_unselected;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_save = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_save;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_text_input_date_hint = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_text_input_date_hint;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_text_input_date_range_end_hint = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_text_input_date_range_end_hint;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_text_input_date_range_start_hint = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_text_input_date_range_start_hint;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_text_input_day_abbr = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_text_input_day_abbr;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_text_input_month_abbr = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_text_input_month_abbr;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_text_input_year_abbr = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_text_input_year_abbr;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_toggle_to_calendar_input_mode = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_toggle_to_calendar_input_mode;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_toggle_to_day_selection = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_toggle_to_day_selection;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_toggle_to_text_input_mode = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_toggle_to_text_input_mode;
+			global::Xamarin.Forms.Maps.Android.Resource.String.mtrl_picker_toggle_to_year_selection = global::xTaxi.Client.Droid.Resource.String.mtrl_picker_toggle_to_year_selection;
+			global::Xamarin.Forms.Maps.Android.Resource.String.nav_app_bar_navigate_up_description = global::xTaxi.Client.Droid.Resource.String.nav_app_bar_navigate_up_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.nav_app_bar_open_drawer_description = global::xTaxi.Client.Droid.Resource.String.nav_app_bar_open_drawer_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.overflow_tab_title = global::xTaxi.Client.Droid.Resource.String.overflow_tab_title;
+			global::Xamarin.Forms.Maps.Android.Resource.String.password_toggle_content_description = global::xTaxi.Client.Droid.Resource.String.password_toggle_content_description;
+			global::Xamarin.Forms.Maps.Android.Resource.String.path_password_eye = global::xTaxi.Client.Droid.Resource.String.path_password_eye;
+			global::Xamarin.Forms.Maps.Android.Resource.String.path_password_eye_mask_strike_through = global::xTaxi.Client.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::Xamarin.Forms.Maps.Android.Resource.String.path_password_eye_mask_visible = global::xTaxi.Client.Droid.Resource.String.path_password_eye_mask_visible;
+			global::Xamarin.Forms.Maps.Android.Resource.String.path_password_strike_through = global::xTaxi.Client.Droid.Resource.String.path_password_strike_through;
+			global::Xamarin.Forms.Maps.Android.Resource.String.search_menu_title = global::xTaxi.Client.Droid.Resource.String.search_menu_title;
+			global::Xamarin.Forms.Maps.Android.Resource.String.status_bar_notification_info_overflow = global::xTaxi.Client.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.AlertDialog_AppCompat = global::xTaxi.Client.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.AlertDialog_AppCompat_Light = global::xTaxi.Client.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.AndroidThemeColorAccentYellow = global::xTaxi.Client.Droid.Resource.Style.AndroidThemeColorAccentYellow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Animation_AppCompat_Dialog = global::xTaxi.Client.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::xTaxi.Client.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Animation_AppCompat_Tooltip = global::xTaxi.Client.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Animation_Design_BottomSheetDialog = global::xTaxi.Client.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Animation_MaterialComponents_BottomSheetDialog = global::xTaxi.Client.Droid.Resource.Style.Animation_MaterialComponents_BottomSheetDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.AppCompatDialogStyle = global::xTaxi.Client.Droid.Resource.Style.AppCompatDialogStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_AlertDialog_AppCompat = global::xTaxi.Client.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::xTaxi.Client.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::xTaxi.Client.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::xTaxi.Client.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Animation_AppCompat_Tooltip = global::xTaxi.Client.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_CardView = global::xTaxi.Client.Droid.Resource.Style.Base_CardView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::xTaxi.Client.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::xTaxi.Client.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Icon = global::xTaxi.Client.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Panel = global::xTaxi.Client.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Panel;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Text = global::xTaxi.Client.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Text;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_MaterialComponents_Badge = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Badge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_MaterialComponents_Button = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Button;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_MaterialComponents_Headline6 = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Headline6;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_MaterialComponents_Subtitle2 = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Subtitle2;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::xTaxi.Client.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::xTaxi.Client.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::xTaxi.Client.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::xTaxi.Client.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::xTaxi.Client.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::xTaxi.Client.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::xTaxi.Client.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::xTaxi.Client.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::xTaxi.Client.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::xTaxi.Client.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = global::xTaxi.Client.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert_Framework;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = global::xTaxi.Client.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::xTaxi.Client.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_AppCompat = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_AppCompat_Light = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_MaterialComponents = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_MaterialComponents;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_Bridge = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_MaterialComponents_Light = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Bridge = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::xTaxi.Client.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_BottomSheetDialog = global::xTaxi.Client.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_BottomSheetDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::xTaxi.Client.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::xTaxi.Client.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::xTaxi.Client.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V14_Theme_MaterialComponents = global::xTaxi.Client.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::xTaxi.Client.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::xTaxi.Client.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog_Bridge = global::xTaxi.Client.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::xTaxi.Client.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::xTaxi.Client.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::xTaxi.Client.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::xTaxi.Client.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge = global::xTaxi.Client.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::xTaxi.Client.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V21_ThemeOverlay_MaterialComponents_BottomSheetDialog = global::xTaxi.Client.Droid.Resource.Style.Base_V21_ThemeOverlay_MaterialComponents_BottomSheetDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V21_Theme_AppCompat = global::xTaxi.Client.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::xTaxi.Client.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::xTaxi.Client.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::xTaxi.Client.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V21_Theme_MaterialComponents = global::xTaxi.Client.Droid.Resource.Style.Base_V21_Theme_MaterialComponents;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V21_Theme_MaterialComponents_Dialog = global::xTaxi.Client.Droid.Resource.Style.Base_V21_Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V21_Theme_MaterialComponents_Light = global::xTaxi.Client.Droid.Resource.Style.Base_V21_Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V21_Theme_MaterialComponents_Light_Dialog = global::xTaxi.Client.Droid.Resource.Style.Base_V21_Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V22_Theme_AppCompat = global::xTaxi.Client.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::xTaxi.Client.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V23_Theme_AppCompat = global::xTaxi.Client.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V23_Theme_AppCompat_Light = global::xTaxi.Client.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V26_Theme_AppCompat = global::xTaxi.Client.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V26_Theme_AppCompat_Light = global::xTaxi.Client.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::xTaxi.Client.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V28_Theme_AppCompat = global::xTaxi.Client.Droid.Resource.Style.Base_V28_Theme_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V28_Theme_AppCompat_Light = global::xTaxi.Client.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::xTaxi.Client.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V7_Theme_AppCompat = global::xTaxi.Client.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::xTaxi.Client.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::xTaxi.Client.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::xTaxi.Client.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::xTaxi.Client.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::xTaxi.Client.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::xTaxi.Client.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_Button = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_TextView = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_TextView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_Design_TabLayout = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_MaterialComponents_AutoCompleteTextView = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_MaterialComponents_AutoCompleteTextView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_MaterialComponents_CheckedTextView = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_MaterialComponents_CheckedTextView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_MaterialComponents_Chip = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_MaterialComponents_MaterialCalendar_NavigationButton = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_MaterialComponents_MaterialCalendar_NavigationButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_MaterialComponents_PopupMenu = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ContextMenu = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ContextMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_Overflow = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_Overflow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_MaterialComponents_Slider = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_MaterialComponents_Slider;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_MaterialComponents_Snackbar = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_MaterialComponents_Snackbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Base_Widget_MaterialComponents_TextView = global::xTaxi.Client.Droid.Resource.Style.Base_Widget_MaterialComponents_TextView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.CardView = global::xTaxi.Client.Droid.Resource.Style.CardView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.CardView_Dark = global::xTaxi.Client.Droid.Resource.Style.CardView_Dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.CardView_Light = global::xTaxi.Client.Droid.Resource.Style.CardView_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.collectionViewTheme = global::xTaxi.Client.Droid.Resource.Style.collectionViewTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.EmptyTheme = global::xTaxi.Client.Droid.Resource.Style.EmptyTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.MainTheme = global::xTaxi.Client.Droid.Resource.Style.MainTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.MainTheme_Base = global::xTaxi.Client.Droid.Resource.Style.MainTheme_Base;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.MaterialAlertDialog_MaterialComponents = global::xTaxi.Client.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.MaterialAlertDialog_MaterialComponents_Body_Text = global::xTaxi.Client.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Body_Text;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar = global::xTaxi.Client.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner = global::xTaxi.Client.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon = global::xTaxi.Client.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked = global::xTaxi.Client.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel = global::xTaxi.Client.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked = global::xTaxi.Client.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text = global::xTaxi.Client.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked = global::xTaxi.Client.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Platform_AppCompat = global::xTaxi.Client.Droid.Resource.Style.Platform_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Platform_AppCompat_Light = global::xTaxi.Client.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Platform_MaterialComponents = global::xTaxi.Client.Droid.Resource.Style.Platform_MaterialComponents;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Platform_MaterialComponents_Dialog = global::xTaxi.Client.Droid.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Platform_MaterialComponents_Light = global::xTaxi.Client.Droid.Resource.Style.Platform_MaterialComponents_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::xTaxi.Client.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::xTaxi.Client.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::xTaxi.Client.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::xTaxi.Client.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Platform_V21_AppCompat = global::xTaxi.Client.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Platform_V21_AppCompat_Light = global::xTaxi.Client.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Platform_V25_AppCompat = global::xTaxi.Client.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Platform_V25_AppCompat_Light = global::xTaxi.Client.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::xTaxi.Client.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::xTaxi.Client.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::xTaxi.Client.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::xTaxi.Client.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::xTaxi.Client.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::xTaxi.Client.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::xTaxi.Client.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::xTaxi.Client.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::xTaxi.Client.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::xTaxi.Client.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::xTaxi.Client.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::xTaxi.Client.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::xTaxi.Client.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::xTaxi.Client.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::xTaxi.Client.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::xTaxi.Client.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::xTaxi.Client.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::xTaxi.Client.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.scrollViewScrollBars = global::xTaxi.Client.Droid.Resource.Style.scrollViewScrollBars;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.scrollViewTheme = global::xTaxi.Client.Droid.Resource.Style.scrollViewTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearanceOverlay = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearanceOverlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearanceOverlay_BottomRightCut = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearanceOverlay_BottomRightCut;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearanceOverlay_Cut = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearanceOverlay_Cut;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearanceOverlay_TopLeftCut = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearanceOverlay_TopLeftCut;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearance_MaterialComponents = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearance_MaterialComponents;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearance_MaterialComponents_Test = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearance_MaterialComponents_Test;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ShapeAppearance_MaterialComponents_Tooltip = global::xTaxi.Client.Droid.Resource.Style.ShapeAppearance_MaterialComponents_Tooltip;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TestStyleWithLineHeight = global::xTaxi.Client.Droid.Resource.Style.TestStyleWithLineHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TestStyleWithLineHeightAppearance = global::xTaxi.Client.Droid.Resource.Style.TestStyleWithLineHeightAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TestStyleWithoutLineHeight = global::xTaxi.Client.Droid.Resource.Style.TestStyleWithoutLineHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TestStyleWithThemeLineHeightAttribute = global::xTaxi.Client.Droid.Resource.Style.TestStyleWithThemeLineHeightAttribute;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TestThemeWithLineHeight = global::xTaxi.Client.Droid.Resource.Style.TestThemeWithLineHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TestThemeWithLineHeightDisabled = global::xTaxi.Client.Droid.Resource.Style.TestThemeWithLineHeightDisabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::xTaxi.Client.Droid.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar = global::xTaxi.Client.Droid.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar = global::xTaxi.Client.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day = global::xTaxi.Client.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::xTaxi.Client.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Button = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Large = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Small = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Title = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Tooltip = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Compat_Notification = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Compat_Notification_Info = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Compat_Notification_Media = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Compat_Notification_Time = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Compat_Notification_Title = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Design_Counter = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Design_Error = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Design_HelperText = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Design_HelperText;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Design_Hint = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Design_Placeholder = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Design_Placeholder;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Design_Prefix = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Design_Prefix;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Design_Suffix = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Design_Suffix;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Design_Tab = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_MaterialComponents_Badge = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_MaterialComponents_Badge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_MaterialComponents_Button = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_MaterialComponents_Caption = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_MaterialComponents_Chip = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_MaterialComponents_Overline = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_MaterialComponents_TimePicker_Title = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_MaterialComponents_TimePicker_Title;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_MaterialComponents_Tooltip = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_MaterialComponents_Tooltip;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::xTaxi.Client.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlayColorAccentRed = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlayColorAccentRed;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_AppCompat = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_AppCompat_DayNight = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_Design_TextInputEditText = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_Design_TextInputEditText;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Primary = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Primary;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Surface = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Surface;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Primary = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Primary;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Surface = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Surface;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_BottomSheetDialog = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomSheetDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert_Framework;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_TimePicker = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TimePicker;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_TimePicker_Display = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TimePicker_Display;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Primary = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Primary;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Surface = global::xTaxi.Client.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Surface;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_DayNight = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_Dialog = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_Empty = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_Empty;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_Light = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::xTaxi.Client.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_Design = global::xTaxi.Client.Droid.Resource.Style.Theme_Design;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::xTaxi.Client.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_Design_Light = global::xTaxi.Client.Droid.Resource.Style.Theme_Design_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::xTaxi.Client.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::xTaxi.Client.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_Design_NoActionBar = global::xTaxi.Client.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_CompactMenu = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_DayNight = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_DayNight;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_DayNight_BottomSheetDialog = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_DayNight_BottomSheetDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_DayNight_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_DayNight_Dialog = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_DayNight_DialogWhenLarge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DialogWhenLarge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Dialog = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Dialog_Alert_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Dialog_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Light = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Light_BarSize = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Light_BarSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Light_LargeTouch = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Light_LargeTouch;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_NoActionBar = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::xTaxi.Client.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ActionBar = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ActionButton = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ActionMode = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Button = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Button_Small = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_EditText = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ImageButton = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ListMenuView = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ListView = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_RatingBar = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_SearchView = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_SeekBar = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Spinner = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_TextView = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_TextView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Toolbar = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::xTaxi.Client.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_Compat_NotificationActionContainer = global::xTaxi.Client.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_Compat_NotificationActionText = global::xTaxi.Client.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_Design_AppBarLayout = global::xTaxi.Client.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_Design_BottomNavigationView = global::xTaxi.Client.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::xTaxi.Client.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::xTaxi.Client.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_Design_FloatingActionButton = global::xTaxi.Client.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_Design_NavigationView = global::xTaxi.Client.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::xTaxi.Client.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_Design_Snackbar = global::xTaxi.Client.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_Design_TabLayout = global::xTaxi.Client.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_Design_TextInputEditText = global::xTaxi.Client.Droid.Resource.Style.Widget_Design_TextInputEditText;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_Design_TextInputLayout = global::xTaxi.Client.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_ActionBar_Primary = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Primary;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_ActionBar_PrimarySurface = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_PrimarySurface;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_ActionBar_Solid = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Solid;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_ActionBar_Surface = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Surface;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_AppBarLayout_Primary = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_Primary;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_AppBarLayout_PrimarySurface = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_PrimarySurface;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_AppBarLayout_Surface = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_Surface;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Badge = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Badge;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_BottomAppBar_PrimarySurface = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_PrimarySurface;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_BottomNavigationView_PrimarySurface = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_PrimarySurface;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_BottomSheet = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Button = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Button;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Button_Icon = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Flush = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Flush;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton_Snackbar = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Snackbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_CardView = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_CardView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_CheckedTextView = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_CheckedTextView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_ChipGroup = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Chip_Action = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator_ExtraSmall = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator_ExtraSmall;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator_Medium = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator_Medium;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator_Small = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator_Small;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_CollapsingToolbar = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_CollapsingToolbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_CompoundButton_RadioButton = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_RadioButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_CompoundButton_Switch = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_Switch;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton_Icon = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton_Icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Light_ActionBar_Solid = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Light_ActionBar_Solid;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_LinearProgressIndicator = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_LinearProgressIndicator;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialButtonToggleGroup = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialButtonToggleGroup;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_DayTextView = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_DayTextView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Invalid = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Invalid;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Selected;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Today = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Today;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Fullscreen = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Fullscreen;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderCancelButton = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderCancelButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderDivider = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderDivider;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderLayout = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderTitle = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderTitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Item = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Item;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_MonthNavigationButton = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_MonthNavigationButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_MonthTextView = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_MonthTextView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_YearNavigationButton = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_YearNavigationButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Selected = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Selected;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Today = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Today;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_NavigationRailView = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_NavigationRailView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_NavigationRailView_Colored = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_NavigationRailView_Colored;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_NavigationRailView_Colored_Compact = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_NavigationRailView_Colored_Compact;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_NavigationRailView_Compact = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_NavigationRailView_Compact;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_NavigationRailView_PrimarySurface = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_NavigationRailView_PrimarySurface;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_NavigationView = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_PopupMenu = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_PopupMenu_ContextMenu = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_ContextMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_PopupMenu_ListPopupWindow = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_ListPopupWindow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_PopupMenu_Overflow = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_Overflow;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_ProgressIndicator = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_ProgressIndicator;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_ShapeableImageView = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_ShapeableImageView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Slider = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Slider;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Snackbar = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Snackbar_TextView = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_TextView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TabLayout = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TabLayout_PrimarySurface = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_PrimarySurface;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TextView = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TextView;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TimePicker = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TimePicker;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TimePicker_Button = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TimePicker_Button;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TimePicker_Clock = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TimePicker_Clock;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TimePicker_Display = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TimePicker_Display;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TimePicker_Display_TextInputEditText = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TimePicker_Display_TextInputEditText;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TimePicker_ImageButton = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TimePicker_ImageButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_TimePicker_ImageButton_ShapeAppearance = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_TimePicker_ImageButton_ShapeAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Toolbar = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Toolbar_Primary = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_Primary;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Toolbar_PrimarySurface = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_PrimarySurface;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Toolbar_Surface = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_Surface;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_MaterialComponents_Tooltip = global::xTaxi.Client.Droid.Resource.Style.Widget_MaterialComponents_Tooltip;
+			global::Xamarin.Forms.Maps.Android.Resource.Style.Widget_Support_CoordinatorLayout = global::xTaxi.Client.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBarLayout = global::xTaxi.Client.Droid.Resource.Styleable.ActionBarLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::xTaxi.Client.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_background = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_backgroundSplit = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_backgroundStacked = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_contentInsetRight = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_contentInsetStart = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_displayOptions = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_divider = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_divider;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_elevation = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_height = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_homeLayout = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_icon = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_itemPadding = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_logo = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_logo;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_navigationMode = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_popupTheme = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_progressBarPadding = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_progressBarStyle = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_subtitle = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_title = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_title;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionBar_titleTextStyle = global::xTaxi.Client.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionMenuItemView = global::xTaxi.Client.Droid.Resource.Styleable.ActionMenuItemView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::xTaxi.Client.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionMenuView = global::xTaxi.Client.Droid.Resource.Styleable.ActionMenuView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionMode = global::xTaxi.Client.Droid.Resource.Styleable.ActionMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionMode_background = global::xTaxi.Client.Droid.Resource.Styleable.ActionMode_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionMode_backgroundSplit = global::xTaxi.Client.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionMode_closeItemLayout = global::xTaxi.Client.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionMode_height = global::xTaxi.Client.Droid.Resource.Styleable.ActionMode_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::xTaxi.Client.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActionMode_titleTextStyle = global::xTaxi.Client.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActivityChooserView = global::xTaxi.Client.Droid.Resource.Styleable.ActivityChooserView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::xTaxi.Client.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::xTaxi.Client.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActivityNavigator = global::xTaxi.Client.Droid.Resource.Styleable.ActivityNavigator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActivityNavigator_action = global::xTaxi.Client.Droid.Resource.Styleable.ActivityNavigator_action;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActivityNavigator_android_name = global::xTaxi.Client.Droid.Resource.Styleable.ActivityNavigator_android_name;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActivityNavigator_data = global::xTaxi.Client.Droid.Resource.Styleable.ActivityNavigator_data;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActivityNavigator_dataPattern = global::xTaxi.Client.Droid.Resource.Styleable.ActivityNavigator_dataPattern;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ActivityNavigator_targetPackage = global::xTaxi.Client.Droid.Resource.Styleable.ActivityNavigator_targetPackage;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AlertDialog = global::xTaxi.Client.Droid.Resource.Styleable.AlertDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AlertDialog_android_layout = global::xTaxi.Client.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AlertDialog_buttonIconDimen = global::xTaxi.Client.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::xTaxi.Client.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AlertDialog_listItemLayout = global::xTaxi.Client.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AlertDialog_listLayout = global::xTaxi.Client.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::xTaxi.Client.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AlertDialog_showTitle = global::xTaxi.Client.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::xTaxi.Client.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AnimatedStateListDrawableCompat = global::xTaxi.Client.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::xTaxi.Client.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::xTaxi.Client.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::xTaxi.Client.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::xTaxi.Client.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::xTaxi.Client.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::xTaxi.Client.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AnimatedStateListDrawableItem = global::xTaxi.Client.Droid.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::xTaxi.Client.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::xTaxi.Client.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AnimatedStateListDrawableTransition = global::xTaxi.Client.Droid.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::xTaxi.Client.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::xTaxi.Client.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::xTaxi.Client.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::xTaxi.Client.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppBarLayout = global::xTaxi.Client.Droid.Resource.Styleable.AppBarLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppBarLayoutStates = global::xTaxi.Client.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::xTaxi.Client.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::xTaxi.Client.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppBarLayoutStates_state_liftable = global::xTaxi.Client.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppBarLayoutStates_state_lifted = global::xTaxi.Client.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppBarLayout_android_background = global::xTaxi.Client.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::xTaxi.Client.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::xTaxi.Client.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppBarLayout_elevation = global::xTaxi.Client.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppBarLayout_expanded = global::xTaxi.Client.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppBarLayout_Layout = global::xTaxi.Client.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::xTaxi.Client.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::xTaxi.Client.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppBarLayout_liftOnScroll = global::xTaxi.Client.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppBarLayout_liftOnScrollTargetViewId = global::xTaxi.Client.Droid.Resource.Styleable.AppBarLayout_liftOnScrollTargetViewId;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppBarLayout_statusBarForeground = global::xTaxi.Client.Droid.Resource.Styleable.AppBarLayout_statusBarForeground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatImageView = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatImageView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatImageView_android_src = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatImageView_tint = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatImageView_tintMode = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatSeekBar = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatSeekBar_android_thumb = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatSeekBar_tickMark = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextHelper = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_drawableBottomCompat = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_drawableBottomCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_drawableEndCompat = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_drawableEndCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_drawableLeftCompat = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_drawableLeftCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_drawableRightCompat = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_drawableRightCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_drawableStartCompat = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_drawableStartCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_drawableTint = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_drawableTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_drawableTintMode = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_drawableTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_drawableTopCompat = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_drawableTopCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_fontFamily = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_fontVariationSettings = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_fontVariationSettings;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_lineHeight = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTextView_textLocale = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTextView_textLocale;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionModeCloseContentDescription = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseContentDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionModeTheme = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionModeTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_colorError = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::xTaxi.Client.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Badge = global::xTaxi.Client.Droid.Resource.Styleable.Badge;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Badge_backgroundColor = global::xTaxi.Client.Droid.Resource.Styleable.Badge_backgroundColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Badge_badgeGravity = global::xTaxi.Client.Droid.Resource.Styleable.Badge_badgeGravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Badge_badgeTextColor = global::xTaxi.Client.Droid.Resource.Styleable.Badge_badgeTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Badge_horizontalOffset = global::xTaxi.Client.Droid.Resource.Styleable.Badge_horizontalOffset;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Badge_maxCharacterCount = global::xTaxi.Client.Droid.Resource.Styleable.Badge_maxCharacterCount;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Badge_number = global::xTaxi.Client.Droid.Resource.Styleable.Badge_number;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Badge_verticalOffset = global::xTaxi.Client.Droid.Resource.Styleable.Badge_verticalOffset;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BaseProgressIndicator = global::xTaxi.Client.Droid.Resource.Styleable.BaseProgressIndicator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BaseProgressIndicator_android_indeterminate = global::xTaxi.Client.Droid.Resource.Styleable.BaseProgressIndicator_android_indeterminate;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BaseProgressIndicator_hideAnimationBehavior = global::xTaxi.Client.Droid.Resource.Styleable.BaseProgressIndicator_hideAnimationBehavior;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BaseProgressIndicator_indicatorColor = global::xTaxi.Client.Droid.Resource.Styleable.BaseProgressIndicator_indicatorColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BaseProgressIndicator_minHideDelay = global::xTaxi.Client.Droid.Resource.Styleable.BaseProgressIndicator_minHideDelay;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BaseProgressIndicator_showAnimationBehavior = global::xTaxi.Client.Droid.Resource.Styleable.BaseProgressIndicator_showAnimationBehavior;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BaseProgressIndicator_showDelay = global::xTaxi.Client.Droid.Resource.Styleable.BaseProgressIndicator_showDelay;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BaseProgressIndicator_trackColor = global::xTaxi.Client.Droid.Resource.Styleable.BaseProgressIndicator_trackColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BaseProgressIndicator_trackCornerRadius = global::xTaxi.Client.Droid.Resource.Styleable.BaseProgressIndicator_trackCornerRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BaseProgressIndicator_trackThickness = global::xTaxi.Client.Droid.Resource.Styleable.BaseProgressIndicator_trackThickness;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomAppBar = global::xTaxi.Client.Droid.Resource.Styleable.BottomAppBar;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomAppBar_backgroundTint = global::xTaxi.Client.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomAppBar_elevation = global::xTaxi.Client.Droid.Resource.Styleable.BottomAppBar_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::xTaxi.Client.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomAppBar_fabAnimationMode = global::xTaxi.Client.Droid.Resource.Styleable.BottomAppBar_fabAnimationMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomAppBar_fabCradleMargin = global::xTaxi.Client.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::xTaxi.Client.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::xTaxi.Client.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomAppBar_hideOnScroll = global::xTaxi.Client.Droid.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomAppBar_paddingBottomSystemWindowInsets = global::xTaxi.Client.Droid.Resource.Styleable.BottomAppBar_paddingBottomSystemWindowInsets;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomAppBar_paddingLeftSystemWindowInsets = global::xTaxi.Client.Droid.Resource.Styleable.BottomAppBar_paddingLeftSystemWindowInsets;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomAppBar_paddingRightSystemWindowInsets = global::xTaxi.Client.Droid.Resource.Styleable.BottomAppBar_paddingRightSystemWindowInsets;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomNavigationView = global::xTaxi.Client.Droid.Resource.Styleable.BottomNavigationView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::xTaxi.Client.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomSheetBehavior_Layout = global::xTaxi.Client.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomSheetBehavior_Layout_android_elevation = global::xTaxi.Client.Droid.Resource.Styleable.BottomSheetBehavior_Layout_android_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomSheetBehavior_Layout_android_maxWidth = global::xTaxi.Client.Droid.Resource.Styleable.BottomSheetBehavior_Layout_android_maxWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomSheetBehavior_Layout_backgroundTint = global::xTaxi.Client.Droid.Resource.Styleable.BottomSheetBehavior_Layout_backgroundTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_draggable = global::xTaxi.Client.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_draggable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_expandedOffset = global::xTaxi.Client.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_expandedOffset;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::xTaxi.Client.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_halfExpandedRatio = global::xTaxi.Client.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_halfExpandedRatio;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::xTaxi.Client.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::xTaxi.Client.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_saveFlags = global::xTaxi.Client.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_saveFlags;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::xTaxi.Client.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomSheetBehavior_Layout_gestureInsetBottomIgnored = global::xTaxi.Client.Droid.Resource.Styleable.BottomSheetBehavior_Layout_gestureInsetBottomIgnored;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomSheetBehavior_Layout_paddingBottomSystemWindowInsets = global::xTaxi.Client.Droid.Resource.Styleable.BottomSheetBehavior_Layout_paddingBottomSystemWindowInsets;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomSheetBehavior_Layout_paddingLeftSystemWindowInsets = global::xTaxi.Client.Droid.Resource.Styleable.BottomSheetBehavior_Layout_paddingLeftSystemWindowInsets;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomSheetBehavior_Layout_paddingRightSystemWindowInsets = global::xTaxi.Client.Droid.Resource.Styleable.BottomSheetBehavior_Layout_paddingRightSystemWindowInsets;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomSheetBehavior_Layout_paddingTopSystemWindowInsets = global::xTaxi.Client.Droid.Resource.Styleable.BottomSheetBehavior_Layout_paddingTopSystemWindowInsets;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearance = global::xTaxi.Client.Droid.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearanceOverlay = global::xTaxi.Client.Droid.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearanceOverlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ButtonBarLayout = global::xTaxi.Client.Droid.Resource.Styleable.ButtonBarLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::xTaxi.Client.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Capability = global::xTaxi.Client.Droid.Resource.Styleable.Capability;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Capability_queryPatterns = global::xTaxi.Client.Droid.Resource.Styleable.Capability_queryPatterns;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Capability_shortcutMatchRequired = global::xTaxi.Client.Droid.Resource.Styleable.Capability_shortcutMatchRequired;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CardView = global::xTaxi.Client.Droid.Resource.Styleable.CardView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CardView_android_minHeight = global::xTaxi.Client.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CardView_android_minWidth = global::xTaxi.Client.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CardView_cardBackgroundColor = global::xTaxi.Client.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CardView_cardCornerRadius = global::xTaxi.Client.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CardView_cardElevation = global::xTaxi.Client.Droid.Resource.Styleable.CardView_cardElevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CardView_cardMaxElevation = global::xTaxi.Client.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CardView_cardPreventCornerOverlap = global::xTaxi.Client.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CardView_cardUseCompatPadding = global::xTaxi.Client.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CardView_contentPadding = global::xTaxi.Client.Droid.Resource.Styleable.CardView_contentPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CardView_contentPaddingBottom = global::xTaxi.Client.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CardView_contentPaddingLeft = global::xTaxi.Client.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CardView_contentPaddingRight = global::xTaxi.Client.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CardView_contentPaddingTop = global::xTaxi.Client.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Carousel = global::xTaxi.Client.Droid.Resource.Styleable.Carousel;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Carousel_carousel_backwardTransition = global::xTaxi.Client.Droid.Resource.Styleable.Carousel_carousel_backwardTransition;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Carousel_carousel_emptyViewsBehavior = global::xTaxi.Client.Droid.Resource.Styleable.Carousel_carousel_emptyViewsBehavior;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Carousel_carousel_firstView = global::xTaxi.Client.Droid.Resource.Styleable.Carousel_carousel_firstView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Carousel_carousel_forwardTransition = global::xTaxi.Client.Droid.Resource.Styleable.Carousel_carousel_forwardTransition;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Carousel_carousel_infinite = global::xTaxi.Client.Droid.Resource.Styleable.Carousel_carousel_infinite;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Carousel_carousel_nextState = global::xTaxi.Client.Droid.Resource.Styleable.Carousel_carousel_nextState;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Carousel_carousel_previousState = global::xTaxi.Client.Droid.Resource.Styleable.Carousel_carousel_previousState;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Carousel_carousel_touchUpMode = global::xTaxi.Client.Droid.Resource.Styleable.Carousel_carousel_touchUpMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Carousel_carousel_touchUp_dampeningFactor = global::xTaxi.Client.Droid.Resource.Styleable.Carousel_carousel_touchUp_dampeningFactor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Carousel_carousel_touchUp_velocityThreshold = global::xTaxi.Client.Droid.Resource.Styleable.Carousel_carousel_touchUp_velocityThreshold;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip = global::xTaxi.Client.Droid.Resource.Styleable.Chip;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ChipGroup = global::xTaxi.Client.Droid.Resource.Styleable.ChipGroup;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ChipGroup_checkedChip = global::xTaxi.Client.Droid.Resource.Styleable.ChipGroup_checkedChip;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ChipGroup_chipSpacing = global::xTaxi.Client.Droid.Resource.Styleable.ChipGroup_chipSpacing;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::xTaxi.Client.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ChipGroup_chipSpacingVertical = global::xTaxi.Client.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ChipGroup_selectionRequired = global::xTaxi.Client.Droid.Resource.Styleable.ChipGroup_selectionRequired;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ChipGroup_singleLine = global::xTaxi.Client.Droid.Resource.Styleable.ChipGroup_singleLine;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ChipGroup_singleSelection = global::xTaxi.Client.Droid.Resource.Styleable.ChipGroup_singleSelection;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_android_checkable = global::xTaxi.Client.Droid.Resource.Styleable.Chip_android_checkable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_android_ellipsize = global::xTaxi.Client.Droid.Resource.Styleable.Chip_android_ellipsize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_android_maxWidth = global::xTaxi.Client.Droid.Resource.Styleable.Chip_android_maxWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_android_text = global::xTaxi.Client.Droid.Resource.Styleable.Chip_android_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_android_textAppearance = global::xTaxi.Client.Droid.Resource.Styleable.Chip_android_textAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_android_textColor = global::xTaxi.Client.Droid.Resource.Styleable.Chip_android_textColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_android_textSize = global::xTaxi.Client.Droid.Resource.Styleable.Chip_android_textSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_checkedIcon = global::xTaxi.Client.Droid.Resource.Styleable.Chip_checkedIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_checkedIconEnabled = global::xTaxi.Client.Droid.Resource.Styleable.Chip_checkedIconEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_checkedIconTint = global::xTaxi.Client.Droid.Resource.Styleable.Chip_checkedIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_checkedIconVisible = global::xTaxi.Client.Droid.Resource.Styleable.Chip_checkedIconVisible;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_chipBackgroundColor = global::xTaxi.Client.Droid.Resource.Styleable.Chip_chipBackgroundColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_chipCornerRadius = global::xTaxi.Client.Droid.Resource.Styleable.Chip_chipCornerRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_chipEndPadding = global::xTaxi.Client.Droid.Resource.Styleable.Chip_chipEndPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_chipIcon = global::xTaxi.Client.Droid.Resource.Styleable.Chip_chipIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_chipIconEnabled = global::xTaxi.Client.Droid.Resource.Styleable.Chip_chipIconEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_chipIconSize = global::xTaxi.Client.Droid.Resource.Styleable.Chip_chipIconSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_chipIconTint = global::xTaxi.Client.Droid.Resource.Styleable.Chip_chipIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_chipIconVisible = global::xTaxi.Client.Droid.Resource.Styleable.Chip_chipIconVisible;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_chipMinHeight = global::xTaxi.Client.Droid.Resource.Styleable.Chip_chipMinHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_chipMinTouchTargetSize = global::xTaxi.Client.Droid.Resource.Styleable.Chip_chipMinTouchTargetSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_chipStartPadding = global::xTaxi.Client.Droid.Resource.Styleable.Chip_chipStartPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_chipStrokeColor = global::xTaxi.Client.Droid.Resource.Styleable.Chip_chipStrokeColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_chipStrokeWidth = global::xTaxi.Client.Droid.Resource.Styleable.Chip_chipStrokeWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_chipSurfaceColor = global::xTaxi.Client.Droid.Resource.Styleable.Chip_chipSurfaceColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_closeIcon = global::xTaxi.Client.Droid.Resource.Styleable.Chip_closeIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_closeIconEnabled = global::xTaxi.Client.Droid.Resource.Styleable.Chip_closeIconEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_closeIconEndPadding = global::xTaxi.Client.Droid.Resource.Styleable.Chip_closeIconEndPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_closeIconSize = global::xTaxi.Client.Droid.Resource.Styleable.Chip_closeIconSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_closeIconStartPadding = global::xTaxi.Client.Droid.Resource.Styleable.Chip_closeIconStartPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_closeIconTint = global::xTaxi.Client.Droid.Resource.Styleable.Chip_closeIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_closeIconVisible = global::xTaxi.Client.Droid.Resource.Styleable.Chip_closeIconVisible;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_ensureMinTouchTargetSize = global::xTaxi.Client.Droid.Resource.Styleable.Chip_ensureMinTouchTargetSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_hideMotionSpec = global::xTaxi.Client.Droid.Resource.Styleable.Chip_hideMotionSpec;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_iconEndPadding = global::xTaxi.Client.Droid.Resource.Styleable.Chip_iconEndPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_iconStartPadding = global::xTaxi.Client.Droid.Resource.Styleable.Chip_iconStartPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_rippleColor = global::xTaxi.Client.Droid.Resource.Styleable.Chip_rippleColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_shapeAppearance = global::xTaxi.Client.Droid.Resource.Styleable.Chip_shapeAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_shapeAppearanceOverlay = global::xTaxi.Client.Droid.Resource.Styleable.Chip_shapeAppearanceOverlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_showMotionSpec = global::xTaxi.Client.Droid.Resource.Styleable.Chip_showMotionSpec;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_textEndPadding = global::xTaxi.Client.Droid.Resource.Styleable.Chip_textEndPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Chip_textStartPadding = global::xTaxi.Client.Droid.Resource.Styleable.Chip_textStartPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CircularProgressIndicator = global::xTaxi.Client.Droid.Resource.Styleable.CircularProgressIndicator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CircularProgressIndicator_indicatorDirectionCircular = global::xTaxi.Client.Droid.Resource.Styleable.CircularProgressIndicator_indicatorDirectionCircular;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CircularProgressIndicator_indicatorInset = global::xTaxi.Client.Droid.Resource.Styleable.CircularProgressIndicator_indicatorInset;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CircularProgressIndicator_indicatorSize = global::xTaxi.Client.Droid.Resource.Styleable.CircularProgressIndicator_indicatorSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ClockFaceView = global::xTaxi.Client.Droid.Resource.Styleable.ClockFaceView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ClockFaceView_clockFaceBackgroundColor = global::xTaxi.Client.Droid.Resource.Styleable.ClockFaceView_clockFaceBackgroundColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ClockFaceView_clockNumberTextColor = global::xTaxi.Client.Droid.Resource.Styleable.ClockFaceView_clockNumberTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ClockHandView = global::xTaxi.Client.Droid.Resource.Styleable.ClockHandView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ClockHandView_clockHandColor = global::xTaxi.Client.Droid.Resource.Styleable.ClockHandView_clockHandColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ClockHandView_materialCircleRadius = global::xTaxi.Client.Droid.Resource.Styleable.ClockHandView_materialCircleRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ClockHandView_selectorSize = global::xTaxi.Client.Droid.Resource.Styleable.ClockHandView_selectorSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_extraMultilineHeightEnabled = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_extraMultilineHeightEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_forceApplySystemWindowInsetTop = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_forceApplySystemWindowInsetTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_Layout = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_maxLines = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_maxLines;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_titleCollapseMode = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_titleCollapseMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::xTaxi.Client.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ColorStateListItem = global::xTaxi.Client.Droid.Resource.Styleable.ColorStateListItem;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ColorStateListItem_alpha = global::xTaxi.Client.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ColorStateListItem_android_alpha = global::xTaxi.Client.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ColorStateListItem_android_color = global::xTaxi.Client.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CompoundButton = global::xTaxi.Client.Droid.Resource.Styleable.CompoundButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CompoundButton_android_button = global::xTaxi.Client.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CompoundButton_buttonCompat = global::xTaxi.Client.Droid.Resource.Styleable.CompoundButton_buttonCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CompoundButton_buttonTint = global::xTaxi.Client.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::xTaxi.Client.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint = global::xTaxi.Client.Droid.Resource.Styleable.Constraint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_elevation = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_layout_height = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_layout_margin = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_margin;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginBottom = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginEnd = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginHorizontal = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginHorizontal;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginLeft = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginRight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginStart = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginTop = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginVertical = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginVertical;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_layout_width = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_maxHeight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_maxHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_maxWidth = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_maxWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_minHeight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_minHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_minWidth = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_minWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_orientation = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_orientation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_padding = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_paddingBottom = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_paddingBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_paddingEnd = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_paddingEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_paddingLeft = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_paddingLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_paddingRight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_paddingRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_paddingStart = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_paddingStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_paddingTop = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_paddingTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_android_visibility = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_android_visibility;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_barrierAllowsGoneWidgets = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_barrierAllowsGoneWidgets;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_barrierDirection = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_barrierDirection;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_barrierMargin = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_barrierMargin;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_chainUseRtl = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_chainUseRtl;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_circularflow_angles = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_circularflow_angles;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_circularflow_defaultAngle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_circularflow_defaultAngle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_circularflow_defaultRadius = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_circularflow_defaultRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_circularflow_radiusInDP = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_circularflow_radiusInDP;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_circularflow_viewCenter = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_circularflow_viewCenter;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_constraintSet = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_constraintSet;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_constraint_referenced_ids = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_constraint_referenced_ids;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_constraint_referenced_tags = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_constraint_referenced_tags;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_flow_firstHorizontalBias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_firstHorizontalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_flow_firstHorizontalStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_firstHorizontalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_flow_firstVerticalBias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_firstVerticalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_flow_firstVerticalStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_firstVerticalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalAlign = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalAlign;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalBias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalGap = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalGap;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_flow_lastHorizontalBias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_lastHorizontalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_flow_lastHorizontalStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_lastHorizontalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_flow_lastVerticalBias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_lastVerticalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_flow_lastVerticalStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_lastVerticalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_flow_maxElementsWrap = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_maxElementsWrap;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_flow_verticalAlign = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_verticalAlign;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_flow_verticalBias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_verticalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_flow_verticalGap = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_verticalGap;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_flow_verticalStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_verticalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_flow_wrapMode = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_wrapMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layoutDescription = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layoutDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constrainedHeight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constrainedHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constrainedWidth = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constrainedWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_creator = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_toBottomOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_toBottomOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_toTopOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_toTopOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_creator = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_toBottomOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_toBottomOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_toTopOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_toTopOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircleAngle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircleAngle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircleRadius = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircleRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintDimensionRatio = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintDimensionRatio;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintEnd_toEndOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintEnd_toEndOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintEnd_toStartOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintEnd_toStartOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_begin = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_begin;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_end = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_end;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_percent = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_default = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_default;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_max = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_max;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_min = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_min;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_percent = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_bias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_bias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_weight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_weight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_creator = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_toLeftOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_toLeftOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_toRightOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_toRightOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_creator = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_toLeftOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_toLeftOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_toRightOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_toRightOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintStart_toEndOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintStart_toEndOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintStart_toStartOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintStart_toStartOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTag = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTag;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_creator = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_toBottomOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_toBottomOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_toTopOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_toTopOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_bias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_bias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_chainStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_chainStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_weight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_weight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_default = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_default;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_max = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_max;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_min = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_min;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_percent = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_editor_absoluteX = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_editor_absoluteX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_editor_absoluteY = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_editor_absoluteY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginBaseline = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginBaseline;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginBottom = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginEnd = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginLeft = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginRight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginStart = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginTop = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_marginBaseline = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_marginBaseline;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_optimizationLevel = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_optimizationLevel;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_Layout_layout_wrapBehaviorInParent = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_wrapBehaviorInParent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_placeholder = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_placeholder;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_placeholder_content = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_placeholder_content;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_placeholder_placeholder_emptyVisibility = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_placeholder_placeholder_emptyVisibility;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_ReactiveGuide = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_ReactiveGuide;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_ReactiveGuide_reactiveGuide_animateChange = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_ReactiveGuide_reactiveGuide_animateChange;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_ReactiveGuide_reactiveGuide_applyToAllConstraintSets = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_ReactiveGuide_reactiveGuide_applyToAllConstraintSets;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_ReactiveGuide_reactiveGuide_applyToConstraintSet = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_ReactiveGuide_reactiveGuide_applyToConstraintSet;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintLayout_ReactiveGuide_reactiveGuide_valueId = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintLayout_ReactiveGuide_reactiveGuide_valueId;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_alpha = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_elevation = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_id = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_id;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_layout_height = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_layout_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_layout_marginBottom = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_layout_marginBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_layout_marginEnd = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_layout_marginEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_layout_marginLeft = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_layout_marginLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_layout_marginRight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_layout_marginRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_layout_marginStart = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_layout_marginStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_layout_marginTop = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_layout_marginTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_layout_width = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_layout_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_maxHeight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_maxHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_maxWidth = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_maxWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_minHeight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_minHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_minWidth = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_minWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_orientation = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_orientation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_rotation = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_rotation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_rotationX = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_rotationX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_rotationY = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_rotationY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_scaleX = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_scaleX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_scaleY = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_scaleY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_transformPivotX = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_transformPivotX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_transformPivotY = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_transformPivotY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_translationX = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_translationX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_translationY = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_translationY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_translationZ = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_translationZ;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_android_visibility = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_android_visibility;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_animateCircleAngleTo = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_animateCircleAngleTo;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_animateRelativeTo = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_animateRelativeTo;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_barrierAllowsGoneWidgets = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_barrierAllowsGoneWidgets;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_barrierDirection = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_barrierDirection;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_barrierMargin = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_barrierMargin;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_chainUseRtl = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_chainUseRtl;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_constraint_referenced_ids = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_constraint_referenced_ids;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_drawPath = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_drawPath;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_flow_firstHorizontalBias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_flow_firstHorizontalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_flow_firstHorizontalStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_flow_firstHorizontalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_flow_firstVerticalBias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_flow_firstVerticalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_flow_firstVerticalStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_flow_firstVerticalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_flow_horizontalAlign = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_flow_horizontalAlign;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_flow_horizontalBias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_flow_horizontalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_flow_horizontalGap = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_flow_horizontalGap;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_flow_horizontalStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_flow_horizontalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_flow_lastHorizontalBias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_flow_lastHorizontalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_flow_lastHorizontalStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_flow_lastHorizontalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_flow_lastVerticalBias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_flow_lastVerticalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_flow_lastVerticalStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_flow_lastVerticalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_flow_maxElementsWrap = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_flow_maxElementsWrap;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_flow_verticalAlign = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_flow_verticalAlign;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_flow_verticalBias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_flow_verticalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_flow_verticalGap = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_flow_verticalGap;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_flow_verticalStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_flow_verticalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_flow_wrapMode = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_flow_wrapMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constrainedHeight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constrainedHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constrainedWidth = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constrainedWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintBaseline_creator = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintBaseline_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintBottom_creator = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintBottom_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintCircleAngle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintCircleAngle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintCircleRadius = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintCircleRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintDimensionRatio = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintDimensionRatio;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintGuide_begin = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintGuide_begin;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintGuide_end = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintGuide_end;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintGuide_percent = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintGuide_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintHeight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintHeight_default = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintHeight_default;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintHeight_max = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintHeight_max;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintHeight_min = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintHeight_min;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintHeight_percent = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintHeight_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintHorizontal_bias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintHorizontal_bias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintHorizontal_chainStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintHorizontal_chainStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintHorizontal_weight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintHorizontal_weight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintLeft_creator = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintLeft_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintRight_creator = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintRight_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintTag = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintTag;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintTop_creator = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintTop_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintVertical_bias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintVertical_bias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintVertical_chainStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintVertical_chainStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintVertical_weight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintVertical_weight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintWidth = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintWidth_default = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintWidth_default;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintWidth_max = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintWidth_max;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintWidth_min = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintWidth_min;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_constraintWidth_percent = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_constraintWidth_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_editor_absoluteX = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_editor_absoluteX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_editor_absoluteY = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_editor_absoluteY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_goneMarginBaseline = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_goneMarginBaseline;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_goneMarginBottom = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_goneMarginBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_goneMarginEnd = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_goneMarginEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_goneMarginLeft = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_goneMarginLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_goneMarginRight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_goneMarginRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_goneMarginStart = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_goneMarginStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_goneMarginTop = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_goneMarginTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_marginBaseline = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_marginBaseline;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_layout_wrapBehaviorInParent = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_layout_wrapBehaviorInParent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_motionProgress = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_motionProgress;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_motionStagger = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_motionStagger;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_motionTarget = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_motionTarget;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_pathMotionArc = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_pathMotionArc;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_pivotAnchor = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_pivotAnchor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_polarRelativeTo = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_polarRelativeTo;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_quantizeMotionInterpolator = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_quantizeMotionInterpolator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_quantizeMotionPhase = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_quantizeMotionPhase;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_quantizeMotionSteps = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_quantizeMotionSteps;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_transformPivotTarget = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_transformPivotTarget;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_transitionEasing = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_transitionEasing;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_transitionPathRotate = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_transitionPathRotate;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintOverride_visibilityMode = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintOverride_visibilityMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_alpha = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_elevation = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_id = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_id;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_layout_height = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_layout_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_layout_marginBottom = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_layout_marginBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_layout_marginEnd = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_layout_marginEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_layout_marginLeft = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_layout_marginLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_layout_marginRight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_layout_marginRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_layout_marginStart = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_layout_marginStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_layout_marginTop = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_layout_marginTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_layout_width = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_layout_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_maxHeight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_maxHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_maxWidth = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_maxWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_minHeight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_minHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_minWidth = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_minWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_orientation = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_orientation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_pivotX = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_pivotX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_pivotY = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_pivotY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_rotation = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_rotation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_rotationX = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_rotationX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_rotationY = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_rotationY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_scaleX = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_scaleX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_scaleY = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_scaleY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_transformPivotX = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_transformPivotX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_transformPivotY = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_transformPivotY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_translationX = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_translationX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_translationY = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_translationY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_translationZ = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_translationZ;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_android_visibility = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_android_visibility;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_animateCircleAngleTo = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_animateCircleAngleTo;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_animateRelativeTo = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_animateRelativeTo;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_barrierAllowsGoneWidgets = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_barrierAllowsGoneWidgets;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_barrierDirection = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_barrierDirection;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_barrierMargin = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_barrierMargin;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_chainUseRtl = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_chainUseRtl;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_ConstraintRotate = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_ConstraintRotate;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_constraint_referenced_ids = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_constraint_referenced_ids;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_constraint_referenced_tags = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_constraint_referenced_tags;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_deriveConstraintsFrom = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_deriveConstraintsFrom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_drawPath = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_drawPath;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_flow_firstHorizontalBias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_flow_firstHorizontalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_flow_firstHorizontalStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_flow_firstHorizontalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_flow_firstVerticalBias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_flow_firstVerticalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_flow_firstVerticalStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_flow_firstVerticalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_flow_horizontalAlign = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_flow_horizontalAlign;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_flow_horizontalBias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_flow_horizontalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_flow_horizontalGap = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_flow_horizontalGap;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_flow_horizontalStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_flow_horizontalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_flow_lastHorizontalBias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_flow_lastHorizontalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_flow_lastHorizontalStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_flow_lastHorizontalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_flow_lastVerticalBias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_flow_lastVerticalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_flow_lastVerticalStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_flow_lastVerticalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_flow_maxElementsWrap = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_flow_maxElementsWrap;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_flow_verticalAlign = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_flow_verticalAlign;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_flow_verticalBias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_flow_verticalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_flow_verticalGap = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_flow_verticalGap;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_flow_verticalStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_flow_verticalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_flow_wrapMode = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_flow_wrapMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constrainedHeight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constrainedHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constrainedWidth = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constrainedWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintBaseline_creator = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintBaseline_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintBaseline_toBaselineOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintBaseline_toBaselineOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintBaseline_toBottomOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintBaseline_toBottomOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintBaseline_toTopOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintBaseline_toTopOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintBottom_creator = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintBottom_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintBottom_toBottomOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintBottom_toBottomOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintBottom_toTopOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintBottom_toTopOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintCircle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintCircle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintCircleAngle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintCircleAngle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintCircleRadius = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintCircleRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintDimensionRatio = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintDimensionRatio;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintEnd_toEndOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintEnd_toEndOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintEnd_toStartOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintEnd_toStartOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintGuide_begin = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintGuide_begin;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintGuide_end = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintGuide_end;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintGuide_percent = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintGuide_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintHeight_default = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintHeight_default;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintHeight_max = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintHeight_max;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintHeight_min = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintHeight_min;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintHeight_percent = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintHeight_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_bias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_bias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_chainStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_chainStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_weight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_weight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintLeft_creator = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintLeft_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintLeft_toLeftOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintLeft_toLeftOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintLeft_toRightOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintLeft_toRightOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintRight_creator = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintRight_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintRight_toLeftOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintRight_toLeftOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintRight_toRightOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintRight_toRightOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintStart_toEndOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintStart_toEndOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintStart_toStartOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintStart_toStartOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintTag = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintTag;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintTop_creator = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintTop_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintTop_toBottomOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintTop_toBottomOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintTop_toTopOf = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintTop_toTopOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintVertical_bias = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintVertical_bias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintVertical_chainStyle = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintVertical_chainStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintVertical_weight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintVertical_weight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintWidth_default = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintWidth_default;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintWidth_max = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintWidth_max;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintWidth_min = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintWidth_min;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_constraintWidth_percent = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_constraintWidth_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_editor_absoluteX = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_editor_absoluteX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_editor_absoluteY = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_editor_absoluteY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_goneMarginBaseline = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginBaseline;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_goneMarginBottom = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_goneMarginEnd = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_goneMarginLeft = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_goneMarginRight = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_goneMarginStart = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_goneMarginTop = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_marginBaseline = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_marginBaseline;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_layout_wrapBehaviorInParent = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_layout_wrapBehaviorInParent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_motionProgress = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_motionProgress;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_motionStagger = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_motionStagger;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_pathMotionArc = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_pathMotionArc;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_pivotAnchor = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_pivotAnchor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_polarRelativeTo = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_polarRelativeTo;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_quantizeMotionSteps = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_quantizeMotionSteps;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_transitionEasing = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_transitionEasing;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ConstraintSet_transitionPathRotate = global::xTaxi.Client.Droid.Resource.Styleable.ConstraintSet_transitionPathRotate;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_alpha = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_elevation = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_id = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_id;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_layout_height = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_layout_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_layout_marginBottom = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_layout_marginBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_layout_marginEnd = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_layout_marginEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_layout_marginLeft = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_layout_marginLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_layout_marginRight = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_layout_marginRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_layout_marginStart = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_layout_marginStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_layout_marginTop = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_layout_marginTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_layout_width = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_layout_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_maxHeight = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_maxHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_maxWidth = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_maxWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_minHeight = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_minHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_minWidth = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_minWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_orientation = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_orientation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_rotation = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_rotation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_rotationX = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_rotationX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_rotationY = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_rotationY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_scaleX = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_scaleX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_scaleY = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_scaleY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_transformPivotX = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_transformPivotX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_transformPivotY = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_transformPivotY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_translationX = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_translationX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_translationY = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_translationY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_translationZ = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_translationZ;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_android_visibility = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_android_visibility;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_animateCircleAngleTo = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_animateCircleAngleTo;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_animateRelativeTo = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_animateRelativeTo;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_barrierAllowsGoneWidgets = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_barrierAllowsGoneWidgets;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_barrierDirection = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_barrierDirection;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_barrierMargin = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_barrierMargin;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_chainUseRtl = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_chainUseRtl;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_constraint_referenced_ids = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_constraint_referenced_ids;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_constraint_referenced_tags = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_constraint_referenced_tags;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_drawPath = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_drawPath;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_flow_firstHorizontalBias = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_flow_firstHorizontalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_flow_firstHorizontalStyle = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_flow_firstHorizontalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_flow_firstVerticalBias = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_flow_firstVerticalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_flow_firstVerticalStyle = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_flow_firstVerticalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_flow_horizontalAlign = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_flow_horizontalAlign;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_flow_horizontalBias = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_flow_horizontalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_flow_horizontalGap = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_flow_horizontalGap;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_flow_horizontalStyle = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_flow_horizontalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_flow_lastHorizontalBias = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_flow_lastHorizontalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_flow_lastHorizontalStyle = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_flow_lastHorizontalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_flow_lastVerticalBias = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_flow_lastVerticalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_flow_lastVerticalStyle = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_flow_lastVerticalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_flow_maxElementsWrap = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_flow_maxElementsWrap;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_flow_verticalAlign = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_flow_verticalAlign;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_flow_verticalBias = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_flow_verticalBias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_flow_verticalGap = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_flow_verticalGap;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_flow_verticalStyle = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_flow_verticalStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_flow_wrapMode = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_flow_wrapMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constrainedHeight = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constrainedHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constrainedWidth = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constrainedWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintBaseline_creator = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintBaseline_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintBaseline_toBaselineOf = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintBaseline_toBaselineOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintBaseline_toBottomOf = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintBaseline_toBottomOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintBaseline_toTopOf = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintBaseline_toTopOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintBottom_creator = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintBottom_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintBottom_toBottomOf = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintBottom_toBottomOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintBottom_toTopOf = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintBottom_toTopOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintCircle = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintCircle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintCircleAngle = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintCircleAngle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintCircleRadius = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintCircleRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintDimensionRatio = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintDimensionRatio;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintEnd_toEndOf = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintEnd_toEndOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintEnd_toStartOf = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintEnd_toStartOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintGuide_begin = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintGuide_begin;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintGuide_end = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintGuide_end;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintGuide_percent = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintGuide_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintHeight = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintHeight_default = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintHeight_default;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintHeight_max = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintHeight_max;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintHeight_min = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintHeight_min;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintHeight_percent = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintHeight_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintHorizontal_bias = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintHorizontal_bias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintHorizontal_chainStyle = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintHorizontal_chainStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintHorizontal_weight = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintHorizontal_weight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintLeft_creator = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintLeft_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintLeft_toLeftOf = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintLeft_toLeftOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintLeft_toRightOf = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintLeft_toRightOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintRight_creator = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintRight_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintRight_toLeftOf = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintRight_toLeftOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintRight_toRightOf = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintRight_toRightOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintStart_toEndOf = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintStart_toEndOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintStart_toStartOf = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintStart_toStartOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintTag = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintTag;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintTop_creator = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintTop_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintTop_toBottomOf = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintTop_toBottomOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintTop_toTopOf = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintTop_toTopOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintVertical_bias = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintVertical_bias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintVertical_chainStyle = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintVertical_chainStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintVertical_weight = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintVertical_weight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintWidth = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintWidth_default = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintWidth_default;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintWidth_max = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintWidth_max;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintWidth_min = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintWidth_min;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_constraintWidth_percent = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_constraintWidth_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_editor_absoluteX = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_editor_absoluteX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_editor_absoluteY = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_editor_absoluteY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_goneMarginBaseline = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_goneMarginBaseline;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_goneMarginBottom = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_goneMarginBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_goneMarginEnd = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_goneMarginEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_goneMarginLeft = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_goneMarginLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_goneMarginRight = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_goneMarginRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_goneMarginStart = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_goneMarginStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_goneMarginTop = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_goneMarginTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_marginBaseline = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_marginBaseline;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_layout_wrapBehaviorInParent = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_layout_wrapBehaviorInParent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_motionProgress = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_motionProgress;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_motionStagger = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_motionStagger;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_pathMotionArc = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_pathMotionArc;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_pivotAnchor = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_pivotAnchor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_polarRelativeTo = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_polarRelativeTo;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_quantizeMotionInterpolator = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_quantizeMotionInterpolator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_quantizeMotionPhase = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_quantizeMotionPhase;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_quantizeMotionSteps = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_quantizeMotionSteps;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_transformPivotTarget = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_transformPivotTarget;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_transitionEasing = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_transitionEasing;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_transitionPathRotate = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_transitionPathRotate;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Constraint_visibilityMode = global::xTaxi.Client.Droid.Resource.Styleable.Constraint_visibilityMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CoordinatorLayout = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CoordinatorLayout_keylines = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CoordinatorLayout_Layout = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::xTaxi.Client.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CustomAttribute = global::xTaxi.Client.Droid.Resource.Styleable.CustomAttribute;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CustomAttribute_attributeName = global::xTaxi.Client.Droid.Resource.Styleable.CustomAttribute_attributeName;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CustomAttribute_customBoolean = global::xTaxi.Client.Droid.Resource.Styleable.CustomAttribute_customBoolean;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CustomAttribute_customColorDrawableValue = global::xTaxi.Client.Droid.Resource.Styleable.CustomAttribute_customColorDrawableValue;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CustomAttribute_customColorValue = global::xTaxi.Client.Droid.Resource.Styleable.CustomAttribute_customColorValue;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CustomAttribute_customDimension = global::xTaxi.Client.Droid.Resource.Styleable.CustomAttribute_customDimension;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CustomAttribute_customFloatValue = global::xTaxi.Client.Droid.Resource.Styleable.CustomAttribute_customFloatValue;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CustomAttribute_customIntegerValue = global::xTaxi.Client.Droid.Resource.Styleable.CustomAttribute_customIntegerValue;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CustomAttribute_customPixelDimension = global::xTaxi.Client.Droid.Resource.Styleable.CustomAttribute_customPixelDimension;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CustomAttribute_customReference = global::xTaxi.Client.Droid.Resource.Styleable.CustomAttribute_customReference;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CustomAttribute_customStringValue = global::xTaxi.Client.Droid.Resource.Styleable.CustomAttribute_customStringValue;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.CustomAttribute_methodName = global::xTaxi.Client.Droid.Resource.Styleable.CustomAttribute_methodName;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.DrawerArrowToggle = global::xTaxi.Client.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::xTaxi.Client.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::xTaxi.Client.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::xTaxi.Client.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.DrawerArrowToggle_color = global::xTaxi.Client.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::xTaxi.Client.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::xTaxi.Client.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::xTaxi.Client.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::xTaxi.Client.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.DrawerLayout = global::xTaxi.Client.Droid.Resource.Styleable.DrawerLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.DrawerLayout_elevation = global::xTaxi.Client.Droid.Resource.Styleable.DrawerLayout_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ExtendedFloatingActionButton = global::xTaxi.Client.Droid.Resource.Styleable.ExtendedFloatingActionButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout = global::xTaxi.Client.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide = global::xTaxi.Client.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink = global::xTaxi.Client.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ExtendedFloatingActionButton_collapsedSize = global::xTaxi.Client.Droid.Resource.Styleable.ExtendedFloatingActionButton_collapsedSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ExtendedFloatingActionButton_elevation = global::xTaxi.Client.Droid.Resource.Styleable.ExtendedFloatingActionButton_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ExtendedFloatingActionButton_extendMotionSpec = global::xTaxi.Client.Droid.Resource.Styleable.ExtendedFloatingActionButton_extendMotionSpec;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ExtendedFloatingActionButton_hideMotionSpec = global::xTaxi.Client.Droid.Resource.Styleable.ExtendedFloatingActionButton_hideMotionSpec;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ExtendedFloatingActionButton_showMotionSpec = global::xTaxi.Client.Droid.Resource.Styleable.ExtendedFloatingActionButton_showMotionSpec;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ExtendedFloatingActionButton_shrinkMotionSpec = global::xTaxi.Client.Droid.Resource.Styleable.ExtendedFloatingActionButton_shrinkMotionSpec;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton_android_enabled = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton_android_enabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton_elevation = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton_ensureMinTouchTargetSize = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton_ensureMinTouchTargetSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton_fabCustomSize = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton_fabSize = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton_maxImageSize = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton_shapeAppearance = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton_shapeAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton_shapeAppearanceOverlay = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton_shapeAppearanceOverlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton_showMotionSpec = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::xTaxi.Client.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FlowLayout = global::xTaxi.Client.Droid.Resource.Styleable.FlowLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FlowLayout_itemSpacing = global::xTaxi.Client.Droid.Resource.Styleable.FlowLayout_itemSpacing;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FlowLayout_lineSpacing = global::xTaxi.Client.Droid.Resource.Styleable.FlowLayout_lineSpacing;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FontFamily = global::xTaxi.Client.Droid.Resource.Styleable.FontFamily;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FontFamilyFont = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FontFamilyFont_android_font = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FontFamilyFont_android_fontStyle = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FontFamilyFont_android_fontWeight = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FontFamilyFont_font = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FontFamilyFont_fontStyle = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FontFamilyFont_fontWeight = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FontFamilyFont_ttcIndex = global::xTaxi.Client.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FontFamily_fontProviderAuthority = global::xTaxi.Client.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FontFamily_fontProviderCerts = global::xTaxi.Client.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::xTaxi.Client.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::xTaxi.Client.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FontFamily_fontProviderPackage = global::xTaxi.Client.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FontFamily_fontProviderQuery = global::xTaxi.Client.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FontFamily_fontProviderSystemFontFamily = global::xTaxi.Client.Droid.Resource.Styleable.FontFamily_fontProviderSystemFontFamily;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ForegroundLinearLayout = global::xTaxi.Client.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::xTaxi.Client.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::xTaxi.Client.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::xTaxi.Client.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Fragment = global::xTaxi.Client.Droid.Resource.Styleable.Fragment;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FragmentContainerView = global::xTaxi.Client.Droid.Resource.Styleable.FragmentContainerView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FragmentContainerView_android_name = global::xTaxi.Client.Droid.Resource.Styleable.FragmentContainerView_android_name;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.FragmentContainerView_android_tag = global::xTaxi.Client.Droid.Resource.Styleable.FragmentContainerView_android_tag;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Fragment_android_id = global::xTaxi.Client.Droid.Resource.Styleable.Fragment_android_id;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Fragment_android_name = global::xTaxi.Client.Droid.Resource.Styleable.Fragment_android_name;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Fragment_android_tag = global::xTaxi.Client.Droid.Resource.Styleable.Fragment_android_tag;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.GradientColor = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.GradientColorItem = global::xTaxi.Client.Droid.Resource.Styleable.GradientColorItem;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.GradientColorItem_android_color = global::xTaxi.Client.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.GradientColorItem_android_offset = global::xTaxi.Client.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.GradientColor_android_centerColor = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.GradientColor_android_centerX = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.GradientColor_android_centerY = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.GradientColor_android_endColor = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.GradientColor_android_endX = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.GradientColor_android_endY = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.GradientColor_android_gradientRadius = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.GradientColor_android_startColor = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.GradientColor_android_startX = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.GradientColor_android_startY = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.GradientColor_android_tileMode = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.GradientColor_android_type = global::xTaxi.Client.Droid.Resource.Styleable.GradientColor_android_type;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ImageFilterView = global::xTaxi.Client.Droid.Resource.Styleable.ImageFilterView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ImageFilterView_altSrc = global::xTaxi.Client.Droid.Resource.Styleable.ImageFilterView_altSrc;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ImageFilterView_blendSrc = global::xTaxi.Client.Droid.Resource.Styleable.ImageFilterView_blendSrc;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ImageFilterView_brightness = global::xTaxi.Client.Droid.Resource.Styleable.ImageFilterView_brightness;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ImageFilterView_contrast = global::xTaxi.Client.Droid.Resource.Styleable.ImageFilterView_contrast;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ImageFilterView_crossfade = global::xTaxi.Client.Droid.Resource.Styleable.ImageFilterView_crossfade;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ImageFilterView_imagePanX = global::xTaxi.Client.Droid.Resource.Styleable.ImageFilterView_imagePanX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ImageFilterView_imagePanY = global::xTaxi.Client.Droid.Resource.Styleable.ImageFilterView_imagePanY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ImageFilterView_imageRotate = global::xTaxi.Client.Droid.Resource.Styleable.ImageFilterView_imageRotate;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ImageFilterView_imageZoom = global::xTaxi.Client.Droid.Resource.Styleable.ImageFilterView_imageZoom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ImageFilterView_overlay = global::xTaxi.Client.Droid.Resource.Styleable.ImageFilterView_overlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ImageFilterView_round = global::xTaxi.Client.Droid.Resource.Styleable.ImageFilterView_round;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ImageFilterView_roundPercent = global::xTaxi.Client.Droid.Resource.Styleable.ImageFilterView_roundPercent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ImageFilterView_saturation = global::xTaxi.Client.Droid.Resource.Styleable.ImageFilterView_saturation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ImageFilterView_warmth = global::xTaxi.Client.Droid.Resource.Styleable.ImageFilterView_warmth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.include = global::xTaxi.Client.Droid.Resource.Styleable.include;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.include_constraintSet = global::xTaxi.Client.Droid.Resource.Styleable.include_constraintSet;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Insets = global::xTaxi.Client.Droid.Resource.Styleable.Insets;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Insets_paddingBottomSystemWindowInsets = global::xTaxi.Client.Droid.Resource.Styleable.Insets_paddingBottomSystemWindowInsets;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Insets_paddingLeftSystemWindowInsets = global::xTaxi.Client.Droid.Resource.Styleable.Insets_paddingLeftSystemWindowInsets;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Insets_paddingRightSystemWindowInsets = global::xTaxi.Client.Droid.Resource.Styleable.Insets_paddingRightSystemWindowInsets;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Insets_paddingTopSystemWindowInsets = global::xTaxi.Client.Droid.Resource.Styleable.Insets_paddingTopSystemWindowInsets;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ItemsViewRendererTheme = global::xTaxi.Client.Droid.Resource.Styleable.ItemsViewRendererTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle = global::xTaxi.Client.Droid.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute_android_alpha = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute_android_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute_android_elevation = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute_android_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute_android_rotation = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute_android_rotation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute_android_rotationX = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute_android_rotationX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute_android_rotationY = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute_android_rotationY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute_android_scaleX = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute_android_scaleX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute_android_scaleY = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute_android_scaleY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute_android_transformPivotX = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute_android_transformPivotX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute_android_transformPivotY = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute_android_transformPivotY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute_android_translationX = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute_android_translationX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute_android_translationY = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute_android_translationY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute_android_translationZ = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute_android_translationZ;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute_curveFit = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute_curveFit;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute_framePosition = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute_framePosition;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute_motionProgress = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute_motionProgress;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute_motionTarget = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute_motionTarget;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute_transformPivotTarget = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute_transformPivotTarget;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute_transitionEasing = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute_transitionEasing;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyAttribute_transitionPathRotate = global::xTaxi.Client.Droid.Resource.Styleable.KeyAttribute_transitionPathRotate;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_android_alpha = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_android_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_android_elevation = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_android_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_android_rotation = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_android_rotation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_android_rotationX = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_android_rotationX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_android_rotationY = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_android_rotationY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_android_scaleX = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_android_scaleX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_android_scaleY = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_android_scaleY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_android_translationX = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_android_translationX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_android_translationY = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_android_translationY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_android_translationZ = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_android_translationZ;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_curveFit = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_curveFit;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_framePosition = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_framePosition;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_motionProgress = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_motionProgress;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_motionTarget = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_motionTarget;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_transitionEasing = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_transitionEasing;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_transitionPathRotate = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_transitionPathRotate;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_waveOffset = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_waveOffset;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_wavePeriod = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_wavePeriod;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_wavePhase = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_wavePhase;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_waveShape = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_waveShape;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyCycle_waveVariesBy = global::xTaxi.Client.Droid.Resource.Styleable.KeyCycle_waveVariesBy;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyFrame = global::xTaxi.Client.Droid.Resource.Styleable.KeyFrame;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyFramesAcceleration = global::xTaxi.Client.Droid.Resource.Styleable.KeyFramesAcceleration;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyFramesVelocity = global::xTaxi.Client.Droid.Resource.Styleable.KeyFramesVelocity;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyPosition = global::xTaxi.Client.Droid.Resource.Styleable.KeyPosition;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyPosition_curveFit = global::xTaxi.Client.Droid.Resource.Styleable.KeyPosition_curveFit;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyPosition_drawPath = global::xTaxi.Client.Droid.Resource.Styleable.KeyPosition_drawPath;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyPosition_framePosition = global::xTaxi.Client.Droid.Resource.Styleable.KeyPosition_framePosition;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyPosition_keyPositionType = global::xTaxi.Client.Droid.Resource.Styleable.KeyPosition_keyPositionType;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyPosition_motionTarget = global::xTaxi.Client.Droid.Resource.Styleable.KeyPosition_motionTarget;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyPosition_pathMotionArc = global::xTaxi.Client.Droid.Resource.Styleable.KeyPosition_pathMotionArc;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyPosition_percentHeight = global::xTaxi.Client.Droid.Resource.Styleable.KeyPosition_percentHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyPosition_percentWidth = global::xTaxi.Client.Droid.Resource.Styleable.KeyPosition_percentWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyPosition_percentX = global::xTaxi.Client.Droid.Resource.Styleable.KeyPosition_percentX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyPosition_percentY = global::xTaxi.Client.Droid.Resource.Styleable.KeyPosition_percentY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyPosition_sizePercent = global::xTaxi.Client.Droid.Resource.Styleable.KeyPosition_sizePercent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyPosition_transitionEasing = global::xTaxi.Client.Droid.Resource.Styleable.KeyPosition_transitionEasing;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_android_alpha = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_android_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_android_elevation = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_android_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_android_rotation = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_android_rotation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_android_rotationX = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_android_rotationX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_android_rotationY = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_android_rotationY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_android_scaleX = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_android_scaleX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_android_scaleY = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_android_scaleY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_android_translationX = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_android_translationX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_android_translationY = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_android_translationY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_android_translationZ = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_android_translationZ;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_curveFit = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_curveFit;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_framePosition = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_framePosition;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_motionProgress = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_motionProgress;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_motionTarget = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_motionTarget;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_transitionEasing = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_transitionEasing;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_transitionPathRotate = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_transitionPathRotate;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_waveDecay = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_waveDecay;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_waveOffset = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_waveOffset;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_wavePeriod = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_wavePeriod;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_wavePhase = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_wavePhase;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTimeCycle_waveShape = global::xTaxi.Client.Droid.Resource.Styleable.KeyTimeCycle_waveShape;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTrigger = global::xTaxi.Client.Droid.Resource.Styleable.KeyTrigger;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTrigger_framePosition = global::xTaxi.Client.Droid.Resource.Styleable.KeyTrigger_framePosition;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTrigger_motionTarget = global::xTaxi.Client.Droid.Resource.Styleable.KeyTrigger_motionTarget;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTrigger_motion_postLayoutCollision = global::xTaxi.Client.Droid.Resource.Styleable.KeyTrigger_motion_postLayoutCollision;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTrigger_motion_triggerOnCollision = global::xTaxi.Client.Droid.Resource.Styleable.KeyTrigger_motion_triggerOnCollision;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTrigger_onCross = global::xTaxi.Client.Droid.Resource.Styleable.KeyTrigger_onCross;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTrigger_onNegativeCross = global::xTaxi.Client.Droid.Resource.Styleable.KeyTrigger_onNegativeCross;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTrigger_onPositiveCross = global::xTaxi.Client.Droid.Resource.Styleable.KeyTrigger_onPositiveCross;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTrigger_triggerId = global::xTaxi.Client.Droid.Resource.Styleable.KeyTrigger_triggerId;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTrigger_triggerReceiver = global::xTaxi.Client.Droid.Resource.Styleable.KeyTrigger_triggerReceiver;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTrigger_triggerSlack = global::xTaxi.Client.Droid.Resource.Styleable.KeyTrigger_triggerSlack;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTrigger_viewTransitionOnCross = global::xTaxi.Client.Droid.Resource.Styleable.KeyTrigger_viewTransitionOnCross;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTrigger_viewTransitionOnNegativeCross = global::xTaxi.Client.Droid.Resource.Styleable.KeyTrigger_viewTransitionOnNegativeCross;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.KeyTrigger_viewTransitionOnPositiveCross = global::xTaxi.Client.Droid.Resource.Styleable.KeyTrigger_viewTransitionOnPositiveCross;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout = global::xTaxi.Client.Droid.Resource.Styleable.Layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_android_layout_height = global::xTaxi.Client.Droid.Resource.Styleable.Layout_android_layout_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_android_layout_marginBottom = global::xTaxi.Client.Droid.Resource.Styleable.Layout_android_layout_marginBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_android_layout_marginEnd = global::xTaxi.Client.Droid.Resource.Styleable.Layout_android_layout_marginEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_android_layout_marginLeft = global::xTaxi.Client.Droid.Resource.Styleable.Layout_android_layout_marginLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_android_layout_marginRight = global::xTaxi.Client.Droid.Resource.Styleable.Layout_android_layout_marginRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_android_layout_marginStart = global::xTaxi.Client.Droid.Resource.Styleable.Layout_android_layout_marginStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_android_layout_marginTop = global::xTaxi.Client.Droid.Resource.Styleable.Layout_android_layout_marginTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_android_layout_width = global::xTaxi.Client.Droid.Resource.Styleable.Layout_android_layout_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_android_orientation = global::xTaxi.Client.Droid.Resource.Styleable.Layout_android_orientation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_barrierAllowsGoneWidgets = global::xTaxi.Client.Droid.Resource.Styleable.Layout_barrierAllowsGoneWidgets;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_barrierDirection = global::xTaxi.Client.Droid.Resource.Styleable.Layout_barrierDirection;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_barrierMargin = global::xTaxi.Client.Droid.Resource.Styleable.Layout_barrierMargin;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_chainUseRtl = global::xTaxi.Client.Droid.Resource.Styleable.Layout_chainUseRtl;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_constraint_referenced_ids = global::xTaxi.Client.Droid.Resource.Styleable.Layout_constraint_referenced_ids;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_constraint_referenced_tags = global::xTaxi.Client.Droid.Resource.Styleable.Layout_constraint_referenced_tags;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constrainedHeight = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constrainedHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constrainedWidth = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constrainedWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintBaseline_creator = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintBaseline_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintBaseline_toBaselineOf = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintBaseline_toBaselineOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintBaseline_toBottomOf = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintBaseline_toBottomOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintBaseline_toTopOf = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintBaseline_toTopOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintBottom_creator = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintBottom_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintBottom_toBottomOf = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintBottom_toBottomOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintBottom_toTopOf = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintBottom_toTopOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintCircle = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintCircle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintCircleAngle = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintCircleAngle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintCircleRadius = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintCircleRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintDimensionRatio = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintDimensionRatio;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintEnd_toEndOf = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintEnd_toEndOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintEnd_toStartOf = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintEnd_toStartOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintGuide_begin = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintGuide_begin;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintGuide_end = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintGuide_end;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintGuide_percent = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintGuide_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintHeight = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintHeight_default = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintHeight_default;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintHeight_max = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintHeight_max;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintHeight_min = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintHeight_min;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintHeight_percent = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintHeight_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintHorizontal_bias = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintHorizontal_bias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintHorizontal_chainStyle = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintHorizontal_chainStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintHorizontal_weight = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintHorizontal_weight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintLeft_creator = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintLeft_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintLeft_toLeftOf = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintLeft_toLeftOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintLeft_toRightOf = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintLeft_toRightOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintRight_creator = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintRight_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintRight_toLeftOf = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintRight_toLeftOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintRight_toRightOf = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintRight_toRightOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintStart_toEndOf = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintStart_toEndOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintStart_toStartOf = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintStart_toStartOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintTop_creator = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintTop_creator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintTop_toBottomOf = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintTop_toBottomOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintTop_toTopOf = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintTop_toTopOf;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintVertical_bias = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintVertical_bias;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintVertical_chainStyle = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintVertical_chainStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintVertical_weight = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintVertical_weight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintWidth = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintWidth_default = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintWidth_default;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintWidth_max = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintWidth_max;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintWidth_min = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintWidth_min;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_constraintWidth_percent = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_constraintWidth_percent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_editor_absoluteX = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_editor_absoluteX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_editor_absoluteY = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_editor_absoluteY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_goneMarginBaseline = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_goneMarginBaseline;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_goneMarginBottom = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_goneMarginBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_goneMarginEnd = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_goneMarginEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_goneMarginLeft = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_goneMarginLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_goneMarginRight = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_goneMarginRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_goneMarginStart = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_goneMarginStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_goneMarginTop = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_goneMarginTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_marginBaseline = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_marginBaseline;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_layout_wrapBehaviorInParent = global::xTaxi.Client.Droid.Resource.Styleable.Layout_layout_wrapBehaviorInParent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_maxHeight = global::xTaxi.Client.Droid.Resource.Styleable.Layout_maxHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_maxWidth = global::xTaxi.Client.Droid.Resource.Styleable.Layout_maxWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_minHeight = global::xTaxi.Client.Droid.Resource.Styleable.Layout_minHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Layout_minWidth = global::xTaxi.Client.Droid.Resource.Styleable.Layout_minWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LinearLayoutCompat = global::xTaxi.Client.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::xTaxi.Client.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::xTaxi.Client.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::xTaxi.Client.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::xTaxi.Client.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::xTaxi.Client.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LinearLayoutCompat_divider = global::xTaxi.Client.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::xTaxi.Client.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::xTaxi.Client.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::xTaxi.Client.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::xTaxi.Client.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::xTaxi.Client.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::xTaxi.Client.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::xTaxi.Client.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::xTaxi.Client.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LinearProgressIndicator = global::xTaxi.Client.Droid.Resource.Styleable.LinearProgressIndicator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LinearProgressIndicator_indeterminateAnimationType = global::xTaxi.Client.Droid.Resource.Styleable.LinearProgressIndicator_indeterminateAnimationType;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LinearProgressIndicator_indicatorDirectionLinear = global::xTaxi.Client.Droid.Resource.Styleable.LinearProgressIndicator_indicatorDirectionLinear;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ListPopupWindow = global::xTaxi.Client.Droid.Resource.Styleable.ListPopupWindow;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::xTaxi.Client.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::xTaxi.Client.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LoadingImageView = global::xTaxi.Client.Droid.Resource.Styleable.LoadingImageView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LoadingImageView_circleCrop = global::xTaxi.Client.Droid.Resource.Styleable.LoadingImageView_circleCrop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LoadingImageView_imageAspectRatio = global::xTaxi.Client.Droid.Resource.Styleable.LoadingImageView_imageAspectRatio;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.LoadingImageView_imageAspectRatioAdjust = global::xTaxi.Client.Droid.Resource.Styleable.LoadingImageView_imageAspectRatioAdjust;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_ambientEnabled = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_ambientEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_cameraBearing = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_cameraBearing;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_cameraMaxZoomPreference = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_cameraMaxZoomPreference;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_cameraMinZoomPreference = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_cameraMinZoomPreference;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_cameraTargetLat = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_cameraTargetLat;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_cameraTargetLng = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_cameraTargetLng;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_cameraTilt = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_cameraTilt;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_cameraZoom = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_cameraZoom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_latLngBoundsNorthEastLatitude = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_latLngBoundsNorthEastLatitude;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_latLngBoundsNorthEastLongitude = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_latLngBoundsNorthEastLongitude;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_latLngBoundsSouthWestLatitude = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_latLngBoundsSouthWestLatitude;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_latLngBoundsSouthWestLongitude = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_latLngBoundsSouthWestLongitude;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_liteMode = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_liteMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_mapType = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_mapType;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_uiCompass = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_uiCompass;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_uiMapToolbar = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_uiMapToolbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_uiRotateGestures = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_uiRotateGestures;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_uiScrollGestures = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_uiScrollGestures;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_uiScrollGesturesDuringRotateOrZoom = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_uiScrollGesturesDuringRotateOrZoom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_uiTiltGestures = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_uiTiltGestures;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_uiZoomControls = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_uiZoomControls;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_uiZoomGestures = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_uiZoomGestures;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_useViewLifecycle = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_useViewLifecycle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MapAttrs_zOrderOnTop = global::xTaxi.Client.Droid.Resource.Styleable.MapAttrs_zOrderOnTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialAlertDialog = global::xTaxi.Client.Droid.Resource.Styleable.MaterialAlertDialog;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialAlertDialogTheme = global::xTaxi.Client.Droid.Resource.Styleable.MaterialAlertDialogTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle = global::xTaxi.Client.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTheme = global::xTaxi.Client.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle = global::xTaxi.Client.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle = global::xTaxi.Client.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle = global::xTaxi.Client.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialAlertDialog_backgroundInsetBottom = global::xTaxi.Client.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialAlertDialog_backgroundInsetEnd = global::xTaxi.Client.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialAlertDialog_backgroundInsetStart = global::xTaxi.Client.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialAlertDialog_backgroundInsetTop = global::xTaxi.Client.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialAutoCompleteTextView = global::xTaxi.Client.Droid.Resource.Styleable.MaterialAutoCompleteTextView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialAutoCompleteTextView_android_inputType = global::xTaxi.Client.Droid.Resource.Styleable.MaterialAutoCompleteTextView_android_inputType;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButtonToggleGroup = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButtonToggleGroup;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButtonToggleGroup_checkedButton = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButtonToggleGroup_checkedButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButtonToggleGroup_selectionRequired = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButtonToggleGroup_selectionRequired;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButtonToggleGroup_singleSelection = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButtonToggleGroup_singleSelection;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_android_background = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_android_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_android_checkable = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_android_checkable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_android_insetBottom = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_android_insetLeft = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_android_insetRight = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_android_insetRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_android_insetTop = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_android_insetTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_backgroundTint = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_backgroundTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_backgroundTintMode = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_cornerRadius = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_cornerRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_elevation = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_icon = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_iconGravity = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_iconGravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_iconPadding = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_iconPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_iconSize = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_iconSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_iconTint = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_iconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_iconTintMode = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_iconTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_rippleColor = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_rippleColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_shapeAppearance = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_shapeAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_shapeAppearanceOverlay = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_shapeAppearanceOverlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_strokeColor = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_strokeColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialButton_strokeWidth = global::xTaxi.Client.Droid.Resource.Styleable.MaterialButton_strokeWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendar = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendar;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendarItem = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendarItem;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendarItem_android_insetBottom = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendarItem_android_insetBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendarItem_android_insetLeft = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendarItem_android_insetLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendarItem_android_insetRight = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendarItem_android_insetRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendarItem_android_insetTop = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendarItem_android_insetTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendarItem_itemFillColor = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendarItem_itemFillColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendarItem_itemShapeAppearance = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendarItem_itemShapeAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendarItem_itemShapeAppearanceOverlay = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendarItem_itemShapeAppearanceOverlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendarItem_itemStrokeColor = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendarItem_itemStrokeColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendarItem_itemStrokeWidth = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendarItem_itemStrokeWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendarItem_itemTextColor = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendarItem_itemTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendar_android_windowFullscreen = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendar_android_windowFullscreen;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendar_dayInvalidStyle = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendar_dayInvalidStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendar_daySelectedStyle = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendar_daySelectedStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendar_dayStyle = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendar_dayStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendar_dayTodayStyle = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendar_dayTodayStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendar_nestedScrollable = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendar_nestedScrollable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendar_rangeFillColor = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendar_rangeFillColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendar_yearSelectedStyle = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendar_yearSelectedStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendar_yearStyle = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendar_yearStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCalendar_yearTodayStyle = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCalendar_yearTodayStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCardView = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCardView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCardView_android_checkable = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCardView_android_checkable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCardView_cardForegroundColor = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCardView_cardForegroundColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCardView_checkedIcon = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCardView_checkedIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCardView_checkedIconMargin = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCardView_checkedIconMargin;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCardView_checkedIconSize = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCardView_checkedIconSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCardView_checkedIconTint = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCardView_checkedIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCardView_rippleColor = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCardView_rippleColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCardView_shapeAppearance = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCardView_shapeAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCardView_shapeAppearanceOverlay = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCardView_shapeAppearanceOverlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCardView_state_dragged = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCardView_state_dragged;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCardView_strokeColor = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCardView_strokeColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCardView_strokeWidth = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCheckBox = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCheckBox;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCheckBox_buttonTint = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCheckBox_buttonTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialCheckBox_useMaterialThemeColors = global::xTaxi.Client.Droid.Resource.Styleable.MaterialCheckBox_useMaterialThemeColors;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialRadioButton = global::xTaxi.Client.Droid.Resource.Styleable.MaterialRadioButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialRadioButton_buttonTint = global::xTaxi.Client.Droid.Resource.Styleable.MaterialRadioButton_buttonTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialRadioButton_useMaterialThemeColors = global::xTaxi.Client.Droid.Resource.Styleable.MaterialRadioButton_useMaterialThemeColors;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialShape = global::xTaxi.Client.Droid.Resource.Styleable.MaterialShape;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialShape_shapeAppearance = global::xTaxi.Client.Droid.Resource.Styleable.MaterialShape_shapeAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialShape_shapeAppearanceOverlay = global::xTaxi.Client.Droid.Resource.Styleable.MaterialShape_shapeAppearanceOverlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialTextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.MaterialTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialTextAppearance_android_letterSpacing = global::xTaxi.Client.Droid.Resource.Styleable.MaterialTextAppearance_android_letterSpacing;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialTextAppearance_android_lineHeight = global::xTaxi.Client.Droid.Resource.Styleable.MaterialTextAppearance_android_lineHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialTextAppearance_lineHeight = global::xTaxi.Client.Droid.Resource.Styleable.MaterialTextAppearance_lineHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialTextView = global::xTaxi.Client.Droid.Resource.Styleable.MaterialTextView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialTextView_android_lineHeight = global::xTaxi.Client.Droid.Resource.Styleable.MaterialTextView_android_lineHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialTextView_android_textAppearance = global::xTaxi.Client.Droid.Resource.Styleable.MaterialTextView_android_textAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialTextView_lineHeight = global::xTaxi.Client.Droid.Resource.Styleable.MaterialTextView_lineHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialTimePicker = global::xTaxi.Client.Droid.Resource.Styleable.MaterialTimePicker;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialTimePicker_clockIcon = global::xTaxi.Client.Droid.Resource.Styleable.MaterialTimePicker_clockIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialTimePicker_keyboardIcon = global::xTaxi.Client.Droid.Resource.Styleable.MaterialTimePicker_keyboardIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialToolbar = global::xTaxi.Client.Droid.Resource.Styleable.MaterialToolbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialToolbar_navigationIconTint = global::xTaxi.Client.Droid.Resource.Styleable.MaterialToolbar_navigationIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialToolbar_subtitleCentered = global::xTaxi.Client.Droid.Resource.Styleable.MaterialToolbar_subtitleCentered;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MaterialToolbar_titleCentered = global::xTaxi.Client.Droid.Resource.Styleable.MaterialToolbar_titleCentered;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuGroup = global::xTaxi.Client.Droid.Resource.Styleable.MenuGroup;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::xTaxi.Client.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuGroup_android_enabled = global::xTaxi.Client.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuGroup_android_id = global::xTaxi.Client.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::xTaxi.Client.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::xTaxi.Client.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuGroup_android_visible = global::xTaxi.Client.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_actionLayout = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_actionProviderClass = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_actionViewClass = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_alphabeticModifiers = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_android_checkable = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_android_checked = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_android_enabled = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_android_icon = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_android_id = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_android_id;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_android_menuCategory = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_android_onClick = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_android_title = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_android_title;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_android_visible = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_contentDescription = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_iconTint = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_iconTintMode = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_numericModifiers = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_showAsAction = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuItem_tooltipText = global::xTaxi.Client.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuView = global::xTaxi.Client.Droid.Resource.Styleable.MenuView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuView_android_headerBackground = global::xTaxi.Client.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::xTaxi.Client.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuView_android_itemBackground = global::xTaxi.Client.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::xTaxi.Client.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuView_android_verticalDivider = global::xTaxi.Client.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::xTaxi.Client.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::xTaxi.Client.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MenuView_subMenuArrow = global::xTaxi.Client.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MockView = global::xTaxi.Client.Droid.Resource.Styleable.MockView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MockView_mock_diagonalsColor = global::xTaxi.Client.Droid.Resource.Styleable.MockView_mock_diagonalsColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MockView_mock_label = global::xTaxi.Client.Droid.Resource.Styleable.MockView_mock_label;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MockView_mock_labelBackgroundColor = global::xTaxi.Client.Droid.Resource.Styleable.MockView_mock_labelBackgroundColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MockView_mock_labelColor = global::xTaxi.Client.Droid.Resource.Styleable.MockView_mock_labelColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MockView_mock_showDiagonals = global::xTaxi.Client.Droid.Resource.Styleable.MockView_mock_showDiagonals;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MockView_mock_showLabel = global::xTaxi.Client.Droid.Resource.Styleable.MockView_mock_showLabel;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Motion = global::xTaxi.Client.Droid.Resource.Styleable.Motion;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionEffect = global::xTaxi.Client.Droid.Resource.Styleable.MotionEffect;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionEffect_motionEffect_alpha = global::xTaxi.Client.Droid.Resource.Styleable.MotionEffect_motionEffect_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionEffect_motionEffect_end = global::xTaxi.Client.Droid.Resource.Styleable.MotionEffect_motionEffect_end;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionEffect_motionEffect_move = global::xTaxi.Client.Droid.Resource.Styleable.MotionEffect_motionEffect_move;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionEffect_motionEffect_start = global::xTaxi.Client.Droid.Resource.Styleable.MotionEffect_motionEffect_start;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionEffect_motionEffect_strict = global::xTaxi.Client.Droid.Resource.Styleable.MotionEffect_motionEffect_strict;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionEffect_motionEffect_translationX = global::xTaxi.Client.Droid.Resource.Styleable.MotionEffect_motionEffect_translationX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionEffect_motionEffect_translationY = global::xTaxi.Client.Droid.Resource.Styleable.MotionEffect_motionEffect_translationY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionEffect_motionEffect_viewTransition = global::xTaxi.Client.Droid.Resource.Styleable.MotionEffect_motionEffect_viewTransition;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionHelper = global::xTaxi.Client.Droid.Resource.Styleable.MotionHelper;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionHelper_onHide = global::xTaxi.Client.Droid.Resource.Styleable.MotionHelper_onHide;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionHelper_onShow = global::xTaxi.Client.Droid.Resource.Styleable.MotionHelper_onShow;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_android_autoSizeTextType = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_android_autoSizeTextType;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_android_fontFamily = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_android_fontFamily;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_android_gravity = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_android_gravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_android_shadowRadius = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_android_shadowRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_android_text = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_android_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_android_textColor = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_android_textColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_android_textSize = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_android_textSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_android_textStyle = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_android_textStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_android_typeface = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_android_typeface;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_borderRound = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_borderRound;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_borderRoundPercent = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_borderRoundPercent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_scaleFromTextSize = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_scaleFromTextSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_textBackground = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_textBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_textBackgroundPanX = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_textBackgroundPanX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_textBackgroundPanY = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_textBackgroundPanY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_textBackgroundRotate = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_textBackgroundRotate;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_textBackgroundZoom = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_textBackgroundZoom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_textOutlineColor = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_textOutlineColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_textOutlineThickness = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_textOutlineThickness;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_textPanX = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_textPanX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_textPanY = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_textPanY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_textureBlurFactor = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_textureBlurFactor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_textureEffect = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_textureEffect;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_textureHeight = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_textureHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLabel_textureWidth = global::xTaxi.Client.Droid.Resource.Styleable.MotionLabel_textureWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLayout = global::xTaxi.Client.Droid.Resource.Styleable.MotionLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLayout_applyMotionScene = global::xTaxi.Client.Droid.Resource.Styleable.MotionLayout_applyMotionScene;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLayout_currentState = global::xTaxi.Client.Droid.Resource.Styleable.MotionLayout_currentState;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLayout_layoutDescription = global::xTaxi.Client.Droid.Resource.Styleable.MotionLayout_layoutDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLayout_motionDebug = global::xTaxi.Client.Droid.Resource.Styleable.MotionLayout_motionDebug;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLayout_motionProgress = global::xTaxi.Client.Droid.Resource.Styleable.MotionLayout_motionProgress;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionLayout_showPaths = global::xTaxi.Client.Droid.Resource.Styleable.MotionLayout_showPaths;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionScene = global::xTaxi.Client.Droid.Resource.Styleable.MotionScene;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionScene_defaultDuration = global::xTaxi.Client.Droid.Resource.Styleable.MotionScene_defaultDuration;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionScene_layoutDuringTransition = global::xTaxi.Client.Droid.Resource.Styleable.MotionScene_layoutDuringTransition;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionTelltales = global::xTaxi.Client.Droid.Resource.Styleable.MotionTelltales;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionTelltales_telltales_tailColor = global::xTaxi.Client.Droid.Resource.Styleable.MotionTelltales_telltales_tailColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionTelltales_telltales_tailScale = global::xTaxi.Client.Droid.Resource.Styleable.MotionTelltales_telltales_tailScale;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.MotionTelltales_telltales_velocityMode = global::xTaxi.Client.Droid.Resource.Styleable.MotionTelltales_telltales_velocityMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Motion_animateCircleAngleTo = global::xTaxi.Client.Droid.Resource.Styleable.Motion_animateCircleAngleTo;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Motion_animateRelativeTo = global::xTaxi.Client.Droid.Resource.Styleable.Motion_animateRelativeTo;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Motion_drawPath = global::xTaxi.Client.Droid.Resource.Styleable.Motion_drawPath;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Motion_motionPathRotate = global::xTaxi.Client.Droid.Resource.Styleable.Motion_motionPathRotate;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Motion_motionStagger = global::xTaxi.Client.Droid.Resource.Styleable.Motion_motionStagger;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Motion_pathMotionArc = global::xTaxi.Client.Droid.Resource.Styleable.Motion_pathMotionArc;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Motion_quantizeMotionInterpolator = global::xTaxi.Client.Droid.Resource.Styleable.Motion_quantizeMotionInterpolator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Motion_quantizeMotionPhase = global::xTaxi.Client.Droid.Resource.Styleable.Motion_quantizeMotionPhase;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Motion_quantizeMotionSteps = global::xTaxi.Client.Droid.Resource.Styleable.Motion_quantizeMotionSteps;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Motion_transitionEasing = global::xTaxi.Client.Droid.Resource.Styleable.Motion_transitionEasing;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavAction = global::xTaxi.Client.Droid.Resource.Styleable.NavAction;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavAction_android_id = global::xTaxi.Client.Droid.Resource.Styleable.NavAction_android_id;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavAction_destination = global::xTaxi.Client.Droid.Resource.Styleable.NavAction_destination;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavAction_enterAnim = global::xTaxi.Client.Droid.Resource.Styleable.NavAction_enterAnim;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavAction_exitAnim = global::xTaxi.Client.Droid.Resource.Styleable.NavAction_exitAnim;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavAction_launchSingleTop = global::xTaxi.Client.Droid.Resource.Styleable.NavAction_launchSingleTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavAction_popEnterAnim = global::xTaxi.Client.Droid.Resource.Styleable.NavAction_popEnterAnim;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavAction_popExitAnim = global::xTaxi.Client.Droid.Resource.Styleable.NavAction_popExitAnim;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavAction_popUpTo = global::xTaxi.Client.Droid.Resource.Styleable.NavAction_popUpTo;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavAction_popUpToInclusive = global::xTaxi.Client.Droid.Resource.Styleable.NavAction_popUpToInclusive;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavArgument = global::xTaxi.Client.Droid.Resource.Styleable.NavArgument;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavArgument_android_defaultValue = global::xTaxi.Client.Droid.Resource.Styleable.NavArgument_android_defaultValue;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavArgument_android_name = global::xTaxi.Client.Droid.Resource.Styleable.NavArgument_android_name;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavArgument_argType = global::xTaxi.Client.Droid.Resource.Styleable.NavArgument_argType;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavArgument_nullable = global::xTaxi.Client.Droid.Resource.Styleable.NavArgument_nullable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavDeepLink = global::xTaxi.Client.Droid.Resource.Styleable.NavDeepLink;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavDeepLink_action = global::xTaxi.Client.Droid.Resource.Styleable.NavDeepLink_action;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavDeepLink_android_autoVerify = global::xTaxi.Client.Droid.Resource.Styleable.NavDeepLink_android_autoVerify;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavDeepLink_mimeType = global::xTaxi.Client.Droid.Resource.Styleable.NavDeepLink_mimeType;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavDeepLink_uri = global::xTaxi.Client.Droid.Resource.Styleable.NavDeepLink_uri;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavGraphNavigator = global::xTaxi.Client.Droid.Resource.Styleable.NavGraphNavigator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavGraphNavigator_startDestination = global::xTaxi.Client.Droid.Resource.Styleable.NavGraphNavigator_startDestination;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavHost = global::xTaxi.Client.Droid.Resource.Styleable.NavHost;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavHost_navGraph = global::xTaxi.Client.Droid.Resource.Styleable.NavHost_navGraph;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationBarView = global::xTaxi.Client.Droid.Resource.Styleable.NavigationBarView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationBarView_backgroundTint = global::xTaxi.Client.Droid.Resource.Styleable.NavigationBarView_backgroundTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationBarView_elevation = global::xTaxi.Client.Droid.Resource.Styleable.NavigationBarView_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationBarView_itemBackground = global::xTaxi.Client.Droid.Resource.Styleable.NavigationBarView_itemBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationBarView_itemIconSize = global::xTaxi.Client.Droid.Resource.Styleable.NavigationBarView_itemIconSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationBarView_itemIconTint = global::xTaxi.Client.Droid.Resource.Styleable.NavigationBarView_itemIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationBarView_itemRippleColor = global::xTaxi.Client.Droid.Resource.Styleable.NavigationBarView_itemRippleColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationBarView_itemTextAppearanceActive = global::xTaxi.Client.Droid.Resource.Styleable.NavigationBarView_itemTextAppearanceActive;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationBarView_itemTextAppearanceInactive = global::xTaxi.Client.Droid.Resource.Styleable.NavigationBarView_itemTextAppearanceInactive;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationBarView_itemTextColor = global::xTaxi.Client.Droid.Resource.Styleable.NavigationBarView_itemTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationBarView_labelVisibilityMode = global::xTaxi.Client.Droid.Resource.Styleable.NavigationBarView_labelVisibilityMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationBarView_menu = global::xTaxi.Client.Droid.Resource.Styleable.NavigationBarView_menu;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationRailView = global::xTaxi.Client.Droid.Resource.Styleable.NavigationRailView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationRailView_headerLayout = global::xTaxi.Client.Droid.Resource.Styleable.NavigationRailView_headerLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationRailView_menuGravity = global::xTaxi.Client.Droid.Resource.Styleable.NavigationRailView_menuGravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_android_background = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_android_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_android_maxWidth = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_elevation = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_headerLayout = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_itemBackground = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_itemHorizontalPadding = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_itemIconPadding = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_itemIconPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_itemIconSize = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_itemIconSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_itemIconTint = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_itemMaxLines = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_itemMaxLines;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_itemShapeAppearance = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_itemShapeAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_itemShapeAppearanceOverlay = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_itemShapeAppearanceOverlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_itemShapeFillColor = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_itemShapeFillColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_itemShapeInsetBottom = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_itemShapeInsetBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_itemShapeInsetEnd = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_itemShapeInsetEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_itemShapeInsetStart = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_itemShapeInsetStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_itemShapeInsetTop = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_itemShapeInsetTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_itemTextColor = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_menu = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_menu;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_shapeAppearance = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_shapeAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavigationView_shapeAppearanceOverlay = global::xTaxi.Client.Droid.Resource.Styleable.NavigationView_shapeAppearanceOverlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Navigator = global::xTaxi.Client.Droid.Resource.Styleable.Navigator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Navigator_android_id = global::xTaxi.Client.Droid.Resource.Styleable.Navigator_android_id;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Navigator_android_label = global::xTaxi.Client.Droid.Resource.Styleable.Navigator_android_label;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavInclude = global::xTaxi.Client.Droid.Resource.Styleable.NavInclude;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.NavInclude_graph = global::xTaxi.Client.Droid.Resource.Styleable.NavInclude_graph;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnClick = global::xTaxi.Client.Droid.Resource.Styleable.OnClick;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnClick_clickAction = global::xTaxi.Client.Droid.Resource.Styleable.OnClick_clickAction;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnClick_targetId = global::xTaxi.Client.Droid.Resource.Styleable.OnClick_targetId;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe_autoCompleteMode = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe_autoCompleteMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe_dragDirection = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe_dragDirection;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe_dragScale = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe_dragScale;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe_dragThreshold = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe_dragThreshold;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe_limitBoundsTo = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe_limitBoundsTo;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe_maxAcceleration = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe_maxAcceleration;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe_maxVelocity = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe_maxVelocity;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe_moveWhenScrollAtTop = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe_moveWhenScrollAtTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe_nestedScrollFlags = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe_nestedScrollFlags;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe_onTouchUp = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe_onTouchUp;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe_rotationCenterId = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe_rotationCenterId;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe_springBoundary = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe_springBoundary;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe_springDamping = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe_springDamping;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe_springMass = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe_springMass;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe_springStiffness = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe_springStiffness;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe_springStopThreshold = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe_springStopThreshold;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe_touchAnchorId = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe_touchAnchorId;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe_touchAnchorSide = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe_touchAnchorSide;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.OnSwipe_touchRegionId = global::xTaxi.Client.Droid.Resource.Styleable.OnSwipe_touchRegionId;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.PopupWindow = global::xTaxi.Client.Droid.Resource.Styleable.PopupWindow;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.PopupWindowBackgroundState = global::xTaxi.Client.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::xTaxi.Client.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::xTaxi.Client.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::xTaxi.Client.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::xTaxi.Client.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.PropertySet = global::xTaxi.Client.Droid.Resource.Styleable.PropertySet;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.PropertySet_android_alpha = global::xTaxi.Client.Droid.Resource.Styleable.PropertySet_android_alpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.PropertySet_android_visibility = global::xTaxi.Client.Droid.Resource.Styleable.PropertySet_android_visibility;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.PropertySet_layout_constraintTag = global::xTaxi.Client.Droid.Resource.Styleable.PropertySet_layout_constraintTag;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.PropertySet_motionProgress = global::xTaxi.Client.Droid.Resource.Styleable.PropertySet_motionProgress;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.PropertySet_visibilityMode = global::xTaxi.Client.Droid.Resource.Styleable.PropertySet_visibilityMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RadialViewGroup = global::xTaxi.Client.Droid.Resource.Styleable.RadialViewGroup;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RadialViewGroup_materialCircleRadius = global::xTaxi.Client.Droid.Resource.Styleable.RadialViewGroup_materialCircleRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RangeSlider = global::xTaxi.Client.Droid.Resource.Styleable.RangeSlider;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RangeSlider_minSeparation = global::xTaxi.Client.Droid.Resource.Styleable.RangeSlider_minSeparation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RangeSlider_values = global::xTaxi.Client.Droid.Resource.Styleable.RangeSlider_values;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RecycleListView = global::xTaxi.Client.Droid.Resource.Styleable.RecycleListView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::xTaxi.Client.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::xTaxi.Client.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RecyclerView = global::xTaxi.Client.Droid.Resource.Styleable.RecyclerView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RecyclerView_android_clipToPadding = global::xTaxi.Client.Droid.Resource.Styleable.RecyclerView_android_clipToPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RecyclerView_android_descendantFocusability = global::xTaxi.Client.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RecyclerView_android_orientation = global::xTaxi.Client.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RecyclerView_fastScrollEnabled = global::xTaxi.Client.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::xTaxi.Client.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::xTaxi.Client.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::xTaxi.Client.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::xTaxi.Client.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RecyclerView_layoutManager = global::xTaxi.Client.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RecyclerView_reverseLayout = global::xTaxi.Client.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RecyclerView_spanCount = global::xTaxi.Client.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.RecyclerView_stackFromEnd = global::xTaxi.Client.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ScrimInsetsFrameLayout = global::xTaxi.Client.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::xTaxi.Client.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ScrollingViewBehavior_Layout = global::xTaxi.Client.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::xTaxi.Client.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ScrollViewRendererTheme = global::xTaxi.Client.Droid.Resource.Styleable.ScrollViewRendererTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ScrollViewRendererTheme_scrollViewStyle = global::xTaxi.Client.Droid.Resource.Styleable.ScrollViewRendererTheme_scrollViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SearchView = global::xTaxi.Client.Droid.Resource.Styleable.SearchView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SearchView_android_focusable = global::xTaxi.Client.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SearchView_android_imeOptions = global::xTaxi.Client.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SearchView_android_inputType = global::xTaxi.Client.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SearchView_android_maxWidth = global::xTaxi.Client.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SearchView_closeIcon = global::xTaxi.Client.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SearchView_commitIcon = global::xTaxi.Client.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SearchView_defaultQueryHint = global::xTaxi.Client.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SearchView_goIcon = global::xTaxi.Client.Droid.Resource.Styleable.SearchView_goIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::xTaxi.Client.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SearchView_layout = global::xTaxi.Client.Droid.Resource.Styleable.SearchView_layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SearchView_queryBackground = global::xTaxi.Client.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SearchView_queryHint = global::xTaxi.Client.Droid.Resource.Styleable.SearchView_queryHint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SearchView_searchHintIcon = global::xTaxi.Client.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SearchView_searchIcon = global::xTaxi.Client.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SearchView_submitBackground = global::xTaxi.Client.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::xTaxi.Client.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SearchView_voiceIcon = global::xTaxi.Client.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeableImageView = global::xTaxi.Client.Droid.Resource.Styleable.ShapeableImageView;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeableImageView_contentPadding = global::xTaxi.Client.Droid.Resource.Styleable.ShapeableImageView_contentPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeableImageView_contentPaddingBottom = global::xTaxi.Client.Droid.Resource.Styleable.ShapeableImageView_contentPaddingBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeableImageView_contentPaddingEnd = global::xTaxi.Client.Droid.Resource.Styleable.ShapeableImageView_contentPaddingEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeableImageView_contentPaddingLeft = global::xTaxi.Client.Droid.Resource.Styleable.ShapeableImageView_contentPaddingLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeableImageView_contentPaddingRight = global::xTaxi.Client.Droid.Resource.Styleable.ShapeableImageView_contentPaddingRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeableImageView_contentPaddingStart = global::xTaxi.Client.Droid.Resource.Styleable.ShapeableImageView_contentPaddingStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeableImageView_contentPaddingTop = global::xTaxi.Client.Droid.Resource.Styleable.ShapeableImageView_contentPaddingTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeableImageView_shapeAppearance = global::xTaxi.Client.Droid.Resource.Styleable.ShapeableImageView_shapeAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeableImageView_shapeAppearanceOverlay = global::xTaxi.Client.Droid.Resource.Styleable.ShapeableImageView_shapeAppearanceOverlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeableImageView_strokeColor = global::xTaxi.Client.Droid.Resource.Styleable.ShapeableImageView_strokeColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeableImageView_strokeWidth = global::xTaxi.Client.Droid.Resource.Styleable.ShapeableImageView_strokeWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeAppearance = global::xTaxi.Client.Droid.Resource.Styleable.ShapeAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeAppearance_cornerFamily = global::xTaxi.Client.Droid.Resource.Styleable.ShapeAppearance_cornerFamily;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeAppearance_cornerFamilyBottomLeft = global::xTaxi.Client.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyBottomLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeAppearance_cornerFamilyBottomRight = global::xTaxi.Client.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyBottomRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeAppearance_cornerFamilyTopLeft = global::xTaxi.Client.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyTopLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeAppearance_cornerFamilyTopRight = global::xTaxi.Client.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyTopRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeAppearance_cornerSize = global::xTaxi.Client.Droid.Resource.Styleable.ShapeAppearance_cornerSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeAppearance_cornerSizeBottomLeft = global::xTaxi.Client.Droid.Resource.Styleable.ShapeAppearance_cornerSizeBottomLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeAppearance_cornerSizeBottomRight = global::xTaxi.Client.Droid.Resource.Styleable.ShapeAppearance_cornerSizeBottomRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeAppearance_cornerSizeTopLeft = global::xTaxi.Client.Droid.Resource.Styleable.ShapeAppearance_cornerSizeTopLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ShapeAppearance_cornerSizeTopRight = global::xTaxi.Client.Droid.Resource.Styleable.ShapeAppearance_cornerSizeTopRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SignInButton = global::xTaxi.Client.Droid.Resource.Styleable.SignInButton;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SignInButton_buttonSize = global::xTaxi.Client.Droid.Resource.Styleable.SignInButton_buttonSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SignInButton_colorScheme = global::xTaxi.Client.Droid.Resource.Styleable.SignInButton_colorScheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SignInButton_scopeUris = global::xTaxi.Client.Droid.Resource.Styleable.SignInButton_scopeUris;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider = global::xTaxi.Client.Droid.Resource.Styleable.Slider;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_android_enabled = global::xTaxi.Client.Droid.Resource.Styleable.Slider_android_enabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_android_stepSize = global::xTaxi.Client.Droid.Resource.Styleable.Slider_android_stepSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_android_value = global::xTaxi.Client.Droid.Resource.Styleable.Slider_android_value;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_android_valueFrom = global::xTaxi.Client.Droid.Resource.Styleable.Slider_android_valueFrom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_android_valueTo = global::xTaxi.Client.Droid.Resource.Styleable.Slider_android_valueTo;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_haloColor = global::xTaxi.Client.Droid.Resource.Styleable.Slider_haloColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_haloRadius = global::xTaxi.Client.Droid.Resource.Styleable.Slider_haloRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_labelBehavior = global::xTaxi.Client.Droid.Resource.Styleable.Slider_labelBehavior;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_labelStyle = global::xTaxi.Client.Droid.Resource.Styleable.Slider_labelStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_thumbColor = global::xTaxi.Client.Droid.Resource.Styleable.Slider_thumbColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_thumbElevation = global::xTaxi.Client.Droid.Resource.Styleable.Slider_thumbElevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_thumbRadius = global::xTaxi.Client.Droid.Resource.Styleable.Slider_thumbRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_thumbStrokeColor = global::xTaxi.Client.Droid.Resource.Styleable.Slider_thumbStrokeColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_thumbStrokeWidth = global::xTaxi.Client.Droid.Resource.Styleable.Slider_thumbStrokeWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_tickColor = global::xTaxi.Client.Droid.Resource.Styleable.Slider_tickColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_tickColorActive = global::xTaxi.Client.Droid.Resource.Styleable.Slider_tickColorActive;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_tickColorInactive = global::xTaxi.Client.Droid.Resource.Styleable.Slider_tickColorInactive;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_tickVisible = global::xTaxi.Client.Droid.Resource.Styleable.Slider_tickVisible;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_trackColor = global::xTaxi.Client.Droid.Resource.Styleable.Slider_trackColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_trackColorActive = global::xTaxi.Client.Droid.Resource.Styleable.Slider_trackColorActive;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_trackColorInactive = global::xTaxi.Client.Droid.Resource.Styleable.Slider_trackColorInactive;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Slider_trackHeight = global::xTaxi.Client.Droid.Resource.Styleable.Slider_trackHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Snackbar = global::xTaxi.Client.Droid.Resource.Styleable.Snackbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SnackbarLayout = global::xTaxi.Client.Droid.Resource.Styleable.SnackbarLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SnackbarLayout_actionTextColorAlpha = global::xTaxi.Client.Droid.Resource.Styleable.SnackbarLayout_actionTextColorAlpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::xTaxi.Client.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SnackbarLayout_animationMode = global::xTaxi.Client.Droid.Resource.Styleable.SnackbarLayout_animationMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SnackbarLayout_backgroundOverlayColorAlpha = global::xTaxi.Client.Droid.Resource.Styleable.SnackbarLayout_backgroundOverlayColorAlpha;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SnackbarLayout_backgroundTint = global::xTaxi.Client.Droid.Resource.Styleable.SnackbarLayout_backgroundTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SnackbarLayout_backgroundTintMode = global::xTaxi.Client.Droid.Resource.Styleable.SnackbarLayout_backgroundTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SnackbarLayout_elevation = global::xTaxi.Client.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::xTaxi.Client.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Snackbar_snackbarButtonStyle = global::xTaxi.Client.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Snackbar_snackbarStyle = global::xTaxi.Client.Droid.Resource.Styleable.Snackbar_snackbarStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Snackbar_snackbarTextViewStyle = global::xTaxi.Client.Droid.Resource.Styleable.Snackbar_snackbarTextViewStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Spinner = global::xTaxi.Client.Droid.Resource.Styleable.Spinner;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::xTaxi.Client.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Spinner_android_entries = global::xTaxi.Client.Droid.Resource.Styleable.Spinner_android_entries;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Spinner_android_popupBackground = global::xTaxi.Client.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Spinner_android_prompt = global::xTaxi.Client.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Spinner_popupTheme = global::xTaxi.Client.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.State = global::xTaxi.Client.Droid.Resource.Styleable.State;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.StateListDrawable = global::xTaxi.Client.Droid.Resource.Styleable.StateListDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.StateListDrawableItem = global::xTaxi.Client.Droid.Resource.Styleable.StateListDrawableItem;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.StateListDrawableItem_android_drawable = global::xTaxi.Client.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.StateListDrawable_android_constantSize = global::xTaxi.Client.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.StateListDrawable_android_dither = global::xTaxi.Client.Droid.Resource.Styleable.StateListDrawable_android_dither;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::xTaxi.Client.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::xTaxi.Client.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.StateListDrawable_android_variablePadding = global::xTaxi.Client.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.StateListDrawable_android_visible = global::xTaxi.Client.Droid.Resource.Styleable.StateListDrawable_android_visible;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.StateSet = global::xTaxi.Client.Droid.Resource.Styleable.StateSet;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.StateSet_defaultState = global::xTaxi.Client.Droid.Resource.Styleable.StateSet_defaultState;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.State_android_id = global::xTaxi.Client.Droid.Resource.Styleable.State_android_id;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.State_constraints = global::xTaxi.Client.Droid.Resource.Styleable.State_constraints;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SwipeRefreshLayout = global::xTaxi.Client.Droid.Resource.Styleable.SwipeRefreshLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SwipeRefreshLayout_swipeRefreshLayoutProgressSpinnerBackgroundColor = global::xTaxi.Client.Droid.Resource.Styleable.SwipeRefreshLayout_swipeRefreshLayoutProgressSpinnerBackgroundColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SwitchCompat = global::xTaxi.Client.Droid.Resource.Styleable.SwitchCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SwitchCompat_android_textOff = global::xTaxi.Client.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SwitchCompat_android_textOn = global::xTaxi.Client.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SwitchCompat_android_thumb = global::xTaxi.Client.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SwitchCompat_showText = global::xTaxi.Client.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SwitchCompat_splitTrack = global::xTaxi.Client.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::xTaxi.Client.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SwitchCompat_switchPadding = global::xTaxi.Client.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::xTaxi.Client.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SwitchCompat_thumbTint = global::xTaxi.Client.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SwitchCompat_thumbTintMode = global::xTaxi.Client.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SwitchCompat_track = global::xTaxi.Client.Droid.Resource.Styleable.SwitchCompat_track;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SwitchCompat_trackTint = global::xTaxi.Client.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SwitchCompat_trackTintMode = global::xTaxi.Client.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SwitchMaterial = global::xTaxi.Client.Droid.Resource.Styleable.SwitchMaterial;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.SwitchMaterial_useMaterialThemeColors = global::xTaxi.Client.Droid.Resource.Styleable.SwitchMaterial_useMaterialThemeColors;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabItem = global::xTaxi.Client.Droid.Resource.Styleable.TabItem;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabItem_android_icon = global::xTaxi.Client.Droid.Resource.Styleable.TabItem_android_icon;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabItem_android_layout = global::xTaxi.Client.Droid.Resource.Styleable.TabItem_android_layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabItem_android_text = global::xTaxi.Client.Droid.Resource.Styleable.TabItem_android_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabBackground = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabContentStart = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabGravity = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabIconTint = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabIconTintMode = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabIndicator = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabIndicator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabIndicatorAnimationMode = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabIndicatorGravity = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabInlineLabel = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabMinWidth = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabMode = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabPadding = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabPaddingBottom = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabRippleColor = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabRippleColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabTextColor = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TabLayout_tabUnboundedRipple = global::xTaxi.Client.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.TextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextAppearance_android_fontFamily = global::xTaxi.Client.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::xTaxi.Client.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::xTaxi.Client.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::xTaxi.Client.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::xTaxi.Client.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextAppearance_android_textColor = global::xTaxi.Client.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextAppearance_android_textColorHint = global::xTaxi.Client.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextAppearance_android_textColorLink = global::xTaxi.Client.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextAppearance_android_textFontWeight = global::xTaxi.Client.Droid.Resource.Styleable.TextAppearance_android_textFontWeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextAppearance_android_textSize = global::xTaxi.Client.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextAppearance_android_textStyle = global::xTaxi.Client.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextAppearance_android_typeface = global::xTaxi.Client.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextAppearance_fontFamily = global::xTaxi.Client.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextAppearance_fontVariationSettings = global::xTaxi.Client.Droid.Resource.Styleable.TextAppearance_fontVariationSettings;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextAppearance_textAllCaps = global::xTaxi.Client.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextAppearance_textLocale = global::xTaxi.Client.Droid.Resource.Styleable.TextAppearance_textLocale;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextEffects = global::xTaxi.Client.Droid.Resource.Styleable.TextEffects;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextEffects_android_fontFamily = global::xTaxi.Client.Droid.Resource.Styleable.TextEffects_android_fontFamily;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextEffects_android_shadowColor = global::xTaxi.Client.Droid.Resource.Styleable.TextEffects_android_shadowColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextEffects_android_shadowDx = global::xTaxi.Client.Droid.Resource.Styleable.TextEffects_android_shadowDx;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextEffects_android_shadowDy = global::xTaxi.Client.Droid.Resource.Styleable.TextEffects_android_shadowDy;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextEffects_android_shadowRadius = global::xTaxi.Client.Droid.Resource.Styleable.TextEffects_android_shadowRadius;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextEffects_android_text = global::xTaxi.Client.Droid.Resource.Styleable.TextEffects_android_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextEffects_android_textSize = global::xTaxi.Client.Droid.Resource.Styleable.TextEffects_android_textSize;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextEffects_android_textStyle = global::xTaxi.Client.Droid.Resource.Styleable.TextEffects_android_textStyle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextEffects_android_typeface = global::xTaxi.Client.Droid.Resource.Styleable.TextEffects_android_typeface;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextEffects_borderRound = global::xTaxi.Client.Droid.Resource.Styleable.TextEffects_borderRound;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextEffects_borderRoundPercent = global::xTaxi.Client.Droid.Resource.Styleable.TextEffects_borderRoundPercent;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextEffects_textFillColor = global::xTaxi.Client.Droid.Resource.Styleable.TextEffects_textFillColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextEffects_textOutlineColor = global::xTaxi.Client.Droid.Resource.Styleable.TextEffects_textOutlineColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextEffects_textOutlineThickness = global::xTaxi.Client.Droid.Resource.Styleable.TextEffects_textOutlineThickness;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputEditText = global::xTaxi.Client.Droid.Resource.Styleable.TextInputEditText;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputEditText_textInputLayoutFocusedRectEnabled = global::xTaxi.Client.Droid.Resource.Styleable.TextInputEditText_textInputLayoutFocusedRectEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_android_enabled = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_android_enabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_android_hint = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_android_maxWidth = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_android_maxWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_android_minWidth = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_android_minWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_boxStrokeColor = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_boxStrokeErrorColor = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_boxStrokeErrorColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_boxStrokeWidthFocused = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidthFocused;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_counterOverflowTextColor = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_counterTextColor = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_counterTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_endIconCheckable = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_endIconCheckable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_endIconContentDescription = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_endIconContentDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_endIconDrawable = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_endIconDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_endIconMode = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_endIconMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_endIconTint = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_endIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_endIconTintMode = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_endIconTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_errorContentDescription = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_errorContentDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_errorIconDrawable = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_errorIconDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_errorIconTint = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_errorIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_errorIconTintMode = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_errorIconTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_errorTextColor = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_errorTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_expandedHintEnabled = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_expandedHintEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_helperText = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_helperText;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_helperTextEnabled = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_helperTextTextColor = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_helperTextTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_hintTextColor = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_hintTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_passwordToggleTint = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_placeholderText = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_placeholderText;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_placeholderTextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_placeholderTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_placeholderTextColor = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_placeholderTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_prefixText = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_prefixText;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_prefixTextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_prefixTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_prefixTextColor = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_prefixTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_shapeAppearance = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_shapeAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_shapeAppearanceOverlay = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_shapeAppearanceOverlay;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_startIconCheckable = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_startIconCheckable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_startIconContentDescription = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_startIconContentDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_startIconDrawable = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_startIconDrawable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_startIconTint = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_startIconTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_startIconTintMode = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_startIconTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_suffixText = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_suffixText;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_suffixTextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_suffixTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.TextInputLayout_suffixTextColor = global::xTaxi.Client.Droid.Resource.Styleable.TextInputLayout_suffixTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ThemeEnforcement = global::xTaxi.Client.Droid.Resource.Styleable.ThemeEnforcement;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::xTaxi.Client.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::xTaxi.Client.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_android_gravity = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_android_minHeight = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_buttonGravity = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_collapseIcon = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_contentInsetRight = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_contentInsetStart = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_logo = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_logo;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_logoDescription = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_menu = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_menu;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_navigationIcon = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_popupTheme = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_subtitle = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_title = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_title;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_titleMargin = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_titleMargins = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_titleMarginStart = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_titleMarginTop = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Toolbar_titleTextColor = global::xTaxi.Client.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Tooltip = global::xTaxi.Client.Droid.Resource.Styleable.Tooltip;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Tooltip_android_layout_margin = global::xTaxi.Client.Droid.Resource.Styleable.Tooltip_android_layout_margin;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Tooltip_android_minHeight = global::xTaxi.Client.Droid.Resource.Styleable.Tooltip_android_minHeight;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Tooltip_android_minWidth = global::xTaxi.Client.Droid.Resource.Styleable.Tooltip_android_minWidth;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Tooltip_android_padding = global::xTaxi.Client.Droid.Resource.Styleable.Tooltip_android_padding;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Tooltip_android_text = global::xTaxi.Client.Droid.Resource.Styleable.Tooltip_android_text;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Tooltip_android_textAppearance = global::xTaxi.Client.Droid.Resource.Styleable.Tooltip_android_textAppearance;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Tooltip_backgroundTint = global::xTaxi.Client.Droid.Resource.Styleable.Tooltip_backgroundTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transform = global::xTaxi.Client.Droid.Resource.Styleable.Transform;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transform_android_elevation = global::xTaxi.Client.Droid.Resource.Styleable.Transform_android_elevation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transform_android_rotation = global::xTaxi.Client.Droid.Resource.Styleable.Transform_android_rotation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transform_android_rotationX = global::xTaxi.Client.Droid.Resource.Styleable.Transform_android_rotationX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transform_android_rotationY = global::xTaxi.Client.Droid.Resource.Styleable.Transform_android_rotationY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transform_android_scaleX = global::xTaxi.Client.Droid.Resource.Styleable.Transform_android_scaleX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transform_android_scaleY = global::xTaxi.Client.Droid.Resource.Styleable.Transform_android_scaleY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transform_android_transformPivotX = global::xTaxi.Client.Droid.Resource.Styleable.Transform_android_transformPivotX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transform_android_transformPivotY = global::xTaxi.Client.Droid.Resource.Styleable.Transform_android_transformPivotY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transform_android_translationX = global::xTaxi.Client.Droid.Resource.Styleable.Transform_android_translationX;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transform_android_translationY = global::xTaxi.Client.Droid.Resource.Styleable.Transform_android_translationY;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transform_android_translationZ = global::xTaxi.Client.Droid.Resource.Styleable.Transform_android_translationZ;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transform_transformPivotTarget = global::xTaxi.Client.Droid.Resource.Styleable.Transform_transformPivotTarget;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transition = global::xTaxi.Client.Droid.Resource.Styleable.Transition;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transition_android_id = global::xTaxi.Client.Droid.Resource.Styleable.Transition_android_id;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transition_autoTransition = global::xTaxi.Client.Droid.Resource.Styleable.Transition_autoTransition;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transition_constraintSetEnd = global::xTaxi.Client.Droid.Resource.Styleable.Transition_constraintSetEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transition_constraintSetStart = global::xTaxi.Client.Droid.Resource.Styleable.Transition_constraintSetStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transition_duration = global::xTaxi.Client.Droid.Resource.Styleable.Transition_duration;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transition_layoutDuringTransition = global::xTaxi.Client.Droid.Resource.Styleable.Transition_layoutDuringTransition;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transition_motionInterpolator = global::xTaxi.Client.Droid.Resource.Styleable.Transition_motionInterpolator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transition_pathMotionArc = global::xTaxi.Client.Droid.Resource.Styleable.Transition_pathMotionArc;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transition_staggered = global::xTaxi.Client.Droid.Resource.Styleable.Transition_staggered;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transition_transitionDisable = global::xTaxi.Client.Droid.Resource.Styleable.Transition_transitionDisable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Transition_transitionFlags = global::xTaxi.Client.Droid.Resource.Styleable.Transition_transitionFlags;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Variant = global::xTaxi.Client.Droid.Resource.Styleable.Variant;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Variant_constraints = global::xTaxi.Client.Droid.Resource.Styleable.Variant_constraints;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Variant_region_heightLessThan = global::xTaxi.Client.Droid.Resource.Styleable.Variant_region_heightLessThan;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Variant_region_heightMoreThan = global::xTaxi.Client.Droid.Resource.Styleable.Variant_region_heightMoreThan;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Variant_region_widthLessThan = global::xTaxi.Client.Droid.Resource.Styleable.Variant_region_widthLessThan;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.Variant_region_widthMoreThan = global::xTaxi.Client.Droid.Resource.Styleable.Variant_region_widthMoreThan;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.View = global::xTaxi.Client.Droid.Resource.Styleable.View;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewBackgroundHelper = global::xTaxi.Client.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::xTaxi.Client.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::xTaxi.Client.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::xTaxi.Client.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewPager2 = global::xTaxi.Client.Droid.Resource.Styleable.ViewPager2;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewPager2_android_orientation = global::xTaxi.Client.Droid.Resource.Styleable.ViewPager2_android_orientation;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewStubCompat = global::xTaxi.Client.Droid.Resource.Styleable.ViewStubCompat;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewStubCompat_android_id = global::xTaxi.Client.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::xTaxi.Client.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewStubCompat_android_layout = global::xTaxi.Client.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewTransition = global::xTaxi.Client.Droid.Resource.Styleable.ViewTransition;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewTransition_android_id = global::xTaxi.Client.Droid.Resource.Styleable.ViewTransition_android_id;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewTransition_clearsTag = global::xTaxi.Client.Droid.Resource.Styleable.ViewTransition_clearsTag;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewTransition_duration = global::xTaxi.Client.Droid.Resource.Styleable.ViewTransition_duration;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewTransition_ifTagNotSet = global::xTaxi.Client.Droid.Resource.Styleable.ViewTransition_ifTagNotSet;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewTransition_ifTagSet = global::xTaxi.Client.Droid.Resource.Styleable.ViewTransition_ifTagSet;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewTransition_motionInterpolator = global::xTaxi.Client.Droid.Resource.Styleable.ViewTransition_motionInterpolator;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewTransition_motionTarget = global::xTaxi.Client.Droid.Resource.Styleable.ViewTransition_motionTarget;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewTransition_onStateTransition = global::xTaxi.Client.Droid.Resource.Styleable.ViewTransition_onStateTransition;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewTransition_pathMotionArc = global::xTaxi.Client.Droid.Resource.Styleable.ViewTransition_pathMotionArc;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewTransition_setsTag = global::xTaxi.Client.Droid.Resource.Styleable.ViewTransition_setsTag;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewTransition_SharedValue = global::xTaxi.Client.Droid.Resource.Styleable.ViewTransition_SharedValue;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewTransition_SharedValueId = global::xTaxi.Client.Droid.Resource.Styleable.ViewTransition_SharedValueId;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewTransition_transitionDisable = global::xTaxi.Client.Droid.Resource.Styleable.ViewTransition_transitionDisable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewTransition_upDuration = global::xTaxi.Client.Droid.Resource.Styleable.ViewTransition_upDuration;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.ViewTransition_viewTransitionMode = global::xTaxi.Client.Droid.Resource.Styleable.ViewTransition_viewTransitionMode;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.View_android_focusable = global::xTaxi.Client.Droid.Resource.Styleable.View_android_focusable;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.View_android_theme = global::xTaxi.Client.Droid.Resource.Styleable.View_android_theme;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.View_paddingEnd = global::xTaxi.Client.Droid.Resource.Styleable.View_paddingEnd;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.View_paddingStart = global::xTaxi.Client.Droid.Resource.Styleable.View_paddingStart;
+			global::Xamarin.Forms.Maps.Android.Resource.Styleable.View_theme = global::xTaxi.Client.Droid.Resource.Styleable.View_theme;
+			global::Xamarin.Forms.Maps.Android.Resource.Xml.standalone_badge = global::xTaxi.Client.Droid.Resource.Xml.standalone_badge;
+			global::Xamarin.Forms.Maps.Android.Resource.Xml.standalone_badge_gravity_bottom_end = global::xTaxi.Client.Droid.Resource.Xml.standalone_badge_gravity_bottom_end;
+			global::Xamarin.Forms.Maps.Android.Resource.Xml.standalone_badge_gravity_bottom_start = global::xTaxi.Client.Droid.Resource.Xml.standalone_badge_gravity_bottom_start;
+			global::Xamarin.Forms.Maps.Android.Resource.Xml.standalone_badge_gravity_top_start = global::xTaxi.Client.Droid.Resource.Xml.standalone_badge_gravity_top_start;
+			global::Xamarin.Forms.Maps.Android.Resource.Xml.standalone_badge_offset = global::xTaxi.Client.Droid.Resource.Xml.standalone_badge_offset;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_in = global::xTaxi.Client.Droid.Resource.Animation.abc_fade_in;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_out = global::xTaxi.Client.Droid.Resource.Animation.abc_fade_out;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::xTaxi.Client.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
@@ -17109,127 +22742,130 @@ namespace xTaxi.Client.Droid
 			public const int uiScrollGestures = 2130904129;
 			
 			// aapt resource value: 0x7F030442
-			public const int uiTiltGestures = 2130904130;
+			public const int uiScrollGesturesDuringRotateOrZoom = 2130904130;
 			
 			// aapt resource value: 0x7F030443
-			public const int uiZoomControls = 2130904131;
+			public const int uiTiltGestures = 2130904131;
 			
 			// aapt resource value: 0x7F030444
-			public const int uiZoomGestures = 2130904132;
-			
-			// aapt resource value: 0x7F030446
-			public const int updatesContinuously = 2130904134;
+			public const int uiZoomControls = 2130904132;
 			
 			// aapt resource value: 0x7F030445
-			public const int upDuration = 2130904133;
+			public const int uiZoomGestures = 2130904133;
 			
 			// aapt resource value: 0x7F030447
-			public const int uri = 2130904135;
+			public const int updatesContinuously = 2130904135;
+			
+			// aapt resource value: 0x7F030446
+			public const int upDuration = 2130904134;
 			
 			// aapt resource value: 0x7F030448
-			public const int useCompatPadding = 2130904136;
+			public const int uri = 2130904136;
 			
 			// aapt resource value: 0x7F030449
-			public const int useMaterialThemeColors = 2130904137;
+			public const int useCompatPadding = 2130904137;
 			
 			// aapt resource value: 0x7F03044A
-			public const int useSimpleSummaryProvider = 2130904138;
+			public const int useMaterialThemeColors = 2130904138;
 			
 			// aapt resource value: 0x7F03044B
-			public const int useViewLifecycle = 2130904139;
+			public const int useSimpleSummaryProvider = 2130904139;
 			
 			// aapt resource value: 0x7F03044C
-			public const int values = 2130904140;
+			public const int useViewLifecycle = 2130904140;
 			
 			// aapt resource value: 0x7F03044D
-			public const int verticalOffset = 2130904141;
+			public const int values = 2130904141;
 			
 			// aapt resource value: 0x7F03044E
-			public const int viewInflaterClass = 2130904142;
+			public const int verticalOffset = 2130904142;
 			
 			// aapt resource value: 0x7F03044F
-			public const int viewTransitionMode = 2130904143;
+			public const int viewInflaterClass = 2130904143;
 			
 			// aapt resource value: 0x7F030450
-			public const int viewTransitionOnCross = 2130904144;
+			public const int viewTransitionMode = 2130904144;
 			
 			// aapt resource value: 0x7F030451
-			public const int viewTransitionOnNegativeCross = 2130904145;
+			public const int viewTransitionOnCross = 2130904145;
 			
 			// aapt resource value: 0x7F030452
-			public const int viewTransitionOnPositiveCross = 2130904146;
+			public const int viewTransitionOnNegativeCross = 2130904146;
 			
 			// aapt resource value: 0x7F030453
-			public const int visibilityMode = 2130904147;
+			public const int viewTransitionOnPositiveCross = 2130904147;
 			
 			// aapt resource value: 0x7F030454
-			public const int voiceIcon = 2130904148;
+			public const int visibilityMode = 2130904148;
 			
 			// aapt resource value: 0x7F030455
-			public const int warmth = 2130904149;
+			public const int voiceIcon = 2130904149;
 			
 			// aapt resource value: 0x7F030456
-			public const int waveDecay = 2130904150;
+			public const int warmth = 2130904150;
 			
 			// aapt resource value: 0x7F030457
-			public const int waveOffset = 2130904151;
+			public const int waveDecay = 2130904151;
 			
 			// aapt resource value: 0x7F030458
-			public const int wavePeriod = 2130904152;
+			public const int waveOffset = 2130904152;
 			
 			// aapt resource value: 0x7F030459
-			public const int wavePhase = 2130904153;
+			public const int wavePeriod = 2130904153;
 			
 			// aapt resource value: 0x7F03045A
-			public const int waveShape = 2130904154;
+			public const int wavePhase = 2130904154;
 			
 			// aapt resource value: 0x7F03045B
-			public const int waveVariesBy = 2130904155;
+			public const int waveShape = 2130904155;
 			
 			// aapt resource value: 0x7F03045C
-			public const int widgetLayout = 2130904156;
+			public const int waveVariesBy = 2130904156;
 			
 			// aapt resource value: 0x7F03045D
-			public const int windowActionBar = 2130904157;
+			public const int widgetLayout = 2130904157;
 			
 			// aapt resource value: 0x7F03045E
-			public const int windowActionBarOverlay = 2130904158;
+			public const int windowActionBar = 2130904158;
 			
 			// aapt resource value: 0x7F03045F
-			public const int windowActionModeOverlay = 2130904159;
+			public const int windowActionBarOverlay = 2130904159;
 			
 			// aapt resource value: 0x7F030460
-			public const int windowFixedHeightMajor = 2130904160;
+			public const int windowActionModeOverlay = 2130904160;
 			
 			// aapt resource value: 0x7F030461
-			public const int windowFixedHeightMinor = 2130904161;
+			public const int windowFixedHeightMajor = 2130904161;
 			
 			// aapt resource value: 0x7F030462
-			public const int windowFixedWidthMajor = 2130904162;
+			public const int windowFixedHeightMinor = 2130904162;
 			
 			// aapt resource value: 0x7F030463
-			public const int windowFixedWidthMinor = 2130904163;
+			public const int windowFixedWidthMajor = 2130904163;
 			
 			// aapt resource value: 0x7F030464
-			public const int windowMinWidthMajor = 2130904164;
+			public const int windowFixedWidthMinor = 2130904164;
 			
 			// aapt resource value: 0x7F030465
-			public const int windowMinWidthMinor = 2130904165;
+			public const int windowMinWidthMajor = 2130904165;
 			
 			// aapt resource value: 0x7F030466
-			public const int windowNoTitle = 2130904166;
+			public const int windowMinWidthMinor = 2130904166;
 			
 			// aapt resource value: 0x7F030467
-			public const int yearSelectedStyle = 2130904167;
+			public const int windowNoTitle = 2130904167;
 			
 			// aapt resource value: 0x7F030468
-			public const int yearStyle = 2130904168;
+			public const int yearSelectedStyle = 2130904168;
 			
 			// aapt resource value: 0x7F030469
-			public const int yearTodayStyle = 2130904169;
+			public const int yearStyle = 2130904169;
 			
 			// aapt resource value: 0x7F03046A
-			public const int zOrderOnTop = 2130904170;
+			public const int yearTodayStyle = 2130904170;
+			
+			// aapt resource value: 0x7F03046B
+			public const int zOrderOnTop = 2130904171;
 			
 			static Attribute()
 			{
@@ -23069,364 +28705,367 @@ namespace xTaxi.Client.Droid
 			public const int common_google_play_services_install_title = 2131623976;
 			
 			// aapt resource value: 0x7F0E0029
-			public const int common_google_play_services_notification_ticker = 2131623977;
+			public const int common_google_play_services_notification_channel_name = 2131623977;
 			
 			// aapt resource value: 0x7F0E002A
-			public const int common_google_play_services_unknown_issue = 2131623978;
+			public const int common_google_play_services_notification_ticker = 2131623978;
 			
 			// aapt resource value: 0x7F0E002B
-			public const int common_google_play_services_unsupported_text = 2131623979;
+			public const int common_google_play_services_unknown_issue = 2131623979;
 			
 			// aapt resource value: 0x7F0E002C
-			public const int common_google_play_services_update_button = 2131623980;
+			public const int common_google_play_services_unsupported_text = 2131623980;
 			
 			// aapt resource value: 0x7F0E002D
-			public const int common_google_play_services_update_text = 2131623981;
+			public const int common_google_play_services_update_button = 2131623981;
 			
 			// aapt resource value: 0x7F0E002E
-			public const int common_google_play_services_update_title = 2131623982;
+			public const int common_google_play_services_update_text = 2131623982;
 			
 			// aapt resource value: 0x7F0E002F
-			public const int common_google_play_services_updating_text = 2131623983;
+			public const int common_google_play_services_update_title = 2131623983;
 			
 			// aapt resource value: 0x7F0E0030
-			public const int common_google_play_services_wear_update_text = 2131623984;
+			public const int common_google_play_services_updating_text = 2131623984;
 			
 			// aapt resource value: 0x7F0E0031
-			public const int common_open_on_phone = 2131623985;
+			public const int common_google_play_services_wear_update_text = 2131623985;
 			
 			// aapt resource value: 0x7F0E0032
-			public const int common_signin_button_text = 2131623986;
+			public const int common_open_on_phone = 2131623986;
 			
 			// aapt resource value: 0x7F0E0033
-			public const int common_signin_button_text_long = 2131623987;
+			public const int common_signin_button_text = 2131623987;
 			
 			// aapt resource value: 0x7F0E0034
-			public const int copy = 2131623988;
+			public const int common_signin_button_text_long = 2131623988;
 			
 			// aapt resource value: 0x7F0E0035
-			public const int copy_toast_msg = 2131623989;
+			public const int copy = 2131623989;
 			
 			// aapt resource value: 0x7F0E0036
-			public const int error_icon_content_description = 2131623990;
+			public const int copy_toast_msg = 2131623990;
 			
 			// aapt resource value: 0x7F0E0037
-			public const int expand_button_title = 2131623991;
+			public const int error_icon_content_description = 2131623991;
 			
 			// aapt resource value: 0x7F0E0038
-			public const int exposed_dropdown_menu_content_description = 2131623992;
+			public const int expand_button_title = 2131623992;
 			
 			// aapt resource value: 0x7F0E0039
-			public const int fab_transformation_scrim_behavior = 2131623993;
+			public const int exposed_dropdown_menu_content_description = 2131623993;
 			
 			// aapt resource value: 0x7F0E003A
-			public const int fab_transformation_sheet_behavior = 2131623994;
+			public const int fab_transformation_scrim_behavior = 2131623994;
 			
 			// aapt resource value: 0x7F0E003B
-			public const int fallback_menu_item_copy_link = 2131623995;
+			public const int fab_transformation_sheet_behavior = 2131623995;
 			
 			// aapt resource value: 0x7F0E003C
-			public const int fallback_menu_item_open_in_browser = 2131623996;
+			public const int fallback_menu_item_copy_link = 2131623996;
 			
 			// aapt resource value: 0x7F0E003D
-			public const int fallback_menu_item_share_link = 2131623997;
+			public const int fallback_menu_item_open_in_browser = 2131623997;
 			
 			// aapt resource value: 0x7F0E003E
-			public const int hide_bottom_view_on_scroll_behavior = 2131623998;
+			public const int fallback_menu_item_share_link = 2131623998;
 			
 			// aapt resource value: 0x7F0E003F
-			public const int icon_content_description = 2131623999;
+			public const int hide_bottom_view_on_scroll_behavior = 2131623999;
 			
 			// aapt resource value: 0x7F0E0040
-			public const int item_view_role_description = 2131624000;
+			public const int icon_content_description = 2131624000;
 			
 			// aapt resource value: 0x7F0E0041
-			public const int library_name = 2131624001;
+			public const int item_view_role_description = 2131624001;
 			
 			// aapt resource value: 0x7F0E0042
-			public const int material_clock_display_divider = 2131624002;
+			public const int library_name = 2131624002;
 			
 			// aapt resource value: 0x7F0E0043
-			public const int material_clock_toggle_content_description = 2131624003;
+			public const int material_clock_display_divider = 2131624003;
 			
 			// aapt resource value: 0x7F0E0044
-			public const int material_hour_selection = 2131624004;
+			public const int material_clock_toggle_content_description = 2131624004;
 			
 			// aapt resource value: 0x7F0E0045
-			public const int material_hour_suffix = 2131624005;
+			public const int material_hour_selection = 2131624005;
 			
 			// aapt resource value: 0x7F0E0046
-			public const int material_minute_selection = 2131624006;
+			public const int material_hour_suffix = 2131624006;
 			
 			// aapt resource value: 0x7F0E0047
-			public const int material_minute_suffix = 2131624007;
+			public const int material_minute_selection = 2131624007;
 			
 			// aapt resource value: 0x7F0E0048
-			public const int material_motion_easing_accelerated = 2131624008;
+			public const int material_minute_suffix = 2131624008;
 			
 			// aapt resource value: 0x7F0E0049
-			public const int material_motion_easing_decelerated = 2131624009;
+			public const int material_motion_easing_accelerated = 2131624009;
 			
 			// aapt resource value: 0x7F0E004A
-			public const int material_motion_easing_emphasized = 2131624010;
+			public const int material_motion_easing_decelerated = 2131624010;
 			
 			// aapt resource value: 0x7F0E004B
-			public const int material_motion_easing_linear = 2131624011;
+			public const int material_motion_easing_emphasized = 2131624011;
 			
 			// aapt resource value: 0x7F0E004C
-			public const int material_motion_easing_standard = 2131624012;
+			public const int material_motion_easing_linear = 2131624012;
 			
 			// aapt resource value: 0x7F0E004D
-			public const int material_slider_range_end = 2131624013;
+			public const int material_motion_easing_standard = 2131624013;
 			
 			// aapt resource value: 0x7F0E004E
-			public const int material_slider_range_start = 2131624014;
+			public const int material_slider_range_end = 2131624014;
 			
 			// aapt resource value: 0x7F0E004F
-			public const int material_timepicker_am = 2131624015;
+			public const int material_slider_range_start = 2131624015;
 			
 			// aapt resource value: 0x7F0E0050
-			public const int material_timepicker_clock_mode_description = 2131624016;
+			public const int material_timepicker_am = 2131624016;
 			
 			// aapt resource value: 0x7F0E0051
-			public const int material_timepicker_hour = 2131624017;
+			public const int material_timepicker_clock_mode_description = 2131624017;
 			
 			// aapt resource value: 0x7F0E0052
-			public const int material_timepicker_minute = 2131624018;
+			public const int material_timepicker_hour = 2131624018;
 			
 			// aapt resource value: 0x7F0E0053
-			public const int material_timepicker_pm = 2131624019;
+			public const int material_timepicker_minute = 2131624019;
 			
 			// aapt resource value: 0x7F0E0054
-			public const int material_timepicker_select_time = 2131624020;
+			public const int material_timepicker_pm = 2131624020;
 			
 			// aapt resource value: 0x7F0E0055
-			public const int material_timepicker_text_input_mode_description = 2131624021;
+			public const int material_timepicker_select_time = 2131624021;
 			
 			// aapt resource value: 0x7F0E0056
-			public const int mr_button_content_description = 2131624022;
+			public const int material_timepicker_text_input_mode_description = 2131624022;
 			
 			// aapt resource value: 0x7F0E0057
-			public const int mr_cast_button_connected = 2131624023;
+			public const int mr_button_content_description = 2131624023;
 			
 			// aapt resource value: 0x7F0E0058
-			public const int mr_cast_button_connecting = 2131624024;
+			public const int mr_cast_button_connected = 2131624024;
 			
 			// aapt resource value: 0x7F0E0059
-			public const int mr_cast_button_disconnected = 2131624025;
+			public const int mr_cast_button_connecting = 2131624025;
 			
 			// aapt resource value: 0x7F0E005A
-			public const int mr_cast_dialog_title_view_placeholder = 2131624026;
+			public const int mr_cast_button_disconnected = 2131624026;
 			
 			// aapt resource value: 0x7F0E005B
-			public const int mr_chooser_searching = 2131624027;
+			public const int mr_cast_dialog_title_view_placeholder = 2131624027;
 			
 			// aapt resource value: 0x7F0E005C
-			public const int mr_chooser_title = 2131624028;
+			public const int mr_chooser_searching = 2131624028;
 			
 			// aapt resource value: 0x7F0E005D
-			public const int mr_controller_album_art = 2131624029;
+			public const int mr_chooser_title = 2131624029;
 			
 			// aapt resource value: 0x7F0E005E
-			public const int mr_controller_casting_screen = 2131624030;
+			public const int mr_controller_album_art = 2131624030;
 			
 			// aapt resource value: 0x7F0E005F
-			public const int mr_controller_close_description = 2131624031;
+			public const int mr_controller_casting_screen = 2131624031;
 			
 			// aapt resource value: 0x7F0E0060
-			public const int mr_controller_collapse_group = 2131624032;
+			public const int mr_controller_close_description = 2131624032;
 			
 			// aapt resource value: 0x7F0E0061
-			public const int mr_controller_disconnect = 2131624033;
+			public const int mr_controller_collapse_group = 2131624033;
 			
 			// aapt resource value: 0x7F0E0062
-			public const int mr_controller_expand_group = 2131624034;
+			public const int mr_controller_disconnect = 2131624034;
 			
 			// aapt resource value: 0x7F0E0063
-			public const int mr_controller_no_info_available = 2131624035;
+			public const int mr_controller_expand_group = 2131624035;
 			
 			// aapt resource value: 0x7F0E0064
-			public const int mr_controller_no_media_selected = 2131624036;
+			public const int mr_controller_no_info_available = 2131624036;
 			
 			// aapt resource value: 0x7F0E0065
-			public const int mr_controller_pause = 2131624037;
+			public const int mr_controller_no_media_selected = 2131624037;
 			
 			// aapt resource value: 0x7F0E0066
-			public const int mr_controller_play = 2131624038;
+			public const int mr_controller_pause = 2131624038;
 			
 			// aapt resource value: 0x7F0E0067
-			public const int mr_controller_stop = 2131624039;
+			public const int mr_controller_play = 2131624039;
 			
 			// aapt resource value: 0x7F0E0068
-			public const int mr_controller_stop_casting = 2131624040;
+			public const int mr_controller_stop = 2131624040;
 			
 			// aapt resource value: 0x7F0E0069
-			public const int mr_controller_volume_slider = 2131624041;
+			public const int mr_controller_stop_casting = 2131624041;
 			
 			// aapt resource value: 0x7F0E006A
-			public const int mr_dialog_default_group_name = 2131624042;
+			public const int mr_controller_volume_slider = 2131624042;
 			
 			// aapt resource value: 0x7F0E006B
-			public const int mr_dialog_groupable_header = 2131624043;
+			public const int mr_dialog_default_group_name = 2131624043;
 			
 			// aapt resource value: 0x7F0E006C
-			public const int mr_dialog_transferable_header = 2131624044;
+			public const int mr_dialog_groupable_header = 2131624044;
 			
 			// aapt resource value: 0x7F0E006D
-			public const int mr_system_route_name = 2131624045;
+			public const int mr_dialog_transferable_header = 2131624045;
 			
 			// aapt resource value: 0x7F0E006E
-			public const int mr_user_route_category_name = 2131624046;
+			public const int mr_system_route_name = 2131624046;
 			
 			// aapt resource value: 0x7F0E006F
-			public const int mtrl_badge_numberless_content_description = 2131624047;
+			public const int mr_user_route_category_name = 2131624047;
 			
 			// aapt resource value: 0x7F0E0070
-			public const int mtrl_chip_close_icon_content_description = 2131624048;
+			public const int mtrl_badge_numberless_content_description = 2131624048;
 			
 			// aapt resource value: 0x7F0E0071
-			public const int mtrl_exceed_max_badge_number_content_description = 2131624049;
+			public const int mtrl_chip_close_icon_content_description = 2131624049;
 			
 			// aapt resource value: 0x7F0E0072
-			public const int mtrl_exceed_max_badge_number_suffix = 2131624050;
+			public const int mtrl_exceed_max_badge_number_content_description = 2131624050;
 			
 			// aapt resource value: 0x7F0E0073
-			public const int mtrl_picker_a11y_next_month = 2131624051;
+			public const int mtrl_exceed_max_badge_number_suffix = 2131624051;
 			
 			// aapt resource value: 0x7F0E0074
-			public const int mtrl_picker_a11y_prev_month = 2131624052;
+			public const int mtrl_picker_a11y_next_month = 2131624052;
 			
 			// aapt resource value: 0x7F0E0075
-			public const int mtrl_picker_announce_current_selection = 2131624053;
+			public const int mtrl_picker_a11y_prev_month = 2131624053;
 			
 			// aapt resource value: 0x7F0E0076
-			public const int mtrl_picker_cancel = 2131624054;
+			public const int mtrl_picker_announce_current_selection = 2131624054;
 			
 			// aapt resource value: 0x7F0E0077
-			public const int mtrl_picker_confirm = 2131624055;
+			public const int mtrl_picker_cancel = 2131624055;
 			
 			// aapt resource value: 0x7F0E0078
-			public const int mtrl_picker_date_header_selected = 2131624056;
+			public const int mtrl_picker_confirm = 2131624056;
 			
 			// aapt resource value: 0x7F0E0079
-			public const int mtrl_picker_date_header_title = 2131624057;
+			public const int mtrl_picker_date_header_selected = 2131624057;
 			
 			// aapt resource value: 0x7F0E007A
-			public const int mtrl_picker_date_header_unselected = 2131624058;
+			public const int mtrl_picker_date_header_title = 2131624058;
 			
 			// aapt resource value: 0x7F0E007B
-			public const int mtrl_picker_day_of_week_column_header = 2131624059;
+			public const int mtrl_picker_date_header_unselected = 2131624059;
 			
 			// aapt resource value: 0x7F0E007C
-			public const int mtrl_picker_invalid_format = 2131624060;
+			public const int mtrl_picker_day_of_week_column_header = 2131624060;
 			
 			// aapt resource value: 0x7F0E007D
-			public const int mtrl_picker_invalid_format_example = 2131624061;
+			public const int mtrl_picker_invalid_format = 2131624061;
 			
 			// aapt resource value: 0x7F0E007E
-			public const int mtrl_picker_invalid_format_use = 2131624062;
+			public const int mtrl_picker_invalid_format_example = 2131624062;
 			
 			// aapt resource value: 0x7F0E007F
-			public const int mtrl_picker_invalid_range = 2131624063;
+			public const int mtrl_picker_invalid_format_use = 2131624063;
 			
 			// aapt resource value: 0x7F0E0080
-			public const int mtrl_picker_navigate_to_year_description = 2131624064;
+			public const int mtrl_picker_invalid_range = 2131624064;
 			
 			// aapt resource value: 0x7F0E0081
-			public const int mtrl_picker_out_of_range = 2131624065;
+			public const int mtrl_picker_navigate_to_year_description = 2131624065;
 			
 			// aapt resource value: 0x7F0E0082
-			public const int mtrl_picker_range_header_only_end_selected = 2131624066;
+			public const int mtrl_picker_out_of_range = 2131624066;
 			
 			// aapt resource value: 0x7F0E0083
-			public const int mtrl_picker_range_header_only_start_selected = 2131624067;
+			public const int mtrl_picker_range_header_only_end_selected = 2131624067;
 			
 			// aapt resource value: 0x7F0E0084
-			public const int mtrl_picker_range_header_selected = 2131624068;
+			public const int mtrl_picker_range_header_only_start_selected = 2131624068;
 			
 			// aapt resource value: 0x7F0E0085
-			public const int mtrl_picker_range_header_title = 2131624069;
+			public const int mtrl_picker_range_header_selected = 2131624069;
 			
 			// aapt resource value: 0x7F0E0086
-			public const int mtrl_picker_range_header_unselected = 2131624070;
+			public const int mtrl_picker_range_header_title = 2131624070;
 			
 			// aapt resource value: 0x7F0E0087
-			public const int mtrl_picker_save = 2131624071;
+			public const int mtrl_picker_range_header_unselected = 2131624071;
 			
 			// aapt resource value: 0x7F0E0088
-			public const int mtrl_picker_text_input_date_hint = 2131624072;
+			public const int mtrl_picker_save = 2131624072;
 			
 			// aapt resource value: 0x7F0E0089
-			public const int mtrl_picker_text_input_date_range_end_hint = 2131624073;
+			public const int mtrl_picker_text_input_date_hint = 2131624073;
 			
 			// aapt resource value: 0x7F0E008A
-			public const int mtrl_picker_text_input_date_range_start_hint = 2131624074;
+			public const int mtrl_picker_text_input_date_range_end_hint = 2131624074;
 			
 			// aapt resource value: 0x7F0E008B
-			public const int mtrl_picker_text_input_day_abbr = 2131624075;
+			public const int mtrl_picker_text_input_date_range_start_hint = 2131624075;
 			
 			// aapt resource value: 0x7F0E008C
-			public const int mtrl_picker_text_input_month_abbr = 2131624076;
+			public const int mtrl_picker_text_input_day_abbr = 2131624076;
 			
 			// aapt resource value: 0x7F0E008D
-			public const int mtrl_picker_text_input_year_abbr = 2131624077;
+			public const int mtrl_picker_text_input_month_abbr = 2131624077;
 			
 			// aapt resource value: 0x7F0E008E
-			public const int mtrl_picker_toggle_to_calendar_input_mode = 2131624078;
+			public const int mtrl_picker_text_input_year_abbr = 2131624078;
 			
 			// aapt resource value: 0x7F0E008F
-			public const int mtrl_picker_toggle_to_day_selection = 2131624079;
+			public const int mtrl_picker_toggle_to_calendar_input_mode = 2131624079;
 			
 			// aapt resource value: 0x7F0E0090
-			public const int mtrl_picker_toggle_to_text_input_mode = 2131624080;
+			public const int mtrl_picker_toggle_to_day_selection = 2131624080;
 			
 			// aapt resource value: 0x7F0E0091
-			public const int mtrl_picker_toggle_to_year_selection = 2131624081;
+			public const int mtrl_picker_toggle_to_text_input_mode = 2131624081;
 			
 			// aapt resource value: 0x7F0E0092
-			public const int nav_app_bar_navigate_up_description = 2131624082;
+			public const int mtrl_picker_toggle_to_year_selection = 2131624082;
 			
 			// aapt resource value: 0x7F0E0093
-			public const int nav_app_bar_open_drawer_description = 2131624083;
+			public const int nav_app_bar_navigate_up_description = 2131624083;
 			
 			// aapt resource value: 0x7F0E0094
-			public const int not_set = 2131624084;
+			public const int nav_app_bar_open_drawer_description = 2131624084;
 			
 			// aapt resource value: 0x7F0E0095
-			public const int overflow_tab_title = 2131624085;
+			public const int not_set = 2131624085;
 			
 			// aapt resource value: 0x7F0E0096
-			public const int password_toggle_content_description = 2131624086;
+			public const int overflow_tab_title = 2131624086;
 			
 			// aapt resource value: 0x7F0E0097
-			public const int path_password_eye = 2131624087;
+			public const int password_toggle_content_description = 2131624087;
 			
 			// aapt resource value: 0x7F0E0098
-			public const int path_password_eye_mask_strike_through = 2131624088;
+			public const int path_password_eye = 2131624088;
 			
 			// aapt resource value: 0x7F0E0099
-			public const int path_password_eye_mask_visible = 2131624089;
+			public const int path_password_eye_mask_strike_through = 2131624089;
 			
 			// aapt resource value: 0x7F0E009A
-			public const int path_password_strike_through = 2131624090;
+			public const int path_password_eye_mask_visible = 2131624090;
 			
 			// aapt resource value: 0x7F0E009B
-			public const int preference_copied = 2131624091;
+			public const int path_password_strike_through = 2131624091;
 			
 			// aapt resource value: 0x7F0E009C
-			public const int search_menu_title = 2131624092;
+			public const int preference_copied = 2131624092;
 			
 			// aapt resource value: 0x7F0E009D
-			public const int status_bar_notification_info_overflow = 2131624093;
+			public const int search_menu_title = 2131624093;
 			
 			// aapt resource value: 0x7F0E009E
-			public const int summary_collapsed_preference_list = 2131624094;
+			public const int status_bar_notification_info_overflow = 2131624094;
 			
 			// aapt resource value: 0x7F0E009F
-			public const int v7_preference_off = 2131624095;
+			public const int summary_collapsed_preference_list = 2131624095;
 			
 			// aapt resource value: 0x7F0E00A0
-			public const int v7_preference_on = 2131624096;
+			public const int v7_preference_off = 2131624096;
+			
+			// aapt resource value: 0x7F0E00A1
+			public const int v7_preference_on = 2131624097;
 			
 			static String()
 			{
@@ -26308,7 +31947,7 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 20
 			public const int AppCompatTextView_textLocale = 20;
 			
-			// aapt resource value: { 0x1010057,0x10100AE,0x7F030004,0x7F030005,0x7F030006,0x7F030007,0x7F030008,0x7F030009,0x7F03000A,0x7F03000B,0x7F03000C,0x7F03000D,0x7F03000E,0x7F03000F,0x7F030010,0x7F030012,0x7F030013,0x7F030014,0x7F030015,0x7F030016,0x7F030017,0x7F030018,0x7F030019,0x7F03001A,0x7F03001B,0x7F03001C,0x7F03001D,0x7F03001E,0x7F03001F,0x7F030020,0x7F030021,0x7F030022,0x7F030023,0x7F030024,0x7F030028,0x7F030036,0x7F030037,0x7F030038,0x7F030039,0x7F03004D,0x7F030075,0x7F030086,0x7F030087,0x7F030088,0x7F030089,0x7F03008A,0x7F030090,0x7F030091,0x7F0300AF,0x7F0300B8,0x7F0300EB,0x7F0300EC,0x7F0300ED,0x7F0300EE,0x7F0300EF,0x7F0300F0,0x7F0300F1,0x7F0300F8,0x7F0300F9,0x7F030100,0x7F030119,0x7F030148,0x7F03014D,0x7F03014E,0x7F030153,0x7F030155,0x7F030165,0x7F030166,0x7F030169,0x7F03016A,0x7F03016C,0x7F0301DB,0x7F0301ED,0x7F030272,0x7F030273,0x7F030274,0x7F030275,0x7F030278,0x7F030279,0x7F03027A,0x7F03027B,0x7F03027C,0x7F03027D,0x7F03027E,0x7F03027F,0x7F030280,0x7F03030A,0x7F03030B,0x7F03030C,0x7F030325,0x7F030327,0x7F03033F,0x7F030341,0x7F030342,0x7F030343,0x7F03035B,0x7F03035E,0x7F030360,0x7F030361,0x7F030381,0x7F030382,0x7F0303B0,0x7F0303DF,0x7F0303E1,0x7F0303E2,0x7F0303E3,0x7F0303E5,0x7F0303E6,0x7F0303E7,0x7F0303E8,0x7F0303F0,0x7F0303F1,0x7F030422,0x7F030423,0x7F030424,0x7F030425,0x7F03044E,0x7F03045D,0x7F03045E,0x7F03045F,0x7F030460,0x7F030461,0x7F030462,0x7F030463,0x7F030464,0x7F030465,0x7F030466 }
+			// aapt resource value: { 0x1010057,0x10100AE,0x7F030004,0x7F030005,0x7F030006,0x7F030007,0x7F030008,0x7F030009,0x7F03000A,0x7F03000B,0x7F03000C,0x7F03000D,0x7F03000E,0x7F03000F,0x7F030010,0x7F030012,0x7F030013,0x7F030014,0x7F030015,0x7F030016,0x7F030017,0x7F030018,0x7F030019,0x7F03001A,0x7F03001B,0x7F03001C,0x7F03001D,0x7F03001E,0x7F03001F,0x7F030020,0x7F030021,0x7F030022,0x7F030023,0x7F030024,0x7F030028,0x7F030036,0x7F030037,0x7F030038,0x7F030039,0x7F03004D,0x7F030075,0x7F030086,0x7F030087,0x7F030088,0x7F030089,0x7F03008A,0x7F030090,0x7F030091,0x7F0300AF,0x7F0300B8,0x7F0300EB,0x7F0300EC,0x7F0300ED,0x7F0300EE,0x7F0300EF,0x7F0300F0,0x7F0300F1,0x7F0300F8,0x7F0300F9,0x7F030100,0x7F030119,0x7F030148,0x7F03014D,0x7F03014E,0x7F030153,0x7F030155,0x7F030165,0x7F030166,0x7F030169,0x7F03016A,0x7F03016C,0x7F0301DB,0x7F0301ED,0x7F030272,0x7F030273,0x7F030274,0x7F030275,0x7F030278,0x7F030279,0x7F03027A,0x7F03027B,0x7F03027C,0x7F03027D,0x7F03027E,0x7F03027F,0x7F030280,0x7F03030A,0x7F03030B,0x7F03030C,0x7F030325,0x7F030327,0x7F03033F,0x7F030341,0x7F030342,0x7F030343,0x7F03035B,0x7F03035E,0x7F030360,0x7F030361,0x7F030381,0x7F030382,0x7F0303B0,0x7F0303DF,0x7F0303E1,0x7F0303E2,0x7F0303E3,0x7F0303E5,0x7F0303E6,0x7F0303E7,0x7F0303E8,0x7F0303F0,0x7F0303F1,0x7F030422,0x7F030423,0x7F030424,0x7F030425,0x7F03044F,0x7F03045E,0x7F03045F,0x7F030460,0x7F030461,0x7F030462,0x7F030463,0x7F030464,0x7F030465,0x7F030466,0x7F030467 }
 			public static int[] AppCompatTheme = new int[] {
 					16842839,
 					16842926,
@@ -26426,8 +32065,7 @@ namespace xTaxi.Client.Droid
 					2130904099,
 					2130904100,
 					2130904101,
-					2130904142,
-					2130904157,
+					2130904143,
 					2130904158,
 					2130904159,
 					2130904160,
@@ -26436,7 +32074,8 @@ namespace xTaxi.Client.Droid
 					2130904163,
 					2130904164,
 					2130904165,
-					2130904166};
+					2130904166,
+					2130904167};
 			
 			// aapt resource value: 2
 			public const int AppCompatTheme_actionBarDivider = 2;
@@ -26830,7 +32469,7 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 1
 			public const int BackgroundStyle_selectableItemBackground = 1;
 			
-			// aapt resource value: { 0x7F030055,0x7F03005F,0x7F030061,0x7F0301DD,0x7F0302A4,0x7F0302F5,0x7F03044D }
+			// aapt resource value: { 0x7F030055,0x7F03005F,0x7F030061,0x7F0301DD,0x7F0302A4,0x7F0302F5,0x7F03044E }
 			public static int[] Badge = new int[] {
 					2130903125,
 					2130903135,
@@ -26838,7 +32477,7 @@ namespace xTaxi.Client.Droid
 					2130903517,
 					2130903716,
 					2130903797,
-					2130904141};
+					2130904142};
 			
 			// aapt resource value: 0
 			public const int Badge_backgroundColor = 0;
@@ -27543,7 +33182,7 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 3
 			public const int CompoundButton_buttonTintMode = 3;
 			
-			// aapt resource value: { 0x10100C4,0x10100D0,0x10100DC,0x10100F4,0x10100F5,0x10100F7,0x10100F8,0x10100F9,0x10100FA,0x101011F,0x1010120,0x101013F,0x1010140,0x101031F,0x1010320,0x1010321,0x1010322,0x1010323,0x1010324,0x1010325,0x1010326,0x1010327,0x1010328,0x10103B5,0x10103B6,0x10103FA,0x1010440,0x7F030042,0x7F030043,0x7F030063,0x7F030064,0x7F030065,0x7F0300AD,0x7F030105,0x7F030106,0x7F030159,0x7F0301A4,0x7F0301A5,0x7F0301A6,0x7F0301A7,0x7F0301A8,0x7F0301A9,0x7F0301AA,0x7F0301AB,0x7F0301AC,0x7F0301AD,0x7F0301AE,0x7F0301AF,0x7F0301B0,0x7F0301B2,0x7F0301B3,0x7F0301B4,0x7F0301B5,0x7F0301B6,0x7F03022D,0x7F03022E,0x7F03022F,0x7F030230,0x7F030231,0x7F030232,0x7F030233,0x7F030234,0x7F030235,0x7F030236,0x7F030237,0x7F030238,0x7F030239,0x7F03023A,0x7F03023B,0x7F03023C,0x7F03023D,0x7F03023E,0x7F03023F,0x7F030240,0x7F030241,0x7F030242,0x7F030243,0x7F030244,0x7F030245,0x7F030246,0x7F030247,0x7F030248,0x7F030249,0x7F03024A,0x7F03024B,0x7F03024C,0x7F03024D,0x7F03024E,0x7F03024F,0x7F030250,0x7F030251,0x7F030252,0x7F030253,0x7F030254,0x7F030255,0x7F030256,0x7F030257,0x7F030258,0x7F030259,0x7F03025A,0x7F03025C,0x7F03025D,0x7F03025E,0x7F03025F,0x7F030260,0x7F030261,0x7F030262,0x7F030263,0x7F030264,0x7F030267,0x7F03026B,0x7F0302E2,0x7F0302E3,0x7F030312,0x7F03031A,0x7F03031F,0x7F030339,0x7F03033A,0x7F03033B,0x7F030434,0x7F030436,0x7F030438,0x7F030453 }
+			// aapt resource value: { 0x10100C4,0x10100D0,0x10100DC,0x10100F4,0x10100F5,0x10100F7,0x10100F8,0x10100F9,0x10100FA,0x101011F,0x1010120,0x101013F,0x1010140,0x101031F,0x1010320,0x1010321,0x1010322,0x1010323,0x1010324,0x1010325,0x1010326,0x1010327,0x1010328,0x10103B5,0x10103B6,0x10103FA,0x1010440,0x7F030042,0x7F030043,0x7F030063,0x7F030064,0x7F030065,0x7F0300AD,0x7F030105,0x7F030106,0x7F030159,0x7F0301A4,0x7F0301A5,0x7F0301A6,0x7F0301A7,0x7F0301A8,0x7F0301A9,0x7F0301AA,0x7F0301AB,0x7F0301AC,0x7F0301AD,0x7F0301AE,0x7F0301AF,0x7F0301B0,0x7F0301B2,0x7F0301B3,0x7F0301B4,0x7F0301B5,0x7F0301B6,0x7F03022D,0x7F03022E,0x7F03022F,0x7F030230,0x7F030231,0x7F030232,0x7F030233,0x7F030234,0x7F030235,0x7F030236,0x7F030237,0x7F030238,0x7F030239,0x7F03023A,0x7F03023B,0x7F03023C,0x7F03023D,0x7F03023E,0x7F03023F,0x7F030240,0x7F030241,0x7F030242,0x7F030243,0x7F030244,0x7F030245,0x7F030246,0x7F030247,0x7F030248,0x7F030249,0x7F03024A,0x7F03024B,0x7F03024C,0x7F03024D,0x7F03024E,0x7F03024F,0x7F030250,0x7F030251,0x7F030252,0x7F030253,0x7F030254,0x7F030255,0x7F030256,0x7F030257,0x7F030258,0x7F030259,0x7F03025A,0x7F03025C,0x7F03025D,0x7F03025E,0x7F03025F,0x7F030260,0x7F030261,0x7F030262,0x7F030263,0x7F030264,0x7F030267,0x7F03026B,0x7F0302E2,0x7F0302E3,0x7F030312,0x7F03031A,0x7F03031F,0x7F030339,0x7F03033A,0x7F03033B,0x7F030434,0x7F030436,0x7F030438,0x7F030454 }
 			public static int[] Constraint = new int[] {
 					16842948,
 					16842960,
@@ -27667,7 +33306,7 @@ namespace xTaxi.Client.Droid
 					2130904116,
 					2130904118,
 					2130904120,
-					2130904147};
+					2130904148};
 			
 			// aapt resource value: { 0x10100C4,0x10100D5,0x10100D6,0x10100D7,0x10100D8,0x10100D9,0x10100DC,0x10100F4,0x10100F5,0x10100F6,0x10100F7,0x10100F8,0x10100F9,0x10100FA,0x101011F,0x1010120,0x101013F,0x1010140,0x10103B3,0x10103B4,0x10103B5,0x10103B6,0x1010440,0x101053B,0x101053C,0x7F030063,0x7F030064,0x7F030065,0x7F0300AD,0x7F0300D0,0x7F0300D1,0x7F0300D2,0x7F0300D3,0x7F0300D4,0x7F030102,0x7F030105,0x7F030106,0x7F0301A4,0x7F0301A5,0x7F0301A6,0x7F0301A7,0x7F0301A8,0x7F0301A9,0x7F0301AA,0x7F0301AB,0x7F0301AC,0x7F0301AD,0x7F0301AE,0x7F0301AF,0x7F0301B0,0x7F0301B2,0x7F0301B3,0x7F0301B4,0x7F0301B5,0x7F0301B6,0x7F030225,0x7F03022D,0x7F03022E,0x7F03022F,0x7F030230,0x7F030231,0x7F030232,0x7F030233,0x7F030234,0x7F030235,0x7F030236,0x7F030237,0x7F030238,0x7F030239,0x7F03023A,0x7F03023B,0x7F03023C,0x7F03023D,0x7F03023E,0x7F03023F,0x7F030240,0x7F030241,0x7F030242,0x7F030243,0x7F030244,0x7F030245,0x7F030246,0x7F030247,0x7F030248,0x7F030249,0x7F03024A,0x7F03024B,0x7F03024C,0x7F03024D,0x7F03024E,0x7F03024F,0x7F030250,0x7F030251,0x7F030252,0x7F030253,0x7F030254,0x7F030255,0x7F030256,0x7F030257,0x7F030258,0x7F030259,0x7F03025A,0x7F03025C,0x7F03025D,0x7F03025E,0x7F03025F,0x7F030260,0x7F030261,0x7F030262,0x7F030263,0x7F030264,0x7F030267,0x7F030268,0x7F03026B }
 			public static int[] ConstraintLayout_Layout = new int[] {
@@ -28158,7 +33797,7 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 3
 			public const int ConstraintLayout_ReactiveGuide_reactiveGuide_valueId = 3;
 			
-			// aapt resource value: { 0x10100C4,0x10100D0,0x10100DC,0x10100F4,0x10100F5,0x10100F7,0x10100F8,0x10100F9,0x10100FA,0x101011F,0x1010120,0x101013F,0x1010140,0x101031F,0x1010320,0x1010321,0x1010322,0x1010323,0x1010324,0x1010325,0x1010326,0x1010327,0x1010328,0x10103B5,0x10103B6,0x10103FA,0x1010440,0x7F030042,0x7F030043,0x7F030063,0x7F030064,0x7F030065,0x7F0300AD,0x7F030105,0x7F030159,0x7F0301A4,0x7F0301A5,0x7F0301A6,0x7F0301A7,0x7F0301A8,0x7F0301A9,0x7F0301AA,0x7F0301AB,0x7F0301AC,0x7F0301AD,0x7F0301AE,0x7F0301AF,0x7F0301B0,0x7F0301B2,0x7F0301B3,0x7F0301B4,0x7F0301B5,0x7F0301B6,0x7F03022D,0x7F03022E,0x7F03022F,0x7F030233,0x7F030237,0x7F030238,0x7F030239,0x7F03023C,0x7F03023D,0x7F03023E,0x7F03023F,0x7F030240,0x7F030241,0x7F030242,0x7F030243,0x7F030244,0x7F030245,0x7F030246,0x7F030247,0x7F03024A,0x7F03024F,0x7F030250,0x7F030253,0x7F030254,0x7F030255,0x7F030256,0x7F030257,0x7F030258,0x7F030259,0x7F03025A,0x7F03025C,0x7F03025D,0x7F03025E,0x7F03025F,0x7F030260,0x7F030261,0x7F030262,0x7F030263,0x7F030264,0x7F030267,0x7F03026B,0x7F0302E2,0x7F0302E3,0x7F0302E4,0x7F030312,0x7F03031A,0x7F03031F,0x7F030339,0x7F03033A,0x7F03033B,0x7F030434,0x7F030436,0x7F030438,0x7F030453 }
+			// aapt resource value: { 0x10100C4,0x10100D0,0x10100DC,0x10100F4,0x10100F5,0x10100F7,0x10100F8,0x10100F9,0x10100FA,0x101011F,0x1010120,0x101013F,0x1010140,0x101031F,0x1010320,0x1010321,0x1010322,0x1010323,0x1010324,0x1010325,0x1010326,0x1010327,0x1010328,0x10103B5,0x10103B6,0x10103FA,0x1010440,0x7F030042,0x7F030043,0x7F030063,0x7F030064,0x7F030065,0x7F0300AD,0x7F030105,0x7F030159,0x7F0301A4,0x7F0301A5,0x7F0301A6,0x7F0301A7,0x7F0301A8,0x7F0301A9,0x7F0301AA,0x7F0301AB,0x7F0301AC,0x7F0301AD,0x7F0301AE,0x7F0301AF,0x7F0301B0,0x7F0301B2,0x7F0301B3,0x7F0301B4,0x7F0301B5,0x7F0301B6,0x7F03022D,0x7F03022E,0x7F03022F,0x7F030233,0x7F030237,0x7F030238,0x7F030239,0x7F03023C,0x7F03023D,0x7F03023E,0x7F03023F,0x7F030240,0x7F030241,0x7F030242,0x7F030243,0x7F030244,0x7F030245,0x7F030246,0x7F030247,0x7F03024A,0x7F03024F,0x7F030250,0x7F030253,0x7F030254,0x7F030255,0x7F030256,0x7F030257,0x7F030258,0x7F030259,0x7F03025A,0x7F03025C,0x7F03025D,0x7F03025E,0x7F03025F,0x7F030260,0x7F030261,0x7F030262,0x7F030263,0x7F030264,0x7F030267,0x7F03026B,0x7F0302E2,0x7F0302E3,0x7F0302E4,0x7F030312,0x7F03031A,0x7F03031F,0x7F030339,0x7F03033A,0x7F03033B,0x7F030434,0x7F030436,0x7F030438,0x7F030454 }
 			public static int[] ConstraintOverride = new int[] {
 					16842948,
 					16842960,
@@ -28266,7 +33905,7 @@ namespace xTaxi.Client.Droid
 					2130904116,
 					2130904118,
 					2130904120,
-					2130904147};
+					2130904148};
 			
 			// aapt resource value: 13
 			public const int ConstraintOverride_android_alpha = 13;
@@ -29627,9 +35266,9 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 0
 			public const int DrawerLayout_elevation = 0;
 			
-			// aapt resource value: { 0x7F03044A }
+			// aapt resource value: { 0x7F03044B }
 			public static int[] EditTextPreference = new int[] {
-					2130904138};
+					2130904139};
 			
 			// aapt resource value: 0
 			public const int EditTextPreference_useSimpleSummaryProvider = 0;
@@ -29672,7 +35311,7 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 5
 			public const int ExtendedFloatingActionButton_shrinkMotionSpec = 5;
 			
-			// aapt resource value: { 0x101000E,0x7F03005D,0x7F03005E,0x7F030074,0x7F03016D,0x7F03017B,0x7F03019B,0x7F03019C,0x7F0301D4,0x7F0301DE,0x7F0302A6,0x7F030336,0x7F03034E,0x7F030365,0x7F030368,0x7F030370,0x7F030448 }
+			// aapt resource value: { 0x101000E,0x7F03005D,0x7F03005E,0x7F030074,0x7F03016D,0x7F03017B,0x7F03019B,0x7F03019C,0x7F0301D4,0x7F0301DE,0x7F0302A6,0x7F030336,0x7F03034E,0x7F030365,0x7F030368,0x7F030370,0x7F030449 }
 			public static int[] FloatingActionButton = new int[] {
 					16842766,
 					2130903133,
@@ -29690,7 +35329,7 @@ namespace xTaxi.Client.Droid
 					2130903909,
 					2130903912,
 					2130903920,
-					2130904136};
+					2130904137};
 			
 			// aapt resource value: 0
 			public const int FloatingActionButton_android_enabled = 0;
@@ -29938,7 +35577,7 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 2
 			public const int GradientColor_android_type = 2;
 			
-			// aapt resource value: { 0x7F030040,0x7F030071,0x7F030085,0x7F030118,0x7F03012C,0x7F0301EE,0x7F0301EF,0x7F0301F0,0x7F0301F1,0x7F030301,0x7F030350,0x7F030351,0x7F030352,0x7F030455 }
+			// aapt resource value: { 0x7F030040,0x7F030071,0x7F030085,0x7F030118,0x7F03012C,0x7F0301EE,0x7F0301EF,0x7F0301F0,0x7F0301F1,0x7F030301,0x7F030350,0x7F030351,0x7F030352,0x7F030456 }
 			public static int[] ImageFilterView = new int[] {
 					2130903104,
 					2130903153,
@@ -29953,7 +35592,7 @@ namespace xTaxi.Client.Droid
 					2130903888,
 					2130903889,
 					2130903890,
-					2130904149};
+					2130904150};
 			
 			// aapt resource value: 0
 			public const int ImageFilterView_altSrc = 0;
@@ -30109,7 +35748,7 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 18
 			public const int KeyAttribute_transitionPathRotate = 18;
 			
-			// aapt resource value: { 0x101031F,0x1010322,0x1010323,0x1010324,0x1010325,0x1010326,0x1010327,0x1010328,0x10103FA,0x1010440,0x7F03012E,0x7F0301C6,0x7F0302E2,0x7F0302E4,0x7F030436,0x7F030438,0x7F030457,0x7F030458,0x7F030459,0x7F03045A,0x7F03045B }
+			// aapt resource value: { 0x101031F,0x1010322,0x1010323,0x1010324,0x1010325,0x1010326,0x1010327,0x1010328,0x10103FA,0x1010440,0x7F03012E,0x7F0301C6,0x7F0302E2,0x7F0302E4,0x7F030436,0x7F030438,0x7F030458,0x7F030459,0x7F03045A,0x7F03045B,0x7F03045C }
 			public static int[] KeyCycle = new int[] {
 					16843551,
 					16843554,
@@ -30127,11 +35766,11 @@ namespace xTaxi.Client.Droid
 					2130903780,
 					2130904118,
 					2130904120,
-					2130904151,
 					2130904152,
 					2130904153,
 					2130904154,
-					2130904155};
+					2130904155,
+					2130904156};
 			
 			// aapt resource value: 0
 			public const int KeyCycle_android_alpha = 0;
@@ -30259,7 +35898,7 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 11
 			public const int KeyPosition_transitionEasing = 11;
 			
-			// aapt resource value: { 0x101031F,0x1010322,0x1010323,0x1010324,0x1010325,0x1010326,0x1010327,0x1010328,0x10103FA,0x1010440,0x7F03012E,0x7F0301C6,0x7F0302E2,0x7F0302E4,0x7F030436,0x7F030438,0x7F030456,0x7F030457,0x7F030458,0x7F030459,0x7F03045A }
+			// aapt resource value: { 0x101031F,0x1010322,0x1010323,0x1010324,0x1010325,0x1010326,0x1010327,0x1010328,0x10103FA,0x1010440,0x7F03012E,0x7F0301C6,0x7F0302E2,0x7F0302E4,0x7F030436,0x7F030438,0x7F030457,0x7F030458,0x7F030459,0x7F03045A,0x7F03045B }
 			public static int[] KeyTimeCycle = new int[] {
 					16843551,
 					16843554,
@@ -30277,11 +35916,11 @@ namespace xTaxi.Client.Droid
 					2130903780,
 					2130904118,
 					2130904120,
-					2130904150,
 					2130904151,
 					2130904152,
 					2130904153,
-					2130904154};
+					2130904154,
+					2130904155};
 			
 			// aapt resource value: 0
 			public const int KeyTimeCycle_android_alpha = 0;
@@ -30346,7 +35985,7 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 20
 			public const int KeyTimeCycle_waveShape = 20;
 			
-			// aapt resource value: { 0x7F0301C6,0x7F0302E4,0x7F0302E5,0x7F0302E6,0x7F0302F7,0x7F0302F9,0x7F0302FA,0x7F03043A,0x7F03043B,0x7F03043C,0x7F030450,0x7F030451,0x7F030452 }
+			// aapt resource value: { 0x7F0301C6,0x7F0302E4,0x7F0302E5,0x7F0302E6,0x7F0302F7,0x7F0302F9,0x7F0302FA,0x7F03043A,0x7F03043B,0x7F03043C,0x7F030451,0x7F030452,0x7F030453 }
 			public static int[] KeyTrigger = new int[] {
 					2130903494,
 					2130903780,
@@ -30358,9 +35997,9 @@ namespace xTaxi.Client.Droid
 					2130904122,
 					2130904123,
 					2130904124,
-					2130904144,
 					2130904145,
-					2130904146};
+					2130904146,
+					2130904147};
 			
 			// aapt resource value: 0
 			public const int KeyTrigger_framePosition = 0;
@@ -30784,13 +36423,13 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 1
 			public const int ListPopupWindow_android_dropDownVerticalOffset = 1;
 			
-			// aapt resource value: { 0x10100B2,0x10101F8,0x7F03017D,0x7F03017E,0x7F03044A }
+			// aapt resource value: { 0x10100B2,0x10101F8,0x7F03017D,0x7F03017E,0x7F03044B }
 			public static int[] ListPreference = new int[] {
 					16842930,
 					16843256,
 					2130903421,
 					2130903422,
-					2130904138};
+					2130904139};
 			
 			// aapt resource value: 0
 			public const int ListPreference_android_entries = 0;
@@ -30822,7 +36461,7 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 2
 			public const int LoadingImageView_imageAspectRatioAdjust = 2;
 			
-			// aapt resource value: { 0x7F030041,0x7F030094,0x7F030095,0x7F030096,0x7F030097,0x7F030098,0x7F030099,0x7F03009A,0x7F03021F,0x7F030220,0x7F030221,0x7F030222,0x7F030281,0x7F030284,0x7F03043E,0x7F03043F,0x7F030440,0x7F030441,0x7F030442,0x7F030443,0x7F030444,0x7F03044B,0x7F03046A }
+			// aapt resource value: { 0x7F030041,0x7F030094,0x7F030095,0x7F030096,0x7F030097,0x7F030098,0x7F030099,0x7F03009A,0x7F03021F,0x7F030220,0x7F030221,0x7F030222,0x7F030281,0x7F030284,0x7F03043E,0x7F03043F,0x7F030440,0x7F030441,0x7F030442,0x7F030443,0x7F030444,0x7F030445,0x7F03044C,0x7F03046B }
 			public static int[] MapAttrs = new int[] {
 					2130903105,
 					2130903188,
@@ -30845,8 +36484,9 @@ namespace xTaxi.Client.Droid
 					2130904130,
 					2130904131,
 					2130904132,
-					2130904139,
-					2130904170};
+					2130904133,
+					2130904140,
+					2130904171};
 			
 			// aapt resource value: 0
 			public const int MapAttrs_ambientEnabled = 0;
@@ -30903,19 +36543,22 @@ namespace xTaxi.Client.Droid
 			public const int MapAttrs_uiScrollGestures = 17;
 			
 			// aapt resource value: 18
-			public const int MapAttrs_uiTiltGestures = 18;
+			public const int MapAttrs_uiScrollGesturesDuringRotateOrZoom = 18;
 			
 			// aapt resource value: 19
-			public const int MapAttrs_uiZoomControls = 19;
+			public const int MapAttrs_uiTiltGestures = 19;
 			
 			// aapt resource value: 20
-			public const int MapAttrs_uiZoomGestures = 20;
+			public const int MapAttrs_uiZoomControls = 20;
 			
 			// aapt resource value: 21
-			public const int MapAttrs_useViewLifecycle = 21;
+			public const int MapAttrs_uiZoomGestures = 21;
 			
 			// aapt resource value: 22
-			public const int MapAttrs_zOrderOnTop = 22;
+			public const int MapAttrs_useViewLifecycle = 22;
+			
+			// aapt resource value: 23
+			public const int MapAttrs_zOrderOnTop = 23;
 			
 			// aapt resource value: { 0x7F030056,0x7F030057,0x7F030058,0x7F030059 }
 			public static int[] MaterialAlertDialog = new int[] {
@@ -31068,7 +36711,7 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 20
 			public const int MaterialButton_strokeWidth = 20;
 			
-			// aapt resource value: { 0x101020D,0x7F03013B,0x7F03013C,0x7F03013D,0x7F03013E,0x7F0302F3,0x7F030340,0x7F030467,0x7F030468,0x7F030469 }
+			// aapt resource value: { 0x101020D,0x7F03013B,0x7F03013C,0x7F03013D,0x7F03013E,0x7F0302F3,0x7F030340,0x7F030468,0x7F030469,0x7F03046A }
 			public static int[] MaterialCalendar = new int[] {
 					16843277,
 					2130903355,
@@ -31077,9 +36720,9 @@ namespace xTaxi.Client.Droid
 					2130903358,
 					2130903795,
 					2130903872,
-					2130904167,
 					2130904168,
-					2130904169};
+					2130904169,
+					2130904170};
 			
 			// aapt resource value: { 0x10101B7,0x10101B8,0x10101B9,0x10101BA,0x7F030200,0x7F030209,0x7F03020A,0x7F030211,0x7F030212,0x7F030216 }
 			public static int[] MaterialCalendarItem = new int[] {
@@ -31205,10 +36848,10 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 11
 			public const int MaterialCardView_strokeWidth = 11;
 			
-			// aapt resource value: { 0x7F030092,0x7F030449 }
+			// aapt resource value: { 0x7F030092,0x7F03044A }
 			public static int[] MaterialCheckBox = new int[] {
 					2130903186,
-					2130904137};
+					2130904138};
 			
 			// aapt resource value: 0
 			public const int MaterialCheckBox_buttonTint = 0;
@@ -31216,10 +36859,10 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 1
 			public const int MaterialCheckBox_useMaterialThemeColors = 1;
 			
-			// aapt resource value: { 0x7F030092,0x7F030449 }
+			// aapt resource value: { 0x7F030092,0x7F03044A }
 			public static int[] MaterialRadioButton = new int[] {
 					2130903186,
-					2130904137};
+					2130904138};
 			
 			// aapt resource value: 0
 			public const int MaterialRadioButton_buttonTint = 0;
@@ -31827,12 +37470,12 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 3
 			public const int NavArgument_nullable = 3;
 			
-			// aapt resource value: { 0x10104EE,0x7F030003,0x7F0302BE,0x7F030447 }
+			// aapt resource value: { 0x10104EE,0x7F030003,0x7F0302BE,0x7F030448 }
 			public static int[] NavDeepLink = new int[] {
 					16844014,
 					2130903043,
 					2130903742,
-					2130904135};
+					2130904136};
 			
 			// aapt resource value: 1
 			public const int NavDeepLink_action = 1;
@@ -32143,7 +37786,7 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 2
 			public const int PopupWindow_overlapAnchor = 2;
 			
-			// aapt resource value: { 0x1010002,0x101000D,0x101000E,0x10100F2,0x10101E1,0x10101E6,0x10101E8,0x10101E9,0x10101EA,0x10101EB,0x10101EC,0x10101ED,0x10101EE,0x10102E3,0x101055C,0x1010561,0x7F03003A,0x7F03003C,0x7F030142,0x7F030145,0x7F030170,0x7F030172,0x7F0301C5,0x7F0301DF,0x7F0301E4,0x7F0301FE,0x7F030217,0x7F030224,0x7F0302FE,0x7F030319,0x7F03035F,0x7F03036B,0x7F030378,0x7F0303A8,0x7F030414,0x7F03045C }
+			// aapt resource value: { 0x1010002,0x101000D,0x101000E,0x10100F2,0x10101E1,0x10101E6,0x10101E8,0x10101E9,0x10101EA,0x10101EB,0x10101EC,0x10101ED,0x10101EE,0x10102E3,0x101055C,0x1010561,0x7F03003A,0x7F03003C,0x7F030142,0x7F030145,0x7F030170,0x7F030172,0x7F0301C5,0x7F0301DF,0x7F0301E4,0x7F0301FE,0x7F030217,0x7F030224,0x7F0302FE,0x7F030319,0x7F03035F,0x7F03036B,0x7F030378,0x7F0303A8,0x7F030414,0x7F03045D }
 			public static int[] Preference = new int[] {
 					16842754,
 					16842765,
@@ -32180,7 +37823,7 @@ namespace xTaxi.Client.Droid
 					2130903928,
 					2130903976,
 					2130904084,
-					2130904156};
+					2130904157};
 			
 			// aapt resource value: { 0x10100F2,0x1010129,0x101012A,0x7F03003B }
 			public static int[] PreferenceFragment = new int[] {
@@ -32480,13 +38123,13 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 11
 			public const int ProgressWheel_ahTextSize = 11;
 			
-			// aapt resource value: { 0x10100DC,0x101031F,0x7F03024F,0x7F0302E2,0x7F030453 }
+			// aapt resource value: { 0x10100DC,0x101031F,0x7F03024F,0x7F0302E2,0x7F030454 }
 			public static int[] PropertySet = new int[] {
 					16842972,
 					16843551,
 					2130903631,
 					2130903778,
-					2130904147};
+					2130904148};
 			
 			// aapt resource value: 1
 			public const int PropertySet_android_alpha = 1;
@@ -32510,10 +38153,10 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 0
 			public const int RadialViewGroup_materialCircleRadius = 0;
 			
-			// aapt resource value: { 0x7F0302C2,0x7F03044C }
+			// aapt resource value: { 0x7F0302C2,0x7F03044D }
 			public static int[] RangeSlider = new int[] {
 					2130903746,
-					2130904140};
+					2130904141};
 			
 			// aapt resource value: 0
 			public const int RangeSlider_minSeparation = 0;
@@ -32604,7 +38247,7 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 0
 			public const int ScrollViewRendererTheme_scrollViewStyle = 0;
 			
-			// aapt resource value: { 0x10100DA,0x101011F,0x1010220,0x1010264,0x7F0300DB,0x7F030101,0x7F030140,0x7F0301C9,0x7F0301E8,0x7F030224,0x7F03033C,0x7F03033D,0x7F030359,0x7F03035A,0x7F03039E,0x7F0303A7,0x7F030454 }
+			// aapt resource value: { 0x10100DA,0x101011F,0x1010220,0x1010264,0x7F0300DB,0x7F030101,0x7F030140,0x7F0301C9,0x7F0301E8,0x7F030224,0x7F03033C,0x7F03033D,0x7F030359,0x7F03035A,0x7F03039E,0x7F0303A7,0x7F030455 }
 			public static int[] SearchView = new int[] {
 					16842970,
 					16843039,
@@ -32622,7 +38265,7 @@ namespace xTaxi.Client.Droid
 					2130903898,
 					2130903966,
 					2130903975,
-					2130904148};
+					2130904149};
 			
 			// aapt resource value: 0
 			public const int SearchView_android_focusable = 0;
@@ -32675,7 +38318,7 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 16
 			public const int SearchView_voiceIcon = 16;
 			
-			// aapt resource value: { 0x10100F2,0x1010136,0x7F030029,0x7F0302BF,0x7F03035C,0x7F030372,0x7F030446 }
+			// aapt resource value: { 0x10100F2,0x1010136,0x7F030029,0x7F0302BF,0x7F03035C,0x7F030372,0x7F030447 }
 			public static int[] SeekBarPreference = new int[] {
 					16842994,
 					16843062,
@@ -32683,7 +38326,7 @@ namespace xTaxi.Client.Droid
 					2130903743,
 					2130903900,
 					2130903922,
-					2130904134};
+					2130904135};
 			
 			// aapt resource value: 2
 			public const int SeekBarPreference_adjustable = 2;
@@ -33093,9 +38736,9 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 13
 			public const int SwitchCompat_trackTintMode = 13;
 			
-			// aapt resource value: { 0x7F030449 }
+			// aapt resource value: { 0x7F03044A }
 			public static int[] SwitchMaterial = new int[] {
-					2130904137};
+					2130904138};
 			
 			// aapt resource value: 0
 			public const int SwitchMaterial_useMaterialThemeColors = 0;
@@ -34039,7 +39682,7 @@ namespace xTaxi.Client.Droid
 			// aapt resource value: 1
 			public const int ViewStubCompat_android_layout = 1;
 			
-			// aapt resource value: { 0x10100D0,0x7F030001,0x7F030002,0x7F0300D5,0x7F030168,0x7F0301E9,0x7F0301EA,0x7F0302DF,0x7F0302E4,0x7F0302FC,0x7F030312,0x7F030364,0x7F030435,0x7F030445,0x7F03044F }
+			// aapt resource value: { 0x10100D0,0x7F030001,0x7F030002,0x7F0300D5,0x7F030168,0x7F0301E9,0x7F0301EA,0x7F0302DF,0x7F0302E4,0x7F0302FC,0x7F030312,0x7F030364,0x7F030435,0x7F030446,0x7F030450 }
 			public static int[] ViewTransition = new int[] {
 					16842960,
 					2130903041,
@@ -34054,8 +39697,8 @@ namespace xTaxi.Client.Droid
 					2130903826,
 					2130903908,
 					2130904117,
-					2130904133,
-					2130904143};
+					2130904134,
+					2130904144};
 			
 			// aapt resource value: 0
 			public const int ViewTransition_android_id = 0;

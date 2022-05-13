@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Input;
 using Xamarin.Essentials;
 using Xamarin.Forms;
-using Xamarin.Forms.GoogleMaps;
+using Xamarin.Forms.Maps;
 using xTaxi.Client.Helpers;
 using xTaxi.Client.Models;
 using xTaxi.Client.Services;
@@ -111,9 +111,39 @@ namespace xTaxi.Client.ViewModels
         {
             RecentPlaces = new ObservableCollection<GooglePlaceAutoCompletePrediction>()
             {
-                {new GooglePlaceAutoCompletePrediction(){ PlaceId="ChIJq0wAE_CJr44RtWSsTkp4ZEM", StructuredFormatting=new StructuredFormatting(){ MainText="Random Place", SecondaryText="Paseo de los locutores #32" } } },
-                {new GooglePlaceAutoCompletePrediction(){ PlaceId="ChIJq0wAE_CJr44RtWSsTkp4ZEM", StructuredFormatting=new StructuredFormatting(){ MainText="Green Tower", SecondaryText="Ensanche Naco #4343, Green 232" } } },
-                {new GooglePlaceAutoCompletePrediction(){ PlaceId="ChIJm02ImNyJr44RNs73uor8pFU", StructuredFormatting=new StructuredFormatting(){ MainText="Tienda Aurora", SecondaryText="Rafael Augusto Sanchez" } } },
+                {
+                    new GooglePlaceAutoCompletePrediction()
+                    { 
+                        PlaceId="ChIJq0wAE_CJr44RtWSsTkp4ZEM",
+                        StructuredFormatting=new StructuredFormatting()
+                        { 
+                            MainText="Random Place", 
+                            SecondaryText="Paseo de los locutores #32" 
+                        } 
+                    }
+                },
+                {
+                    new GooglePlaceAutoCompletePrediction()
+                    { 
+                        PlaceId="ChIJq0wAE_CJr44RtWSsTkp4ZEM", 
+                        StructuredFormatting=new StructuredFormatting()
+                        { 
+                            MainText="Green Tower", 
+                            SecondaryText="Ensanche Naco #4343, Green 232" 
+                        } 
+                    }
+                },
+                {
+                    new GooglePlaceAutoCompletePrediction()
+                    {
+                        PlaceId="ChIJm02ImNyJr44RNs73uor8pFU", 
+                        StructuredFormatting=new StructuredFormatting()
+                        { 
+                            MainText="Tienda Aurora", 
+                            SecondaryText="Rafael Augusto Sanchez" 
+                        }
+                    }
+                },
             };
 
             RecentPlace1 = RecentPlaces[0];
@@ -121,13 +151,55 @@ namespace xTaxi.Client.ViewModels
 
             PriceOptions = new ObservableCollection<PriceOption>()
             {
-                {new PriceOption(){ Tag="xUBERX", Category="Economy", CategoryDescription="Affortable, everyday rides", PriceDetails=new System.Collections.Generic.List<PriceDetail>(){
-                    { new PriceDetail(){ Type="xUber X", Price=332, ArrivalETA="12:00pm", Icon="https://carcody.com/wp-content/uploads/2019/11/Webp.net-resizeimage.jpg" } },
-                  { new PriceDetail(){ Type="xUber Black", Price=150, ArrivalETA="12:40pm", Icon="https://i0.wp.com/uponarriving.com/wp-content/uploads/2019/08/uberxl.jpg" } }}
-                 } },
-                {new PriceOption(){Tag="xUBERXL", Category="Extra Seats", CategoryDescription="Affortable rides for group up to 6" ,  PriceDetails=new System.Collections.Generic.List<PriceDetail>(){
-                    { new PriceDetail(){ Type="xUber XL", Price=332, ArrivalETA="12:00pm", Icon="https://i0.wp.com/uponarriving.com/wp-content/uploads/2019/08/uberxl.jpg" } }
-                  } } }
+                {
+                    new PriceOption()
+                    { 
+                        Tag="xUBERX", 
+                        Category="Economy", 
+                        CategoryDescription="Affortable, everyday rides", 
+                        PriceDetails=new System.Collections.Generic.List<PriceDetail>()
+                        {
+                            {
+                                new PriceDetail()
+                                {
+                                    Type="xUber X", 
+                                    Price=332, 
+                                    ArrivalETA="12:00pm", 
+                                    Icon="https://carcody.com/wp-content/uploads/2019/11/Webp.net-resizeimage.jpg" 
+                                }
+                            },
+                            {
+                                new PriceDetail()
+                                { 
+                                    Type="xUber Black",
+                                    Price=150, 
+                                    ArrivalETA="12:40pm", 
+                                    Icon="https://i0.wp.com/uponarriving.com/wp-content/uploads/2019/08/uberxl.jpg" 
+                                }
+                            }
+                        }
+                    } 
+                },
+                {
+                    new PriceOption()
+                    {
+                        Tag="xUBERXL",
+                        Category="Extra Seats",
+                        CategoryDescription="Affortable rides for group up to 6",
+                        PriceDetails=new System.Collections.Generic.List<PriceDetail>()
+                        {
+                            {
+                                new PriceDetail()
+                                { 
+                                    Type="xUber XL", 
+                                    Price=332, 
+                                    ArrivalETA="12:00pm", 
+                                    Icon="https://i0.wp.com/uponarriving.com/wp-content/uploads/2019/08/uberxl.jpg" 
+                                }
+                            }
+                        }
+                    }
+                }
             };
 
 
@@ -222,7 +294,8 @@ namespace xTaxi.Client.ViewModels
             {
                 await Task.Yield();
                 var request = new GeolocationRequest(GeolocationAccuracy.High, TimeSpan.FromSeconds(5000));
-                var location = await Geolocation.GetLocationAsync(request);
+                var location = await Geolocation.GetLastKnownLocationAsync();
+                //var location = await Geolocation.GetLocationAsync(request);
 
                 if (location != null)
                 {

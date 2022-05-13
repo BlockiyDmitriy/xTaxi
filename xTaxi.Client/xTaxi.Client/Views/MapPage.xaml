@@ -19,12 +19,13 @@
               RowSpacing="0"
               RowDefinitions="*, Auto">
             <controls:ExtendedMap  x:Name="map" 
-                              Grid.Row="0"
-                              HorizontalOptions="FillAndExpand"
-                              CenterMapCommand="{Binding CenterMapCommand}"
-                              DrawRouteCommand="{Binding DrawRouteCommand}"
-                              CleanPolylineCommand="{Binding CleanPolylineCommand}"
-                              CameraIdledCommand="{Binding GetLocationNameCommand}" />
+                                   Grid.Row="0"
+                                   HorizontalOptions="FillAndExpand"
+                                   CenterMapCommand="{Binding CenterMapCommand}"
+                                   DrawRouteCommand="{Binding DrawRouteCommand}"
+                                   CleanPolylineCommand="{Binding CleanPolylineCommand}"
+                                   CameraIdledCommand="{Binding GetLocationNameCommand}"
+                                   IsShowingUser="True"/>
 
             <local:RecentPlaceView  
                                   Grid.Row="1"

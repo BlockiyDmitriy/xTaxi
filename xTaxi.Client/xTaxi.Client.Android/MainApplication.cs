@@ -10,9 +10,9 @@ namespace xTaxi.Client.Droid
 #else
 	[Application(Debuggable = false)]
 #endif
-	[MetaData("com.google.android.maps.v2.API_KEY",
-			  Value = Constants.Constants.GoogleMapsApiKey)]
-	public class MainApplication : Application
+    [MetaData("com.google.android.maps.v2.API_KEY",
+              Value = Constants.Constants.GoogleMapsApiKey)]
+    public class MainApplication : Application
 	{
 		public MainApplication(IntPtr handle, JniHandleOwnership transer)
 		  : base(handle, transer)
