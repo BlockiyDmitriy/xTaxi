@@ -46,8 +46,8 @@ namespace xTaxi.Client.ViewModels
             }
         }
 
-        GooglePlaceAutoCompletePrediction _placeSelected;
-        public GooglePlaceAutoCompletePrediction PlaceSelected
+        PlaceAutoCompletePrediction _placeSelected;
+        public PlaceAutoCompletePrediction PlaceSelected
         {
             get => _placeSelected;
             set
@@ -362,7 +362,7 @@ namespace xTaxi.Client.ViewModels
             }
             else
             {
-                FireTriggerCommand.Execute(XUberTrigger.Cancel);
+                FireTriggerCommand.Execute(XUberTrigger.ChooseRide);
                 await UserDialogs.Instance.AlertAsync(":(", "No route found", "Ok");
             }
 
