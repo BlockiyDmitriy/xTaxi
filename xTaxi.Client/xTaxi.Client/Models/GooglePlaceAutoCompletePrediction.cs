@@ -18,11 +18,11 @@ namespace xTaxi.Client.Models
         public string Reference { get; set; }
 
         [JsonProperty("structured_formatting")]
-        public StructuredFormatting StructuredFormatting { get; set; }
+        public GoogleStructuredFormatting StructuredFormatting { get; set; }
 
     }
 
-    public class StructuredFormatting
+    public class GoogleStructuredFormatting
     {
         [JsonProperty("main_text")]
         public string MainText { get; set; }

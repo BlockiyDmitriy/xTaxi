@@ -1,6 +1,7 @@
 ﻿using Acr.UserDialogs;
 using Stateless;
 using System;
+using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Diagnostics;
@@ -19,17 +20,17 @@ namespace xTaxi.Client.ViewModels
 {
     public class MapPageViewModel : INotifyPropertyChanged
     {
-        public ObservableCollection<GooglePlaceAutoCompletePrediction> Places { get; private set; }
-        public ObservableCollection<GooglePlaceAutoCompletePrediction> RecentPlaces { get; private set; }
-        public GooglePlaceAutoCompletePrediction RecentPlace1 { get; private set; }
-        public GooglePlaceAutoCompletePrediction RecentPlace2 { get; private set; }
+        public ObservableCollection<PlaceAutoCompletePrediction> Places { get; private set; }
+        public ObservableCollection<PlaceAutoCompletePrediction> RecentPlaces { get; private set; }
+        public PlaceAutoCompletePrediction RecentPlace1 { get; private set; }
+        public PlaceAutoCompletePrediction RecentPlace2 { get; private set; }
         public ObservableCollection<PriceOption> PriceOptions { get; private set; }
         public PriceOption PriceOptionSelected { get; set; }
 
         public string PickupLocation { get; set; }
 
-        Location OriginCoordinates { get; set; }
-        Location DestinationCoordinates { get; set; }
+        Position OriginCoordinates { get; set; }
+        Position DestinationCoordinates { get; set; }
 
         string _destinationLocation;
         public string DestinationLocation
@@ -94,6 +95,7 @@ namespace xTaxi.Client.ViewModels
 
         public ICommand DrawRouteCommand { get; set; }
         public ICommand CenterMapCommand { get; set; }
+        public ICommand CenterMapByNameCommand { get; set; }
         public ICommand CleanPolylineCommand { get; set; }
         public ICommand GetPlaceDetailCommand { get; }
         public ICommand FireTriggerCommand { get; }
@@ -102,48 +104,49 @@ namespace xTaxi.Client.ViewModels
         private ICommand GetPlacesCommand { get; }
         public ICommand GetLocationNameCommand { get; }
 
-        private TriggerWithParameters<GooglePlaceAutoCompletePrediction> CalculateRouteTrigger { get; }
+        private TriggerWithParameters<PlaceAutoCompletePrediction> CalculateRouteTrigger { get; }
 
         private readonly IGoogleMapsApiService _googleMapsApi = new GoogleMapsApiService();
+        private readonly IMapsApiService _mapsApi = new MapsApiService();
         private readonly StateMachine<XUberState, XUberTrigger> _stateMachine;
 
         public MapPageViewModel()
         {
-            RecentPlaces = new ObservableCollection<GooglePlaceAutoCompletePrediction>()
+            RecentPlaces = new ObservableCollection<PlaceAutoCompletePrediction>()
             {
                 {
-                    new GooglePlaceAutoCompletePrediction()
+                    new PlaceAutoCompletePrediction()
                     { 
-                        PlaceId="ChIJq0wAE_CJr44RtWSsTkp4ZEM",
-                        StructuredFormatting=new StructuredFormatting()
-                        { 
-                            MainText="Random Place", 
-                            SecondaryText="Paseo de los locutores #32" 
-                        } 
-                    }
-                },
-                {
-                    new GooglePlaceAutoCompletePrediction()
-                    { 
-                        PlaceId="ChIJq0wAE_CJr44RtWSsTkp4ZEM", 
-                        StructuredFormatting=new StructuredFormatting()
-                        { 
-                            MainText="Green Tower", 
-                            SecondaryText="Ensanche Naco #4343, Green 232" 
-                        } 
-                    }
-                },
-                {
-                    new GooglePlaceAutoCompletePrediction()
-                    {
-                        PlaceId="ChIJm02ImNyJr44RNs73uor8pFU", 
-                        StructuredFormatting=new StructuredFormatting()
-                        { 
-                            MainText="Tienda Aurora", 
-                            SecondaryText="Rafael Augusto Sanchez" 
+                        Address = "177 Ortega Ave, Mountain View, CA 94040, USA",
+                        StructuredFormatting = new StructuredFormatting()
+                        {
+                            MainText = "Ortega Ave, Mountain",
+                            SecondaryText = "Ortega Ave, Mountain View, USA"
                         }
                     }
                 },
+                {
+                    new PlaceAutoCompletePrediction()
+                    { 
+                        Address = "Bill Graham Pkwy, Mountain View, CA 94043, USA",
+                        StructuredFormatting = new StructuredFormatting()
+                        {
+                            MainText = "Bill Graham Pkwy",
+                            SecondaryText = "Bill Graham Pkwy, Mountain View, USA"
+                        }
+                    }
+                },
+                {
+                    new PlaceAutoCompletePrediction()
+                    { 
+                        Address = "1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA",
+                        StructuredFormatting = new StructuredFormatting()
+                        {
+                            MainText = "Amphitheatre Pkwy",
+                            SecondaryText = "Amphitheatre Pkwy, Mountain View, USA"
+                        }
+                    }
+                }
             };
 
             RecentPlace1 = RecentPlaces[0];
@@ -157,7 +160,7 @@ namespace xTaxi.Client.ViewModels
                         Tag="xUBERX", 
                         Category="Economy", 
                         CategoryDescription="Affortable, everyday rides", 
-                        PriceDetails=new System.Collections.Generic.List<PriceDetail>()
+                        PriceDetails=new List<PriceDetail>()
                         {
                             {
                                 new PriceDetail()
@@ -186,7 +189,7 @@ namespace xTaxi.Client.ViewModels
                         Tag="xUBERXL",
                         Category="Extra Seats",
                         CategoryDescription="Affortable rides for group up to 6",
-                        PriceDetails=new System.Collections.Generic.List<PriceDetail>()
+                        PriceDetails=new List<PriceDetail>()
                         {
                             {
                                 new PriceDetail()
@@ -205,11 +208,11 @@ namespace xTaxi.Client.ViewModels
 
             var _stateMachine = new StateMachine<XUberState, XUberTrigger>(XUberState.Initial);
 
-            CalculateRouteTrigger = _stateMachine.SetTriggerParameters<GooglePlaceAutoCompletePrediction>(XUberTrigger.CalculateRoute);
+            CalculateRouteTrigger = _stateMachine.SetTriggerParameters<PlaceAutoCompletePrediction>(XUberTrigger.CalculateRoute);
 
             _stateMachine.Configure(XUberState.Initial)
                 .OnEntry(Initialize)
-                .OnExit(() => { Places = new ObservableCollection<GooglePlaceAutoCompletePrediction>(RecentPlaces); })
+                .OnExit(() => { Places = new ObservableCollection<PlaceAutoCompletePrediction>(RecentPlaces); })
                 .OnActivateAsync(GetActualUserLocation)
                 .Permit(XUberTrigger.ChooseDestination, XUberState.SearchingDestination)
                 .Permit(XUberTrigger.CalculateRoute, XUberState.CalculatingRoute);
@@ -252,7 +255,7 @@ namespace xTaxi.Client.ViewModels
              .Permit(XUberTrigger.CancelTrip, XUberState.Initial)
              .Permit(XUberTrigger.StartTrip, XUberState.TripInProgress);
 
-            GetPlaceDetailCommand = new Command<GooglePlaceAutoCompletePrediction>(async (param) =>
+            GetPlaceDetailCommand = new Command<PlaceAutoCompletePrediction>(async (param) =>
             {
                 if (_stateMachine.CanFire(XUberTrigger.CalculateRoute))
                 {
@@ -293,13 +296,11 @@ namespace xTaxi.Client.ViewModels
             try
             {
                 await Task.Yield();
-                var request = new GeolocationRequest(GeolocationAccuracy.High, TimeSpan.FromSeconds(5000));
                 var location = await Geolocation.GetLastKnownLocationAsync();
-                //var location = await Geolocation.GetLocationAsync(request);
 
                 if (location != null)
                 {
-                    OriginCoordinates = location;
+                    OriginCoordinates = new Position(location.Latitude, location.Longitude);
                     CenterMapCommand.Execute(location);
                     GetLocationNameCommand.Execute(new Position(location.Latitude, location.Longitude));
                 }
@@ -314,8 +315,10 @@ namespace xTaxi.Client.ViewModels
         {
             try
             {
-                var placemarks = await Geocoding.GetPlacemarksAsync(position.Latitude, position.Longitude);
-                PickupLocation = placemarks?.FirstOrDefault()?.FeatureName;
+                Geocoder geoCoder = new Geocoder();
+                IEnumerable<string> possibleAddresses = await geoCoder.GetAddressesForPositionAsync(position);
+                PickupLocation = possibleAddresses.FirstOrDefault();
+                CenterMapCommand.Execute(position);
             }
             catch (Exception ex)
             {
@@ -325,33 +328,31 @@ namespace xTaxi.Client.ViewModels
 
         private async Task GetPlacesByName(string placeText)
         {
-            var places = await _googleMapsApi.GetPlaces(placeText);
-            var placeResult = places.AutoCompletePlaces;
-            if (placeResult != null && placeResult.Count > 0)
-            {
-                Places = new ObservableCollection<GooglePlaceAutoCompletePrediction>(placeResult);
-            }
+            CenterMapByNameCommand.Execute(placeText);
         }
 
-        private async Task GetPlacesDetail(GooglePlaceAutoCompletePrediction placeA)
+        private async Task GetPlacesDetail(PlaceAutoCompletePrediction placeA)
         {
-
-            var place = await _googleMapsApi.GetPlaceDetails(placeA.PlaceId);
-            if (place != null)
+            try
             {
-                DestinationCoordinates = new Location(place.Latitude, place.Longitude);
+                DestinationCoordinates = new Position(placeA.Position.Latitude, placeA.Position.Longitude);
                 if (await LoadRoute())
                 {
                     RecentPlaces.Add(placeA);
                 }
             }
+            catch (Exception)
+            {
+                Debug.WriteLine("Erorr get place details");
+            }
+            
         }
 
         private async Task<bool> LoadRoute()
         {
             var retVal = false;
 
-            var googleDirection = await _googleMapsApi.GetDirections($"{OriginCoordinates.Latitude}", $"{OriginCoordinates.Longitude}", $"{DestinationCoordinates.Latitude}", $"{DestinationCoordinates.Longitude}");
+            var googleDirection = await _mapsApi.GetDirections($"{OriginCoordinates.Latitude}", $"{OriginCoordinates.Longitude}", $"{DestinationCoordinates.Latitude}", $"{DestinationCoordinates.Longitude}");
             if (googleDirection.Routes != null && googleDirection.Routes.Count > 0)
             {
                 var positions = (Enumerable.ToList(PolylineHelper.Decode(googleDirection.Routes.First().OverviewPolyline.Points)));

@@ -6,9 +6,6 @@
              xmlns:local="clr-namespace:xTaxi.Client.Views"
              xmlns:helpers="clr-namespace:xTaxi.Client.Helpers"
              x:Class="xTaxi.Client.Views.MapPage">
-    <ContentPage.BindingContext>
-        <viewModels:MapPageViewModel/>
-    </ContentPage.BindingContext>
     <Grid RowSpacing="0"
           x:Name="layout"
           VerticalOptions="FillAndExpand"
@@ -22,10 +19,13 @@
                                    Grid.Row="0"
                                    HorizontalOptions="FillAndExpand"
                                    CenterMapCommand="{Binding CenterMapCommand}"
+                                   CenterMapByNameCommand="{Binding CenterMapByNameCommand}"
                                    DrawRouteCommand="{Binding DrawRouteCommand}"
                                    CleanPolylineCommand="{Binding CleanPolylineCommand}"
                                    CameraIdledCommand="{Binding GetLocationNameCommand}"
-                                   IsShowingUser="True"/>
+                                   IsShowingUser="True"
+                                   TrafficEnabled="True"
+                                   MapClicked="OnMapClicked"/>
 
             <local:RecentPlaceView  
                                   Grid.Row="1"
