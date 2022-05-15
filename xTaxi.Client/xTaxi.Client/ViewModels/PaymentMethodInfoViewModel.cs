@@ -38,7 +38,7 @@ namespace xTaxi.Client.ViewModels
                 var displayedCardNumber = await GetDisplaydCardNumber();
                 if (!string.IsNullOrEmpty(displayedCardNumber))
                 {
-                    IsHasValidCard = false;
+                    IsHasValidCard = true;
                     MainThread.BeginInvokeOnMainThread(() =>
                     {
                         DisplayedCardNumber = displayedCardNumber;
@@ -46,7 +46,11 @@ namespace xTaxi.Client.ViewModels
                 }
                 else
                 {
-                    IsHasValidCard = true;
+                    IsHasValidCard = false;
+                    MainThread.BeginInvokeOnMainThread(() =>
+                    {
+                        DisplayedCardNumber = "No card";
+                    });
                 }
             }
             catch (Exception e)
@@ -62,8 +66,7 @@ namespace xTaxi.Client.ViewModels
                 var cardData = await _paymentService.GetPaymentCard();
                 if (string.IsNullOrEmpty(cardData.CardNumber))
                 {
-                    var res = "No card";
-                    return res;
+                    return string.Empty;
                 }
                 var lastFourCardNumber = cardData.CardNumber.Substring(cardData.CardNumber.Length - 4);
                 var displayedCardNumber = string.Format("***" + lastFourCardNumber);

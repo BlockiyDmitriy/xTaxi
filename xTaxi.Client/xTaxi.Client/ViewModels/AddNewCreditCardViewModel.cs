@@ -1,6 +1,7 @@
 ﻿using Acr.UserDialogs;
 using Rg.Plugins.Popup.Services;
 using System;
+using System.ComponentModel;
 using System.Reflection;
 using System.Threading.Tasks;
 using System.Windows.Input;
@@ -13,15 +14,14 @@ using xTaxi.Client.Utils;
 
 namespace xTaxi.Client.ViewModels
 {
-    public class AddNewCreditCardViewModel
+    public class AddNewCreditCardViewModel : INotifyPropertyChanged
     {
         private ILogService _logService;
         private IPaymentService _paymentService;
-
         public CardDataModel СardDataModel { get; set; }
         public ICommand AddCardCommand { get; }
         public ICommand CancelCommand { get; }
-        public DateTime ExpiredCardTime { get; set; } = new DateTime();
+        public DateTime ExpiredCardTime { get; set; } = DateTime.Today;
         public string DisplayedCardNumber { get; set; }
 
         public AddNewCreditCardViewModel()
@@ -53,13 +53,14 @@ namespace xTaxi.Client.ViewModels
         {
             try
             {
-                СardDataModel.ExpireCardDate = ExpiredCardTime.ToString();
+                СardDataModel.ExpireCardDate = ExpiredCardTime.ToString("MM/yyyy");
                 var res = await _paymentService.SetNewPaymentCard(СardDataModel);
 
                 if (res == null)
                 {
                     await UserDialogs.Instance.AlertAsync("Check the card details", "Incorrect data",  "Ok");
                 }
+                await PopupNavigation.Instance.PopAsync();
             }
             catch (Exception e)
             {
@@ -77,5 +78,8 @@ namespace xTaxi.Client.ViewModels
                 _logService.TrackException(e, MethodBase.GetCurrentMethod()?.Name);
             }
         }
+
+        public event PropertyChangedEventHandler PropertyChanged;
+
     }
 }

@@ -68,7 +68,8 @@ namespace xTaxi.Client.Services
         public static bool IsCreditCardInfoValid(string cardNo, string expiryDate, string cvv)
         {
             // ^(?:4[0-9]{12}(?:[0-9]{3})?|[25][1-7][0-9]{14}|6(?:011|5[0-9][0-9])[0-9]{12}|3[47][0-9]{13}|3(?:0[0-5]|[68][0-9])[0-9]{11}|(?:2131|1800|35\d{3})\d{11})$
-            var cardCheck = new Regex(@"^(1298|1267|4512|4567|8901|8933)([\-\s]?[0-9]{4}){3}$");
+            //var cardCheck = new Regex(@"^(1298|1267|4512|4567|8901|8933)([\-\s]?[0-9]{4}){3}$");
+            var cardCheck = new Regex(@"^(?:4[0-9]{12}(?:[0-9]{3})?|[25][1-7][0-9]{14}|6(?:011|5[0-9][0-9])[0-9]{12}|3[47][0-9]{13}|3(?:0[0-5]|[68][0-9])[0-9]{11}|(?:2131|1800|35\d{3})\d{11})$");
             var monthCheck = new Regex(@"^(0[1-9]|1[0-2])$");
             var yearCheck = new Regex(@"^20[0-9]{2}$");
             var cvvCheck = new Regex(@"^\d{3}$");
