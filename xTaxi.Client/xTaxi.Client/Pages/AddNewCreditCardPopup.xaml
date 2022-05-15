@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+    xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup" 
+    xmlns:viewmodels="clr-namespace:xTaxi.Client.ViewModels"
+    x:Class="xTaxi.Client.Pages.AddNewCreditCardPopup"
+    x:DataType="viewmodels:AddNewCreditCardViewModel">
+    
+    <pages:PopupPage.Animation>
+        <animations:ScaleAnimation 
+            PositionIn="Bottom"
+            PositionOut="Bottom"
+            ScaleIn="1"
+            ScaleOut="1"
+            DurationIn="200"
+            DurationOut="100"
+            EasingIn="SinOut"
+            EasingOut="SinIn"
+            HasBackgroundAnimation="True"/>
+    </pages:PopupPage.Animation>
+
+    <Frame 
+        HorizontalOptions="FillAndExpand"
+        Margin="0,80,0,0"
+        Padding="0"
+        BackgroundColor="White"
+        CornerRadius="6"
+        HasShadow="False">
+
+        <Grid 
+            RowDefinitions="60,60,*,50,50"
+            ColumnDefinitions="*,*"
+            Padding="0">
+            <Entry 
+                Grid.Row="0"
+                Grid.ColumnSpan="2"
+                Placeholder="Input card number"
+                MaxLength="24"
+                Keyboard="Numeric"
+                Text="{Binding СardDataModel.CardNumber, Mode=TwoWay}"/>
+            <DatePicker
+                Grid.Row="1"
+                Grid.Column="0"
+                Format="MM/yyyy"
+                BackgroundColor="LightGray"
+                Date="{Binding ExpiredCardTime}"/>
+            <Entry 
+                Grid.Row="1"
+                Grid.Column="1"
+                Placeholder="CVV"
+                MaxLength="24"
+                Keyboard="Numeric"
+                IsPassword="True"
+                Text="{Binding СardDataModel.Cvv, Mode=TwoWay}"/>
+            <Button 
+                Grid.Row="3"
+                Grid.ColumnSpan="2"
+                Command="{Binding AddCardCommand}"
+                Text="Add"
+                TextColor="White"
+                BackgroundColor="Black"/>
+            <Button 
+                Grid.Row="4"
+                Grid.ColumnSpan="2"
+                Command="{Binding CancelCommand}"
+                Text="Cancel"
+                TextColor="Black"
+                BackgroundColor="White"
+                BorderColor="Black"/>
+
+        </Grid>
+
+    </Frame>
+</pages:PopupPage>

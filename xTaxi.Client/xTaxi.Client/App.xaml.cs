@@ -21,6 +21,7 @@ namespace xTaxi.Client
         {
             DependencyResolver.Register<DBService>();
             DependencyResolver.Register<LogService>();
+            DependencyResolver.Register<PaymentService>();
         }
         protected override void OnStart()
         {

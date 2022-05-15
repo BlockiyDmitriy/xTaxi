@@ -1,12 +1,18 @@
-﻿
-using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
+﻿using Xamarin.Forms;
+using xTaxi.Client.ViewModels;
 
 namespace xTaxi.Client.Views
 {
-    [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class MenuPage : ContentPage
     {
-        public MenuPage() => InitializeComponent();
+        private MenuPageViewModel _viewModel;
+
+        public MenuPage()
+        {
+            InitializeComponent();
+
+            _viewModel = new MenuPageViewModel();
+            BindingContext = _viewModel;
+        }
     }
 }

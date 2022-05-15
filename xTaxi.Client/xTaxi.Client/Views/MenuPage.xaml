@@ -75,7 +75,11 @@
             <StackLayout Padding="20,20,0,0" Spacing="20" BackgroundColor="White">
                 <Label Text="Your Trips" Style="{StaticResource MenuLabel}" />
                 <Label Text="Help" Style="{StaticResource MenuLabel}" />
-                <Label Text="Payment" Style="{StaticResource MenuLabel}" />
+                <Label Text="Payment" Style="{StaticResource MenuLabel}" >
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding OpenPaymentInfoCommand}"/>
+                    </Label.GestureRecognizers>
+                </Label>
                 <Label Text="Free Rides" Style="{StaticResource MenuLabel}" />
                 <Label Text="Settings" Style="{StaticResource MenuLabel}" />
             </StackLayout>

@@ -31,6 +31,7 @@ namespace xTaxi.Client.Droid
             base.OnCreate(savedInstanceState);
             Window.SetStatusBarColor(Android.Graphics.Color.Black);
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
+            Rg.Plugins.Popup.Popup.Init(this);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             Xamarin.FormsMaps.Init(this, savedInstanceState);
             ImageCircleRenderer.Init();
