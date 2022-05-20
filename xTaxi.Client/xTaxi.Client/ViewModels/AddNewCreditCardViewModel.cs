@@ -33,9 +33,7 @@ namespace xTaxi.Client.ViewModels
 
             AddCardCommand = new Command(async () => await AddNewCreditCard());
             CancelCommand = new Command(async () => await Cancel());
-        }
-
-        
+        }        
 
         public async Task Init()
         {
