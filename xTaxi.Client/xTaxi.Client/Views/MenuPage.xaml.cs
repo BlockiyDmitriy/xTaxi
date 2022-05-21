@@ -3,7 +3,7 @@ using xTaxi.Client.ViewModels;
 
 namespace xTaxi.Client.Views
 {
-    public partial class MenuPage : ContentPage
+    public partial class MenuPage : ContentView
     {
         private MenuPageViewModel _viewModel;
 

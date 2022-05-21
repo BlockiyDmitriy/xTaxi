@@ -10,7 +10,6 @@ using xTaxi.Client.ViewModels;
 
 namespace xTaxi.Client.Views
 {
-    [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class MapPage
     {
         private MapPageViewModel _viewModel;
@@ -22,7 +21,10 @@ namespace xTaxi.Client.Views
             BindingContext = _viewModel;
         }
 
-        public void OnMenuTapped(object sender, EventArgs e) => CustomMasterDetailPage.Current.IsPresented = true;
+        public void OnMenuTapped(object sender, EventArgs e)
+        {
+            Shell.Current.FlyoutIsPresented = true;
+        }
 
         public void OnDoneClicked(object sender, EventArgs e)
         {
@@ -36,7 +38,6 @@ namespace xTaxi.Client.Views
 
             if (safeInsets.Top > 0)
             {
-                menuIcon.Margin = backButton.Margin = new Thickness(20, 40, 20, 0);
                 headerSearch.BackButtonPadding = new Thickness(0, 20, 0, 0);
             }
         }

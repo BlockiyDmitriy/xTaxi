@@ -5,7 +5,8 @@
              xmlns:viewModels="clr-namespace:xTaxi.Client.ViewModels"
              xmlns:local="clr-namespace:xTaxi.Client.Views"
              xmlns:helpers="clr-namespace:xTaxi.Client.Helpers"
-             x:Class="xTaxi.Client.Views.MapPage">
+             x:Class="xTaxi.Client.Views.MapPage"
+             Shell.NavBarIsVisible="False">
     <Grid RowSpacing="0"
           x:Name="layout"
           VerticalOptions="FillAndExpand"

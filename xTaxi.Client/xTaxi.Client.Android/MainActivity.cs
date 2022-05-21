@@ -29,6 +29,7 @@ namespace xTaxi.Client.Droid
             base.Window.RequestFeature(WindowFeatures.ActionBar);
             base.SetTheme(Resource.Style.MainTheme);
             base.OnCreate(savedInstanceState);
+            global::Xamarin.Forms.Forms.SetFlags("Shell_UWP_Experimental");
             Window.SetStatusBarColor(Android.Graphics.Color.Black);
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             Rg.Plugins.Popup.Popup.Init(this);

@@ -4,7 +4,8 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design" 
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              mc:Ignorable="d" 
-             x:Class="xTaxi.Client.App">
+             x:Class="xTaxi.Client.App"
+             NavigationPage.HasNavigationBar="False">
     <Application.Resources>
         <ResourceDictionary>
             <Color x:Key="LightGray">#EDEDED</Color>
