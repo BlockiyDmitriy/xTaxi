@@ -5,14 +5,82 @@
              x:Class="xTaxi.Client.Pages.LoginPage"
              NavigationPage.HasNavigationBar="False"
              x:DataType="viewmodels:LoginViewModel"
-             Shell.NavBarIsVisible="False">
+             Shell.NavBarIsVisible="False"
+             BackgroundColor="Black">
     <ContentPage.Content>
-        <StackLayout>
-            <Button
-                Text="Login"
-                Command="{Binding LoginCommand}"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+
+        <Grid
+            RowDefinitions="*,2*">
+            <Image 
+                Grid.RowSpan="2"
+                Source="wallpaper.jpg"
+                Opacity="0.6"
+                Aspect="AspectFill"/>
+            <Image 
+                Grid.Row="0"
+                Source="logo.png"
+                Aspect="AspectFit"/>
+            <Grid                
+                Grid.Row="1"
+                RowDefinitions="*,*,*,*">
+                <Frame
+                    Grid.Row="0"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="EndAndExpand"
+                    BackgroundColor="Transparent"
+                    CornerRadius="30"
+                    Padding="40,0"
+                    Margin="40,0"
+                    BorderColor="{StaticResource LoginButtonColor}">
+                    <Entry 
+                        BackgroundColor="Transparent"
+                        Placeholder="Email"
+                        PlaceholderColor="AntiqueWhite"
+                        TextColor="AntiqueWhite"
+                        Keyboard="Email"/>
+                </Frame>
+                <Frame
+                    Grid.Row="1"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="StartAndExpand"
+                    BackgroundColor="Transparent"
+                    CornerRadius="30"
+                    Padding="40,0"
+                    Margin="40,0"
+                    BorderColor="{StaticResource LoginButtonColor}">
+                    <Entry 
+                        BackgroundColor="Transparent"
+                        Placeholder="Password"
+                        PlaceholderColor="AntiqueWhite"
+                        TextColor="AntiqueWhite"
+                        IsPassword="True"
+                        />
+                </Frame>
+                <Button
+                    Grid.Row="2"
+                    Text="Sign In"
+                    CornerRadius="30"
+                    TextColor="White"
+                    BackgroundColor="{StaticResource LoginButtonColor}"
+                    Command="{Binding LoginCommand}"
+                    Margin="40,0"
+                    HeightRequest="40"
+                    VerticalOptions="EndAndExpand" 
+                    HorizontalOptions="FillAndExpand" />
+                <Button
+                    Grid.Row="3"
+                    Text="Sign Up"
+                    CornerRadius="30"
+                    TextColor="{StaticResource LoginButtonColor}"
+                    BackgroundColor="Transparent"
+                    BorderColor="Black"
+                    BorderWidth="3"
+                    Command="{Binding LoginCommand}"
+                    Margin="40,0"
+                    HeightRequest="40"
+                    VerticalOptions="StartAndExpand" 
+                    HorizontalOptions="FillAndExpand" />
+            </Grid>
+        </Grid>
     </ContentPage.Content>
 </ContentPage>

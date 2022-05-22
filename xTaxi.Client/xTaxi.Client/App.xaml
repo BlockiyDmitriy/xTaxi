@@ -9,6 +9,7 @@
     <Application.Resources>
         <ResourceDictionary>
             <Color x:Key="LightGray">#EDEDED</Color>
+            <Color x:Key="LoginButtonColor">#90C445</Color>
 
             <Style TargetType="Label">
                 <Setter Property="TextColor" Value="Black"/>
