@@ -22,7 +22,7 @@
                 Aspect="AspectFit"/>
             <Grid                
                 Grid.Row="1"
-                RowDefinitions="*,*,*,*">
+                RowDefinitions="*,*,*,*,20">
                 <Frame
                     Grid.Row="0"
                     HorizontalOptions="FillAndExpand"
@@ -82,6 +82,15 @@
                     HeightRequest="40"
                     VerticalOptions="StartAndExpand" 
                     HorizontalOptions="FillAndExpand" />
+                <Label
+                    Grid.Row="4"
+                    Text="Development"
+                    HorizontalOptions="CenterAndExpand"
+                    VerticalOptions="Start">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding DevelopLoginCommand}"/>
+                    </Label.GestureRecognizers>
+                </Label>
             </Grid>
         </Grid>
     </ContentPage.Content>

@@ -21,6 +21,7 @@ namespace xTaxi.Client.ViewModels
 
         public ICommand LoginCommand { get; }
         public ICommand CreateNewAccountCommand { get; }
+        public ICommand DevelopLoginCommand { get; }
         public LoginModel LoginModel { get; set; }
 
         public LoginViewModel()
@@ -32,7 +33,20 @@ namespace xTaxi.Client.ViewModels
 
             LoginCommand = new Command(async () => await Login());
             CreateNewAccountCommand = new Command(async () => await CreateNewAccount());
+            DevelopLoginCommand = new Command(async () => await DevelopLogin());
 
+        }
+
+        private async Task DevelopLogin()
+        {
+            try
+            {
+                await Shell.Current.GoToAsync($"//{nameof(MapPage)}");
+            }
+            catch (Exception e)
+            {
+                _logService.TrackException(e, MethodBase.GetCurrentMethod()?.Name);
+            }
         }
 
         private async Task CreateNewAccount()
