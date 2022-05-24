@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:viewmodels="clr-namespace:xTaxi.Client.ViewModels"
+             x:Class="xTaxi.Client.Pages.CreateNewAccountPage"
+             x:DataType="viewmodels:CreateNewAccountViewModel"
+             NavigationPage.HasNavigationBar="False"
+             Shell.NavBarIsVisible="False"
+             BackgroundColor="Black">
+    <ContentPage.Content>
+        <Grid
+            RowDefinitions="*,2*">
+            <Image 
+                Grid.RowSpan="2"
+                Source="wallpaper.jpg"
+                Opacity="0.6"
+                Aspect="AspectFill"/>
+            <Image 
+                Grid.Row="0"
+                Source="logo.png"
+                Aspect="AspectFit"/>
+            <Grid                
+                Grid.Row="1"
+                RowDefinitions="*,*,*,*,*">
+                <Frame
+                    Grid.Row="0"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="EndAndExpand"
+                    BackgroundColor="Transparent"
+                    CornerRadius="30"
+                    Padding="40,0"
+                    Margin="40,0"
+                    BorderColor="{StaticResource LoginButtonColor}">
+                    <Entry 
+                        BackgroundColor="Transparent"
+                        Placeholder="Email"
+                        PlaceholderColor="AntiqueWhite"
+                        TextColor="AntiqueWhite"
+                        Keyboard="Email"/>
+                </Frame>
+                <Frame
+                    Grid.Row="1"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="CenterAndExpand"
+                    BackgroundColor="Transparent"
+                    CornerRadius="30"
+                    Padding="40,0"
+                    Margin="40,0"
+                    BorderColor="{StaticResource LoginButtonColor}">
+                    <Entry 
+                        BackgroundColor="Transparent"
+                        Placeholder="Password"
+                        PlaceholderColor="AntiqueWhite"
+                        TextColor="AntiqueWhite"
+                        IsPassword="True"/>
+                </Frame>
+                <Frame
+                    Grid.Row="2"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="StartAndExpand"
+                    BackgroundColor="Transparent"
+                    CornerRadius="30"
+                    Padding="40,0"
+                    Margin="40,0"
+                    BorderColor="{StaticResource LoginButtonColor}">
+                    <Entry 
+                        BackgroundColor="Transparent"
+                        Placeholder="Confirm password"
+                        PlaceholderColor="AntiqueWhite"
+                        TextColor="AntiqueWhite"
+                        IsPassword="True"/>
+                </Frame>
+                <Button
+                    Grid.Row="3"
+                    Text="Create"
+                    CornerRadius="30"
+                    TextColor="White"
+                    BackgroundColor="{StaticResource LoginButtonColor}"
+                    Command="{Binding CreateAccountCommand}"
+                    Margin="40,0"
+                    HeightRequest="40"
+                    VerticalOptions="EndAndExpand" 
+                    HorizontalOptions="FillAndExpand" />
+                <Button
+                    Grid.Row="4"
+                    Text="Cancel"
+                    CornerRadius="30"
+                    TextColor="{StaticResource LoginButtonColor}"
+                    BackgroundColor="Transparent"
+                    BorderColor="Black"
+                    BorderWidth="3"
+                    Command="{Binding CancelCommand}"
+                    Margin="40,0"
+                    HeightRequest="40"
+                    VerticalOptions="StartAndExpand" 
+                    HorizontalOptions="FillAndExpand" />
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
