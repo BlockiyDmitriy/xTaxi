@@ -19,7 +19,7 @@ namespace xTaxi.Client.Services
         }
         protected BaseService()
         {
-            UOW ??= DependencyService.Get<IUnitOfWork>();
+            UOW ??= DependencyResolver.Get<IUnitOfWork>();
             _logService = DependencyResolver.Get<ILogService>();
         }
 

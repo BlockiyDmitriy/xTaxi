@@ -1,6 +1,7 @@
 ﻿using Xamarin.Forms;
 using xTaxi.Client.Pages;
 using xTaxi.Client.Services;
+using xTaxi.Client.Services.HttpApi.UoW;
 using xTaxi.Client.Services.LoaclDB;
 using xTaxi.Client.Services.Logger;
 using xTaxi.Client.Services.LoginServices;
@@ -25,6 +26,7 @@ namespace xTaxi.Client
             DependencyResolver.Register<LogService>();
             DependencyResolver.Register<PaymentService>();
             DependencyResolver.Register<LoginService>();
+            DependencyResolver.Register<UnitOfWork>();
         }
         protected override void OnStart()
         {

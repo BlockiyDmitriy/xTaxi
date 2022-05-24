@@ -35,6 +35,7 @@
                         BackgroundColor="Transparent"
                         Placeholder="Email"
                         PlaceholderColor="AntiqueWhite"
+                        Text="{Binding RegisterModel.Email}"
                         TextColor="AntiqueWhite"
                         Keyboard="Email"/>
                 </Frame>
@@ -51,6 +52,7 @@
                         BackgroundColor="Transparent"
                         Placeholder="Password"
                         PlaceholderColor="AntiqueWhite"
+                        Text="{Binding RegisterModel.Password}"
                         TextColor="AntiqueWhite"
                         IsPassword="True"/>
                 </Frame>
@@ -67,6 +69,7 @@
                         BackgroundColor="Transparent"
                         Placeholder="Confirm password"
                         PlaceholderColor="AntiqueWhite"
+                        Text="{Binding RegisterModel.ConfirmPassword}"
                         TextColor="AntiqueWhite"
                         IsPassword="True"/>
                 </Frame>
