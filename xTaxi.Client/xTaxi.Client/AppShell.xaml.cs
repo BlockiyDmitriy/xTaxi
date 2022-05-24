@@ -22,6 +22,7 @@ namespace xTaxi.Client
 
             Routing.RegisterRoute(nameof(LoginPage), typeof(LoginPage));
             Routing.RegisterRoute(nameof(MapPage), typeof(MapPage));
+            Routing.RegisterRoute(nameof(CreateNewAccountPage), typeof(CreateNewAccountPage));
 
             foreach (var item in Routes)
             {
