@@ -12,6 +12,10 @@ namespace xTaxi.Client.Services.LoginServices
         {
         }
 
+        public LoginService()
+        {
+
+        }
         public async Task<bool> CreateNewAccount(RegisterModel registerModel)
         {
             try

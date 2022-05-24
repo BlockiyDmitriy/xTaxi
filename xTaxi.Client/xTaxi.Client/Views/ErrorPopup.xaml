@@ -9,7 +9,9 @@
         <ScrollView>
             <Frame
                 HorizontalOptions="Center"
-                VerticalOptions="Center">
+                VerticalOptions="Center"
+                CornerRadius="20"
+                BackgroundColor="Black">
                 <StackLayout>
                     <Label 
                         FontSize="Large"

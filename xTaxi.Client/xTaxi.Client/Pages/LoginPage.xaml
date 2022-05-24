@@ -75,7 +75,7 @@
                     BackgroundColor="Transparent"
                     BorderColor="Black"
                     BorderWidth="3"
-                    Command="{Binding LoginCommand}"
+                    Command="{Binding CreateNewAccountCommand}"
                     Margin="40,0"
                     HeightRequest="40"
                     VerticalOptions="StartAndExpand" 
