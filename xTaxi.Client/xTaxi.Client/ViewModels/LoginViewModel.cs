@@ -55,7 +55,7 @@ namespace xTaxi.Client.ViewModels
 
                 if (isLogin)
                 {
-                    await Shell.Current.GoToAsync($"{nameof(MapPage)}");
+                    await Shell.Current.GoToAsync($"//{nameof(MapPage)}");
                 }
                 else
                 {
