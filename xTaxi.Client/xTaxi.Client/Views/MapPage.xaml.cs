@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Maps;
 using Xamarin.Forms.PlatformConfiguration.iOSSpecific;
@@ -19,6 +20,8 @@ namespace xTaxi.Client.Views
 
             _viewModel = new MapPageViewModel();
             BindingContext = _viewModel;
+
+            Task.Run(async () => await _viewModel.GetCardNumber());
         }
 
         public void OnMenuTapped(object sender, EventArgs e)

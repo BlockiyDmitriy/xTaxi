@@ -56,6 +56,8 @@
             <RadioButton 
                 Grid.Row="1"
                 Grid.Column="2"
+                IsChecked="{Binding IsCheckedCash}"
+                CheckedChanged="CashSelectedCheckedChanged"
                 GroupName="paymentMethod"/>
             
 
@@ -108,6 +110,7 @@
             <RadioButton 
                 Grid.Row="5"
                 Grid.Column="2"
+                IsChecked="{Binding IsCheckedCard}"
                 IsEnabled="{Binding IsHasValidCard}"
                 GroupName="paymentMethod"/>
         </Grid>

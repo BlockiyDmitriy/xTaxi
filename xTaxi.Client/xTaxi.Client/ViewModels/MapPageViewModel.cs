@@ -6,6 +6,7 @@ using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Diagnostics;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 using System.Windows.Input;
 using Xamarin.Essentials;
@@ -14,12 +15,17 @@ using Xamarin.Forms.Maps;
 using xTaxi.Client.Helpers;
 using xTaxi.Client.Models;
 using xTaxi.Client.Services;
+using xTaxi.Client.Services.Logger;
+using xTaxi.Client.Utils;
 using static Stateless.StateMachine<xTaxi.Client.Helpers.XUberState, xTaxi.Client.Helpers.XUberTrigger>;
 
 namespace xTaxi.Client.ViewModels
 {
     public class MapPageViewModel : INotifyPropertyChanged
     {
+        private readonly ILogService _logService;
+        private readonly IPaymentService _paymentService;
+
         public ObservableCollection<PlaceAutoCompletePrediction> Places { get; private set; }
         public ObservableCollection<PlaceAutoCompletePrediction> RecentPlaces { get; private set; }
         public PlaceAutoCompletePrediction RecentPlace1 { get; private set; }
@@ -92,6 +98,7 @@ namespace xTaxi.Client.ViewModels
         public XUberState State { get; private set; }
 
         public bool IsSearching { get; private set; }
+        public string CardNumber { get; set; }
 
         public ICommand DrawRouteCommand { get; set; }
         public ICommand CenterMapCommand { get; set; }
@@ -112,6 +119,9 @@ namespace xTaxi.Client.ViewModels
 
         public MapPageViewModel()
         {
+            _logService = DependencyResolver.Get<ILogService>();
+            _paymentService = DependencyResolver.Get<IPaymentService>();
+
             RecentPlaces = new ObservableCollection<PlaceAutoCompletePrediction>()
             {
                 {
@@ -236,6 +246,7 @@ namespace xTaxi.Client.ViewModels
 
             _stateMachine
                .Configure(XUberState.ChoosingRide)
+               .OnEntryAsync(GetCardNumber)
                .Permit(XUberTrigger.Cancel, XUberState.Initial)
                .Permit(XUberTrigger.ChooseDestination, XUberState.SearchingDestination)
                .Permit(XUberTrigger.ConfirmPickUp, XUberState.ConfirmingPickUp);
@@ -367,6 +378,42 @@ namespace xTaxi.Client.ViewModels
             }
 
             return retVal;
+        }
+
+        public async Task GetCardNumber()
+        {
+            try
+            {
+                var paymentMethod = await _paymentService.GetPaymentMethod();
+
+                string displayedCardNumber = string.Empty;
+
+                if (paymentMethod.PayMethod == Models.EnumPaymentMethod.Cash)
+                {
+                    displayedCardNumber = string.Format("Cash");
+                }
+                else
+                {
+                    var creditCardData = await _paymentService.GetPaymentCard();
+
+                    if (string.IsNullOrEmpty(creditCardData.CardNumber))
+                    {
+                        return;
+                    }
+                    var lastFourCardNumber = creditCardData.CardNumber.Substring(creditCardData.CardNumber.Length - 4);
+                    displayedCardNumber = string.Format("***" + lastFourCardNumber);
+
+                    _logService.Log(displayedCardNumber);
+                }
+                MainThread.BeginInvokeOnMainThread(() =>
+                {
+                    CardNumber = displayedCardNumber;
+                });
+            }
+            catch (Exception e)
+            {
+                _logService.TrackException(e, MethodBase.GetCurrentMethod()?.Name);
+            }
         }
 
         public event PropertyChangedEventHandler PropertyChanged;

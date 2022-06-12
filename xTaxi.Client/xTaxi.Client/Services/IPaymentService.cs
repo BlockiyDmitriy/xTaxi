@@ -7,5 +7,8 @@ namespace xTaxi.Client.Services
     {
         Task<CardDataModel> SetNewPaymentCard(CardDataModel cardDataModel);
         Task<CardDataModel> GetPaymentCard();
+
+        Task<PaymentMethod> SetPaymentMethod(PaymentMethod paymentMethod);
+        Task<PaymentMethod> GetPaymentMethod();
     }
 }

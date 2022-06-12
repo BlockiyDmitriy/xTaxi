@@ -14,6 +14,7 @@ namespace xTaxi.Client.Services.LoaclDB
     {
         private readonly LiteDatabase _liteDatabase;
         private readonly ILiteCollection<CardDataModel> _cardDataModel;
+        private readonly ILiteCollection<PaymentMethod> _cardPaymentMethod;
         private readonly ILiteCollection<ActivityDate> _activityDateCollection;
 
         private ILogService _logService { get; set; }
@@ -22,6 +23,7 @@ namespace xTaxi.Client.Services.LoaclDB
         {
             _liteDatabase = new LiteDatabase(DBHelper.DBPath);
             _cardDataModel = _liteDatabase.GetCollection<CardDataModel>(DBHelper.CreditCardCollection);
+            _cardPaymentMethod = _liteDatabase.GetCollection<PaymentMethod>(DBHelper.CreditCardPaymentMethodCollection);
             _activityDateCollection = _liteDatabase.GetCollection<ActivityDate>(DBHelper.ActivityDateId);
 
             _logService = DependencyResolver.Get<ILogService>();
@@ -111,6 +113,35 @@ namespace xTaxi.Client.Services.LoaclDB
         {
             var activityDate = _activityDateCollection.FindOne(a => a.Id == DBHelper.ActivityDateId);
             return Task.FromResult(activityDate == null ? default(DateTimeOffset) : activityDate.Date);
+        }
+
+        public Task<PaymentMethod> SetPaymentMethod(PaymentMethod paymentMethod)
+        {
+            try
+            {
+                _cardPaymentMethod.Insert(paymentMethod);
+                return Task.FromResult(paymentMethod);
+            }
+            catch (Exception e)
+            {
+                _logService.TrackException(e, MethodBase.GetCurrentMethod()?.Name);
+                return Task.FromResult(new PaymentMethod());
+            }
+        }
+
+        public Task<PaymentMethod> GetPaymentMethod()
+        {
+            try
+            {
+                var paymentMethod = _cardPaymentMethod.FindAll().ToList().LastOrDefault();
+
+                return Task.FromResult(paymentMethod);
+            }
+            catch (Exception e)
+            {
+                _logService.TrackException(e, MethodBase.GetCurrentMethod()?.Name);
+                return Task.FromResult(new PaymentMethod());
+            }
         }
     }
     public class ActivityDate

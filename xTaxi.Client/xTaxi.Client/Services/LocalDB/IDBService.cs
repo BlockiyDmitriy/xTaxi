@@ -6,11 +6,14 @@ namespace xTaxi.Client.Services.LoaclDB
 {
     public interface IDBService
     {
-        #region Stepometer
+        #region Card
 
         Task<CardDataModel> SetCreditCardDataAsync(CardDataModel stepometerModel);
         Task<CardDataModel> GetCreditCardDataAsync();
         Task<CardDataModel> UpdateCreditCardDataAsync(CardDataModel stepometerModel);
+
+        Task<PaymentMethod> SetPaymentMethod(PaymentMethod paymentMethod);
+        Task<PaymentMethod> GetPaymentMethod();
 
         #endregion
 

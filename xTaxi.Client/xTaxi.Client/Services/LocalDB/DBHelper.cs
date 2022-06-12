@@ -15,6 +15,7 @@ namespace xTaxi.Client.Services.LoaclDB
                 Environment.SpecialFolder.LocalApplicationData :
                 Environment.SpecialFolder.Resources), DBName);
         public static string CreditCardCollection = "xtaxipayment";
+        public static string CreditCardPaymentMethodCollection = "xtaxipaymentmethod";
         public static string ActivityDateId = "activityDate";
 
         public static string LoginCollection = "loginData";

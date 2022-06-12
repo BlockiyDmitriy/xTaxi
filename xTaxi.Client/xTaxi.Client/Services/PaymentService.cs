@@ -91,5 +91,36 @@ namespace xTaxi.Client.Services
             //check expiry greater than today & within next 6 years <7, 8>>
             return (cardExpiry > DateTime.Now && cardExpiry < DateTime.Now.AddYears(6));
         }
+
+        public async Task<PaymentMethod> SetPaymentMethod(PaymentMethod paymentMethod)
+        {
+            try
+            {
+                return await _dbService.SetPaymentMethod(paymentMethod);
+            }
+            catch (Exception e)
+            {
+                _logService.TrackException(e, MethodBase.GetCurrentMethod()?.Name);
+                return new PaymentMethod();
+            }
+        }
+
+        public async Task<PaymentMethod> GetPaymentMethod()
+        {
+            try
+            {
+                var method = await _dbService.GetPaymentMethod();
+                if (method == null)
+                {
+                    method = new PaymentMethod() { PayMethod = EnumPaymentMethod.Cash };
+                }
+                return method;
+            }
+            catch (Exception e)
+            {
+                _logService.TrackException(e, MethodBase.GetCurrentMethod()?.Name);
+                return new PaymentMethod();
+            }
+        }
     }
 }

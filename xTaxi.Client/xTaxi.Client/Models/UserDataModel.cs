@@ -20,4 +20,15 @@
         public string ExpireCardDate { get; set; } = string.Empty;
         public string Cvv { get; set; } = string.Empty;
     }
+
+    public class PaymentMethod
+    {
+        public EnumPaymentMethod PayMethod { get; set; } = EnumPaymentMethod.Cash;
+    }
+
+    public enum EnumPaymentMethod
+    {
+        Card,
+        Cash
+    }
 }

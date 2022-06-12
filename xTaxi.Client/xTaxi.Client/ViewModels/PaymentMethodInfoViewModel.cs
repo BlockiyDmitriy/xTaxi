@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Windows.Input;
 using Xamarin.Essentials;
 using Xamarin.Forms;
+using xTaxi.Client.Models;
 using xTaxi.Client.Pages;
 using xTaxi.Client.Services;
 using xTaxi.Client.Services.Logger;
@@ -19,8 +20,11 @@ namespace xTaxi.Client.ViewModels
         private IPaymentService _paymentService;
 
         public ICommand AddNewCreditCardCommand { get; }
+        public ICommand SetCheckedCardCardCommand { get; }
         public string DisplayedCardNumber { get; set; }
         public bool IsHasValidCard { get; set; }
+        public bool IsCheckedCard { get; set; }
+        public bool IsCheckedCash { get; set; }
 
         public PaymentMethodInfoViewModel()
         {
@@ -29,7 +33,9 @@ namespace xTaxi.Client.ViewModels
 
 
             AddNewCreditCardCommand = new Command(async () => await AddNewCreditCard());
+            SetCheckedCardCardCommand = new Command<PaymentMethod>(async (paymentMethod) => await SetCheckedCardCard(paymentMethod));
         }
+
 
         public async Task Init()
         {
@@ -52,10 +58,47 @@ namespace xTaxi.Client.ViewModels
                         DisplayedCardNumber = "No card";
                     });
                 }
+                await MainThread.InvokeOnMainThreadAsync(async () =>
+                {
+                    await CheckedCardCard();
+                });
             }
             catch (Exception e)
             {
                 _logService.TrackException(e, MethodBase.GetCurrentMethod()?.Name);
+            }
+        }
+
+        private async Task SetCheckedCardCard(PaymentMethod paymentMethod)
+        {
+            try
+            {
+                var method = await _paymentService.SetPaymentMethod(paymentMethod);
+            }
+            catch (Exception ex)
+            {
+                _logService.TrackException(ex, MethodBase.GetCurrentMethod()?.Name);
+            }
+        }
+
+        private async Task CheckedCardCard()
+        {
+            try
+            {
+                var paymentMethod = await _paymentService.GetPaymentMethod();
+
+                IsCheckedCard = paymentMethod.PayMethod switch
+                {
+                    EnumPaymentMethod.Card => true,
+                    EnumPaymentMethod.Cash => false,
+                    _ => false,
+                };
+
+                IsCheckedCash = !IsCheckedCard;
+            }
+            catch (Exception ex)
+            {
+                _logService.TrackException(ex, MethodBase.GetCurrentMethod()?.Name);
             }
         }
 
@@ -86,6 +129,7 @@ namespace xTaxi.Client.ViewModels
             try
             {
                 await PopupNavigation.Instance.PushAsync(new AddNewCreditCardPopup());
+                var paymentMethod = await _paymentService.SetPaymentMethod(new PaymentMethod() { PayMethod = EnumPaymentMethod.Card });
             }
             catch (Exception e)
             {

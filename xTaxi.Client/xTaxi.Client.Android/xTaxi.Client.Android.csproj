@@ -197,5 +197,8 @@
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\wallpaper.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\taxi_logo_text.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
